@@ -5,14 +5,14 @@ adblock_url_list(){
     NAME_280=($(date -d '1 month' "+%Y%m"))
     echo $NAME_280
     #280blocker
-    URL_NAME[0]="https://280blocker.net/files/280blocker_domain_$NAME_280.txt"
-    FILE_NAME[0]="280blocker_domain.txt"
+    URL_NAME[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
+    FILE_NAME[0]="280blocker_adblock.txt"
     
-    URL_NAME[1]="https://280blocker.net/files/280blocker_domain_ag_$NAME_280.txt"
-    FILE_NAME[1]="280blocker_domain_ag.txt"
+    #URL_NAME[1]="https://280blocker.net/files/280blocker_domain_ag_$NAME_280.txt"
+    #FILE_NAME[1]="280blocker_domain_ag.txt"
 
-    URL_NAME[2]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
-    FILE_NAME[2]="pgl_yoyo.txt"
+    #URL_NAME[2]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
+    #FILE_NAME[2]="pgl_yoyo.txt"
 }
 
 work_dir(){
@@ -28,30 +28,29 @@ work_dir(){
         mkdir $TXT_DIR
     fi
 
-    if [ -e "$ADBLOCK_MERGE" ]; then
-        rm $ADBLOCK_MERGE
-    fi
-    if [ -e "$ADBLOCK_DNS" ]; then
-        rm $ADBLOCK_DNS
-    fi
-    if [ -e "$ADBLOCK_SORT" ]; then
-        rm $ADBLOCK_SORT
-    fi
+#    if [ -e "$ADBLOCK_MERGE" ]; then
+#        rm $ADBLOCK_MERGE
+#    fi
+#    if [ -e "$ADBLOCK_DNS" ]; then
+#        rm $ADBLOCK_DNS
+#    fi
+#    if [ -e "$ADBLOCK_SORT" ]; then
+#        rm $ADBLOCK_SORT
+#    fi
+#    if [ -e "$ADBLOCK_FILE" ]; then
+#        rm $ADBLOCK_FILE
+#    fi
 
-    if [ -e "$ADBLOCK_FILE" ]; then
-        rm $ADBLOCK_FILE
-    fi
-     
 }
 
 download_adlist(){
     i=0
     while [ "${URL_NAME[i]}" != "" ]
-    do  
+    do
 	curl -L ${URL_NAME[i]} > $TXT_DIR/${FILE_NAME[i]}
 	let i++
     done
-    
+
 }
 
 make_adblock_list(){
@@ -83,8 +82,8 @@ main(){
 
     work_dir
     adblock_url_list
-    #download_adlist
-    make_adblock_list
+    download_adlist
+    #make_adblock_list
 }
 
 main
