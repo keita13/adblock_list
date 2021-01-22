@@ -67,14 +67,11 @@ make_adblock_list(){
     cat $ADBLOCK_MERGE | sort > $ADBLOCK_SORT
 
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
-    echo "start"
     while read line
     do
 	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
-	    echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $ADBLOCK_LIST
-            #echo $line >> $ADBLOCK_LIST
+	    echo $line | sed -e "s/^/address\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $ADBLOCK_LIST
             echo $line >> $ADBLOCK_DNS
-            echo -n "."
 	fi
 	let COUNT--
     done < $ADBLOCK_SORT

@@ -207,6 +207,7 @@ adalliance.io
 adap.tv
 adapt.tv
 adaranth.com
+adbilty.me
 adblade.com
 adblade.org
 adblockanalytics.com
@@ -1306,6 +1307,8 @@ british-banners.com
 broadboundary.com
 broadcastbed.com
 broaddoor.com
+browser-http-intake.logs.datadoghq.com
+browser-http-intake.logs.datadoghq.eu
 bs.yandex.ru
 btez8.xyz
 btrll.com
@@ -2192,8 +2195,6 @@ log.logrocket.io
 log.pinterest.com
 log.videocampaign.co
 logger.snackly.co
-logs.datadoghq.com
-logs.datadoghq.eu
 logs.roku.com
 logs.spilgames.com
 logsss.com
@@ -2856,6 +2857,8 @@ rtpdn11.com
 rtxplatform.com
 ru4.com
 rubiconproject.com
+rum-http-intake.logs.datadoghq.com
+rum-http-intake.logs.datadoghq.eu
 runads.com
 rundsp.com
 ruthlessrobin.com
@@ -3055,6 +3058,7 @@ stats.blogger.com
 stats.hyperinzerce.cz
 stats.merriam-webster.com
 stats.mirrorfootball.co.uk
+stats.nextgen-email.com
 stats.olark.com
 stats.pusher.com
 stats.rdphv.net
@@ -3410,6 +3414,7 @@ visitbox.de
 visitpath.com
 visual-pagerank.fr
 visualrevenue.com
+vivads.net
 vivtracking.com
 vmmpxl.com
 voicefive.com
@@ -3508,6 +3513,7 @@ x6.yakiuchi.com
 xad.com
 xapads.com
 xchange.ro
+xcsypkknp.com
 xertive.com
 xfreeservice.com
 xg4ken.com
