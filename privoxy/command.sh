@@ -7,7 +7,7 @@ adblock_url_list(){
     URL_NAME[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
     URL_NAME[1]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
     URL_NAME[2]="https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt"
-
+    URL_NAME[3]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
 }
 
 download_adlist(){
