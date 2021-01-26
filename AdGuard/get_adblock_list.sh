@@ -11,8 +11,8 @@ adblock_url_list(){
     URL_NAME[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
     FILE_NAME[1]="yuki_jpfilter.txt"
 
-    #URL_NAME[2]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
-    #FILE_NAME[2]="pgl_yoyo.txt"
+    URL_NAME[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
+    FILE_NAME[2]="tofukko_filter.txt"
 }
 
 work_dir(){
