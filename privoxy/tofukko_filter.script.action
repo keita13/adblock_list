@@ -1,0 +1,985 @@
+{ +block{tofukko_filter} }
+
+/300x250\.
+/300x250_
+/300x250-
+_300_250\.
+/468x60_
+/468x60\.
+_468x60_
+_468x60\.
+/468_60_
+/468_60\.
+_468_60\.
+/728x90_
+/728x90-
+/728x90\.
+_728x90_
+_728x90\.
+/728_90\.
+_728_90\.
+	!/A-affiliate2/.*
+	!/adparser\.js
+	!/ads\.php
+	!_ads\.php
+	!/linkshare/.*
+	!/overture/.*
+	!/overture\.
+	!/overture_
+	!/peel\.js
+	!/parts/ad/.*
+	!\.swf\?clickTAG=
+/aamsz=
+/acc_random=
+/ad/images/.*
+/ad/img/.*
+/ad_plugin\.js
+/ad\.cgi\?
+_ad\.html$
+/ad\.js
+_ad\.js
+/ad\.php\?
+_ad\.php[/&:?=_]
+/ad1\.
+/ad2\.
+/ad3\.
+/ad4\.
+/adframe\.
+/adframe/.*
+\?adid=
+/adparts/.*
+/ads\.cgi
+/ads\.js
+_ads\.js
+/ads\?
+/ads2\.
+/adsense\.
+/adsense/.*
+/adsense_
+/adServe/.*
+/adserver/.*
+/adservice\.
+/adshow\?
+/adspace/.*
+/advertise\.
+/advertise/.*
+/advertisement-
+/advertisement\.
+/advertisement/.*
+/advertisement_
+/advertising\.
+\?affid=
+/assets/ads/.*
+/bnr\.gif\?
+/googleads\.
+/img/ad/.*
+/img/ad-
+/img/ad_
+/img/ads/.*
+/image/ad/.*
+/image/affiliate/.*
+/images/ad/.*
+/images/ad_
+/images/ads/.*
+/js/ad_
+/js/ad/.*
+/js/ads\.
+/js/ads-
+/js/ads_
+/js\.ng/site=
+/koukoku/.*
+/prebid/.*
+/prebid-
+/prebid\?
+/pop\.js$
+/popunder\.
+/www/delivery/.*
+	!/afr\.php\?
+	!/ajs\.php\?
+	!/apu\.php\?
+	!\.php\?zoneid=
+[/&:?=_]zoneid=
+[/&:?=_]zone_id=
+
+
+
+
+
+\.biz/ad/
+\.biz/ads/
+\.ch/ads/
+\.co/ads/
+\.com/ad/
+\.com/ads/
+\.com/ads-
+\.eu/ads/
+\.fr/ads/
+\.gs/ads/
+\.jp/ad_
+\.jp/ads/
+\.org/ad/
+\.org/ads/
+\.ru/ads/
+\.sh/ads/
+\.to/ads/
+\.tv/ads/
+
+^http://ad\.
+^https://ad\.
+
+.ads\.
+
+	!サイド辺り
+
+	!tjapan\.jp 画像
+
+
+
+
+
+.150601\.fc2rs\.com[/&:?=_]
+.ad999\.biz[/&:?=_]
+.af\.fukuishimbun\.co\.jp[/&:?=_]
+.banners\.itunes\.apple\.com[/&:?=_]
+.bbchat\.tv[/&:?=_].*/bannar/
+.bitflyer\.jp/Images/Affiliate/
+.coincheck\.com/images/affiliates/
+.dietnavi\.com/pc/banner/
+.dogma-annex\.com/media/affiliate/
+.free-video-movie\.com[/&:?=_]
+.googlesyndication\.com/pagead/
+.gunosy\.com/adnet/
+.hayamimi-hobby\.com/gen-rss/
+.hogei\.info[/&:?=_]
+.idea-unlimited\.com/adsimg/
+.imagefreak.*\.com[/&:?=_]
+.mgstage\.com/afscript/
+.mgstage\.com/js/mgs_Widget
+.mkd777\.net/pd/
+.pagead2\.googlesyndication\.com[/&:?=_]
+.partner.*\.become\.co\.jp[/&:?=_]
+.pikkur\.com/bn/
+.pos\.baidu\.com[/&:?=_]
+.queen-casino\.info/affi/
+.realsrv\.com[/&:?=_]
+.runative-syndicate\.com[/&:?=_]
+.speee-ad\.akamaized\.net[/&:?=_]
+
+.d2swpuhpwp3khd\.cloudfront\.net[/&:?=_]
+
+
+.2ch\.vet/img/ani_
+.4chan-ads\.org[/&:?=_]
+.adbkm\.com/api/ad/
+.adbkm\.com/js/adscrpt\.min\.js
+.akibablog\.net/ad-
+.akibablog\.net/banner-
+.akibablog\.net/right-side2\.html
+.angel-bbs\.com/ssi/koukoku_
+.anyporn\.com/aa/
+.artstation\.com/p/c_assets/
+.asageifuzoku\.com/img.*/top_
+.asg\.to/ad/
+.blog\.seesaa\.jp/js/insert-ad\.min\.js
+.blog\.seesaa\.jp/js/insert-ad-legacy\.min\.js
+.blog\.with2\.net/ad_frame\.php\?
+.blogos\.com/pc/js/kotzen\.ad_fixed\.js\?
+.chaberi\.com/html/br/
+.chem-station\.com[/&:?=_].*/adrotate-pro/
+.chixi\.jp/img\.php\?filename=b
+.cinematoday\.jp/widgets/
+.clipstudio\.net[/&:?=_].*/banner_
+.cookpad\.com/iframe/
+.cosp\.jp/images/spacer\.gif
+.diced\.jp/webs/
+.dl8x\.com/banner/
+.dl8x\.com/product\?
+.dlsite\.com/js/blog/DLsiteBlogBanner\.js
+.dlsite\.com/js/blogparts\.js
+.e-typing\.ne\.jp/app/ad_
+.eegg\.fun/ad_html/
+.eegg\.fun/iframe/
+.eegg\.fun/js/
+.egone\.org/js/amazon_
+.exploader\.net/images/nls/
+.estar\.jp/page/ad/
+	! 2017/07/16 動画見れないらしいがこれで見れるらしい
+.fod\.fujitv\.co\.jp/pc/image/wbhjfr/
+.fod\.fujitv\.co\.jp/mz/
+.gamespark\.jp/feature/advertising/
+.gehasoku\.com/JS/newama\.js
+.gigazine\.net/pw/p\.js
+.google\.com/pagead/
+.google\.com/uds/\?file=ads&
+.google\.com/uds/api/ads/
+.mail-ads\.google\.com[/&:?=_]
+.gotporn\.com/desktop/js/popunder-
+.gotporn\.com/main/js/exo-loader/
+	!2017/10/16 不具合あるかも
+.hentai-foundry\.com/themes/default/js/activebar\.js
+.horne\.red/banner/
+.i-bbs\.sijex\.net/js/jquery\.scrollfollow\.js
+.imagebam\.com/files/index2\.php
+.imagebam\.com/JS/js-cookie\.js
+.itmedia\.co\.jp/css/sa\.js
+.itmedia\.co\.jp/js/adRequest\.js
+.itmedia\.jp/adsv/
+.jalan\.net/jalan/doc/top/js/randombanner\.js
+.japan\.cnet\.com/parts/frame/
+.jugem\.jp/ad/
+.kakaku\.com[/&:?=_].*/kakakuad/
+.kakaku\.com[/&:?=_].*/RdmReviewAd\.js
+.kakaku\.k-img\.com[/&:?=_].*/ad/
+.kidslink\.jp/cgi-bin/esb/main\.cgi\?
+.kidslink\.jp[/&:?=_].*/dummy\.html
+.koepota\.jp/js/amazon\.js
+.komachi\.yomiuri\.co\.jp/scripts/g_connect\.js
+.labaq\.com/user/json/lq_amarray\.js\?
+.mapion\.co\.jp.*/adOverture/
+.mapion\.co\.jp.*/js/vl1\.
+.mangaz\.com/virgo/adv/
+.mdpr\.jp/imobile_iframe\.html
+.medibang\.com/viewer/fixedAds/
+.mgstage\.com/js/mgs_Widget\.js\?
+	!minnano-av\.com
+.minnano-.*\.com/top_center_bn/
+.mixi\.jp[/&:?=_].*/adnetwork/
+.new-akiba\.com/images/banner/
+.new-akiba\.com/images/dlsite/
+.new-akiba\.com/special/
+.nhentai\.net/api/
+.nijie\.net/.*/banner/
+.open2ch\.net/test/dd\.cgi/
+.pawoo\.net/packs/media/pawoo/images/about/banner-
+.phileweb\.com/count/
+.photozou\.jp/script/ad_sticky\.js\?
+.relart\.fresheye\.com[/&:?=_]
+.resemom\.jp/feature/cxense/overlay/
+.ribbon\.to/alpc\.js
+.ribbon\.to/rw\.php
+.sankei2ad\.durasite\.net[/&:?=_]
+.savevideo\.me/ads-fallback/
+.seesaa\.jp/frame/
+.share-videos\.se/js/pjs\.js
+.shopping\.sponichi\.co\.jp/scripts/sannex_banner_auction\.js
+.tatituteto\.net/images/banner/
+.thisav\.com/index\.js
+.thisav\.com/player/video-js-banner/
+	/video-js-vast-vpaid/.*
+.tsumanne\.net/maniax\.js
+.tsumanne\.net/sa/src/sa\.js
+.twitter\.com/i/videoads/
+.urasma\.com/dmm_
+.uta-net\.com/user/phplib/js/view_jquery\.js
+.utamap\.com/banner/
+.wav\.tv/support/adFrame\?
+.wiki3\.jp/assets/image/yomoyama_advertisement\.png
+.woopie\.jp[/&:?=_].*/banner/
+.yomoyama-bbs\.jp/image/ad_images/
+.zyuken\.net/juku_page/ads/
+
+	!/__tm3k\.js
+	!/__utm\.
+/1x1\.gif\?
+/ac\.php\?
+/acc\.cgi\?
+/acc\.php\?
+/accek\.js
+/access\.aspx\?
+/access\.cgi
+/access\.js
+/access\.php
+/access_check\.cgi\?
+/access\?
+/access2\.cgi\?
+/accesslog/.*
+/accessLog\.
+/acclog\.
+/acctag\.js
+/agcount\.cgi\?
+/an\.cgi\?
+/ana\.php\?
+/ana_write\.php\?
+/analog/.*
+/analys\.js
+/analysis\.js
+/analytics\?
+/analyze\.cgi\?
+/analyzer\.cgi\?
+/analyzer\.js
+/apricot\.php\?
+/astrack\.js
+/bcn\.gif\?
+/beacon_
+/beacon\?
+/chartbeat\.js
+/clickheat\.js
+/co_tag\.php\?
+/coolyze\.js
+/csi\?v=
+/dcs\.gif\?
+/dcw\.cgi\?
+/dsw\.cgi\?
+/ga\.js
+/ga_social_tracking\.js
+/gaAddons\.js
+/gaAddons-
+/gatrack\.
+/generate_204
+/getlog\.
+/getlog\?
+/getstats\.js
+/getstats\.php
+/google-analyticator/.*
+/google_tag/.*
+/googleanalytics\.
+/foresee/.*
+/freelog\.
+/hana\.cgi\?
+/hitgraph\.cgi\?
+/kwrite\.cgi\?
+/load_js\.php\?
+/log\.cgi\?
+/log/cnt\.js
+/log\.gif\?
+/log_note\.cgi\?
+/log\.php\?
+/log_view\.gif\?
+/log2\.php\?
+/log4\.cgi\?
+/logking\.cgi\?
+/logset\.cgi\?
+/logwrite\.cgi\?
+/rtoaster\.js
+/lunasys/analyzer/.*
+/lunalys/analyzer/.*
+/macgo\.js
+/mag\.js
+/mrlitelogger\.
+/omn-js/.*
+/omniture/.*
+/omniture_
+/php-stats\.js\.php
+/piwik\.js
+/piwik\.php
+/pphlogger\.
+/report\.cgi\?
+
+
+	!2019/03/13 外した 雑すぎ
+	!dmmサンプルが見れなくなる
+	!途中からファイル名が変わったから下にも例外追加したがいつ元に戻るかわからないから2つとも例外のまま
+	!http://hotel\.travel\.rakuten\.co\.jp/hotelinfo/plan/108080 空室カレンダー消える
+	!yahooショッピング カートに入れるボタンが押せない
+	! playstation\.com next押しても反応無し
+
+/sextans\.cgi\?log
+/sfa\.php
+/sfga\.js
+/sibulla/.*\.js
+/sirabemasenka\.cgi\?
+/spc\.gif\?
+/spc\.php\?
+/stats\.js
+/stats\.php
+/torimochi\.js
+/topref\.cgi\?
+/trace\.cgi\?
+/track\.js
+/track\.php\?
+/tracker\.js
+/treport\.cgi\?
+/trlink\.cgi\?
+/urchin\.js
+/VisitorAPI\.js
+/w_js\.php$
+/writelog\.php\?
+/wtid\.js
+/xenoLogger\.js
+/xtcore\.js
+/ywa\.js
+
+
+.pixel\.wp\.com[/&:?=_]
+
+.2bee\.jp.*/count\.php
+.analytics\.agoda\.com[/&:?=_]
+.analyze\.unfinished\.jp[/&:?=_]
+.analyzer1\.digidigi\.jp[/&:?=_]
+.aol\.com/ping\?
+.aqtracker\.com[/&:?=_]
+.bento\.agoda\.com[/&:?=_]
+.blogtool\.jp/log/a\.js
+.blogtoy\.net/add_log\?
+.blozoo\.info/js/inouttool/blogparts\.js
+.code\.usergram\.info[/&:?=_]
+.deqwas\.net[/&:?=_]
+.disqus\.com/stats\.html
+.dw-eu\.com\.com[/&:?=_]
+.gpr\.hu/pr\.pr\?
+.itgear\.jp.*/ax\.js
+.just-now\.net/a\?k=
+.just-now\.net/p\?k=
+.l\.sharethis\.com[/&:?=_]
+.l--l\.jp/in\.cgi\?
+.metrics\.brightcove\.com[/&:?=_]
+.onesignal\.com/webPushAnalytics$
+.sea\.pakapeko\.com[/&:?=_]
+.seg\.sharethis\.com[/&:?=_]
+.stats\.wp\.com[/&:?=_]
+.suteki-tool\.com/al
+.suteki-tool\.com/pr
+.tatsumi-sys\.jp.*\.asp\?uid=
+.tr\.webantenna\.info[/&:?=_]
+.tracer\.jp[/&:?=_]
+.veritrans\.co\.jp/bcon/
+
+
+.access.*\.utamap\.com[/&:?=_]
+.access\.news\.mynavi\.jp[/&:?=_]
+.analysis1\.sbs-blog\.com[/&:?=_]
+.analytics\.cocolog-nifty\.com[/&:?=_]
+.analytics\.edgekey\.net[/&:?=_]
+.analyzer\.wox\.cc[/&:?=_]
+.analyzer2\.curecos\.com[/&:?=_]
+.bc\.nhk\.jp[/&:?=_]
+.bing\.com/fd/ls/
+.blog\.ocn\.ne\.jp/ac\.php
+.blogos\.com/common/js/kotzen\.analytics\.js\?
+.bunshun\.jp/oo/
+.c\.microsoft\.com[/&:?=_]
+.cnn\.co\.jp/js/aclick\.js
+.cnn\.co\.jp/js/ga_social_tracking\.js
+.cnn\.co\.jp/js/sitesnapi\.js
+.collector\.githubapp\.com[/&:?=_]
+.counter-hosting\..*/counter\.php\?
+.diamond\.jp/oo/
+.etoyota\.net/include/js/measurementBeacon\.js
+.facebook\.com.*/impression\.php
+.facebook\.com/xti\.php\?
+.fresheye\.com[/&:?=_].*/js/v
+.fresheye\.com/s\.gif
+.fujitv\.co\.jp[/&:?=_].*/rtx/
+.github\.com/_private/browser/stats
+.gnavi\.co\.jp/analysis/
+.ismedia\.jp/oo/
+.kadokawagakugei\.com/js/ga2\.js
+.kooss\.com/cgi-usr/accl/lkz\.cgi\?
+.mainichi\.jp/js/an\.js
+.milmil\.cc/sys/asiato\.cgi\?
+.milmil\.cc/sys/kaiseki\.cgi\?
+.moeeki\.net/cgi-bin/accessmoe/accessmoe\.cgi\?
+.nifty\.com/pubc0m/js/tag/_nif_tag\.js
+.pvcnt\.okwave\.jp[/&:?=_]
+.rover\.ebay\.com[/&:?=_]
+.seesaa\.net/analytics-seesaa-net\.js\?
+.sony\.co\.jp/ct/sc\.js
+.smp\.sankei\.co\.jp[/&:?=_]
+.square-enix\.com/sitestratos/ss_squareenix\.js
+.stats\.wordpress\.com[/&:?=_]
+.toyokeizai\.net/oo/
+.tv-asahi\.co\.jp/common/js/analysis.*\.js
+.twitter\.com/i/jot
+.twitter\.com/oct\.js
+.wikimedia\.org/geoiplookup
+.zokugo-dict\.com[/&:?=_].*/ac\.js
+
+	!wp sidebar
+	!seiga\.nicovideo\.jp logsoku等
+	!アンテナメーカーだけでもyosage\?
+
+
+	!google
+
+	!reco
+	!logly\.co\.jp
+	!popin
+
+	!microad
+	! http://2ch-matomenews\.com/
+	! http://kankokunohannou\.org/
+	! http://www\.negisoku\.com/
+	! https://news\.nifty\.com/
+	! 他スマホ用あり
+
+	!seesaa系wiki独
+	!seesaablog
+	!seesaa\.net,seesaawiki\.jp,blog\.ss-blog\.jp,fanblogs\.jp,at\.webry\.info 他独自ドメインあり
+
+	!wix\.com
+
+
+
+
+
+
+
+
+
+
+
+
+	!微妙系
+	!mobile
+	!https://hobbyjapan\.co\.jp/comic/series/
+
+
+.i2ad\.jp[/&:?=_]
+.thench\.net[/&:?=_]
+.banpro\.in\.coocan\.jp[/&:?=_]
+.5ch\.net/_ads/
+.bbspink\.com/css/ad\.css
+
+.s3-ap-northeast-1\.amazonaws\.com/seedapp-script/adloader\.js
+
+.angelfire\.com/adm/
+.lycos\.com/catman/init\.js
+
+
+
+
+
+.dmm\.co\.jp/dmmad/
+.dmm\.co\.jp/images/affiliate_banner/
+.dmm\.co\.jp/af/
+.dmm\.com/af/
+	!ブログパーツ
+.dmm\.com/photo/blog-parts/.*&affiliate_id=
+.dmm\.co.*/js/banner_placement\.js\?affiliate_id=
+.dmm\.co.*/js/placement\.js
+
+.dtiblog\.com/pr_ad/
+.dtiblog\.com.*/blog_ppv/
+.dtiblog\.com.*/kokuchi/
+.analyzer.*\.dtiblog\.com[/&:?=_]
+.dtiblog\.com/hist_count\.php
+
+.ero-video\.net/advert/.*
+
+.okbp\.xyz[/&:?=_]
+
+.excite\.co\.jp/jp/ad/
+.excite\.co\.jp/jp/ox/
+
+.2chan\.net/bin/.*\.htm
+.2chan\.net/bin/count\.swf
+.2chan\.net/bin/uuacount\.php\?.*
+.2chan\.net/bin/uucount\.php
+
+
+
+.adcdn\.goo\.ne\.jp[/&:?=_]
+.ams900\.goo\.ne\.jp[/&:?=_]
+.log000\.goo\.ne\.jp[/&:?=_]
+
+	!hateblo\.jp,
+	!hatenablog\.com,jp,
+	!hatenadiary\.com,jp,org
+
+
+.ga\.kvideo\.io[/&:?=_]
+.ikunselt\.com[/&:?=_]
+.in-page-push\.com[/&:?=_]
+.omfortsex\.club[/&:?=_]
+.opsoomet\.net[/&:?=_]
+.ptoushoa\.com[/&:?=_]
+.vipicmou\.net[/&:?=_]
+.kissanime\.nz/api/pop\.php
+.kissanime\.nz/rmad\.php\?
+.graizoah\.com[/&:?=_]
+.ntvsw\.com[/&:?=_]
+.painsko\.com[/&:?=_]
+.staitchu\.com[/&:?=_]
+.webpinp\.com[/&:?=_]
+
+
+.gsspcln\.jp[/&:?=_]
+.coppedex\.com[/&:?=_]
+.counter2\.blog\.livedoor\.com/c\?ro=1&act=rss
+.livedoor\.jp/js/c2\.js
+.t\.blog\.livedoor\.jp[/&:?=_]
+	!blog cookie承認バナー
+
+.a\.vdo\.ai[/&:?=_]
+.cogleapad\.com[/&:?=_]
+.dyecowwhy\.com[/&:?=_]
+.exdynsrv\.com[/&:?=_]
+.eyefuneve\.com[/&:?=_]
+.jiltlargosirk\.com[/&:?=_]
+.lzrikate\.com[/&:?=_]
+.mehebborc\.com[/&:?=_]
+.prosumsit\.com[/&:?=_]
+
+://c\..*/c\.gif\?
+.srtb\.msn\.com[/&:?=_]
+
+.mbadw\.nan\.co\.jp[/&:?=_]
+.mbadv\.nan\.co\.jp[/&:?=_]
+.tool2\.nan-net\.com/exposure\.jpg
+
+.nicosub\.net/api/dlsite/
+
+.nimg\.jp/relive/playerbanner/
+
+.nikkei\.com/\.resources/k-components/rtoaster/
+.nikkei\.com/api/mainos/v4/trendwatch
+.nikkei\.com/fh/showad_
+.astat\.nikkei\.com[/&:?=_]
+.nikkei\..*[/&:?=_].*/SC/
+.nikkei\..*[/&:?=_].*/SC2/
+.nikkei\.com/\.resources/tracking/
+.nikkei\.jp[/&:?=_].*/f1h_text1\.js
+
+.afl\.rakuten\.co\.jp[/&:?=_]
+.dynamic\.rakuten\.co\.jp[/&:?=_]
+.xml\.affiliate\.rakuten\.co\.jp[/&:?=_]
+.books\.rakuten\.co\.jp/pzd_contents/js/ranking-ad/.*
+.rakuten-static\.com/1/grp/banner/js/create\.js
+.pzd\.rakuten\.co\.jp[/&:?=_]
+.rat\.rakuten\.co\.jp[/&:?=_]
+.rt\.rakuten\.co\.jp[/&:?=_]
+.rakuten\.co\.jp/common00/omuniture/
+.websearch\.rakuten\.co\.jp/elog\?
+
+	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
+
+/ad\.min\.js
+.tok2\.com/app/ad/
+
+
+
+/plugins/thirstyaffiliates/.*
+
+.imgj\.xrea\.com[/&:?=_]
+.value-domain\.com/xrea_header\.js
+.ax\.xrea\.com[/&:?=_]
+
+.youtubemp3org\.me/v4/u21drwj6mp\.com/
+
+
+
+
+
+
+
+/yads\.
+.ov\.yahoo\.co\.jp[/&:?=_]
+.yads\.yahoo\.co\.jp[/&:?=_]
+.yeas\.yahoo\.co\.jp[/&:?=_]
+.shopping\.yahooapis\.jp/ShoppingWebService/
+.yimg\.jp/bdv/
+
+
+.adserver-apne\.tidaltv\.com
+
+
+.analytics\.yahoo\.co
+.b90\.yahoo\.co\.jp[/&:?=_]
+.b91\.yahoo\.co\.jp[/&:?=_]
+.b92\.yahoo\.co\.jp[/&:?=_]
+.b97\.yahoo\.co\.jp
+.dcs\.yahoo\.co\.jp[/&:?=_]
+.geo\.yahoo\.com[/&:?=_]
+.logql\.yahoo\.co\.jp[/&:?=_]
+.rd\.yahoo\.co\.jp[/&:?=_]
+.visit\.geocities\.jp[/&:?=_]
+.ybx\.yahoo\.co\.jp[/&:?=_]
+.yahoo\.co\.jp/b\?P=
+.yjtag\.jp[/&:?=_]
+
+.yimg\.jp/images/listing/tool/yads/yads-iframe\.html\?
+
+.ad\.abema\.io[/&:?=_]
+.abema-adx\.ameba\.jp[/&:?=_]
+
+.amazon\.co\.jp/aan/
+.images-amazon\.com/images/.*/browser-scripts/DA-
+
+
+/amazonjs/.*
+/amazonjs\.
+
+/amazon\.js
+/bestsellers_
+/tinywidget\.min\.js
+
+.2blo\.net/ama/widget/
+.azlink\.sakuratan\.biz[/&:?=_]
+.blozoo\.info/js/amatool/blogparts\.js
+.goodpic\.com[/&:?=_].*\.ajaxamazon\.js
+/azlink/.*
+
+
+
+
+
+
+
+
+.affiliate\.fc2\.com/afftag
+.affiliate\.fc2\.com/cgi-bin/banner\.cgi\?
+.affiliate\.fc2\.com/php/vc_
+.aimg\.fc2\.com[/&:?=_]
+.assys01\.fc2\.com[/&:?=_]
+.fc2\.com[/&:?=_].*/fc2cart/banner_
+.fc2\.com/.*/ad_
+.fc2\.com/css/blog/entry_adult\.css
+.fc2\.com/exchange\.
+.fc2\.com/fc2web\.html
+.fc2\.com/footer/footer\.php\?
+.fc2\.com/footer/footer2\.php\?
+.fc2\.com/header\.php\?
+.fc2\.com/i/image/janre\.js
+.fc2\.com/image/banner/
+.fc2\.com/js/blog/headbar_ad_load\.js\?
+.fc2\.com/share/image/banner_
+
+.fc2\.com/video/img/b/
+.fc2\.com/static/video/js/plr/tg/
+.fc2\.com/video/.*/banner/
+
+.vip\.chps-api\.fc2\.com/apis/footer/
+.video\.fc2\.com/a/pagead/
+.analyzer.*\.fc2\.com/analyzercook\.js\?
+.analyzer.*\.fc2\.com[/&:?=_].*/ana/
+.cnt\.fc2web\.com[/&:?=_]
+.fc2\.com/ana/
+.media\.fc2\.com[/&:?=_]
+.media5\.fc2\.com[/&:?=_]
+.search\.fc2\.com/fc2se\.js
+
+
+.ameba\.jp/ad/
+.ameba\.jp/adwords/adwords\.js
+.ameba\.jp/ameblo/pc/js/bigfooter-
+.ameba\.jp/analytics/
+.ameba\.jp/blog/xml/mk_data/official/
+
+.amebaowndme\.com[/&:?=_].*/pureAds$
+
+
+.bizad\.nikkeibp\.co\.jp[/&:?=_]
+
+.trendy\.nikkeibp\.co\.jp/dag/iframead/
+
+.nikkeibp\.co\.jp[/&:?=_].*/s_code
+
+
+.google\.co\.jp/pagead/
+.youtube\.com[/&:?=_].*=adunit&
+.youtube\.com/get_midroll_
+
+.youtube\.com/api/stats/atr
+.youtube\.com/api/stats/delayplay\?
+.youtube\.com/api/stats/qoe\?
+.youtube\.com/ptracking\?
+
+
+.dailymotion\.com.*/masscast/
+.dailymotion\.com/logger/
+
+.pandora\.tv/_adv_img/
+
+.prism\.pandora\.tv[/&:?=_]
+.pandora\.tv/viewChk2\?
+
+/__sys__inactive_message\.js
+.adc\.shinobi\.jp[/&:?=_]
+.adm\.shinobi\.jp[/&:?=_]
+.asumi\.shinobi\.jp[/&:?=_]
+/bin/ll\?
+^http://ct1\..*\.jp/sc/
+^http://ct2\..*\.jp/sc/
+^http://ct1\..*\.com/sc/
+^http://ct2\..*\.com/sc/
+.bar1\.shinobi\.jp[/&:?=_]
+.omt\.shinobi\.jp[/&:?=_]
+.rcm\.shinobi\.jp[/&:?=_]
+.analysis\.shinobi\.jp/ninja_ar/
+.ba1\.shinobi\.jp[/&:?=_]
+.v2st\.shinobi\.jp[/&:?=_]
+.vis1\.shinobi\.jp[/&:?=_]
+.vis1\.shinobi\.jp/js/
+.vis1\.shinobi\.jp/jsr/
+
+
+/ad_plugin\.js
+.blog\.seesaa\.jp/js/trace_searcher\.js
+.so-net\.ne\.jp/_common/js/select_search\.js
+.so-net\.ne\.jp/search/javascripts/research/research\.js
+.webryblog\.biglobe\.ne\.jp/searchbox\.js
+.webryblog\.biglobe\.ne\.jp/searchengine\.js
+.yimg\.jp/images/search/slink/popup/pc/1\.0\.0/js/popsearch\.min\.js
+
+
+.bipblog\.com/js/amatop\.js
+.bipblog\.com/aa/ABtest/
+
+.figsoku\.net/rank/load\.php\?
+
+
+
+.vipsister23\.com/randamad
+
+.jin115\.com/js/amazon_
+
+
+
+.blog\.livedoor\.jp/hamusoku.*/amazon
+
+
+.fc2\.com/w/o/r/workingnews/meerkat_side_double_js2\.js
+
+
+.majikichi\.com/js/dlsite_widget\.js
+.majikichi\.com/js/rad_head_
+
+
+
+/js/cm_anpop\.js
+/js/cm_rank_widget\.js
+
+	! http://blog\.livelog\.biz/script/js/hrz_sp01\.js
+	! http://blog\.livelog\.biz/script/js/hrz_sp02\.js
+	! http://blog\.livelog\.biz/script/js/hrz_sp03\.js
+.blog\.livelog\.biz[/&:?=_]
+
+
+
+
+
+
+/ht\.js\?site_
+.phncdn\.com/stattracker-
+
+.phncdn\.com/www-static/js/ph-tracking\.js\?
+.phncdn\.com/www-static/js/htmlPauseRoll/
+
+
+
+
+
+
+.xhamster\.com/cnt\.php\?
+.xhcdn\.com/js/m\.js
+
+.static-ec\.xhcdn\.com/id2/swf/.*
+.xhcdn\.com[/&:?=_].*/ads_
+
+
+.xvideos\.com/in\.php\?
+
+
+
+
+.ashemaletube\.com/ast/b/
+
+
+	!antiadblock
+
+
+
+
+	!トップバナー
+	!動画未練
+	!記事崩れ ×ボタン
+	!動画見れない
+	!全部
+	!動画プレイヤー
+	!できない
+	!商品タブの切替が出来ない
+	!ご注文内容が表示されない
+	!検索結果
+	!画像
+	!カード画像
+	!画像とか
+	!ゲームできない
+	!skip ad ボタン
+	!ランキングは消さないでおこう
+	! 動画見れない
+	! 右側の勝率などの欄が非表示
+	! 有料記事
+	! 全部
+	!ポイント貯めるサイト
+	! 予約するポップアップ
+	!申し込みランキング
+	!TOP 総合ランキング
+	!サムネイルが表示されない
+	!https://tabelog\.com/tokyo/map/ お店のリストと地図が出ない
+	!ロックされたときとか
+	!動画見れない
+	! 動画見れない
+	!Minecraft ビーコン画像
+
+	!body直下
+	!header
+	!Amazon誘導ページ 紙で読む
+	!サイド 広告だから消しても良い気もする
+	!アドベンチャー https://github\.com/tofukko/filter/issues/9
+	!右
+	!REALTIME
+	!anti adblock
+	!anti adblock
+	!https://www\.kadokawa\.co\.jp/product/322003000737/
+	!左側
+	! 気象警報・注意報（表形式）が消える
+	!タグ編集
+	!記事本文
+	!カード画像
+	! http://www\.htb\.co\.jp/onigiri/index\.html
+	! サイドバー
+	! 
+	!本文
+	!住所検索 > 住所
+	!トップバナー
+	!ダウンロードボタン
+	!追加日 https://github\.com/tofukko/filter/issues/5
+	!検索 ランキングの「宣伝」部分が消える
+	!header辺り
+	!右
+	!記事
+	!記事
+	!本文
+	!右サイドが全部消える
+	!body直下
+	! float
+
+	! https://twitter\.com/280blocker/status/1289903534385721344
+/ad-page/dfp\.js
+/modal-dist/index\.js
+
+
+
+.sp-a\.gree\.net/g/u\.html\?
+{ +filter{tofukko_filter} }
+*
+{ -block }
+.image\.www\.rakuten\.co\.jp/com/js/d/
+.images-fe\.ssl-images-amazon\.com[/&:?=_].*/beacon\._TTW_\.svg
+.amazon\.co\.jp.*/wishlist/
+.images-fe\.ssl-images-amazon\.com/images/G/09/misc/transparent-pixel\._CB192259222_\.gif
+.images-fe\.ssl-images-amazon\.com/images/G/09/x-locale/communities/gifting/universal/bkm/
+.vip\.chps-api\.fc2\.com/apis/imageViewer/access\?
+.xvideos\.com/video-download/
+.www\.xvideos\.com/video-get-comments/
+.gelbooru\.com/ads\.js
+.ad-link\.jp.*/index\.php\?
+.dominos\.jp/Resources/Scripts/dominos\.min/modules/voucher-tracker-analytics\.js
+.fwmrm\.net[/&:?=_].*/AdManager\.swf\?
+.linkbucks\.com/tmpl/mint/img/int_skip_ad
+.linkbucks\.com/scripts/intermissionLink\.
+.rss\.solty\.biz/
+.smp\.sankei\.co\.jp/js/analytics/skd\.Analysis\.js
+.twitter\.com/account/access\?
+.tsyndicate\.com/sdk/v1/n\.js
+.yimg\.jp[/&:?=_].*/lib2obf_.*\.js
+.yimg\.jp/bdv/yahoo/javascript/gyao/clover\.js\?
+{ -block +handle-as-image }
+.amazon-adsystem\.com/widgets/q\?
+.images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
+.ssl-images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
+.accesstrade\.net/m/m_img/
+.asahi\.com/ads/orix-senryu/
+.rd\.yahoo\.co\.jp/jpr_sports/sumo_pickup/
+.hydra-media\.cursecdn\.com/minecraft-ja\.gamepedia\.com/.*/Beacon
+.atwikiimg\.com/www26\.atwiki\.jp/minecraft/.*/beacon\.png

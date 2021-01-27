@@ -1,5 +1,8 @@
 #!/bin/bash
 
+sedcmd=${SEDCMD:-sed}
+
+
 adblock_url_list(){
     
     NAME_280=($(date -d '1 month' "+%Y%m"))
@@ -18,28 +21,11 @@ adblock_url_list(){
 work_dir(){
     
     TXT_DIR="$(pwd)/txt"
-    ADBLOCK_MERGE="ad-block_merge.conf"
-    ADBLOCK_DNS="ad-block_dns.txt"
-    ADBLOCK_SORT="ad-block_sort.conf"
-    ADBLOCK_LIST="ad-block.conf"
-    
+    privoxydir="$(pwd)"
 
     if [ ! -d "$TXT_DIR" ]; then
         mkdir $TXT_DIR
     fi
-
-#    if [ -e "$ADBLOCK_MERGE" ]; then
-#        rm $ADBLOCK_MERGE
-#    fi
-#    if [ -e "$ADBLOCK_DNS" ]; then
-#        rm $ADBLOCK_DNS
-#    fi
-#    if [ -e "$ADBLOCK_SORT" ]; then
-#        rm $ADBLOCK_SORT
-#    fi
-#    if [ -e "$ADBLOCK_FILE" ]; then
-#        rm $ADBLOCK_FILE
-#    fi
 
 }
 
@@ -58,23 +44,47 @@ make_adblock_list(){
     FILE_LIST=($(ls $TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_MERGE
+	echo "${FILE_LIST[i]}"
+	file="${FILE_LIST[i]}"
+	actionfile=${file%\.*}.script.action
+	filterfile=${file%\.*}.script.filter
+	list=$(basename ${file%\.*})
+
+	#[ "$(grep -E '^.*\[Adblock.*\].*$' ${file})" == "" ] && echo "The list recieved from ${url} isn't an AdblockPlus list. Skipped" && continue
+
+	echo "Creating actionfile for ${list} ..."
+	echo -e "{ +block{${list}} }" > ${actionfile}
+	$sedcmd '/^!.*/d;1,1 d;/^@@.*/d;/\$.*/d;/#/d;s/\./\\./g;s/\?/\\?/g;s/\*/.*/g;s/(/\\(/g;s/)/\\)/g;s/\[/\\[/g;s/\]/\\]/g;s/\^/[\/\&:\?=_]/g;s/^||/\./g;s/^|/^/g;s/|$/\$/g;/|/d' ${file} >> ${actionfile}
+	
+	
+	echo "... creating filterfile for ${list} ..."
+	echo "FILTER: ${list} Tag filter of ${list}" > ${filterfile}
+	$sedcmd '/^#/!d;s/^##//g;s/^#\(.*\)\[.*\]\[.*\]*/s@<([a-zA-Z0-9]+)\\s+.*id=.?\1.*>.*<\/\\1>@@g/g;s/^#\(.*\)/s@<([a-zA-Z0-9]+)\\s+.*id=.?\1.*>.*<\/\\1>@@g/g;s/^\.\(.*\)/s@<([a-zA-Z0-9]+)\\s+.*class=.?\1.*>.*<\/\\1>@@g/g;s/^a\[\(.*\)\]/s@<a.*\1.*>.*<\/a>@@g/g;s/^\([a-zA-Z0-9]*\)\.\(.*\)\[.*\]\[.*\]*/s@<\1.*class=.?\2.*>.*<\/\1>@@g/g;s/^\([a-zA-Z0-9]*\)#\(.*\):.*[:[^:]]*[^:]*/s@<\1.*id=.?\2.*>.*<\/\1>@@g/g;s/^\([a-zA-Z0-9]*\)#\(.*\)/s@<\1.*id=.?\2.*>.*<\/\1>@@g/g;s/^\[\([a-zA-Z]*\).=\(.*\)\]/s@\1^=\2>@@g/g;s/\^/[\/\&:\?=_]/g;s/\.\([a-zA-Z0-9]\)/\\.\1/g' ${file} >> ${filterfile}
+	echo "... filterfile created - adding filterfile to actionfile ..."
+	echo "{ +filter{${list}} }" >> ${actionfile}
+	echo "*" >> ${actionfile}
+	echo "... filterfile added ..."
+	
+	echo "... creating and adding whitlist for urls ..."
+	echo "{ -block }" >> ${actionfile}
+	$sedcmd '/^@@.*/!d;s/^@@//g;/\$.*/d;/#/d;s/\./\\./g;s/\?/\\?/g;s/\*/.*/g;s/(/\\(/g;s/)/\\)/g;s/\[/\\[/g;s/\]/\\]/g;s/\^/[\/\&:\?=_]/g;s/^||/\./g;s/^|/^/g;s/|$/\$/g;/|/d' ${file} >> ${actionfile}
+	echo "... created and added whitelist - creating and adding image handler ..."
+	
+	echo "{ -block +handle-as-image }" >> ${actionfile}
+	$sedcmd '/^@@.*/!d;s/^@@//g;/\$.*image.*/!d;s/\$.*image.*//g;/#/d;s/\./\\./g;s/\?/\\?/g;s/\*/.*/g;s/(/\\(/g;s/)/\\)/g;s/\[/\\[/g;s/\]/\\]/g;s/\^/[\/\&:\?=_]/g;s/^||/\./g;s/^|/^/g;s/|$/\$/g;/|/d' ${file} >> ${actionfile}
+	echo "... created and added image handler ..."
+	echo "... created actionfile for ${list}."
+	
+	actionfiledest="${privoxydir}/$(basename ${actionfile})"
+	echo "... copying ${actionfile} to ${actionfiledest}"
+	mv "${actionfile}" "${actionfiledest}"
+	filterfiledest="${privoxydir}/$(basename ${filterfile})"
+	echo "... copying ${filterfile} to ${filterfiledest}"
+	mv "${filterfile}" "${filterfiledest}"
+	
 	let i++
     done
 
-    #cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
-    cat $ADBLOCK_MERGE | sort > $ADBLOCK_SORT
-
-    COUNT=($(cat $ADBLOCK_SORT | wc -l))
-    while read line
-    do
-	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
-	    echo $line | sed -e "s/^/address\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $ADBLOCK_LIST
-            echo $line >> $ADBLOCK_DNS
-	fi
-	let COUNT--
-    done < $ADBLOCK_SORT
-    
 }
 
 
@@ -82,8 +92,8 @@ main(){
 
     work_dir
     adblock_url_list
-    download_adlist
-    #make_adblock_list
+    #download_adlist
+    make_adblock_list
 }
 
 main
