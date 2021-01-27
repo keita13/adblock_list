@@ -125,6 +125,7 @@ make_privoxy_list(){
 
 make_adblock_list(){
     i=0
+    rm $ADBLOCK_LIST
     FILE_LIST=($(ls $DNS_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
@@ -135,7 +136,7 @@ make_adblock_list(){
     cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
     
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
-    echo "...SORT and MERGE"
+    echo "...SORT and MERGE.. $COUNT"
     while read line
     do
 	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
