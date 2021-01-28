@@ -14,7 +14,9 @@ gsspat.jp
 gsspcln.jp
 gssprt.jp
 i-mobile.co.jp
-image.rakuten.co.jp
+#image.rakuten.co.jp
 impact-ad.jp
 js.ptengine.jp
-log.affiliate.rakuten.co.jp
+#log.affiliate.rakuten.co.jp
+itvalleynews.com
+android-defender-info.com

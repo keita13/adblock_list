@@ -95,7 +95,6 @@
 \.com/adx/
 \.com/adx_
 \.com/af/
-\.com/js/ads/
 \.eu/ads/
 \.fm/ads/
 \.fr/ads/
@@ -179,7 +178,6 @@
 /ad\.aspx\?
 /ad\.cgi\?
 /ad\.css\?
-/ad\.js
 /ad\.min\.
 /ad\.php\?
 /ad\.php$
@@ -245,7 +243,6 @@
 /ads/view/.*
 /ads/web/.*
 /ads\?
-/ads2\.
 /ads3\.
 /adsense/.*
 /adserve\.
@@ -1287,6 +1284,7 @@ _top_ad\.
 .sankaudacityrefine\.com[/&:?=_]
 .selfpuc\.com[/&:?=_]
 .seriy2sviter11o9\.com[/&:?=_]
+.sersh\.com[/&:?=_]
 .servingmillions\.com[/&:?=_]
 .sharieta\.com[/&:?=_]
 .shqbsdjatunl\.com[/&:?=_]
@@ -1448,6 +1446,7 @@ _top_ad\.
 .alstrome9riya10\.com[/&:?=_]
 .ammankeyan\.com[/&:?=_]
 .aniview\.com[/&:?=_]
+.anrdoezrs\.net[/&:?=_]
 .ap-srv\.net[/&:?=_]
 .apglinks\.net[/&:?=_]
 .aps\.hearstnp\.com[/&:?=_]
@@ -1795,6 +1794,7 @@ _top_ad\.
 .learningaware\.com[/&:?=_]
 .ledmophemp\.com[/&:?=_]
 .lftqch650apz\.com[/&:?=_]
+.lgpumcja\.com[/&:?=_]
 .liadm\.com[/&:?=_]
 .liftdna\.com[/&:?=_]
 .lijit\.com[/&:?=_]
@@ -2078,6 +2078,7 @@ _top_ad\.
 .telegramspun\.com[/&:?=_]
 .terra8nb\.com[/&:?=_]
 .terrout9\.biz[/&:?=_]
+.tfzznclztl\.com[/&:?=_]
 .thaickoo\.net[/&:?=_]
 .themoneytizer\.com[/&:?=_]
 .themoneytizer\.net[/&:?=_]
@@ -2615,7 +2616,6 @@ _top_ad\.
 .m-kirei\.com/adbn/
 .m\.media-amazon\.com/images/G/09/2020/x-site/
 .m\.media-amazon\.com/images/G/09/associates/banners/
-.macworld\.com/www/js/ads/
 .mag\.app-liv\.jp/images/common/recruitment_
 .magi\.camp/assets/banner_
 .magi\.camp/assets/hikakaku-link-banner-
@@ -3463,10 +3463,14 @@ _top_ad\.
 .www5a\.biglobe\.ne\.jp/~kouaiu/eroamime\.gif
 .www5a\.biglobe\.ne\.jp/~kouaiu/sanei1\.gif
 .x-gallery\.tv/images/tpbnr\.
+.xcafe\.com/.*\.jx
+.xcafe\.com/b/
+.xcafe\.com/contents/content_sources/
 .xn--h-k9tybb8g5ivhkczry701afhpm4sru6d\.net/wp-content/themes/mobilehnet/img/xvideosbase2\.png$
 .xn--h-k9tybb8g5ivhkczry701afhpm4sru6d\.net[/&:?=_].*/silklabo_pr001_
 .xnxxvideo\.pro/square-union-
 .xozilla\.com/player/html\.php
+.xozilla\.com/sw\.js
 .xvideos-cdn\.com/.*/js/static/header/sda/ppsuma.*\.js
 .xvideos-cdn\.com[/&:?=_].*/xvideos\.games\.hentai\.gif$
 .yamidas\.yamiboard\.com/index_img/af_sozai/
@@ -3475,11 +3479,13 @@ _top_ad\.
 .yumegumi\.net/ent/pickup_n/.*/site_join\.gif$
 .yumegumi\.net/netcomic/fav/
 .yumegumi\.net/netcomic/sakuhin_13\.gif
+.zbporn\..*/xdman/
 .zbporn\..*/zpi/zp\.js
 .zbporn\..*/zps/
 .zerotop\.jp/fc2_bnr/
 .zettai-ero\.com/wp-content/uploads/2017/09/nsl\.
 .zmero\.com/js/aff\.
+.zuzandra\.info/b\?
 
 
 &action=js_stats&
@@ -3869,6 +3875,7 @@ _top_ad\.
 /logcollectscript_
 /logger\.performance\?
 /logger\.screensize\?
+/logger/p\.gif\?
 /logging/log-
 /loggly\.tracker-
 /logking\.cgi\?
@@ -3957,6 +3964,7 @@ _top_ad\.
 /prismPixel/.*
 /probance_tracker\.
 /processUserCookie\.htm\?
+/publisher:getClientId\?key=
 /pv\.php\?id=
 /pv_count\.
 /px\.gif\?
@@ -4350,7 +4358,6 @@ cgi-bin/counter
 .clouderrorreporting\.googleapis\.com[/&:?=_]
 .cloudfront-labs\.amazonaws\.com[/&:?=_]
 .clustrmaps\.com[/&:?=_]
-.cmp\.macworld\.com[/&:?=_]
 .cmstool\.youku\.com[/&:?=_]
 .cnt\.fc2web\.com[/&:?=_]
 .cnt\.nuvid\.com[/&:?=_]
@@ -4753,6 +4760,7 @@ cgi-bin/counter
 .saccess\.hikaritv\.net[/&:?=_]
 .sapsuaveover\.com[/&:?=_]
 .sashare\.com[/&:?=_]
+.sbgsodufuosmmvsdf\.info[/&:?=_]
 .scis\.tbs\.co\.jp[/&:?=_]
 .sclick\.baidu\.com[/&:?=_]
 .scorecardresearch\.com[/&:?=_]
@@ -5068,6 +5076,7 @@ cgi-bin/counter
 .autoline\.link[/&:?=_].*/access_log\.
 .axel-search\.as-1\.co\.jp/asone/forciataglogger/
 .azureedge\.net/javascripts/Tracking\.
+.azureedge\.net[/&:?=_].*/loader-config\.json
 .baidu\.com/dalog/
 .baidu\.com/hm\.gif\?
 .baidu\.com/js/m\.js
@@ -5311,6 +5320,8 @@ cgi-bin/counter
 .imgur\.com/imageview\.gif\?
 .imgur\.com/lumbar\.gif\?
 .infoq\.com/metrics/
+.inq\.com/tagserver/.*/onEvent
+.inq\.com/tagserver/logging/
 .instagram\.com/ajax/bz
 .instagram\.com/client_error/
 .instagram\.com/logging/
@@ -5865,6 +5876,7 @@ cgi-bin/counter
 .scorecardresearch\.com/c2/plugins/streamingtag_plugin_jwplayer\.js
 .temp-mails\.com/assets/js/ad\.js
 .tools\.usps\.com/go/scripts/tracking\.js
+.www\.ups\.com/WebTracking/processInputRequest
 { -block +handle-as-image }
 \.com/upload_image/
 \.jp/ad/
@@ -5947,6 +5959,7 @@ _300x250
 .sw88\.disney\.co\.jp[/&:?=_]
 .takenaka\.co\.jp/cmn/img/top/img_ad01\.
 .toridori\.co\.jp/ad/img/
+.torrindex\.net[/&:?=_]
 .upload\.wikimedia\.org/wikipedia/
 .w\.org/quick-adsense-reloaded/
 .wordpress\.org/extend/plugins/wp-slimstat/screenshot-
