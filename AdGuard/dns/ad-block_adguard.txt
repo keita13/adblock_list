@@ -1277,6 +1277,7 @@
 ||analyzer54.fc2.com^
 ||analyzer55.fc2.com^
 ||android-defender-info.com^
+||android-protection.net^
 ||android.giveapp.jp^
 ||aniview.com^
 ||annonser.dagbladet.no^
