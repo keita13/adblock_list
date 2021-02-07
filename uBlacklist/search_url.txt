@@ -1,0 +1,1 @@
+https://www.google.co.jp/search?q=%s -site:www.sejuku.net -site:stackoverrun.com -site:code.i-harness.com -site:codeday.me -site:www.voidcc.com -site:python5.com 
