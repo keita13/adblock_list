@@ -43,7 +43,6 @@
 ||8mono.biz^
 ||PopCash.com^
 ||a-c-engine.com^
-||a-cast.jp^
 ||a.aproductmsg.com^
 ||a.consumer.net^
 ||a.cookpad-ads.com^
@@ -230,6 +229,7 @@
 ||ad.period-calendar.com^
 ||ad.pitta.ne.jp^
 ||ad.plus-a.net^
+||ad.pornimg.xyz^
 ||ad.preferances.com^
 ||ad.profiwin.de^
 ||ad.prv.pl^
@@ -825,6 +825,7 @@
 ||ads.supplyframe.com^
 ||ads.syscdn.de^
 ||ads.tahono.com^
+||ads.themoneytizer.com^
 ||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
@@ -1941,6 +1942,7 @@
 ||crypto-loot.org^
 ||cs.r-ad.ne.jp^
 ||csi.gstatic.com^
+||cstwpush.com^
 ||ct2.shinobi.jp^
 ||ctnetwork.hu^
 ||cube.jpn.com^
@@ -1983,6 +1985,7 @@
 ||dbbsrv.com^
 ||dc-storm.com^
 ||dc5k8fg5ioc8s.cloudfront.net^
+||ddmax20.xyz^
 ||de17a.com^
 ||deadpantruck.com^
 ||dealdotcom.com^
@@ -2069,6 +2072,7 @@
 ||dq95d35.com^
 ||drabsize.com^
 ||dragzebra.com^
+||drawnperink.com^
 ||drkness.net^
 ||drumcash.com^
 ||drydrum.com^
@@ -2085,11 +2089,13 @@
 ||e-m.fr^
 ||e-planning.net^
 ||e.kde.cz^
+||e2wysbacctt1.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
 ||eas.almamedia.fi^
 ||easy-bars.com^
 ||easyhits4u.com^
+||eatsidebicep.com^
 ||eb2.3lift.com^
 ||ebayadvertising.com^
 ||ebuzzing.com^
@@ -2207,6 +2213,7 @@
 ||facilitategrandfather.com^
 ||fadedprofit.com^
 ||fadedsnow.com^
+||fadslimz.com^
 ||fam-8.net^
 ||fam-ad.com^
 ||fam-movie.com^
@@ -2456,6 +2463,7 @@
 ||hitslink.com^
 ||hittail.com^
 ||hlok.qertewrt.com^
+||hm.mieru-ca.com^
 ||hocgeese.com^
 ||hollandbusinessadvertising.nl^
 ||hollps.win^
@@ -3114,6 +3122,7 @@
 ||net-filter.com^
 ||netaffiliation.com^
 ||netagent.cz^
+||netcatx.com^
 ||netclickstats.com^
 ||netcommunities.com^
 ||netdirect.nl^
@@ -3477,6 +3486,7 @@
 ||puffypull.com^
 ||puffypurpose.com^
 ||puhtml.com^
+||purpleads.io^
 ||puserving.com^
 ||push7.jp^
 ||pushame.com^
@@ -3582,6 +3592,7 @@
 ||redge-a.akamaihd.net^
 ||redirectingat.com^
 ||redirectvoluum.com^
+||rednews.me^
 ||redshell.io^
 ||reduxmedia.com^
 ||referralware.com^
@@ -3755,6 +3766,7 @@
 ||sedotracker.com^
 ||seedapp-creative.s3.amazonaws.com^
 ||segmetrics.io^
+||sekindo.com^
 ||selectivesummer.com^
 ||semasio.net^
 ||sendmepixel.com^
@@ -3809,6 +3821,7 @@
 ||sinoa.com^
 ||sirokad.net^
 ||sitedataprocessing.com^
+||sitefeytout.com^
 ||siteimproveanalytics.com^
 ||siteimproveanalytics.io^
 ||siteintercept.qualtrics.com^
@@ -3824,6 +3837,7 @@
 ||slopeaota.com^
 ||smaad.jp^
 ||smaato.com^
+||smac-ad.com^
 ||smac-ssp.com^
 ||smallbeginner.com^
 ||smart-ad.sakura.ne.jp^
@@ -4296,6 +4310,7 @@
 ||truehits.net^
 ||truehits1.gits.net.th^
 ||truehits2.gits.net.th^
+||truenat.bid^
 ||trust.titanhq.com^
 ||trustx.org^
 ||tryworks.website^
@@ -4505,6 +4520,7 @@
 ||worldwidedigitalads.com^
 ||worriednumber.com^
 ||wpnrtnmrewunrtok.xyz^
+||wpu.sh^
 ||wryfinger.com^
 ||wt-eu02.net^
 ||wt.adctrl.com^
