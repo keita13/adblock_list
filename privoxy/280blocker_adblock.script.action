@@ -1,5 +1,17 @@
 { +block{280blocker_adblock} }
 
+.samuraiclick\.com[/&:?=_]
+.permalink-system\.com[/&:?=_]
+.alwys\.net[/&:?=_]
+.wpncdn\.com[/&:?=_]
+.boost-next\.co\.jp[/&:?=_]
+.app-department\.report[/&:?=_]
+.peachsecurecn\.com[/&:?=_]
+.apstore\.enterprises[/&:?=_]
+.adskeeper\.co\.uk[/&:?=_]
+.fnf\.jp/ad/
+
+
 .rednews\.me[/&:?=_]
 .truenat\.bid[/&:?=_]
 .ads\.themoneytizer\.com[/&:?=_]
@@ -189,16 +201,6 @@
 .t\.sharethis\.com[/&:?=_]
 .dq3yxnlzwhcys\.cloudfront\.net[/&:?=_]
 
-..*0\.live[/&:?=_]
-..*1\.live[/&:?=_]
-..*2\.live[/&:?=_]
-..*3\.live[/&:?=_]
-..*4\.live[/&:?=_]
-..*5\.live[/&:?=_]
-..*6\.live[/&:?=_]
-..*6\.live[/&:?=_]
-..*8\.live[/&:?=_]
-..*9\.live[/&:?=_]
 
 live/media/mainstream/
 

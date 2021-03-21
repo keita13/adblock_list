@@ -1227,6 +1227,7 @@
 ||alogs.umengcloud.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
+||alwys.net^
 ||alxc.addlv.smt.docomo.ne.jp^
 ||amazingcounters.com^
 ||amazon-adsystem.com^
@@ -1314,6 +1315,7 @@
 ||apolloprogram.io^
 ||app-analytics.snapchat.com^
 ||app-c.net^
+||app-department.report^
 ||app-install-world.com^
 ||app-measurement.com^
 ||app.pendo.io^
@@ -1334,6 +1336,7 @@
 ||aps.hearstnp.com^
 ||apsalar.com^
 ||apserver.net^
+||apstore.enterprises^
 ||apture.com^
 ||apu.samsungelectronics.com^
 ||apvdr.com^
@@ -1589,6 +1592,7 @@
 ||boomads.com^
 ||boomtrain.com^
 ||boost-my-pr.de^
+||boost-next.co.jp^
 ||bootstrapcdn.jdorfman.netdna-cdn.com^
 ||boredcrown.com^
 ||boringcoat.com^
@@ -3325,6 +3329,7 @@
 ||pbterra.com^
 ||pcash.imlive.com^
 ||pctracking.net^
+||peachsecurecn.com^
 ||peep-auktion.de^
 ||peer39.com^
 ||pennyweb.com^
@@ -3722,6 +3727,7 @@
 ||sail-horizon.com^
 ||samsungacr.com^
 ||samsungads.com^
+||samuraiclick.com^
 ||san-ni-ichi.com^
 ||saygames.sfo2.cdn.digitaloceanspaces.com^
 ||saypromo.sfo2.cdn.digitaloceanspaces.com^
@@ -4519,6 +4525,7 @@
 ||worldwide-cash.net^
 ||worldwidedigitalads.com^
 ||worriednumber.com^
+||wpncdn.com^
 ||wpnrtnmrewunrtok.xyz^
 ||wpu.sh^
 ||wryfinger.com^
