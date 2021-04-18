@@ -1387,6 +1387,7 @@
 ||auto-bannertausch.de^
 ||automaticflock.com^
 ||automoc.net^
+||av-mov.com^
 ||avalon-ad.net^
 ||avazutracking.net^
 ||avdm.mobi^
@@ -1856,6 +1857,7 @@
 ||concernedcondition.com^
 ||conductrics.com^
 ||config.uca.cloud.unity3d.com^
+||congrab.com^
 ||connatix.com^
 ||connextra.com^
 ||consciouschairs.com^

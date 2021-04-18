@@ -1,5 +1,6 @@
 { +block{tofukko_filter} }
 
+
 /300x250\.
 /300x250_
 /300x250-
@@ -46,8 +47,10 @@ _ad\.php[/&:?=_]
 /ad4\.
 /adframe\.
 /adframe/.*
+/adframes\.
 \?adid=
 /adparts/.*
+/adplayer\.
 /ads\.cgi
 /ads\.js
 _ads\.js
@@ -164,8 +167,6 @@ _ads\.js
 .realsrv\.com[/&:?=_]
 .runative-syndicate\.com[/&:?=_]
 .speee-ad\.akamaized\.net[/&:?=_]
-
-.d2swpuhpwp3khd\.cloudfront\.net[/&:?=_]
 
 
 .2ch\.vet/img/ani_
@@ -422,6 +423,7 @@ _ads\.js
 .just-now\.net/p\?k=
 .l\.sharethis\.com[/&:?=_]
 .l--l\.jp/in\.cgi\?
+.mc\.yandex\.ru[/&:?=_]
 .metrics\.brightcove\.com[/&:?=_]
 .onesignal\.com/webPushAnalytics$
 .sea\.pakapeko\.com[/&:?=_]
@@ -577,6 +579,7 @@ _ads\.js
 	!hatenadiary\.com,jp,org
 
 
+
 .ga\.kvideo\.io[/&:?=_]
 .ikunselt\.com[/&:?=_]
 .in-page-push\.com[/&:?=_]
@@ -621,6 +624,7 @@ _ads\.js
 .nicosub\.net/api/dlsite/
 
 .nimg\.jp/relive/playerbanner/
+.nicovideo\.jp/api/v1/watch/.*/playerbanner$
 
 .nikkei\.com/\.resources/k-components/rtoaster/
 .nikkei\.com/api/mainos/v4/trendwatch
@@ -644,8 +648,15 @@ _ads\.js
 
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 
+
+.r10s\.jp/com/js/d/ad_liquid_table/
+.rakuten-static\.com/1/grp/banner/js/create\.js
+
 /ad\.min\.js
 .tok2\.com/app/ad/
+
+.cstwpush\.com[/&:?=_]
+.d2swpuhpwp3khd\.cloudfront\.net[/&:?=_]
 
 
 
@@ -741,6 +752,8 @@ _ads\.js
 
 .vip\.chps-api\.fc2\.com/apis/footer/
 .video\.fc2\.com/a/pagead/
+
+
 .analyzer.*\.fc2\.com/analyzercook\.js\?
 .analyzer.*\.fc2\.com[/&:?=_].*/ana/
 .cnt\.fc2web\.com[/&:?=_]
@@ -884,6 +897,7 @@ _ads\.js
 	!トップバナー
 	!動画未練
 	!記事崩れ ×ボタン
+	!http://www\.jp\.square-enix\.com/seiken2_som/news\.html
 	!動画見れない
 	!全部
 	!動画プレイヤー
@@ -891,8 +905,8 @@ _ads\.js
 	!商品タブの切替が出来ない
 	!ご注文内容が表示されない
 	!検索結果
+	!http://www\.jp\.square-enix\.com/jc3/
 	!画像
-	!カード画像
 	!画像とか
 	!ゲームできない
 	!skip ad ボタン
@@ -926,10 +940,8 @@ _ads\.js
 	! 気象警報・注意報（表形式）が消える
 	!タグ編集
 	!記事本文
-	!カード画像
 	! http://www\.htb\.co\.jp/onigiri/index\.html
 	! サイドバー
-	! 
 	!本文
 	!住所検索 > 住所
 	!トップバナー

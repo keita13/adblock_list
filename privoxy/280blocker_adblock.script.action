@@ -1,5 +1,15 @@
 { +block{280blocker_adblock} }
 
+.youtube\.com/pagead/
+.youtube\.com.*=adunit
+.youtube\.com/get_midroll_
+.youtube\.com/api/stats/ads
+.youtube\.com/csi_204\?
+
+.av-mov\.com[/&:?=_]
+.congrab\.com[/&:?=_]
+
+
 
 .samuraiclick\.com[/&:?=_]
 .permalink-system\.com[/&:?=_]
@@ -499,14 +509,10 @@ brave/modal-dist/index\.js
 .advimg\.ad-mapps\.com[/&:?=_]
 .hyperpromote\.com[/&:?=_]
 .spotxchange\.com[/&:?=_]
-.youtube\.com/get_midroll_
-.youtube\.com/csi_204\?
-.youtube\.com/generate_204
 
 .dtmstation\.com/wp-content/uploads/banner/
 .google\.com/pagead/
 .google\.com/generate_204
-.youtube\.com/api/stats/ads
 .s\.yimg\.jp/images/advertising/
 .s-onetag\.com[/&:?=_]
 .analytics\.yahoo\.com[/&:?=_]
@@ -1089,10 +1095,6 @@ brave/modal-dist/index\.js
 
 
 
-.youtube\.com/pagead/
-.youtube\.com.*=adunit
-.youtube\.com/ptracking
-.youtube\.com/player_204
 
 
 .pascal5\.science
@@ -1279,7 +1281,6 @@ coinhive\.min\.js
 
 .adnwif\.smt\.docomo\.ne\.jp
 
-.youtube\.com/embed/rT6L6viE89g
 
 
 .js\.isboost\.co\.jp[/&:?=_]
