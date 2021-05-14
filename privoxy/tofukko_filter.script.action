@@ -1,6 +1,7 @@
 { +block{tofukko_filter} }
 
 
+
 /300x250\.
 /300x250_
 /300x250-
@@ -40,7 +41,6 @@ _ad\.html$
 /ad\.js
 _ad\.js
 /ad\.php\?
-_ad\.php[/&:?=_]
 /ad1\.
 /ad2\.
 /ad3\.
@@ -90,6 +90,7 @@ _ads\.js
 /js/ads-
 /js/ads_
 /js\.ng/site=
+/jquery\.meerkat\.
 /koukoku/.*
 /prebid/.*
 /prebid-
@@ -103,6 +104,10 @@ _ads\.js
 	!\.php\?zoneid=
 [/&:?=_]zoneid=
 [/&:?=_]zone_id=
+
+/amp-ad-
+/amp-analytics-
+-sticky-ad-
 
 
 
@@ -214,6 +219,7 @@ _ads\.js
 .google\.com/uds/\?file=ads&
 .google\.com/uds/api/ads/
 .mail-ads\.google\.com[/&:?=_]
+.myoji-yurai\.net/images/banner/
 .gotporn\.com/desktop/js/popunder-
 .gotporn\.com/main/js/exo-loader/
 	!2017/10/16 不具合あるかも
@@ -239,6 +245,8 @@ _ads\.js
 .mapion\.co\.jp.*/adOverture/
 .mapion\.co\.jp.*/js/vl1\.
 .mangaz\.com/virgo/adv/
+.matomedane\.jp/js/adv/
+.matomedane\.jp/js/right_navi/
 .mdpr\.jp/imobile_iframe\.html
 .medibang\.com/viewer/fixedAds/
 .mgstage\.com/js/mgs_Widget\.js\?
@@ -274,6 +282,7 @@ _ads\.js
 .uta-net\.com/user/phplib/js/view_jquery\.js
 .utamap\.com/banner/
 .wav\.tv/support/adFrame\?
+.webnewtype\.com/img/pc/common/spacer1\.gif
 .wiki3\.jp/assets/image/yomoyama_advertisement\.png
 .woopie\.jp[/&:?=_].*/banner/
 .yomoyama-bbs\.jp/image/ad_images/
@@ -310,9 +319,11 @@ _ads\.js
 /analyzer\.js
 /apricot\.php\?
 /astrack\.js
+/autotrack\.js
 /bcn\.gif\?
 /beacon_
 /beacon\?
+/cdn-cgi/bm/cv/.*
 /chartbeat\.js
 /clickheat\.js
 /co_tag\.php\?
@@ -532,6 +543,7 @@ _ads\.js
 .5ch\.net/_ads/
 .bbspink\.com/css/ad\.css
 
+.alphapolis\.co\.jp/html/ad_
 .s3-ap-northeast-1\.amazonaws\.com/seedapp-script/adloader\.js
 
 .angelfire\.com/adm/
@@ -567,6 +579,7 @@ _ads\.js
 .2chan\.net/bin/count\.swf
 .2chan\.net/bin/uuacount\.php\?.*
 .2chan\.net/bin/uucount\.php
+
 
 
 
@@ -625,6 +638,9 @@ _ads\.js
 
 .nimg\.jp/relive/playerbanner/
 .nicovideo\.jp/api/v1/watch/.*/playerbanner$
+.game\.nicovideo\.jp/atsumaru/ads/
+
+
 
 .nikkei\.com/\.resources/k-components/rtoaster/
 .nikkei\.com/api/mainos/v4/trendwatch
@@ -648,9 +664,9 @@ _ads\.js
 
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
 
-
 .r10s\.jp/com/js/d/ad_liquid_table/
 .rakuten-static\.com/1/grp/banner/js/create\.js
+
 
 /ad\.min\.js
 .tok2\.com/app/ad/
@@ -660,13 +676,13 @@ _ads\.js
 
 
 
+/ad-invalid-
 /plugins/thirstyaffiliates/.*
 
 .imgj\.xrea\.com[/&:?=_]
 .value-domain\.com/xrea_header\.js
 .ax\.xrea\.com[/&:?=_]
 
-.youtubemp3org\.me/v4/u21drwj6mp\.com/
 
 
 
@@ -700,6 +716,17 @@ _ads\.js
 .yjtag\.jp[/&:?=_]
 
 .yimg\.jp/images/listing/tool/yads/yads-iframe\.html\?
+
+
+.games\.wkb\.jp/html5games/play/jewelexplode/ads-
+
+.games\.softgames\.com/modules/p2-ads-client\.js
+
+
+
+.play\.gamepix\.com/player/ads/2\.0\.0/smart-ads\.min\.js\?
+
+
 
 .ad\.abema\.io[/&:?=_]
 .abema-adx\.ameba\.jp[/&:?=_]
@@ -752,7 +779,6 @@ _ads\.js
 
 .vip\.chps-api\.fc2\.com/apis/footer/
 .video\.fc2\.com/a/pagead/
-
 
 .analyzer.*\.fc2\.com/analyzercook\.js\?
 .analyzer.*\.fc2\.com[/&:?=_].*/ana/
@@ -894,12 +920,15 @@ _ads\.js
 
 
 
+
 	!トップバナー
 	!動画未練
 	!記事崩れ ×ボタン
 	!http://www\.jp\.square-enix\.com/seiken2_som/news\.html
 	!動画見れない
+	!全体的に
 	!全部
+	!ad
 	!動画プレイヤー
 	!できない
 	!商品タブの切替が出来ない
@@ -908,7 +937,6 @@ _ads\.js
 	!http://www\.jp\.square-enix\.com/jc3/
 	!画像
 	!画像とか
-	!ゲームできない
 	!skip ad ボタン
 	!ランキングは消さないでおこう
 	! 動画見れない
@@ -933,7 +961,6 @@ _ads\.js
 	!アドベンチャー https://github\.com/tofukko/filter/issues/9
 	!右
 	!REALTIME
-	!anti adblock
 	!anti adblock
 	!https://www\.kadokawa\.co\.jp/product/322003000737/
 	!左側
@@ -992,7 +1019,9 @@ _ads\.js
 .images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .ssl-images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .accesstrade\.net/m/m_img/
-.asahi\.com/ads/orix-senryu/
+.asahi\.com/ad/
+.asahi\.com/ads/
+.asahi\.com[/&:?=_].*/img/ad/
 .rd\.yahoo\.co\.jp/jpr_sports/sumo_pickup/
 .hydra-media\.cursecdn\.com/minecraft-ja\.gamepedia\.com/.*/Beacon
 .atwikiimg\.com/www26\.atwiki\.jp/minecraft/.*/beacon\.png
