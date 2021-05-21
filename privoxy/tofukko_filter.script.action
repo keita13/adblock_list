@@ -2,6 +2,7 @@
 
 
 
+
 /300x250\.
 /300x250_
 /300x250-
@@ -20,17 +21,6 @@ _728x90_
 _728x90\.
 /728_90\.
 _728_90\.
-	!/A-affiliate2/.*
-	!/adparser\.js
-	!/ads\.php
-	!_ads\.php
-	!/linkshare/.*
-	!/overture/.*
-	!/overture\.
-	!/overture_
-	!/peel\.js
-	!/parts/ad/.*
-	!\.swf\?clickTAG=
 /aamsz=
 /acc_random=
 /ad/images/.*
@@ -45,6 +35,7 @@ _ad\.js
 /ad2\.
 /ad3\.
 /ad4\.
+/adbutler/.*
 /adframe\.
 /adframe/.*
 /adframes\.
@@ -105,9 +96,11 @@ _ads\.js
 [/&:?=_]zoneid=
 [/&:?=_]zone_id=
 
+-auto-ads-
 /amp-ad-
 /amp-analytics-
 -sticky-ad-
+
 
 
 
@@ -137,9 +130,7 @@ _ads\.js
 
 .ads\.
 
-	!サイド辺り
 
-	!tjapan\.jp 画像
 
 
 
@@ -152,6 +143,7 @@ _ads\.js
 .bbchat\.tv[/&:?=_].*/bannar/
 .bitflyer\.jp/Images/Affiliate/
 .coincheck\.com/images/affiliates/
+.digiket\.com/xml/ad/
 .dietnavi\.com/pc/banner/
 .dogma-annex\.com/media/affiliate/
 .free-video-movie\.com[/&:?=_]
@@ -171,7 +163,6 @@ _ads\.js
 .queen-casino\.info/affi/
 .realsrv\.com[/&:?=_]
 .runative-syndicate\.com[/&:?=_]
-.speee-ad\.akamaized\.net[/&:?=_]
 
 
 .2ch\.vet/img/ani_
@@ -220,19 +211,16 @@ _ads\.js
 .google\.com/uds/api/ads/
 .mail-ads\.google\.com[/&:?=_]
 .myoji-yurai\.net/images/banner/
-.gotporn\.com/desktop/js/popunder-
-.gotporn\.com/main/js/exo-loader/
 	!2017/10/16 不具合あるかも
 .hentai-foundry\.com/themes/default/js/activebar\.js
 .horne\.red/banner/
 .i-bbs\.sijex\.net/js/jquery\.scrollfollow\.js
-.imagebam\.com/files/index2\.php
-.imagebam\.com/JS/js-cookie\.js
 .itmedia\.co\.jp/css/sa\.js
 .itmedia\.co\.jp/js/adRequest\.js
 .itmedia\.jp/adsv/
 .jalan\.net/jalan/doc/top/js/randombanner\.js
 .japan\.cnet\.com/parts/frame/
+.japanese\.joins\.com/HomeAds/
 .jugem\.jp/ad/
 .kakaku\.com[/&:?=_].*/kakakuad/
 .kakaku\.com[/&:?=_].*/RdmReviewAd\.js
@@ -240,7 +228,6 @@ _ads\.js
 .kidslink\.jp/cgi-bin/esb/main\.cgi\?
 .kidslink\.jp[/&:?=_].*/dummy\.html
 .koepota\.jp/js/amazon\.js
-.komachi\.yomiuri\.co\.jp/scripts/g_connect\.js
 .labaq\.com/user/json/lq_amarray\.js\?
 .mapion\.co\.jp.*/adOverture/
 .mapion\.co\.jp.*/js/vl1\.
@@ -256,6 +243,7 @@ _ads\.js
 .new-akiba\.com/images/banner/
 .new-akiba\.com/images/dlsite/
 .new-akiba\.com/special/
+.newsweekjapan\.jp/images/bnr/newsweek_ad_
 .nhentai\.net/api/
 .nijie\.net/.*/banner/
 .open2ch\.net/test/dd\.cgi/
@@ -264,17 +252,12 @@ _ads\.js
 .photozou\.jp/script/ad_sticky\.js\?
 .relart\.fresheye\.com[/&:?=_]
 .resemom\.jp/feature/cxense/overlay/
-.ribbon\.to/alpc\.js
-.ribbon\.to/rw\.php
 .sankei2ad\.durasite\.net[/&:?=_]
 .savevideo\.me/ads-fallback/
 .seesaa\.jp/frame/
 .share-videos\.se/js/pjs\.js
 .shopping\.sponichi\.co\.jp/scripts/sannex_banner_auction\.js
 .tatituteto\.net/images/banner/
-.thisav\.com/index\.js
-.thisav\.com/player/video-js-banner/
-	/video-js-vast-vpaid/.*
 .tsumanne\.net/maniax\.js
 .tsumanne\.net/sa/src/sa\.js
 .twitter\.com/i/videoads/
@@ -285,6 +268,7 @@ _ads\.js
 .webnewtype\.com/img/pc/common/spacer1\.gif
 .wiki3\.jp/assets/image/yomoyama_advertisement\.png
 .woopie\.jp[/&:?=_].*/banner/
+.yamareco\.com/modules/yamainfo/include/aj_get_adinfo\.php
 .yomoyama-bbs\.jp/image/ad_images/
 .zyuken\.net/juku_page/ads/
 
@@ -504,7 +488,10 @@ _ads\.js
 
 	!google
 
+
+.speee-ad\.akamaized\.net[/&:?=_]
 	!reco
+	
 	!logly\.co\.jp
 	!popin
 
@@ -520,6 +507,8 @@ _ads\.js
 	!seesaa\.net,seesaawiki\.jp,blog\.ss-blog\.jp,fanblogs\.jp,at\.webry\.info 他独自ドメインあり
 
 	!wix\.com
+
+
 
 
 
@@ -593,6 +582,7 @@ _ads\.js
 
 
 
+
 .ga\.kvideo\.io[/&:?=_]
 .ikunselt\.com[/&:?=_]
 .in-page-push\.com[/&:?=_]
@@ -651,9 +641,7 @@ _ads\.js
 .nikkei\.com/\.resources/tracking/
 .nikkei\.jp[/&:?=_].*/f1h_text1\.js
 
-.afl\.rakuten\.co\.jp[/&:?=_]
 .dynamic\.rakuten\.co\.jp[/&:?=_]
-.xml\.affiliate\.rakuten\.co\.jp[/&:?=_]
 .books\.rakuten\.co\.jp/pzd_contents/js/ranking-ad/.*
 .rakuten-static\.com/1/grp/banner/js/create\.js
 .pzd\.rakuten\.co\.jp[/&:?=_]
@@ -663,9 +651,13 @@ _ads\.js
 .websearch\.rakuten\.co\.jp/elog\?
 
 	!楽天銀行トップ、「お問い合わせ」の中身が表示されない
+	! https://github\.com/AdguardTeam/AdguardFilters/issues/78861
 
 .r10s\.jp/com/js/d/ad_liquid_table/
 .rakuten-static\.com/1/grp/banner/js/create\.js
+
+.ribbon\.to/alpc\.js
+.ribbon\.to/rw\.php
 
 
 /ad\.min\.js
@@ -679,10 +671,12 @@ _ads\.js
 /ad-invalid-
 /plugins/thirstyaffiliates/.*
 
+/aurora-heatmap/
+/aurora-heatmap-
+
 .imgj\.xrea\.com[/&:?=_]
 .value-domain\.com/xrea_header\.js
 .ax\.xrea\.com[/&:?=_]
-
 
 
 
@@ -799,9 +793,7 @@ _ads\.js
 
 
 .bizad\.nikkeibp\.co\.jp[/&:?=_]
-
 .trendy\.nikkeibp\.co\.jp/dag/iframead/
-
 .nikkeibp\.co\.jp[/&:?=_].*/s_code
 
 
@@ -813,6 +805,10 @@ _ads\.js
 .youtube\.com/api/stats/delayplay\?
 .youtube\.com/api/stats/qoe\?
 .youtube\.com/ptracking\?
+
+
+.tpc\.googlesyndication\.com[/&:?=_]
+.youtube\.com/pagead/
 
 
 .dailymotion\.com.*/masscast/
@@ -842,14 +838,6 @@ _ads\.js
 .vis1\.shinobi\.jp/js/
 .vis1\.shinobi\.jp/jsr/
 
-
-/ad_plugin\.js
-.blog\.seesaa\.jp/js/trace_searcher\.js
-.so-net\.ne\.jp/_common/js/select_search\.js
-.so-net\.ne\.jp/search/javascripts/research/research\.js
-.webryblog\.biglobe\.ne\.jp/searchbox\.js
-.webryblog\.biglobe\.ne\.jp/searchengine\.js
-.yimg\.jp/images/search/slink/popup/pc/1\.0\.0/js/popsearch\.min\.js
 
 
 .bipblog\.com/js/amatop\.js
@@ -920,34 +908,46 @@ _ads\.js
 
 
 
-
 	!トップバナー
 	!動画未練
 	!記事崩れ ×ボタン
+	! 全部
+	! ゲーム
 	!http://www\.jp\.square-enix\.com/seiken2_som/news\.html
+	! トップバナー
 	!動画見れない
 	!全体的に
 	!全部
 	!ad
 	!動画プレイヤー
+	!sideランキング12345
 	!できない
+	!トップページ他
+	! https://github\.com/tofukko/filter/issues/17 次の話へ移動できない
+	!右サイド
 	!商品タブの切替が出来ない
 	!ご注文内容が表示されない
 	!検索結果
+	! https://github\.com/tofukko/filter/issues/18 次の話へ移動できない
 	!http://www\.jp\.square-enix\.com/jc3/
+	! https://github\.com/tofukko/filter/issues/15 あなたにおすすめ
 	!画像
-	!画像とか
-	!skip ad ボタン
+	!チャットのポップアップ
+	!真っ白
+	! https://github\.com/easylist/easylist/pull/7907
 	!ランキングは消さないでおこう
+	!nakanohito https://github\.com/easylist/easylist/issues/7760
 	! 動画見れない
+	! https://github\.com/tofukko/filter/issues/13 ページ移動しない
 	! 右側の勝率などの欄が非表示
-	! 有料記事
 	! 全部
 	!ポイント貯めるサイト
 	! 予約するポップアップ
 	!申し込みランキング
+	!注目アバター
 	!TOP 総合ランキング
 	!サムネイルが表示されない
+	! 地図が無反応 
 	!https://tabelog\.com/tokyo/map/ お店のリストと地図が出ない
 	!ロックされたときとか
 	!動画見れない
@@ -957,36 +957,43 @@ _ads\.js
 	!body直下
 	!header
 	!Amazon誘導ページ 紙で読む
+	! https://github\.com/tofukko/filter/issues/20
 	!サイド 広告だから消しても良い気もする
-	!アドベンチャー https://github\.com/tofukko/filter/issues/9
-	!右
+	! https://github\.com/tofukko/filter/issues/9 アドベンチャー
 	!REALTIME
-	!anti adblock
 	!https://www\.kadokawa\.co\.jp/product/322003000737/
-	!左側
 	! 気象警報・注意報（表形式）が消える
-	!タグ編集
-	!記事本文
 	! http://www\.htb\.co\.jp/onigiri/index\.html
 	! サイドバー
 	!本文
-	!住所検索 > 住所
 	!トップバナー
-	!ダウンロードボタン
-	!追加日 https://github\.com/tofukko/filter/issues/5
+        ! https://github\.com/tofukko/filter/issues/11
+	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
+	! https://github\.com/tofukko/filter/issues/11 サイドバー
 	!検索 ランキングの「宣伝」部分が消える
 	!header辺り
 	!右
 	!記事
 	!記事
 	!本文
-	!右サイドが全部消える
 	!body直下
-	! float
+	! https://github\.com/tofukko/filter/issues/12 float
+
 
 	! https://twitter\.com/280blocker/status/1289903534385721344
 /ad-page/dfp\.js
 /modal-dist/index\.js
+
+	! https://github\.com/AdguardTeam/AdguardFilters/issues/83410
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1006,22 +1013,25 @@ _ads\.js
 .ad-link\.jp.*/index\.php\?
 .dominos\.jp/Resources/Scripts/dominos\.min/modules/voucher-tracker-analytics\.js
 .fwmrm\.net[/&:?=_].*/AdManager\.swf\?
-.linkbucks\.com/tmpl/mint/img/int_skip_ad
-.linkbucks\.com/scripts/intermissionLink\.
 .rss\.solty\.biz/
 .smp\.sankei\.co\.jp/js/analytics/skd\.Analysis\.js
 .twitter\.com/account/access\?
 .tsyndicate\.com/sdk/v1/n\.js
 .yimg\.jp[/&:?=_].*/lib2obf_.*\.js
 .yimg\.jp/bdv/yahoo/javascript/gyao/clover\.js\?
+.48idol\.tv/wp-includes/js/ad_pub_300x250\.js
 { -block +handle-as-image }
 .amazon-adsystem\.com/widgets/q\?
 .images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .ssl-images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .accesstrade\.net/m/m_img/
+.afi-b\.com/assets/dist/img/general/top/img/ad/.*
 .asahi\.com/ad/
 .asahi\.com/ads/
 .asahi\.com[/&:?=_].*/img/ad/
+.ascii\.jp/img/ad/
+.cinema\.pia\.co\.jp/img/ad/
+.cm-widget\.nakanohito\.jp/img/
 .rd\.yahoo\.co\.jp/jpr_sports/sumo_pickup/
 .hydra-media\.cursecdn\.com/minecraft-ja\.gamepedia\.com/.*/Beacon
 .atwikiimg\.com/www26\.atwiki\.jp/minecraft/.*/beacon\.png

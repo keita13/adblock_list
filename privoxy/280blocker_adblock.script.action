@@ -1,6 +1,8 @@
 { +block{280blocker_adblock} }
 
-.googlevideo\.com/.*adhost
+
+
+
 .af\.fukuishimbun\.co\.jp[/&:?=_]
 
 .youtube\.com/api/stats/qoe
@@ -10,7 +12,6 @@
 .youtube\.com/youtubei/v1/log_event
 .youtube\.com/youtubei/v1/player/ad_break
 .csx\.jp/banner
-.youtube\.com/.*adunit
 
 .youtube\.com/pagead/
 .youtube\.com/get_midroll_
