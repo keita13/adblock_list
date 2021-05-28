@@ -2,7 +2,6 @@
 
 
 
-
 /300x250\.
 /300x250_
 /300x250-
@@ -28,7 +27,7 @@ _728_90\.
 /ad_plugin\.js
 /ad\.cgi\?
 _ad\.html$
-/ad\.js
+/ad\.js\?slot
 _ad\.js
 /ad\.php\?
 /ad1\.
@@ -43,7 +42,6 @@ _ad\.js
 /adparts/.*
 /adplayer\.
 /ads\.cgi
-/ads\.js
 _ads\.js
 /ads\?
 /ads2\.
@@ -86,7 +84,6 @@ _ads\.js
 /prebid/.*
 /prebid-
 /prebid\?
-/pop\.js$
 /popunder\.
 /www/delivery/.*
 	!/afr\.php\?
@@ -118,6 +115,7 @@ _ads\.js
 \.gs/ads/
 \.jp/ad_
 \.jp/ads/
+\.net/ads/
 \.org/ad/
 \.org/ads/
 \.ru/ads/
@@ -125,10 +123,6 @@ _ads\.js
 \.to/ads/
 \.tv/ads/
 
-^http://ad\.
-^https://ad\.
-
-.ads\.
 
 
 
@@ -169,11 +163,10 @@ _ads\.js
 .4chan-ads\.org[/&:?=_]
 .adbkm\.com/api/ad/
 .adbkm\.com/js/adscrpt\.min\.js
-.akibablog\.net/ad-
-.akibablog\.net/banner-
-.akibablog\.net/right-side2\.html
 .angel-bbs\.com/ssi/koukoku_
 .anyporn\.com/aa/
+.appget\.com/c/wp-content/themes/twentyten/js/agad2\.js\?
+.arban-mag\.com/wp-content/themes/arban_v2\.5/common/js/ad\.js
 .artstation\.com/p/c_assets/
 .asageifuzoku\.com/img.*/top_
 .asg\.to/ad/
@@ -200,9 +193,11 @@ _ads\.js
 .egone\.org/js/amazon_
 .exploader\.net/images/nls/
 .estar\.jp/page/ad/
+.famitsu\.com[/&:?=_].*/amazon_ranking\.js
 	! 2017/07/16 動画見れないらしいがこれで見れるらしい
 .fod\.fujitv\.co\.jp/pc/image/wbhjfr/
 .fod\.fujitv\.co\.jp/mz/
+.gamegift\.jp/js/ads\.js
 .gamespark\.jp/feature/advertising/
 .gehasoku\.com/JS/newama\.js
 .gigazine\.net/pw/p\.js
@@ -215,16 +210,15 @@ _ads\.js
 .hentai-foundry\.com/themes/default/js/activebar\.js
 .horne\.red/banner/
 .i-bbs\.sijex\.net/js/jquery\.scrollfollow\.js
-.itmedia\.co\.jp/css/sa\.js
-.itmedia\.co\.jp/js/adRequest\.js
-.itmedia\.jp/adsv/
 .jalan\.net/jalan/doc/top/js/randombanner\.js
 .japan\.cnet\.com/parts/frame/
 .japanese\.joins\.com/HomeAds/
+.joysound\.com/web/src/s/ad/
 .jugem\.jp/ad/
 .kakaku\.com[/&:?=_].*/kakakuad/
 .kakaku\.com[/&:?=_].*/RdmReviewAd\.js
 .kakaku\.k-img\.com[/&:?=_].*/ad/
+.kakijun\.jp/js/u_kakijun_books%
 .kidslink\.jp/cgi-bin/esb/main\.cgi\?
 .kidslink\.jp[/&:?=_].*/dummy\.html
 .koepota\.jp/js/amazon\.js
@@ -245,6 +239,7 @@ _ads\.js
 .new-akiba\.com/special/
 .newsweekjapan\.jp/images/bnr/newsweek_ad_
 .nhentai\.net/api/
+.nijie\.info/js/ad\.js\?
 .nijie\.net/.*/banner/
 .open2ch\.net/test/dd\.cgi/
 .pawoo\.net/packs/media/pawoo/images/about/banner-
@@ -260,6 +255,7 @@ _ads\.js
 .tatituteto\.net/images/banner/
 .tsumanne\.net/maniax\.js
 .tsumanne\.net/sa/src/sa\.js
+.tv-tokyo\.co\.jp/tbcms/javascripts/ad\.js
 .twitter\.com/i/videoads/
 .urasma\.com/dmm_
 .uta-net\.com/user/phplib/js/view_jquery\.js
@@ -297,6 +293,7 @@ _ads\.js
 /analog/.*
 /analys\.js
 /analysis\.js
+_analytics\.js\?
 /analytics\?
 /analyze\.cgi\?
 /analyzer\.cgi\?
@@ -329,6 +326,7 @@ _ads\.js
 /google-analyticator/.*
 /google_tag/.*
 /googleanalytics\.
+/fingerprintjs2\.
 /foresee/.*
 /freelog\.
 /hana\.cgi\?
@@ -396,7 +394,6 @@ _ads\.js
 /ywa\.js
 
 
-.pixel\.wp\.com[/&:?=_]
 
 .2bee\.jp.*/count\.php
 .analytics\.agoda\.com[/&:?=_]
@@ -423,7 +420,6 @@ _ads\.js
 .onesignal\.com/webPushAnalytics$
 .sea\.pakapeko\.com[/&:?=_]
 .seg\.sharethis\.com[/&:?=_]
-.stats\.wp\.com[/&:?=_]
 .suteki-tool\.com/al
 .suteki-tool\.com/pr
 .tatsumi-sys\.jp.*\.asp\?uid=
@@ -432,7 +428,6 @@ _ads\.js
 .veritrans\.co\.jp/bcon/
 
 
-.access.*\.utamap\.com[/&:?=_]
 .access\.news\.mynavi\.jp[/&:?=_]
 .analysis1\.sbs-blog\.com[/&:?=_]
 .analytics\.cocolog-nifty\.com[/&:?=_]
@@ -467,7 +462,6 @@ _ads\.js
 .milmil\.cc/sys/kaiseki\.cgi\?
 .moeeki\.net/cgi-bin/accessmoe/accessmoe\.cgi\?
 .nifty\.com/pubc0m/js/tag/_nif_tag\.js
-.pvcnt\.okwave\.jp[/&:?=_]
 .rover\.ebay\.com[/&:?=_]
 .seesaa\.net/analytics-seesaa-net\.js\?
 .sony\.co\.jp/ct/sc\.js
@@ -521,22 +515,35 @@ _ads\.js
 
 
 
+
+
+
+
+
 	!微妙系
 	!mobile
 	!https://hobbyjapan\.co\.jp/comic/series/
-
 
 .i2ad\.jp[/&:?=_]
 .thench\.net[/&:?=_]
 .banpro\.in\.coocan\.jp[/&:?=_]
 .5ch\.net/_ads/
+.5ch\.net/js/ad\.js\?
+.bbspink\.com/js/ad\.js\?
 .bbspink\.com/css/ad\.css
+
+.akibablog\.net/ad-
+.akibablog\.net/ads-
+.akibablog\.net/banner-
+.blog\.livedoor\.jp/geek/ad-
+.blog\.livedoor\.jp/geek/button-ab\.html
 
 .alphapolis\.co\.jp/html/ad_
 .s3-ap-northeast-1\.amazonaws\.com/seedapp-script/adloader\.js
 
 .angelfire\.com/adm/
 .lycos\.com/catman/init\.js
+
 
 
 
@@ -560,6 +567,8 @@ _ads\.js
 .ero-video\.net/advert/.*
 
 .okbp\.xyz[/&:?=_]
+.bpm\.eroterest\.net[/&:?=_]
+.kok\.eroterest\.net[/&:?=_]
 
 .excite\.co\.jp/jp/ad/
 .excite\.co\.jp/jp/ox/
@@ -582,6 +591,15 @@ _ads\.js
 
 
 
+.atmarkit\.co\.jp[/&:?=_].*/ad\.js\?
+.ednjapan\.com[/&:?=_].*/ad\.js\?
+.itmedia\.co\.jp[/&:?=_].*/ad\.js\?
+.itmedia\.co\.jp/css/sa\.js
+.itmedia\.co\.jp/js/adRequest\.js
+.itmedia\.jp/adsv/
+
+
+.directpaper\.name[/&:?=_]
 
 .ga\.kvideo\.io[/&:?=_]
 .ikunselt\.com[/&:?=_]
@@ -590,6 +608,7 @@ _ads\.js
 .opsoomet\.net[/&:?=_]
 .ptoushoa\.com[/&:?=_]
 .vipicmou\.net[/&:?=_]
+.ad\.kissanime\.si[/&:?=_]
 .kissanime\.nz/api/pop\.php
 .kissanime\.nz/rmad\.php\?
 .graizoah\.com[/&:?=_]
@@ -599,10 +618,12 @@ _ads\.js
 .webpinp\.com[/&:?=_]
 
 
+/settings/ad\.js
 .gsspcln\.jp[/&:?=_]
 .coppedex\.com[/&:?=_]
 .counter2\.blog\.livedoor\.com/c\?ro=1&act=rss
 .livedoor\.jp/js/c2\.js
+.news\.livedoor\.com/js/ads\.
 .t\.blog\.livedoor\.jp[/&:?=_]
 	!blog cookie承認バナー
 
@@ -614,6 +635,7 @@ _ads\.js
 .jiltlargosirk\.com[/&:?=_]
 .lzrikate\.com[/&:?=_]
 .mehebborc\.com[/&:?=_]
+.netcatx\.com[/&:?=_]
 .prosumsit\.com[/&:?=_]
 
 
@@ -660,6 +682,8 @@ _ads\.js
 .ribbon\.to/rw\.php
 
 
+.msgose\.com[/&:?=_]
+
 /ad\.min\.js
 .tok2\.com/app/ad/
 
@@ -673,52 +697,14 @@ _ads\.js
 
 /aurora-heatmap/
 /aurora-heatmap-
+.pixel\.wp\.com[/&:?=_]
+.stats\.wp\.com[/&:?=_]
 
 .imgj\.xrea\.com[/&:?=_]
 .value-domain\.com/xrea_header\.js
 .ax\.xrea\.com[/&:?=_]
 
 
-
-
-
-
-
-/yads\.
-.ov\.yahoo\.co\.jp[/&:?=_]
-.yads\.yahoo\.co\.jp[/&:?=_]
-.yeas\.yahoo\.co\.jp[/&:?=_]
-.shopping\.yahooapis\.jp/ShoppingWebService/
-.yimg\.jp/bdv/
-
-
-.adserver-apne\.tidaltv\.com
-
-
-.analytics\.yahoo\.co
-.b90\.yahoo\.co\.jp[/&:?=_]
-.b91\.yahoo\.co\.jp[/&:?=_]
-.b92\.yahoo\.co\.jp[/&:?=_]
-.b97\.yahoo\.co\.jp
-.dcs\.yahoo\.co\.jp[/&:?=_]
-.geo\.yahoo\.com[/&:?=_]
-.logql\.yahoo\.co\.jp[/&:?=_]
-.rd\.yahoo\.co\.jp[/&:?=_]
-.visit\.geocities\.jp[/&:?=_]
-.ybx\.yahoo\.co\.jp[/&:?=_]
-.yahoo\.co\.jp/b\?P=
-.yjtag\.jp[/&:?=_]
-
-.yimg\.jp/images/listing/tool/yads/yads-iframe\.html\?
-
-
-.games\.wkb\.jp/html5games/play/jewelexplode/ads-
-
-.games\.softgames\.com/modules/p2-ads-client\.js
-
-
-
-.play\.gamepix\.com/player/ads/2\.0\.0/smart-ads\.min\.js\?
 
 
 
@@ -747,8 +733,6 @@ _ads\.js
 
 
 
-
-
 .affiliate\.fc2\.com/afftag
 .affiliate\.fc2\.com/cgi-bin/banner\.cgi\?
 .affiliate\.fc2\.com/php/vc_
@@ -770,9 +754,14 @@ _ads\.js
 .fc2\.com/video/img/b/
 .fc2\.com/static/video/js/plr/tg/
 .fc2\.com/video/.*/banner/
+.video\.fc2\.com/a/pagead/
+.video\.fc2\.com/pagead/
+
+.live\.fc2\.com/friendlyAd\.php\?
 
 .vip\.chps-api\.fc2\.com/apis/footer/
-.video\.fc2\.com/a/pagead/
+
+
 
 .analyzer.*\.fc2\.com/analyzercook\.js\?
 .analyzer.*\.fc2\.com[/&:?=_].*/ana/
@@ -791,6 +780,7 @@ _ads\.js
 
 .amebaowndme\.com[/&:?=_].*/pureAds$
 
+	! https://github\.com/tofukko/filter/issues/14
 
 .bizad\.nikkeibp\.co\.jp[/&:?=_]
 .trendy\.nikkeibp\.co\.jp/dag/iframead/
@@ -839,12 +829,56 @@ _ads\.js
 .vis1\.shinobi\.jp/jsr/
 
 
+/yads\.
+.ov\.yahoo\.co\.jp[/&:?=_]
+.yads\.yahoo\.co\.jp[/&:?=_]
+.yeas\.yahoo\.co\.jp[/&:?=_]
+.shopping\.yahooapis\.jp/ShoppingWebService/
+.yimg\.jp/bdv/
+
+
+.adserver-apne\.tidaltv\.com
+
+
+.analytics\.yahoo\.co
+.b90\.yahoo\.co\.jp[/&:?=_]
+.b91\.yahoo\.co\.jp[/&:?=_]
+.b92\.yahoo\.co\.jp[/&:?=_]
+.b97\.yahoo\.co\.jp
+.dcs\.yahoo\.co\.jp[/&:?=_]
+.geo\.yahoo\.com[/&:?=_]
+.logql\.yahoo\.co\.jp[/&:?=_]
+.rd\.yahoo\.co\.jp[/&:?=_]
+.visit\.geocities\.jp[/&:?=_]
+.ybx\.yahoo\.co\.jp[/&:?=_]
+.yahoo\.co\.jp/b\?P=
+.yjtag\.jp[/&:?=_]
+
+.yimg\.jp/images/listing/tool/yads/yads-iframe\.html\?
+
+	! https://github\.com/tofukko/filter/issues/22
+	! https://github\.com/tofukko/filter/issues/23
+
+
+.games\.wkb\.jp/html5games/play/jewelexplode/ads-
+
+.games\.softgames\.com/modules/p2-ads-client\.js
+
+
+
+.play\.gamepix\.com/player/ads/2\.0\.0/smart-ads\.min\.js\?
+
+
+
+
+
+
+
 
 .bipblog\.com/js/amatop\.js
 .bipblog\.com/aa/ABtest/
 
 .figsoku\.net/rank/load\.php\?
-
 
 
 .vipsister23\.com/randamad
@@ -855,13 +889,11 @@ _ads\.js
 
 .blog\.livedoor\.jp/hamusoku.*/amazon
 
-
 .fc2\.com/w/o/r/workingnews/meerkat_side_double_js2\.js
 
 
 .majikichi\.com/js/dlsite_widget\.js
 .majikichi\.com/js/rad_head_
-
 
 
 /js/cm_anpop\.js
@@ -903,10 +935,11 @@ _ads\.js
 .ashemaletube\.com/ast/b/
 
 
-	!antiadblock
 
 
 
+
+	!nakanohito https://github\.com/easylist/easylist/issues/7760
 
 	!トップバナー
 	!動画未練
@@ -931,14 +964,17 @@ _ads\.js
 	! https://github\.com/tofukko/filter/issues/18 次の話へ移動できない
 	!http://www\.jp\.square-enix\.com/jc3/
 	! https://github\.com/tofukko/filter/issues/15 あなたにおすすめ
+	! https://github\.com/tofukko/filter/issues/24 サイドバー
 	!画像
 	!チャットのポップアップ
 	!真っ白
+	!
+	! abp検知？
 	! https://github\.com/easylist/easylist/pull/7907
 	!ランキングは消さないでおこう
-	!nakanohito https://github\.com/easylist/easylist/issues/7760
 	! 動画見れない
 	! https://github\.com/tofukko/filter/issues/13 ページ移動しない
+	! abp検知？
 	! 右側の勝率などの欄が非表示
 	! 全部
 	!ポイント貯めるサイト
@@ -951,32 +987,24 @@ _ads\.js
 	!https://tabelog\.com/tokyo/map/ お店のリストと地図が出ない
 	!ロックされたときとか
 	!動画見れない
-	! 動画見れない
+	! https://github\.com/tofukko/filter/issues/25
 	!Minecraft ビーコン画像
 
-	!body直下
 	!header
+	! https://github\.com/tofukko/filter/issues/20
 	!Amazon誘導ページ 紙で読む
 	! https://github\.com/tofukko/filter/issues/20
-	!サイド 広告だから消しても良い気もする
-	! https://github\.com/tofukko/filter/issues/9 アドベンチャー
-	!REALTIME
 	!https://www\.kadokawa\.co\.jp/product/322003000737/
-	! 気象警報・注意報（表形式）が消える
 	! http://www\.htb\.co\.jp/onigiri/index\.html
 	! サイドバー
-	!本文
 	!トップバナー
         ! https://github\.com/tofukko/filter/issues/11
 	!画像リスト最大化 ついでに、編集部が選ぶ関連記事も横幅いっぱいに広げる
 	! https://github\.com/tofukko/filter/issues/11 サイドバー
-	!検索 ランキングの「宣伝」部分が消える
 	!header辺り
-	!右
 	!記事
 	!記事
 	!本文
-	!body直下
 	! https://github\.com/tofukko/filter/issues/12 float
 
 
@@ -987,6 +1015,7 @@ _ads\.js
 	! https://github\.com/AdguardTeam/AdguardFilters/issues/83410
 
 
+	! https://github\.com/AdguardTeam/AdguardFilters/issues/64186
 
 
 
@@ -995,6 +1024,11 @@ _ads\.js
 
 
 
+
+
+	! https://github\.com/uBlockOrigin/uAssets/issues/3874
+
+	! https://github\.com/uBlockOrigin/uAssets/issues/8461
 
 
 .sp-a\.gree\.net/g/u\.html\?
@@ -1003,18 +1037,16 @@ _ads\.js
 { -block }
 .image\.www\.rakuten\.co\.jp/com/js/d/
 .images-fe\.ssl-images-amazon\.com[/&:?=_].*/beacon\._TTW_\.svg
-.amazon\.co\.jp.*/wishlist/
-.images-fe\.ssl-images-amazon\.com/images/G/09/misc/transparent-pixel\._CB192259222_\.gif
-.images-fe\.ssl-images-amazon\.com/images/G/09/x-locale/communities/gifting/universal/bkm/
 .vip\.chps-api\.fc2\.com/apis/imageViewer/access\?
 .xvideos\.com/video-download/
 .www\.xvideos\.com/video-get-comments/
-.gelbooru\.com/ads\.js
 .ad-link\.jp.*/index\.php\?
 .dominos\.jp/Resources/Scripts/dominos\.min/modules/voucher-tracker-analytics\.js
 .fwmrm\.net[/&:?=_].*/AdManager\.swf\?
+.files\.mycloud\.com/js/analytics/google_analytics\.js
+.lineblog\.me[/&:?=_].*/settings/ad\.js
+.official-blog\.line\.me/ja/settings/ad\.js
 .rss\.solty\.biz/
-.smp\.sankei\.co\.jp/js/analytics/skd\.Analysis\.js
 .twitter\.com/account/access\?
 .tsyndicate\.com/sdk/v1/n\.js
 .yimg\.jp[/&:?=_].*/lib2obf_.*\.js
@@ -1024,6 +1056,7 @@ _ads\.js
 .amazon-adsystem\.com/widgets/q\?
 .images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .ssl-images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
+.cm-widget\.nakanohito\.jp/img/
 .accesstrade\.net/m/m_img/
 .afi-b\.com/assets/dist/img/general/top/img/ad/.*
 .asahi\.com/ad/
@@ -1031,7 +1064,8 @@ _ads\.js
 .asahi\.com[/&:?=_].*/img/ad/
 .ascii\.jp/img/ad/
 .cinema\.pia\.co\.jp/img/ad/
-.cm-widget\.nakanohito\.jp/img/
 .rd\.yahoo\.co\.jp/jpr_sports/sumo_pickup/
+.utamap\.com/banner/dvd\.jpg
+.utamap\.com/banner/y_ran_
 .hydra-media\.cursecdn\.com/minecraft-ja\.gamepedia\.com/.*/Beacon
 .atwikiimg\.com/www26\.atwiki\.jp/minecraft/.*/beacon\.png
