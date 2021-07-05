@@ -1166,6 +1166,7 @@
 ||adztec.com^
 ||aerserv.com^
 ||af-ad.co.uk^
+||af.fukuishimbun.co.jp^
 ||aff.jskyservices.com^
 ||affbuzzads.com^
 ||affec.tv^
@@ -2089,6 +2090,7 @@
 ||dstillery.com^
 ||dt.adsafeprotected.com^
 ||dtscout.com^
+||duckdns.org^
 ||dynalyst.jp^
 ||dyntrk.com^
 ||e-adimages.scrippsnetworks.com^
