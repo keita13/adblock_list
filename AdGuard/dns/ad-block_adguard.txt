@@ -132,6 +132,7 @@
 ||ad-space.net^
 ||ad-srv.co^
 ||ad-stir.com^
+||ad-style.com^
 ||ad-tech.com^
 ||ad-trip.com^
 ||ad-up.com^
@@ -2737,6 +2738,7 @@
 ||kontera.com^
 ||kost.tv^
 ||koukoku.red^
+||kpia.shop^
 ||kpu.samsungelectronics.com^
 ||krxd.net^
 ||kt5850pjz0.com^
