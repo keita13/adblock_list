@@ -1947,6 +1947,7 @@
 ||crwdcntrl.net^
 ||crypto-loot.com^
 ||crypto-loot.org^
+||cs.nakanohito.jp^
 ||cs.r-ad.ne.jp^
 ||csi.gstatic.com^
 ||cstwpush.com^
@@ -1970,6 +1971,7 @@
 ||d.somewrite.jp^
 ||d141wsrw9m4as6.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
+||d1ev866ubw90c6.cloudfront.net^
 ||d1miuq6afqay8u.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d28nwox1gdjlve.cloudfront.net^
@@ -2051,6 +2053,7 @@
 ||dlp4luwpus5kr.cloudfront.net^
 ||dlv.itmedia.jp^
 ||dm.bytedance.com^
+||dmmzkfd82wayn.cloudfront.net^
 ||dmp.mall.tv^
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
@@ -2090,7 +2093,6 @@
 ||dstillery.com^
 ||dt.adsafeprotected.com^
 ||dtscout.com^
-||duckdns.org^
 ||dynalyst.jp^
 ||dyntrk.com^
 ||e-adimages.scrippsnetworks.com^
@@ -2215,6 +2217,7 @@
 ||eyereturn.com^
 ||eyeviewads.com^
 ||eyewonder.com^
+||ezoic.net^
 ||ezula.com^
 ||f7ds.liberation.fr^
 ||f9uri.mymobilelead.com^
@@ -2270,6 +2273,7 @@
 ||flowgo.com^
 ||fluct.jp^
 ||flurry.com^
+||flux-cdn.com^
 ||fly-analytics.com^
 ||focas.jp^
 ||fod-cm-ad-v.webcdn.stream.ne.jp^
@@ -2823,6 +2827,7 @@
 ||livelog.biz^
 ||livelyoffers.club^
 ||liverail.com^
+||livezombymil.com^
 ||lizardslaugh.com^
 ||lkqd.com^
 ||lmodr.biz^
@@ -4498,6 +4503,7 @@
 ||werbung.meteoxpress.com^
 ||wetrack.it^
 ||whaleads.com^
+||whazugho.com^
 ||wheredoyoucomefrom.ovh^
 ||whirlwealth.com^
 ||whiskyqueue.com^

@@ -159,7 +159,10 @@ main(){
     download_list
     make_privoxy_list
     make_adblock_list
-
+    
+    git add .
+    git commit -m "$(date "+%Y%m%d")"
+    git push origin master
     echo "End"
     exit 0
 }

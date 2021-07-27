@@ -7,6 +7,7 @@
 /300x250_
 /300x250-
 _300x250\.
+_300_250_
 _300_250\.
 /468x60_
 /468x60\.
@@ -189,6 +190,7 @@ _ads\.js
 .myoji-yurai\.net/images/banner/
 .news\.merumo\.ne\.jp/ad/
 	!2017/10/16 不具合あるかも
+.gyazo\.com/direct_ads/
 .hentai-foundry\.com/themes/default/js/activebar\.js
 .hinative\.com/assets/banners/trek/
 .horne\.red/banner/
@@ -196,6 +198,7 @@ _ads\.js
 .jalan\.net/jalan/doc/top/js/randombanner\.js
 .japan\.cnet\.com/parts/frame/
 .japanese\.joins\.com/HomeAds/
+.jma\.go\.jp/bosai/ad/
 .joysound\.com/web/src/s/ad/
 .jugem\.jp/ad/
 .kabutan\.jp/js/rand_ads\.js\?
@@ -207,6 +210,7 @@ _ads\.js
 .kidslink\.jp[/&:?=_].*/dummy\.html
 .koepota\.jp/img/ad/
 .koepota\.jp/js/amazon\.js
+.kokuban\.in/ad/
 .labaq\.com/user/json/lq_amarray\.js\?
 .luvul\.net/ad/
 .mapion\.co\.jp.*/adOverture/
@@ -230,12 +234,15 @@ _ads\.js
 .pawoo\.net/packs/media/pawoo/images/about/banner-
 .phileweb\.com/count/
 .photozou\.jp/script/ad_sticky\.js\?
+.piapro\.jp/images/ads/
 .savevideo\.me/ads-fallback/
 .server-navi\.info/cgi/book_
 .sexyvoice\.org/banner/
 .share-videos\.se/js/pjs\.js
 .shopping\.sponichi\.co\.jp/scripts/sannex_banner_auction\.js
 .tatituteto\.net/images/banner/
+.tenhou\.net/ad1\.js
+.tenhou\.net/ad2\.js
 .tgiw\.info/amazon
 .tinami\.com/ad/
 .tsumanne\.net/maniax\.js
@@ -283,6 +290,7 @@ _ads\.js
 /analog/.*
 /analys\.js
 /analysis\.js
+/analytics\.js
 _analytics\.js\?
 /analytics\?
 /analyze\.cgi\?
@@ -309,7 +317,7 @@ _analytics\.js\?
 /ga_social_tracking\.js
 /gaAddons\.js
 /gaAddons-
-/gaaddons/
+/gaaddons/.*
 /gatrack\.
 /getlog\.
 /getlog\?
@@ -367,7 +375,6 @@ _analytics\.js\?
 /spc\.gif\?
 /spc\.php\?
 /stats\.php
-/torimochi\.js
 /topref\.cgi\?
 /trace\.cgi\?
 /track\.js
@@ -420,6 +427,8 @@ _analytics\.js\?
 .suteki-tool\.com/al
 .suteki-tool\.com/pr
 .l\.typesquare\.com[/&:?=_]
+.line-cdn\.net[/&:?=_].*/torimochi\.js
+.line-scdn\.net[/&:?=_].*/torimochi\.js
 .tatsumi-sys\.jp.*\.asp\?uid=
 .tr\.webantenna\.info[/&:?=_]
 .tracer\.jp[/&:?=_]
@@ -530,6 +539,8 @@ _analytics\.js\?
 
 
 
+	! https://github\.com/tofukko/filter/issues/42
+
 
 
 .150601\.fc2rs\.com[/&:?=_]
@@ -578,6 +589,7 @@ _analytics\.js\?
 
 
 
+.nifty\.gesoten\.com/n/banner/
 
 .adcdn\.goo\.ne\.jp[/&:?=_]
 .ams900\.goo\.ne\.jp[/&:?=_]
@@ -653,11 +665,10 @@ _analytics\.js\?
 
 .nicosub\.net/api/dlsite/
 
+.nimg\.jp/web/scripts/common/tracking/google_analytics\.js\?
 .nimg\.jp/relive/playerbanner/
 .nicovideo\.jp/api/v1/watch/.*/playerbanner$
 .game\.nicovideo\.jp/atsumaru/ads/
-
-
 
 .nikkei\.com/\.resources/k-components/rtoaster/
 .nikkei\.com/api/mainos/v4/trendwatch
@@ -708,6 +719,7 @@ _analytics\.js\?
 
 .cstwpush\.com[/&:?=_]
 .d2swpuhpwp3khd\.cloudfront\.net[/&:?=_]
+.tokyo-motion\.net/bnr/
 
 
 .pokoran\.com[/&:?=_]
@@ -775,7 +787,6 @@ _analytics\.js\?
 
 .games\.wkb\.jp/html5games/play/jewelexplode/ads-
 
-.games\.softgames\.com/modules/p2-ads-client\.js
 
 
 
@@ -961,9 +972,7 @@ _analytics\.js\?
 
 
 
-	!cxense\.com
 
-	!nakanohito https://github\.com/easylist/easylist/issues/7760
 
 	! https://github\.com/tofukko/filter/issues/29
 	!トップバナー
@@ -977,7 +986,9 @@ _analytics\.js\?
 	! https://github\.com/tofukko/filter/issues/26
 	! トップバナー
 	! https://github\.com/tofukko/filter/issues/35
-	!動画見れない
+	! 動画見れない
+	! 動画見れない https://sports\.nhk\.or\.jp/olympic/
+	! 前にもあったので nhk\.or\.jp 全体で許可
 	! https://github\.com/Yuki2718/adblock/issues/20
 	!全体的に
 	!全部
@@ -997,8 +1008,11 @@ _analytics\.js\?
 	! https://github\.com/tofukko/filter/issues/41
 	! http://www\.jp\.square-enix\.com/jc3/
 	! https://github\.com/uBlockOrigin/uAssets/issues/9458
+	! この商品を買った人は
+	! ユーザーローカルAIコメント
 	! https://github\.com/tofukko/filter/issues/24 サイドバー
 	! https://github\.com/easylist/easylist/pull/8193
+	! カートに追加できない
 	! https://github\.com/AdguardTeam/AdguardFilters/issues/78329
 	! https://github\.com/AdguardTeam/AdguardFilters/issues/83956
 	! TOP 株式
@@ -1007,15 +1021,17 @@ _analytics\.js\?
 	! https://github\.com/tofukko/filter/issues/40
 	! https://github\.com/easylist/easylist/pull/8195
 	! https://github\.com/AdguardTeam/AdguardFilters/issues/75260
+        ! ユーザーローカルAIコメント
 	! IID 検索バー
 	! 再生が始まらない
 	! https://github\.com/AdguardTeam/AdguardFilters/issues/84989
+        ! https://github\.com/tofukko/filter/issues/44
 	! https://github\.com/tofukko/filter/issues/39
+	! https://github\.com/easylist/easylist/pull/6920
 	!
 	! https://github\.com/easylist/easylist/pull/7907
 	! https://github\.com/tofukko/filter/issues/38
 	!ランキングは消さないでおこう
-	! 動画見れない
 	! https://github\.com/tofukko/filter/issues/13 ページ移動しない
 	! https://github\.com/easylist/easylist/pull/8202
 	! 右側の勝率などの欄が非表示
@@ -1033,6 +1049,7 @@ _analytics\.js\?
 	!ロックされたときとか
 	!動画見れない
 	! https://github\.com/tofukko/filter/issues/25
+	! キャンペーンバナー
 	! https://github\.com/hirorpt/filters/commit/5382bdeaf36476e17f5d8ab8f101c8ba26a3a7c9
 	! https://www\.epson\.jp/products/dreamio/ehtw8400/ 製品画像
 
@@ -1055,16 +1072,9 @@ _analytics\.js\?
 
 
 
-	! https://twitter\.com/280blocker/status/1289903534385721344
 /ad-page/dfp\.js
 /modal-dist/index\.js
 
-	! https://github\.com/AdguardTeam/AdguardFilters/issues/83410
-
-	! https://www\.wowgame\.jp/game_html/10064\.html
-
-
-	! https://github\.com/AdguardTeam/AdguardFilters/issues/64186
 
 
 
@@ -1075,12 +1085,14 @@ _analytics\.js\?
 
 
 
-	! https://github\.com/uBlockOrigin/uAssets/issues/3874
-
-	! https://github\.com/uBlockOrigin/uAssets/issues/8461
 
 
-.sp-a\.gree\.net/g/u\.html\?
+
+
+
+
+
+
 { +filter{tofukko_filter} }
 *
 { -block }
@@ -1094,13 +1106,13 @@ _analytics\.js\?
 .ad-link\.jp.*/index\.php\?
 .coremetrics\.com.*/eluminate\.js
 .files\.mycloud\.com/js/analytics/google_analytics\.js
-.fwmrm\.net[/&:?=_].*/AdManager\.swf\?
 .rss\.solty\.biz/
 .twitter\.com/account/access\?
 .tsyndicate\.com/sdk/v1/n\.js
 .yimg\.jp[/&:?=_].*/lib2obf_.*\.js
 .yimg\.jp/bdv/yahoo/javascript/gyao/clover\.js\?
 { -block +handle-as-image }
+.webryblog\.biglobe\.ne\.jp/images/ad/
 .amazon-adsystem\.com/widgets/q\?
 .images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
 .ssl-images-amazon\.com[/&:?=_].*/beacon/BeaconSprite-
@@ -1111,7 +1123,7 @@ _analytics\.js\?
 .amazonaws\.com[/&:?=_].*/images/ad_
 .accesstrade\.net/m/m_img/
 .affiliate\.dmm\.com/img/ad_about_ad/
-.afi-b\.com/assets/dist/img/general/top/img/ad/.*
+.afi-b\.com/assets/dist/img/general/top/img/ad/
 .aiasahi\.jp/ads/
 .asahi\.com/ad/
 .asahi\.com/ads/
@@ -1121,5 +1133,6 @@ _analytics\.js\?
 .rd\.yahoo\.co\.jp/jpr_sports/sumo_pickup/
 .utamap\.com/banner/dvd\.jpg
 .utamap\.com/banner/y_ran_
+.vector\.co\.jp/img_cache/tq/p/service/special/sale/gachi/images/
 .hydra-media\.cursecdn\.com/minecraft-ja\.gamepedia\.com/.*/Beacon
 .atwikiimg\.com/www26\.atwiki\.jp/minecraft/.*/beacon\.png
