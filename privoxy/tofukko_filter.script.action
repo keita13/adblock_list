@@ -358,15 +358,6 @@ _analytics\.js\?
 /piwik\.php
 /pphlogger\.
 /report\.cgi\?
-
-
-	!2019/03/13 外した 雑すぎ
-	!dmmサンプルが見れなくなる
-	!途中からファイル名が変わったから下にも例外追加したがいつ元に戻るかわからないから2つとも例外のまま
-	!http://hotel\.travel\.rakuten\.co\.jp/hotelinfo/plan/108080 空室カレンダー消える
-	!yahooショッピング カートに入れるボタンが押せない
-	! playstation\.com next押しても反応無し
-
 /sextans\.cgi\?log
 /sfa\.php
 /sfga\.js
@@ -378,7 +369,6 @@ _analytics\.js\?
 /topref\.cgi\?
 /trace\.cgi\?
 /track\.js
-/track\.php\?
 /tracker\.js
 	!getginger\.jp英文法チェック入力欄
 	!https://tools\.usps\.com/go/TrackConfirmAction\?qtc_tLabels1=荷物の番号 読み込まれるファイル https://tools\.usps\.com/go/styles/tracking\.css
@@ -516,6 +506,9 @@ _analytics\.js\?
 	!微妙系
 	!mobile
 	!https://hobbyjapan\.co\.jp/comic/series/
+
+/clog_ad\.js
+/track\.php\?
 
 .i2ad\.jp[/&:?=_]
 .thench\.net[/&:?=_]

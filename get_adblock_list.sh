@@ -170,9 +170,9 @@ main(){
     work_dir
     url_list_AdblockPlus
     url_list_adblock_dns
-    #download_list
-    #make_privoxy_list
-    #make_adblock_list
+    download_list
+    make_privoxy_list
+    make_adblock_list
     merge_AdblockPlus_list
     
     git add .
