@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/07/28 8:45
+! 最終更新 2021/08/07 22:28
 !
 
 !2011年10月07日閉鎖予定
@@ -59,7 +59,7 @@ _ad.js
 /adparts/*
 /adplayer.
 /ads.cgi
-_ads.js
+_ads.js.
 /ads?
 /ads2.
 /adsense.$~script
@@ -698,7 +698,7 @@ _ads.js
 ||tsumanne.net/maniax.js
 ||tsumanne.net/sa/src/sa.js
 ||tv-tokyo.co.jp/tbcms/javascripts/ad.js
-||twitter.com/i/videoads/
+||twitter.com^*/videoads/
 ||twoucan.com/ad?name=
 ||uraaka-joshi.com/pr$subdocument
 ||urasma.com^$domain=ura-akiba.jp
@@ -1360,6 +1360,7 @@ imashun-navi.com##.ads
 karapaia.com##.ads
 keyakizaka46matomerabo.com##.ads
 komachi.yomiuri.co.jp##.ads
+matomame.jp##.ads
 ryusoku.com##.ads
 savevideo.me##.ads
 
@@ -1395,6 +1396,8 @@ nhentai.net##.advertisement
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.breaker-ad
 25ans.jp,cosmopolitan.com,elle.com,ellegirl.jp,esquire.com,fujingaho.jp,harpersbazaar.com,womenshealthmag.com##.leaderboard-ad
 2ch-c.net#?#li:-abp-has(> .nend_text_ad)
+30calclub.sakura.ne.jp##tr > td > font:-abp-contains(【期間限定セール情報】)
+30calclub.sakura.ne.jp##tr:-abp-has(> td[colspan="16"] > font[size="2"]:-abp-contains(/通販情報|FANZA/))
 373news.com###ad_prinfo
 373news.com##.mns_bn
 48idol.tv###custom_html-4
@@ -1927,6 +1930,8 @@ middle-edge.jp###detad
 mimizun.com##.ad300x250
 mimizun.com###thread:style(position: relative; left: -312px;)
 minkara.carview.co.jp##.overlay-ad
+minkch.com###post-0
+minkch.com##.menu-item > .external
 minnano-cafe.com##.dfp_tag
 minpo.jp##.ads730
 minpo.jp##.ads970:style(min-height: 0 !important;)
@@ -2252,6 +2257,11 @@ yourei.jp#?##sentence-6:-abp-has(> .side-component)
 zch-vip.com###article_center_ad
 zch-vip.com###article_bottom_ad
 zch-vip.com##.ad_tb
+zekkei-matome.com###header + div[align=center]
+zekkei-matome.com##.col-md-12 > a[rel=nofollow]
+zekkei-matome.com##.col-md-4.foot_menu
+zekkei-matome.com##[class="contaimer"] > br
+zekkei-matome.com##[href^="https://www.cross-a.net"]
 zokugo-dict.com##.koukokusm
 !上
 zyuken.net###AdminPage > .Centering.MarginTop10Bottom10

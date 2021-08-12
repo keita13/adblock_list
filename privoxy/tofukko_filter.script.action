@@ -46,7 +46,7 @@ _ad\.js
 /adparts/.*
 /adplayer\.
 /ads\.cgi
-_ads\.js
+_ads\.js\.
 /ads\?
 /ads2\.
 /adsense/.*
@@ -248,7 +248,7 @@ _ads\.js
 .tsumanne\.net/maniax\.js
 .tsumanne\.net/sa/src/sa\.js
 .tv-tokyo\.co\.jp/tbcms/javascripts/ad\.js
-.twitter\.com/i/videoads/
+.twitter\.com[/&:?=_].*/videoads/
 .twoucan\.com/ad\?name=
 .urasma\.com/dmm_
 .uta-net\.com/user/phplib/js/view_jquery\.js
