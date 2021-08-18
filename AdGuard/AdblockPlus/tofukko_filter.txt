@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 2021/08/07 22:28
+! 最終更新 2021/08/15 16:09
 !
 
 !2011年10月07日閉鎖予定
@@ -563,6 +563,7 @@ _ads.js.
 ||runative-syndicate.com^
 ||theta360.com/intl/common/inc/ad_banner.html?
 
+*$script,3p,denyallow=akamaiedge.net|cloudflare.com|edgecastcdn.net|facebook.com|fastly.net|googleapis.com|hatena.ne.jp|hcaptcha.com|line.me|twitter.com,domain=manga1000.com|manga1001.com
 ||2ch.vet/img/ani_
 ||3751chat.com/ad/
 ||4chan-ads.org^
@@ -2086,6 +2087,7 @@ qoly.jp##div[style="height:90px; width:728px;"]
 r.binb.jp###adp
 rabitsokuhou.2chblog.jp###topads
 rabitsokuhou.2chblog.jp##.gdblock
+rankingoo.net###bottom_overlay_area
 rastaneko-blog.com##[class^="header-ad-outer"]
 rastaneko-blog.com##[class^="kijinaka-outer"]
 realsound.jp###ad_entryBottom
@@ -2292,7 +2294,7 @@ xn--cck1a7gsd645rnx7b.com#?#.adjust-col:-abp-has(> .thumbnail > iframe[src^="//a
 5ch.net##[id^="js--banners--"]
 5ch.net##.ADVERTISE_AREA
 5ch.net##.ADVERTISE_AREA + div
-5ch.net##div[style="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
+5ch.net##div[style^="position: fixed;bottom: 0;left: 0;right: 0;margin: auto;height: 106px;"]
 bbspink.com##[class$="_banner"]:not(.sidemenu_banner)
 bbspink.com##[class^="banner_"]
 bbspink.com###bbspink-bottom-ads
@@ -3108,7 +3110,9 @@ sports.yahoo.co.jp##.yf-lrec
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp
 ||dcs.yahoo.co.jp^
-||dsb.yahoo.co.jp^
+	! 視聴履歴が残らないかも
+	! https://tofukko.blog.fc2.com/blog-entry-405.html#comment848
+	!||dsb.yahoo.co.jp^
 ||geo.yahoo.com^
 ||logql.yahoo.co.jp^
 ||rd.yahoo.co.jp^
@@ -3511,12 +3515,14 @@ majikichi.com##^#left_menu
 !pornhub
 ||phncdn.com/www-static/js/ph-tracking.js?
 ||phncdn.com/www-static/js/htmlPauseRoll/
-pornhub.com###hd-rightColVideoPage > .clearfix:first-child
-pornhub.com##.removeAdsStyle
-pornhub.com##.sniperModeEngaged
-pornhub.com##.video-wrapper > #player + [class]
-pornhub.com##+js(nowoif)
-pornhub.com##+js(window.open-defuser)
+pornhub.*,pornhubthbh7ap3u.onion###hd-rightColVideoPage > .clearfix:first-child
+pornhub.*,pornhubthbh7ap3u.onion##.sniperModeEngaged
+pornhub.*,pornhubthbh7ap3u.onion##.video-wrapper > #player + [class]
+pornhub.*,pornhubthbh7ap3u.onion##+js(aopw, isAdblockOn)
+pornhub.*,pornhubthbh7ap3u.onion##+js(acis, Object.defineProperty, trafficjunky)
+pornhub.*,pornhubthbh7ap3u.onion##+js(set, HTMLElement.prototype.attachShadow, null)
+pornhub.*,pornhubthbh7ap3u.onion##+js(nowoif)
+@@||static.trafficjunky.com/ab/ads_test.js$script,domain=pornhub.*|pornhubthbh7ap3u.onion
 
 !redtube
 redtube.com###content_container > .show_page_modals + div
