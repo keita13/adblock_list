@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt yuki_jpfilter.txt
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt tofukko_filter.txt
