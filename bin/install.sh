@@ -36,14 +36,17 @@ adblock_init(){
 
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
+
     
-    ADBLOCK_SORT="$UBLOCKLIST_DIR/ad-block_sort.conf"
-    
-    BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
-    BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
+    DNS_SORT="$DNSLIST/ad-block_sort.conf"
+    DNS_LIST="$DIR/uBlockdns.txt"
+    DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
+
+    BLOCK_FILTER_SORT="$UBLOCKLIST_DIR/uBlockOrigin.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
 
-    UBLACK_SORT="$DIR/uBlacklist.txt"
+    UBLACK_SORT="$UBLOCKLIST_DIR/uBlacklist.txt"
+    UBLACK_LIST="$DIR/uBlacklist.txt"
     
     if [ ! -d "$UBLOCKLIST_DIR" ]; then
         mkdir $UBLOCKLIST_DIR
@@ -76,7 +79,7 @@ merge_ublack_list(){
 	let i++
     done
 
-    sort -u $UBLACK_SORT -o $UBLACK_SORT | uniq
+    sort -u $UBLACK_SORT -o $UBLACK_LIST | uniq
 }
 
 merge_block_list(){
@@ -88,10 +91,12 @@ merge_block_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]} | sed -e "/^!/d" >> $BLOCK_FILTER_LIST
+	cat ${FILE_LIST[i]} | sed -e "/^!/d" >> $BLOCK_FILTER_SORT
 	let i++
     done
 
+    cp $BLOCK_FILTER_SORT $BLOCK_FILTER_LIST
+    
 }
 
 make_privoxy_list(){
@@ -150,17 +155,17 @@ make_dns_list(){
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_SORT
+	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $DNS_SORT
 	let i++
     done
     
-    sort -u $ADBLOCK_SORT -o $ADBLOCK_SORT | uniq
+    sort -u $DNS_SORT -o $DNS_SORT | uniq
     
-    COUNT=($(cat $ADBLOCK_SORT | wc -l))
+    COUNT=($(cat $DNS_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
     
-    cat $ADBLOCK_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
-    cat $ADBLOCK_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
+    cat $DNS_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
+    cat $DNS_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
 
 }
 
