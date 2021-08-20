@@ -28,6 +28,12 @@ url_dnslist(){
     
 }
 
+url_ublacklist(){
+
+    BLACK_URL[0]="https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt"
+    BLACK_NAME[0]="ncaq.txt"
+}
+
 copy_myrule(){
 
     RULE_DIR="$HOME/doc"
@@ -41,6 +47,7 @@ work_dir(){
     DIR="$HOME/adblock_list"
     BLOCK_TXT_DIR="$DIR/tmp/uBlocklist"
     DNS_TXT_DIR="$DIR/tmp/dnslist"
+    UBLACK_TXT_DIR="$DIR/tmp/uBlacklist"
 
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
@@ -52,6 +59,9 @@ work_dir(){
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
     BLOCK_FILTER_MERGE="$BLOCK_TXT_DIR/filter_merge.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
+
+    UBLACK_MERGE="$UBLACK_TXT_DIR/uBlacklist_tmp.txt"
+    UBLACK_SORT="$DIR/uBlacklist.txt"
     
     if [ ! -d "$BLOCK_TXT_DIR" ]; then
         mkdir $BLOCK_TXT_DIR
@@ -84,14 +94,35 @@ download_list(){
 	curl -L ${DNS_URL[i]} > $DNS_TXT_DIR/${DNS_NAME[i]}
 	let i++
     done
-
+    
+    local i=0
+    while [ "${BLACK_URL[i]}" != "" ]
+    do
+	curl -L ${BLACK_URL[i]} > $UBLACK_TXT_DIR/${BLACK_NAME[i]}
+	let i++
+    done
+    
 }
 
+merge_ublack_list(){
+    
+    local i=0
+    local FILE_LIST=($(ls $UBLACK_TXT_DIR/*.txt))
+    while [ "${FILE_LIST[i]}" != "" ]
+    do
+	echo "${FILE_LIST[i]}"
+	cat ${FILE_LIST[i]}  >> $UBLACK_MERGE
+	let i++
+    done
+
+    nkf -Lu $UBLACK_MERGE | sort | uniq > $UBLACK_SORT
+    rm $UBLACK_MERGE
+}
 
 merge_block_list(){
 
     echo  " "
-    echo "merge"
+    echo "merge ublocklist"
     
     local i=0
     local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
@@ -163,14 +194,14 @@ make_dns_list(){
 	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_MERGE
 	let i++
     done
-
+    
     #cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
- 
+    
     nkf -Lu $ADBLOCK_MERGE | sort | uniq > $ADBLOCK_SORT
     
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
-
+    
     cat $ADBLOCK_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
     cat $ADBLOCK_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
     
@@ -195,10 +226,12 @@ main(){
     copy_myrule
     url_blocklist
     url_dnslist
-    #download_list
+    url_ublacklist
+    download_list
     make_privoxy_list
     make_dns_list
     merge_block_list
+    merge_ublack_list
     
     git add .
     git commit -m "$(date "+%Y%m%d")"
