@@ -37,15 +37,12 @@ adblock_init(){
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
     
-    ADBLOCK_MERGE="$UBLOCKLIST_DIR/ad-block_merge.conf"
     ADBLOCK_SORT="$UBLOCKLIST_DIR/ad-block_sort.conf"
     
     BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
-    BLOCK_FILTER_MERGE="$UBLOCKLIST_DIR/filter_merge.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
 
-    UBLACK_MERGE="$UBLACKLIST_DIR/uBlacklist_tmp.txt"
     UBLACK_SORT="$DIR/uBlacklist.txt"
     
     if [ ! -d "$UBLOCKLIST_DIR" ]; then
@@ -74,11 +71,12 @@ merge_ublack_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]}  >> $UBLACK_MERGE
+	cat ${FILE_LIST[i]}  >> $UBLACK_SORT
+	
 	let i++
     done
 
-    sort $UBLACK_MERGE | uniq > $UBLACK_SORT
+    sort -u $UBLACK_SORT -o $UBLACK_SORT | uniq
 }
 
 merge_block_list(){
@@ -90,13 +88,10 @@ merge_block_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]}  >> $BLOCK_FILTER_MERGE
+	cat ${FILE_LIST[i]} | sed '^!/d' >> $BLOCK_FILTER_LIST
 	let i++
     done
 
-    sed '/^!/d' $BLOCK_FILTER_MERGE > $BLOCK_FILTER_LIST
-
-    rm $BLOCK_FILTER_MERGE
 }
 
 make_privoxy_list(){
@@ -155,11 +150,11 @@ make_dns_list(){
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_MERGE
+	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_SORT
 	let i++
     done
     
-    sort $ADBLOCK_MERGE | uniq > $ADBLOCK_SORT
+    sort -u $ADBLOCK_SORT -o $ADBLOCK_SORT | uniq
     
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
