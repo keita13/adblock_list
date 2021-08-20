@@ -15,7 +15,7 @@ download_list(){
 	curl -L ${IMPORT_NAME[2]} > $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
 	nkf -Lu --overwrite $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
 	
-    done < download_list.txt
+    done < $DIR/bin/download_list.txt
     
 }
 
