@@ -1,6 +1,3 @@
-||    ]^
-||    | <a href="index.php">about this list</a>^
-||    | <a href="iplist.php">view the blocklist of IP addresses</a>^
 ||1-1ads.com^
 ||100651.advision-adnw.jp^
 ||101com.com^
@@ -47,34 +44,6 @@
 ||82b9d6273154e7cbf.com^
 ||82o9v830.com^
 ||8mono.biz^
-||</body>^
-||</html>^
-||</pre>^
-||</table>^
-||</tr>^
-||<body>^
-||<head>^
-||<html>^
-||<link rel='stylesheet' href='/css/pgl.css' type='text/css'></head>^
-||<link rel=alternate type="application/rss+xml" title="Blocklist of hostnames and domains for blocking ads, trackers and others (format: ) (RSS - last 50 added)" href="rss/1.0/adservers.rss">^
-||<meta name="author" value="Peter Lowe; pgl@yoyo.org">^
-||<meta name="description" value="Blocklist of hostnames and domains for blocking ads, trackers and others (format: )">^
-||<meta name="keywords" value="ad blocking, blocking ads, ad servers, trackers, ads, banners, hosts file, privacy">^
-||<p> [ <a href="/adservers/serverlist.php?hostformat=showintro=0;showintro=0">hide this header (view the list on its own)</a>^
-||<p> [ <b><a href="/adservers/">view the list in a different format</a></b>^
-||<p><pre>^
-||<p><table cellpadding=2 cellspacing=0>^
-||<td><b class=blue>3621</b></td>^
-||<td><b class=blue>Fri, 20 Aug 2021 07:05:48 GMT</b></td>^
-||<td><b class=blue>Sat, 25 Aug 2001 00:00:00</b></td>^
-||<td><b class=blue>plain list of hostnames</b></td>^
-||<td>blocklist last updated:</td>^
-||<td>format list is displayed in:</td>^
-||<td>listing ad servers added after:</td>^
-||<td>total entries:</td>^
-||<title>^
-||<tr>^
-||Blocklist of hostnames and domains for blocking ads, trackers and others (format: )</title>^
 ||PopCash.com^
 ||a-ads.com^
 ||a-c-engine.com^
