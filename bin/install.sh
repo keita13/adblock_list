@@ -32,6 +32,7 @@ copy_myrule(){
 
     RULE_DIR="$HOME/doc"
     cp -r "$RULE_DIR" "$DIR/tmp"
+    echo "Copy myrule"
 
 }
 
@@ -184,10 +185,10 @@ main(){
     make_dns_list
     merge_block_list
     
-    #git add .
-    #git commit -m "$(date "+%Y%m%d")"
-    #git push origin master
-    #echo "End"
+    git add .
+    git commit -m "$(date "+%Y%m%d")"
+    git push origin master
+    echo "End"
     exit 0
 }
 
