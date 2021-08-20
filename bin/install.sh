@@ -9,12 +9,13 @@ download_list(){
 
     while read line;
     do
-    
-	local IMPORT_NAME=($(eval echo $line))
-	echo ${IMPORT_NAME[@]}
-	curl -L ${IMPORT_NAME[2]} > $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
-	nkf -Lu --overwrite $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
 	
+	local IMPORT_NAME=($(eval echo $line))
+	echo -e "\n${IMPORT_NAME[@]}"
+	if [ "${IMPORT_NAME[0]}" != "" ]; then
+	    curl -L ${IMPORT_NAME[2]} > "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
+	    nkf -Lu --overwrite "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
+	fi
     done < $DIR/bin/download_list.txt
     
 }
@@ -178,7 +179,8 @@ main(){
     make_dns_list
     merge_block_list
     merge_ublack_list
-    
+
+    cd $DIR
     git add .
     git commit -m "$(date "+%Y%m%d")"
     git push origin master
