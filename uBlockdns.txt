@@ -32,7 +32,6 @@
 ||4jnzhl0d0.com^
 ||50websads.com^
 ||518ad.com^
-||51yes.com^
 ||5ijo.01net.com^
 ||5mcwl.pw^
 ||6ldu6qa.com^
@@ -148,7 +147,6 @@
 ||ad-v.jp^
 ||ad-vanx.com^
 ||ad-web-ad.com^
-||ad.100.tbn.ru^
 ||ad.2ch.live^
 ||ad.71i.de^
 ||ad.886644.com^
@@ -253,7 +251,6 @@
 ||ad.sp.mbga.jp^
 ||ad.style^
 ||ad.tapthislink.com^
-||ad.tbn.ru^
 ||ad.technoratimedia.com^
 ||ad.tokyo-tube-ad.com^
 ||ad.turn.com^
@@ -670,7 +667,6 @@
 ||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gld.dk^
-||ads.glispa.com^
 ||ads.gmodules.com^
 ||ads.gold^
 ||ads.goyk.com^
@@ -846,7 +842,6 @@
 ||ads.syscdn.de^
 ||ads.tahono.com^
 ||ads.themoneytizer.com^
-||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
 ||ads.tiktok.com^
@@ -1886,7 +1881,6 @@
 ||cny.yoyo.org^
 ||cobalten.com^
 ||cocoad.jp^
-||code-server.biz^
 ||code.analysis.shinobi.jp^
 ||code.orange-jelly.net^
 ||codeadnetwork.com^
@@ -3614,7 +3608,6 @@
 ||pymx5.com^
 ||q.azcentral.com^
 ||q1connect.com^
-||qcontentdelivery.info^
 ||qctop.com^
 ||qe8dc4gw.com^
 ||qnsr.com^
@@ -4377,6 +4370,7 @@
 ||tracking.internetstores.de^
 ||tracking.intl.miui.com^
 ||tracking.jiffyworld.com^
+||tracking.lenddom.com^
 ||tracking.markethero.io^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
@@ -4413,7 +4407,6 @@
 ||trafficstars.com^
 ||trafficstrategies.com^
 ||trafficswarm.com^
-||traffictrader.net^
 ||trafficz.com^
 ||traffiq.com^
 ||trafic.ro^

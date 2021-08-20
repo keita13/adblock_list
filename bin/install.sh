@@ -11,15 +11,15 @@ download_list(){
     while [ "${UBLOCK_URL[i]}" != "" ]
     do
 	curl -L ${UBLOCK_URL[i]} > $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
-    nkf -Lu --overwrite $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
+	nkf -Lu --overwrite $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
 	let i++
     done
-
+    
     local i=0
     while [ "${DNS_URL[i]}" != "" ]
     do
 	curl -L ${DNS_URL[i]} > $DNSLIST_DIR/${DNS_NAME[i]}
-    nkf -Lu --overwrite $DNSLIST_DIR/${DNS_NAME[i]}
+	nkf -Lu --overwrite $DNSLIST_DIR/${DNS_NAME[i]}
 	let i++
     done
     
@@ -27,7 +27,7 @@ download_list(){
     while [ "${BLACK_URL[i]}" != "" ]
     do
 	curl -L ${BLACK_URL[i]} > $UBLACKLIST_DIR/${BLACK_NAME[i]}
-    nkf -Lu --overwrite $UBLACKLIST_DIR/${BLACK_NAME[i]}
+	nkf -Lu --overwrite $UBLACKLIST_DIR/${BLACK_NAME[i]}
 	let i++
     done
     
@@ -35,11 +35,11 @@ download_list(){
 
 
 url_blocklist(){
-
+    
     #280blocker
     UBLOCK_URL[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
     UBLOCK_NAME[0]="280blocker_adblock.txt"
-
+    
     UBLOCK_URL[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
     UBLOCK_NAME[1]="yuki_jpfilter.txt"
 
