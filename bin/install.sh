@@ -44,13 +44,11 @@ work_dir(){
 
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
-
-    uBlock_MERGE="$uBlock_TXT_DIR/uBlockdns.txt"
     
-    ADBLOCK_MERGE="$DNSMASQ_DIR/ad-block_merge.conf"
-    ADBLOCK_SORT="$DNSMASQ_DIR/ad-block_sort.conf"
-    ADBLOCK_ADGUARD="$DIR/ad-block_adguard.txt"
-    ADBLOCK_LIST="$DNSMASQ_DIR/ad-block.conf"
+    ADBLOCK_MERGE="$BLOCK_TXT_DIR/ad-block_merge.conf"
+    ADBLOCK_SORT="$BLOCK_TXT_DIR/ad-block_sort.conf"
+    BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
+    BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
 
     if [ ! -d "$BLOCK_TXT_DIR" ]; then
         mkdir $BLOCK_TXT_DIR
@@ -62,10 +60,10 @@ work_dir(){
         mkdir $PRIVOXY_DIR
     fi
     if [ ! -d "$DNSMASQ_DIR" ]; then
-        mkdir $DNS_TXT_DIR
+        mkdir $DNSMASQ_TXT_DIR
     fi
 
-    rm $ADBLOCKPLUS_MERGE  $ADBLOCK_LIST $ADBLOCK_ADGUARD
+    rm $ADBLOCK_MERGE $ADBLOCK_LIST $BLOCK_DNS_LIST
 
 }
 
@@ -89,7 +87,7 @@ download_list(){
 
 merge_block_list(){
     i=0
-    FILE_LIST=($(ls $AdblockPlus_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
@@ -163,8 +161,8 @@ make_dns_list(){
     do
 	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
             #echo $line >> $ADBLOCK_LIST
-            echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $ADBLOCK_LIST
-            echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $ADBLOCK_ADGUARD
+            echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
+            echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
             echo -n "."
 	fi
 	let COUNT--
