@@ -25183,7 +25183,7 @@ kanasoku.info##.adset-Cover
 kanasoku.info##.cent_top > div[align=center]:nth-child(2)
 kanasoku.info##.fixing-base
 kanasoku.s130.coreserver.jp###side
-kandatasokuho.blog.fc2.com###center > div > font:has-text(ｽﾎﾟﾝｻｰﾄﾞ)
+kandatasokuho.blog.fc2.com###center > div > font:has-text(スポンサード)
 kandatasokuho.blog.fc2.com###center > div[align=left] > div[align=center] font[size="1"]:upward(div[align=center])
 kandatasokuho.blog.fc2.com##.ently_text > div[align=left] > font[size="1"]:upward(1)
 kandatasokuho.blog.fc2.com##.commentarea > div > div > font:first-of-type
@@ -29830,7 +29830,7 @@ ol777tokyo.blog41.fc2.com###more > hr
 ol777tokyo.blog41.fc2.com###more > hr ~ br
 ol777tokyo.blog41.fc2.com###more strong
 ol777tokyo.blog41.fc2.com###sidemenu1 > .sidemenu_body:nth-child(2)
-ol777tokyo.blog41.fc2.com###sidemenu1 > .sidemenu_body:nth-child(n+4):has-text(/アクセス状況|おすすめ最新記事|パンテイ－セレクション2/)
+ol777tokyo.blog41.fc2.com###sidemenu1 > .sidemenu_body:nth-child(n+4):has-text(/アクセス状況|おすすめ最新記事|パンテイ−セレクション2/)
 ol777tokyo.blog41.fc2.com###sidemenu2 > .sidemenu_body:first-child
 ol777tokyo.blog41.fc2.com##.entry_body > center > span
 ol777tokyo.blog41.fc2.com##.entry_body > hr

@@ -47,6 +47,7 @@ work_dir(){
     
     ADBLOCK_MERGE="$BLOCK_TXT_DIR/ad-block_merge.conf"
     ADBLOCK_SORT="$BLOCK_TXT_DIR/ad-block_sort.conf"
+    
     BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
     BLOCK_FILTER_MERGE="$BLOCK_TXT_DIR/filter_merge.txt"
@@ -100,8 +101,11 @@ merge_block_list(){
 	cat ${FILE_LIST[i]}  >> $BLOCK_FILTER_MERGE
 	let i++
     done
-    
+
+    nkf -Lu --overwrite $BLOCK_FILTER_MERGE
     sed '/^!/d' $BLOCK_FILTER_MERGE > $BLOCK_FILTER_LIST
+
+    rm $BLOCK_FILTER_MERGE
 }
 
 make_privoxy_list(){
@@ -172,15 +176,15 @@ make_dns_list(){
     
     #while read line
     #do
-#	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
- #           #echo $line >> $ADBLOCK_LIST
-  #          echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
-   #         echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
-    #        echo -n "."
-#	fi
-#	let COUNT--
- #   done < $ADBLOCK_SORT
-
+    #	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
+    #      echo $line >> $ADBLOCK_LIST
+    #      echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
+    #      echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
+    #      echo -n "."
+    #   fi
+    #let COUNT--
+    #done < $ADBLOCK_SORT
+    
     rm $ADBLOCK_MERGE $ADBLOCK_SORT
 
 }
