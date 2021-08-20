@@ -4,17 +4,47 @@ sedcmd=${SEDCMD:-sed}
 NAME_280=($(date -d '1 month' "+%Y%m"))
 echo $NAME_280
 
+#FILE_NAME, FILE_DIR
+download_list(){
+
+    local i=0
+    while [ "${UBLOCK_URL[i]}" != "" ]
+    do
+	curl -L ${UBLOCK_URL[i]} > $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
+    nkf -Lu --overwrite $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
+	let i++
+    done
+
+    local i=0
+    while [ "${DNS_URL[i]}" != "" ]
+    do
+	curl -L ${DNS_URL[i]} > $DNSLIST_DIR/${DNS_NAME[i]}
+    nkf -Lu --overwrite $DNSLIST_DIR/${DNS_NAME[i]}
+	let i++
+    done
+    
+    local i=0
+    while [ "${BLACK_URL[i]}" != "" ]
+    do
+	curl -L ${BLACK_URL[i]} > $UBLACKLIST_DIR/${BLACK_NAME[i]}
+    nkf -Lu --overwrite $UBLACKLIST_DIR/${BLACK_NAME[i]}
+	let i++
+    done
+    
+}
+
+
 url_blocklist(){
 
     #280blocker
-    Filter_URL[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
-    Filter_NAME[0]="280blocker_adblock.txt"
+    UBLOCK_URL[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
+    UBLOCK_NAME[0]="280blocker_adblock.txt"
 
-    Filter_URL[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
-    Filter_NAME[1]="yuki_jpfilter.txt"
+    UBLOCK_URL[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
+    UBLOCK_NAME[1]="yuki_jpfilter.txt"
 
-    Filter_URL[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
-    Filter_NAME[2]="tofukko_filter.txt"
+    UBLOCK_URL[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
+    UBLOCK_NAME[2]="tofukko_filter.txt"
 }
 
 url_dnslist(){
@@ -34,47 +64,43 @@ url_ublacklist(){
     BLACK_NAME[0]="ncaq.txt"
 }
 
-copy_myrule(){
-
-    RULE_DIR="$DIR/doc"
-    cp -RT "$RULE_DIR" "$DIR/tmp"
-    echo "Copy myrule"
-
-}
-
-work_dir(){
+adblock_init(){
 
     DIR="$HOME/adblock_list"
     DIR_TMP="$DIR/tmp"
-
-    rm -rf $DIR_TMP/*
+    RULE_DIR="$DIR/doc"
     
-    BLOCK_TXT_DIR="$DIR/tmp/uBlocklist"
-    DNS_TXT_DIR="$DIR/tmp/dnslist"
-    UBLACK_TXT_DIR="$DIR/tmp/uBlacklist"
+    echo "Delte tmp file"
+    rm -rf $DIR_TMP/*
+    echo "Copy myrule"
+    cp -RT "$RULE_DIR" "$DIR_TMP"
+    
+    DNSLIST_DIR="$DIR_TMP/dnslist"
+    UBLOCKLIST_DIR="$DIR_TMP/uBlocklist"
+    UBLACKLIST_DIR="$DIR_TMP/uBlacklist"
 
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
     
-    ADBLOCK_MERGE="$BLOCK_TXT_DIR/ad-block_merge.conf"
-    ADBLOCK_SORT="$BLOCK_TXT_DIR/ad-block_sort.conf"
+    ADBLOCK_MERGE="$UBLOCKLIST_DIR/ad-block_merge.conf"
+    ADBLOCK_SORT="$UBLOCKLIST_DIR/ad-block_sort.conf"
     
     BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
-    BLOCK_FILTER_MERGE="$BLOCK_TXT_DIR/filter_merge.txt"
+    BLOCK_FILTER_MERGE="$UBLOCKLIST_DIR/filter_merge.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
 
-    UBLACK_MERGE="$UBLACK_TXT_DIR/uBlacklist_tmp.txt"
+    UBLACK_MERGE="$UBLACKLIST_DIR/uBlacklist_tmp.txt"
     UBLACK_SORT="$DIR/uBlacklist.txt"
     
-    if [ ! -d "$BLOCK_TXT_DIR" ]; then
-        mkdir $BLOCK_TXT_DIR
+    if [ ! -d "$UBLOCKLIST_DIR" ]; then
+        mkdir $UBLOCKLIST_DIR
     fi
-    if [ ! -d "$DNS_TXT_DIR" ]; then
-        mkdir $DNS_TXT_DIR
+    if [ ! -d "$DNSLIST_DIR" ]; then
+        mkdir $DNSLIST_DIR
     fi
-    if [ ! -d "$UBLACK_TXT_DIR" ]; then
-        mkdir $UBLACK_TXT_DIR
+    if [ ! -d "$UBLACKLIST_DIR" ]; then
+        mkdir $UBLACKLIST_DIR
     fi
     if [ ! -d "$PRIVOXY_DIR" ]; then
         mkdir $PRIVOXY_DIR
@@ -85,34 +111,10 @@ work_dir(){
 
 }
 
-download_list(){
-    local i=0
-    while [ "${Filter_URL[i]}" != "" ]
-    do
-	curl -L ${Filter_URL[i]} > $BLOCK_TXT_DIR/${Filter_NAME[i]}
-	let i++
-    done
-
-    local i=0
-    while [ "${DNS_URL[i]}" != "" ]
-    do
-	curl -L ${DNS_URL[i]} > $DNS_TXT_DIR/${DNS_NAME[i]}
-	let i++
-    done
-    
-    local i=0
-    while [ "${BLACK_URL[i]}" != "" ]
-    do
-	curl -L ${BLACK_URL[i]} > $UBLACK_TXT_DIR/${BLACK_NAME[i]}
-	let i++
-    done
-    
-}
-
 merge_ublack_list(){
     
     local i=0
-    local FILE_LIST=($(ls $UBLACK_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $UBLACKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
@@ -121,7 +123,6 @@ merge_ublack_list(){
     done
 
     nkf -Lu $UBLACK_MERGE | sort | uniq > $UBLACK_SORT
-    rm $UBLACK_MERGE
 }
 
 merge_block_list(){
@@ -130,7 +131,7 @@ merge_block_list(){
     echo "merge ublocklist"
     
     local i=0
-    local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
@@ -146,7 +147,7 @@ merge_block_list(){
 
 make_privoxy_list(){
     local i=0
-    local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
@@ -193,14 +194,12 @@ make_privoxy_list(){
 
 make_dns_list(){
     local i=0
-    local FILE_LIST=($(ls $DNS_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_MERGE
 	let i++
     done
-    
-    #cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
     
     nkf -Lu $ADBLOCK_MERGE | sort | uniq > $ADBLOCK_SORT
     
@@ -209,30 +208,18 @@ make_dns_list(){
     
     cat $ADBLOCK_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
     cat $ADBLOCK_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
-    
-    #while read line
-    #do
-    #	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
-    #      echo $line >> $ADBLOCK_LIST
-    #      echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
-    #      echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
-    #      echo -n "."
-    #   fi
-    #let COUNT--
-    #done < $ADBLOCK_SORT
-    
-    rm $ADBLOCK_MERGE $ADBLOCK_SORT
 
 }
 
 main(){
 
-    work_dir
-    copy_myrule
+    adblock_init
+
     url_blocklist
     url_dnslist
     url_ublacklist
     download_list
+
     make_privoxy_list
     make_dns_list
     merge_block_list
