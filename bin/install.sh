@@ -4,7 +4,7 @@ sedcmd=${SEDCMD:-sed}
 NAME_280=($(date -d '1 month' "+%Y%m"))
 echo $NAME_280
 
-#FILE_NAME, FILE_DIR
+#FILE_DIR FILE_NAME FILE_URL
 download_list(){
 
     while read line;
@@ -18,7 +18,6 @@ download_list(){
     done < $DIR/bin/download_list.txt
     
 }
-
 
 adblock_init(){
 
@@ -68,7 +67,8 @@ adblock_init(){
 }
 
 merge_ublack_list(){
-    
+
+    echo "Merge uBlacklist"
     local i=0
     local FILE_LIST=($(ls $UBLACKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -78,13 +78,12 @@ merge_ublack_list(){
 	let i++
     done
 
-    nkf -Lu $UBLACK_MERGE | sort | uniq > $UBLACK_SORT
+    sort $UBLACK_MERGE | uniq > $UBLACK_SORT
 }
 
 merge_block_list(){
 
-    echo  " "
-    echo "merge ublocklist"
+    echo "Merge uBlocklist"
     
     local i=0
     local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
@@ -95,13 +94,14 @@ merge_block_list(){
 	let i++
     done
 
-    nkf -Lu --overwrite $BLOCK_FILTER_MERGE
     sed '/^!/d' $BLOCK_FILTER_MERGE > $BLOCK_FILTER_LIST
 
     rm $BLOCK_FILTER_MERGE
 }
 
 make_privoxy_list(){
+
+    echo "Make Privoxy list"
     local i=0
     local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -149,6 +149,8 @@ make_privoxy_list(){
 }
 
 make_dns_list(){
+
+    echo "Make Dns list"
     local i=0
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -157,7 +159,7 @@ make_dns_list(){
 	let i++
     done
     
-    nkf -Lu $ADBLOCK_MERGE | sort | uniq > $ADBLOCK_SORT
+    sort $ADBLOCK_MERGE | uniq > $ADBLOCK_SORT
     
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
