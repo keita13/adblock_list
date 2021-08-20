@@ -49,7 +49,7 @@ work_dir(){
     ADBLOCK_SORT="$BLOCK_TXT_DIR/ad-block_sort.conf"
     BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
-    BLOCK_FILTER_MERGE="$DNS_TXT_DIR/filter_merge.txt"
+    BLOCK_FILTER_MERGE="$BLOCK_TXT_DIR/filter_merge.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
     
     if [ ! -d "$BLOCK_TXT_DIR" ]; then
@@ -70,14 +70,14 @@ work_dir(){
 }
 
 download_list(){
-    i=0
+    local i=0
     while [ "${Filter_URL[i]}" != "" ]
     do
 	curl -L ${Filter_URL[i]} > $BLOCK_TXT_DIR/${Filter_NAME[i]}
 	let i++
     done
 
-    i=0
+    local i=0
     while [ "${DNS_URL[i]}" != "" ]
     do
 	curl -L ${DNS_URL[i]} > $DNS_TXT_DIR/${DNS_NAME[i]}
@@ -89,6 +89,7 @@ download_list(){
 
 merge_block_list(){
 
+    echo  " "
     echo "merge"
     
     local i=0
@@ -104,7 +105,7 @@ merge_block_list(){
 }
 
 make_privoxy_list(){
-    i=0
+    local i=0
     local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
@@ -151,7 +152,7 @@ make_privoxy_list(){
 }
 
 make_dns_list(){
-    i=0
+    local i=0
     local FILE_LIST=($(ls $DNS_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
@@ -160,20 +161,25 @@ make_dns_list(){
     done
 
     #cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
-    cat $ADBLOCK_MERGE | sort > $ADBLOCK_SORT
-
+ 
+    nkf -Lu $ADBLOCK_SORT | sort | uniq > $ADBLOCK_SORT
+    
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
-    while read line
-    do
-	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
-            #echo $line >> $ADBLOCK_LIST
-            echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
-            echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
-            echo -n "."
-	fi
-	let COUNT--
-    done < $ADBLOCK_SORT
+
+    cat $ADBLOCK_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
+    cat $ADBLOCK_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
+    
+    #while read line
+    #do
+#	if [ $(cat $ADBLOCK_SORT | tail -n $COUNT | grep -c "$line") == 1 ]; then
+ #           #echo $line >> $ADBLOCK_LIST
+  #          echo $line | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" >> $BLOCK_DNSMASQ_LIST
+   #         echo $line | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" >> $BLOCK_DNS_LIST
+    #        echo -n "."
+#	fi
+#	let COUNT--
+ #   done < $ADBLOCK_SORT
 
     rm $ADBLOCK_MERGE $ADBLOCK_SORT
 
