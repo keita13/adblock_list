@@ -88,7 +88,7 @@ merge_block_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]} | sed -e "^!/d" >> $BLOCK_FILTER_LIST
+	cat ${FILE_LIST[i]} | sed -e "/^!/d" >> $BLOCK_FILTER_LIST
 	let i++
     done
 
