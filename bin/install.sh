@@ -162,7 +162,7 @@ make_dns_list(){
 
     #cat $ADBLOCK_MERGE | sort |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $ADBLOCK_SORT
  
-    nkf -Lu $ADBLOCK_SORT | sort | uniq > $ADBLOCK_SORT
+    nkf -Lu $ADBLOCK_MERGE | sort | uniq > $ADBLOCK_SORT
     
     COUNT=($(cat $ADBLOCK_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
