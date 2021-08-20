@@ -7,62 +7,18 @@ echo $NAME_280
 #FILE_NAME, FILE_DIR
 download_list(){
 
-    local i=0
-    while [ "${UBLOCK_URL[i]}" != "" ]
+    while read line;
     do
-	curl -L ${UBLOCK_URL[i]} > $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
-	nkf -Lu --overwrite $UBLOCKLIST_DIR/${UBLOCK_NAME[i]}
-	let i++
-    done
     
-    local i=0
-    while [ "${DNS_URL[i]}" != "" ]
-    do
-	curl -L ${DNS_URL[i]} > $DNSLIST_DIR/${DNS_NAME[i]}
-	nkf -Lu --overwrite $DNSLIST_DIR/${DNS_NAME[i]}
-	let i++
-    done
-    
-    local i=0
-    while [ "${BLACK_URL[i]}" != "" ]
-    do
-	curl -L ${BLACK_URL[i]} > $UBLACKLIST_DIR/${BLACK_NAME[i]}
-	nkf -Lu --overwrite $UBLACKLIST_DIR/${BLACK_NAME[i]}
-	let i++
-    done
+	local IMPORT_NAME=($(eval echo $line))
+	echo ${IMPORT_NAME[@]}
+	curl -L ${IMPORT_NAME[2]} > $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
+	nkf -Lu --overwrite $DIR_TMP/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}
+	
+    done < download_list.txt
     
 }
 
-
-url_blocklist(){
-    
-    #280blocker
-    UBLOCK_URL[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
-    UBLOCK_NAME[0]="280blocker_adblock.txt"
-    
-    UBLOCK_URL[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
-    UBLOCK_NAME[1]="yuki_jpfilter.txt"
-
-    UBLOCK_URL[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
-    UBLOCK_NAME[2]="tofukko_filter.txt"
-}
-
-url_dnslist(){
-
-    #280blocker
-    DNS_URL[0]="https://280blocker.net/files/280blocker_domain_$NAME_280.txt"
-    DNS_NAME[0]="280blocker_domain.txt"
-
-    DNS_URL[1]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
-    DNS_NAME[1]="pgl_yoyo.txt"
-    
-}
-
-url_ublacklist(){
-
-    BLACK_URL[0]="https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt"
-    BLACK_NAME[0]="ncaq.txt"
-}
 
 adblock_init(){
 
@@ -214,10 +170,6 @@ make_dns_list(){
 main(){
 
     adblock_init
-
-    url_blocklist
-    url_dnslist
-    url_ublacklist
     download_list
 
     make_privoxy_list
