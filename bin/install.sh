@@ -88,7 +88,7 @@ merge_block_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]} | sed '^!/d' >> $BLOCK_FILTER_LIST
+	cat ${FILE_LIST[i]} | sed -e "^!/d" >> $BLOCK_FILTER_LIST
 	let i++
     done
 
@@ -150,7 +150,7 @@ make_dns_list(){
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_SORT
+	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_SORT
 	let i++
     done
     
