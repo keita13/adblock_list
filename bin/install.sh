@@ -49,7 +49,9 @@ work_dir(){
     ADBLOCK_SORT="$BLOCK_TXT_DIR/ad-block_sort.conf"
     BLOCK_DNS_LIST="$DIR/uBlockdns.txt"
     BLOCK_DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
-
+    BLOCK_FILTER_MERGE="$DNS_TXT_DIR/filter_merge.txt"
+    BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
+    
     if [ ! -d "$BLOCK_TXT_DIR" ]; then
         mkdir $BLOCK_TXT_DIR
     fi
@@ -63,7 +65,7 @@ work_dir(){
         mkdir $DNSMASQ_TXT_DIR
     fi
 
-    rm $ADBLOCK_MERGE $ADBLOCK_LIST $BLOCK_DNS_LIST
+    rm $ADBLOCK_MERGE $ADBLOCK_LIST $BLOCK_DNS_LIST $BLOCK_FILTER_MERGE
 
 }
 
@@ -87,13 +89,14 @@ download_list(){
 
 merge_block_list(){
     i=0
-    local FILE_LIST=($(ls $_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]}  >> $ADBLOCKPLUS_MERGE
+	cat ${FILE_LIST[i]}  >> $BLOCK_FILTER_MERGE
 	let i++
     done
+    mv $BLOCK_FILTER_MERGE $BLOCK_FILTER_LIST
 }
 
 make_privoxy_list(){
