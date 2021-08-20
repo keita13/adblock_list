@@ -96,7 +96,8 @@ merge_block_list(){
 	cat ${FILE_LIST[i]}  >> $BLOCK_FILTER_MERGE
 	let i++
     done
-    mv $BLOCK_FILTER_MERGE $BLOCK_FILTER_LIST
+    
+    sed '/^!/d' $BLOCK_FILTER_MERGE > $BLOCK_FILTER_LIST
 }
 
 make_privoxy_list(){
