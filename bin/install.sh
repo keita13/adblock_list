@@ -49,7 +49,7 @@ work_dir(){
     
     ADBLOCK_MERGE="$DNSMASQ_DIR/ad-block_merge.conf"
     ADBLOCK_SORT="$DNSMASQ_DIR/ad-block_sort.conf"
-    ADBLOCK_ADGUARD="$DNS_TXT_DIR/ad-block_adguard.txt"
+    ADBLOCK_ADGUARD="$DIR/ad-block_adguard.txt"
     ADBLOCK_LIST="$DNSMASQ_DIR/ad-block.conf"
 
     if [ ! -d "$BLOCK_TXT_DIR" ]; then
