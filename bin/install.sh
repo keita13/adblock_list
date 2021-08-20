@@ -39,7 +39,7 @@ adblock_init(){
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
 
     
-    DNS_SORT="$DNSLIST/ad-block_sort.conf"
+    DNS_SORT="$DNSLIST_DIR/ad-block_sort.conf"
     DNS_LIST="$DIR/uBlockdns.txt"
     DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
 
@@ -172,6 +172,7 @@ make_dns_list(){
 
 main(){
 
+    echo "start"
     adblock_init
     download_list
 
@@ -180,6 +181,7 @@ main(){
     merge_block_list
     merge_ublack_list
 
+    echo -e "\ngit"
     cd $DIR
     git add .
     git commit -m "$(date "+%Y%m%d")"
