@@ -46,7 +46,7 @@ adblock_init(){
     BLOCK_FILTER_SORT="$UBLOCKLIST_DIR/uBlockOrigin.txt"
     BLOCK_FILTER_LIST="$DIR/uBlockOrigin.txt"
 
-    UBLACK_SORT="$UBLOCKLIST_DIR/uBlacklist.txt"
+    UBLACK_SORT="$UBLACKLIST_DIR/uBlacklist.txt"
     UBLACK_LIST="$DIR/uBlacklist.txt"
     
     if [ ! -d "$UBLOCKLIST_DIR" ]; then
@@ -92,7 +92,7 @@ merge_block_list(){
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
-	cat ${FILE_LIST[i]} | sed -e "/^!/d" >> $BLOCK_FILTER_SORT
+	cat ${FILE_LIST[i]} | sed -e "/^\s/d" |  sed -e "/^!/d" | sed -e "/^$/d" >> $BLOCK_FILTER_SORT
 	let i++
     done
 
