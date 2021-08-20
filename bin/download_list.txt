@@ -3,5 +3,4 @@ dnslist pgl_yoyo.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=sh
 uBlacklist ncaq.txt https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt
 uBlocklist 280blocker_adblock.txt https://280blocker.net/files/280blocker_adblock_$NAME_280.txt
 uBlocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
-uBlocklist tofukko_filter.txt https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
-
+uBlocklist tofukko_filter.txt 'https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt'

@@ -13,7 +13,7 @@ download_list(){
 	local IMPORT_NAME=($(eval echo $line))
 	echo -e "\n${IMPORT_NAME[@]}"
 	if [ "${IMPORT_NAME[0]}" != "" ]; then
-	    curl -L '${IMPORT_NAME[2]}' > "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
+	    curl -L ${IMPORT_NAME[2]} > "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
 	    nkf -Lu --overwrite "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
 	fi
     done < $DIR/bin/download_list.txt
