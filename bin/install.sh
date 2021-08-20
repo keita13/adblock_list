@@ -68,7 +68,7 @@ adblock_init(){
 
 merge_ublack_list(){
 
-    echo "Merge uBlacklist"
+    echo -e "\nMerge uBlacklist"
     local i=0
     local FILE_LIST=($(ls $UBLACKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -164,8 +164,8 @@ make_dns_list(){
     COUNT=($(cat $DNS_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
     
-    cat $DNS_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $BLOCK_DNSMASQ_LIST
-    cat $DNS_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $BLOCK_DNS_LIST
+    cat $DNS_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $DNSMASQ_LIST
+    cat $DNS_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $DNS_LIST
 
 }
 
