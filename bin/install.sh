@@ -4,34 +4,34 @@ sedcmd=${SEDCMD:-sed}
 NAME_280=($(date -d '1 month' "+%Y%m"))
 echo $NAME_280
 
-url_list_AdblockPlus(){
+url_blocklist(){
 
     #280blocker
-    URL_NAME_AdblockPlus[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
-    FILE_NAME_AdblockPlus[0]="280blocker_adblock.txt"
+    Filter_URL[0]="https://280blocker.net/files/280blocker_adblock_$NAME_280.txt"
+    Filter_NAME[0]="280blocker_adblock.txt"
 
-    URL_NAME_AdblockPlus[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
-    FILE_NAME_AdblockPlus[1]="yuki_jpfilter.txt"
+    Filter_URL[1]="https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt"
+    Filter_NAME[1]="yuki_jpfilter.txt"
 
-    URL_NAME_AdblockPlus[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
-    FILE_NAME_AdblockPlus[2]="tofukko_filter.txt"
+    Filter_URL[2]="https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt"
+    Filter_NAME[2]="tofukko_filter.txt"
 }
 
-url_list_adblock_dns(){
+url_dnslist(){
 
     #280blocker
-    URL_NAME_DNS[0]="https://280blocker.net/files/280blocker_domain_$NAME_280.txt"
-    FILE_NAME_DNS[0]="280blocker_domain.txt"
+    DNS_URL[0]="https://280blocker.net/files/280blocker_domain_$NAME_280.txt"
+    DNS_NAME[0]="280blocker_domain.txt"
 
-    URL_NAME_DNS[1]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
-    FILE_NAME_DNS[1]="pgl_yoyo.txt"
+    DNS_URL[1]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
+    DNS_NAME[1]="pgl_yoyo.txt"
 }
 
 work_dir(){
 
     DIR="$HOME/adblock_list"
-    uBlock_TXT_DIR="$DIR/tmp/uBlock"
-    DNS_TXT_DIR="$DIR/tmp/dns"
+    BLOCK_TXT_DIR="$DIR/tmp/uBlocklist"
+    DNS_TXT_DIR="$DIR/tmp/dnslist"
 
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
@@ -43,8 +43,8 @@ work_dir(){
     ADBLOCK_ADGUARD="$DNS_TXT_DIR/ad-block_adguard.txt"
     ADBLOCK_LIST="$DNSMASQ_DIR/ad-block.conf"
 
-    if [ ! -d "$AdblockPlus_TXT_DIR" ]; then
-        mkdir $AdblockPlus_TXT_DIR
+    if [ ! -d "$BLOCK_TXT_DIR" ]; then
+        mkdir $BLOCK_TXT_DIR
     fi
     if [ ! -d "$DNS_TXT_DIR" ]; then
         mkdir $DNS_TXT_DIR
@@ -56,29 +56,29 @@ work_dir(){
         mkdir $DNS_TXT_DIR
     fi
 
-    #rm $ADBLOCKPLUS_MERGE  $ADBLOCK_LIST $ADBLOCK_ADGUARD
+    rm $ADBLOCKPLUS_MERGE  $ADBLOCK_LIST $ADBLOCK_ADGUARD
 
 }
 
 download_list(){
     i=0
-    while [ "${URL_NAME_AdblockPlus[i]}" != "" ]
+    while [ "${Filter_URL[i]}" != "" ]
     do
-	curl -L ${URL_NAME_AdblockPlus[i]} > $AdblockPlus_TXT_DIR/${FILE_NAME_AdblockPlus[i]}
+	curl -L ${Filter_URL[i]} > $BLOCK_TXT_DIR/${Filter_NAME[i]}
 	let i++
     done
 
     i=0
-    while [ "${URL_NAME_DNS[i]}" != "" ]
+    while [ "${DNS_URL[i]}" != "" ]
     do
-	curl -L ${URL_NAME_DNS[i]} > $DNS_TXT_DIR/${FILE_NAME_DNS[i]}
+	curl -L ${DNS_URL[i]} > $DNS_TXT_DIR/${DNS_NAME[i]}
 	let i++
     done
 
 }
 
 
-merge_AdblockPlus_list(){
+merge_block_list(){
     i=0
     FILE_LIST=($(ls $AdblockPlus_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -91,7 +91,7 @@ merge_AdblockPlus_list(){
 
 make_privoxy_list(){
     i=0
-    FILE_LIST=($(ls $AdblockPlus_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo "${FILE_LIST[i]}"
@@ -136,9 +136,9 @@ make_privoxy_list(){
 
 }
 
-make_adblock_list(){
+make_dns_list(){
     i=0
-    FILE_LIST=($(ls $DNS_TXT_DIR/*.txt))
+    local FILE_LIST=($(ls $DNS_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d"|sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $ADBLOCK_MERGE
@@ -168,12 +168,12 @@ make_adblock_list(){
 main(){
 
     work_dir
-    #url_list_AdblockPlus
-    #url_list_adblock_dns
+    url_blocklist
+    url_dnslist
     #download_list
-    #make_privoxy_list
-    #make_adblock_list
-    #merge_AdblockPlus_list
+    make_privoxy_list
+    make_dns_list
+    merge_block_list
     
     #git add .
     #git commit -m "$(date "+%Y%m%d")"
