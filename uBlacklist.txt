@@ -57,6 +57,7 @@
 *://*.extutorial.com/*
 *://*.ferrum42kem.ru/*
 *://*.fixes.pub/*
+*://*.fooobar.com/*
 *://*.game8.jp/*
 *://*.gamerch.com/*
 *://*.gamewith.jp/*
@@ -3990,6 +3991,7 @@
 *://*.programmerz.ru/*
 *://*.programqa.com/*
 *://*.projectbackpack.org/*
+*://*.projobs.tistory.com/*
 *://*.proklimatshop.ru/*
 *://*.proxybot.cc/*
 *://*.proxyfly.org/*
@@ -4321,6 +4323,7 @@
 *://*.qa-stack.zu/*
 *://*.qa-stack.zw/*
 *://*.qa.1r1g.com/*
+*://*.qa.codeflow.site/*
 *://*.qaru.site/*
 *://*.qastack.aa/*
 *://*.qastack.ab/*
@@ -5656,5 +5659,12 @@
 *://*.voidcc.com/*
 *://*.while-do.com/*
 *://*.wikiarabi.org/*
+*://*.www.366service.com/*
+*://*.www.it-swarm-ja.tech/*
+*://*.www.it-swarm.dev/*
+*://*.www.javaer101.com/*
+*://*.www.nuomiphp.com/*
+*://*.www.sejuku.net/*
+*://*.www.voidcc.com/*
 *://*.xbuba.com/*
 *://*.zhouni.net/*

@@ -37,7 +37,7 @@ url_ublacklist(){
 copy_myrule(){
 
     RULE_DIR="$DIR/doc"
-    cp -r "$RULE_DIR" "$DIR/tmp"
+    cp -RT "$RULE_DIR" "$DIR/tmp"
     echo "Copy myrule"
 
 }
@@ -45,6 +45,10 @@ copy_myrule(){
 work_dir(){
 
     DIR="$HOME/adblock_list"
+    DIR_TMP="$DIR/tmp"
+
+    rm -rf $DIR_TMP/*
+    
     BLOCK_TXT_DIR="$DIR/tmp/uBlocklist"
     DNS_TXT_DIR="$DIR/tmp/dnslist"
     UBLACK_TXT_DIR="$DIR/tmp/uBlacklist"
@@ -78,8 +82,6 @@ work_dir(){
     if [ ! -d "$DNSMASQ_DIR" ]; then
         mkdir $DNSMASQ_DIR
     fi
-
-    rm $ADBLOCK_MERGE $ADBLOCK_LIST $BLOCK_DNS_LIST $BLOCK_FILTER_MERGE
 
 }
 

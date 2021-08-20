@@ -141,6 +141,7 @@
 ||ad-space.net^
 ||ad-srv.co^
 ||ad-stir.com^
+||ad-style.com^
 ||ad-tech.com^
 ||ad-trip.com^
 ||ad-up.com^
@@ -1149,6 +1150,7 @@
 ||advertserve.com^
 ||advertstream.com^
 ||advertwizard.com^
+||advg.jp^
 ||advideo.uimserv.net^
 ||adview.com^
 ||advimg.ad-mapps.com^
@@ -1318,6 +1320,8 @@
 ||analyzer54.fc2.com^
 ||analyzer55.fc2.com^
 ||ancientact.com^
+||android-defender-info.com^
+||android-protection.net^
 ||android.giveapp.jp^
 ||aniview.com^
 ||annonser.dagbladet.no^
@@ -1342,6 +1346,7 @@
 ||api.amplitude.com^
 ||api.appsflyer.com^
 ||api.cho-ro.club^
+||api.flipdesk.jp^
 ||api.gameanalytics.com^
 ||api.intensifier.de^
 ||api.inwemo.com^
@@ -1451,6 +1456,9 @@
 ||azvjudwr.info^
 ||b.grvcdn.com^
 ||b.smartnews.be^
+||b3.yahoo.co.jp^
+||b90.yahoo.co.jp^
+||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
 ||b97.yahoo.co.jp^
 ||ba.afl.rakuten.co.jp^
@@ -2191,6 +2199,7 @@
 ||effectivemeasure.com^
 ||effectivemeasure.net^
 ||efficaciouscactus.com^
+||eimg.jp^
 ||eiv.baidu.com^
 ||ejyymghi.com^
 ||elasticchange.com^
@@ -2647,6 +2656,7 @@
 ||imonitor.nethost.cz^
 ||imonomy.com^
 ||imp.asahi.com^
+||impact-ad.jp^
 ||importedincrease.com^
 ||impossibleexpansion.com^
 ||imprese.cz^
@@ -2730,6 +2740,7 @@
 ||itop.cz^
 ||its-that-easy.com^
 ||itsptp.com^
+||itvalleynews.com^
 ||ivwbox.de^
 ||ivykiosk.com^
 ||iwanttodeliver.com^
@@ -2768,6 +2779,7 @@
 ||js.next-channel.com^
 ||js.orca-pass.net^
 ||js.passaro-de-fogo.biz^
+||js.ptengine.jp^
 ||js.rush-member.com^
 ||js.users.51.la^
 ||js.winc-ad.com^
@@ -2810,6 +2822,7 @@
 ||kontera.com^
 ||kost.tv^
 ||koukoku.red^
+||kpia.shop^
 ||kpu.samsungelectronics.com^
 ||krxd.net^
 ||kt5850pjz0.com^
