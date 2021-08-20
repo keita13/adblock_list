@@ -88,7 +88,10 @@ download_list(){
 
 
 merge_block_list(){
-    i=0
+
+    echo "merge"
+    
+    local i=0
     local FILE_LIST=($(ls $BLOCK_TXT_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
