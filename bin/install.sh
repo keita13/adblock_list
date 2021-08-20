@@ -25,6 +25,14 @@ url_dnslist(){
 
     DNS_URL[1]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext"
     DNS_NAME[1]="pgl_yoyo.txt"
+    
+}
+
+copy_myrule(){
+
+    RULE_DIR="$HOME/doc"
+    cp -r "$RULE_DIR" "$DIR/tmp"
+
 }
 
 work_dir(){
@@ -168,6 +176,7 @@ make_dns_list(){
 main(){
 
     work_dir
+    copy_myrule
     url_blocklist
     url_dnslist
     #download_list
