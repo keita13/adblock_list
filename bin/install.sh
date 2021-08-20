@@ -81,7 +81,7 @@ merge_ublack_list(){
 
 merge_block_list(){
 
-    echo "Merge uBlocklist"
+    echo -e "\nMerge uBlocklist"
     
     local i=0
     local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
@@ -96,7 +96,7 @@ merge_block_list(){
 
 make_privoxy_list(){
 
-    echo "Make Privoxy list"
+    echo -e "\nMake Privoxy list"
     local i=0
     local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -145,7 +145,7 @@ make_privoxy_list(){
 
 make_dns_list(){
 
-    echo "Make Dns list"
+    echo -e "\nMake Dns list"
     local i=0
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
