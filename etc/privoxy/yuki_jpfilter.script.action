@@ -10,6 +10,7 @@
 .ascii\.jp/elem/000/.*/statistics-banner_
 .asobou\.co\.jp/blog/wp-content/uploads/2021/06/qubobanner\.png
 .at-a-gallop\.net/wp/wp-content/uploads/2020/03/NewGame-weekend\.png
+.autoc-one\.jp/images/article/202105/24012841895_6c42\.jpg
 .bbspirits\.com/wp/wp-content/uploads/2021/03/agn_video_320-50\.jpg
 .camp-fire\.jp/assets/cm/banner/header-
 .corriente\.top/wp-content/themes/gush2_child/images/AirPodsPro\.
@@ -116,7 +117,6 @@
 -ad3\.
 -adcompanion\.
 -ads-widget/
--ads\.gif
 -ads\.js\?
 -advertise/
 -advertisement_
@@ -197,10 +197,11 @@
 /700_100_
 /728-90-
 /728-90\.
-/728x90_
 /728x90-
 /728x90\.
 /728x90/.*
+/728x90\?
+/728x90_
 /728_90\.
 /728_90_
 /AD/Footer_
@@ -717,6 +718,7 @@
 /vast/ads-
 /video-ads/.*
 /video\.ads\.
+/videoJS/video-conrtib-ads\.js
 /video_ads/.*
 /videoads/.*
 /videojs\.ads\.
@@ -729,7 +731,6 @@
 /wp-auto-affiliate-links/.*
 /wp-bannerize/.*
 /wp-content/.*/an-temp/.*
-/wp-content/plugins/adsanity
 /wp-content/plugins/agreeable-button/.*
 /wp-content/plugins/deadblocker/.*
 /wp-content/plugins/eazy-ad-unblocker/.*
@@ -841,7 +842,6 @@ _top_ad_
 .ad-management\.biz[/&:?=_]
 .ad-spire\.net[/&:?=_]
 .ad\.abema\.io[/&:?=_]
-.ad\.gt[/&:?=_]
 .adap\.tv[/&:?=_]
 .adcdn\.goo\.ne\.jp[/&:?=_]
 .adclr\.jp[/&:?=_]
@@ -914,10 +914,12 @@ _top_ad_
 .cdn\.relaido\.jp[/&:?=_]
 .cdn4ads\.com[/&:?=_]
 .chengaib\.net[/&:?=_]
+.cherishexpertise\.com[/&:?=_]
 .click\.dtiserv2\.com[/&:?=_]
 .cnt\.affiliate\.fc2\.com[/&:?=_]
 .cocoad\.jp[/&:?=_]
 .coccyxwickimp\.com[/&:?=_]
+.comasoiling\.casa[/&:?=_]
 .combotag\.com[/&:?=_]
 .creamssicsite\.com[/&:?=_]
 .creativecarrer\.com[/&:?=_]
@@ -953,6 +955,7 @@ _top_ad_
 .dooloust\.net[/&:?=_]
 .dooonut-pf\.com[/&:?=_]
 .download\.my-gg\.com[/&:?=_]
+.dramaco\.xyz[/&:?=_]
 .dsp-socialgameinfo\.com[/&:?=_]
 .dynamic\.rakuten\.co\.jp[/&:?=_]
 .e-planning\.net[/&:?=_]
@@ -976,6 +979,7 @@ _top_ad_
 .g8cp5djk1j0r\.com[/&:?=_]
 .genieedmp\.com[/&:?=_]
 .genieesspv\.jp[/&:?=_]
+.get-me-wow\.xyz[/&:?=_]
 .glaiwhee\.net[/&:?=_]
 .glssp\.net[/&:?=_]
 .godfulsiums\.com[/&:?=_]
@@ -1017,6 +1021,7 @@ _top_ad_
 .js\.passaro-de-fogo\.biz[/&:?=_]
 .js\.rush-member\.com[/&:?=_]
 .js\.winc-ad\.com[/&:?=_]
+.jscdn\.online[/&:?=_]
 .juicyads\.com[/&:?=_]
 .justifiedcharmsmoustache\.com[/&:?=_]
 .kr-nativead\.com[/&:?=_]
@@ -1154,13 +1159,19 @@ _top_ad_
 .zero-tools\.com[/&:?=_]
 
 .03ed9035a0801f\.com[/&:?=_]
+.107\.148\.199\.181[/&:?=_]
+.107\.165\.206\.26[/&:?=_]
 .107\.187\.122\.172[/&:?=_]
 .12\.beautifulero\.com[/&:?=_]
+.137\.175\.69\.92[/&:?=_]
 .13hangpifa\.com[/&:?=_]
+.142\.0\.129\.74[/&:?=_]
 .148dfe140d0f3d5e\.com[/&:?=_]
+.156\.232\.37\.2[/&:?=_]
 .156\.246\.162\.2[/&:?=_]
 .163\.197\.167\.236[/&:?=_]
 .2020mustang\.com[/&:?=_]
+.216\.172\.154\.226[/&:?=_]
 .2526game\.com[/&:?=_]
 .2cnjuh34jbhub\.com[/&:?=_]
 .2cnjuh34jbman\.com[/&:?=_]
@@ -1180,6 +1191,7 @@ _top_ad_
 .3337765\.com[/&:?=_]
 .3337781\.com[/&:?=_]
 .3337783\.com[/&:?=_]
+.3338651\.com[/&:?=_]
 .3338808\.com[/&:?=_]
 .3338863\.com[/&:?=_]
 .3r1kwxcd\.top[/&:?=_]
@@ -1284,7 +1296,6 @@ _top_ad_
 .asuppsttp\.com[/&:?=_]
 .aulteeby\.net[/&:?=_]
 .autoizers\.info[/&:?=_]
-.av-yoyo\.com[/&:?=_]
 .awbbcre\.com[/&:?=_]
 .awcrpu\.com[/&:?=_]
 .awecre\.com[/&:?=_]
@@ -1377,6 +1388,7 @@ _top_ad_
 .caneswindfallquiver\.com[/&:?=_]
 .canonch\.pro[/&:?=_]
 .catiligh\.ru[/&:?=_]
+.catynydy\.com[/&:?=_]
 .cbanners\.virtuagirlhd\.com[/&:?=_]
 .cd-ads\.com[/&:?=_]
 .cdnativepush\.com[/&:?=_]
@@ -1401,6 +1413,7 @@ _top_ad_
 .clickpapa\.com[/&:?=_]
 .clicks\.pipaffiliates\.com[/&:?=_]
 .clicksondelivery\.com[/&:?=_]
+.clivads\.com[/&:?=_]
 .clknrtrg\.pro[/&:?=_]
 .clmcom\.com[/&:?=_]
 .clothingsphere\.com[/&:?=_]
@@ -1409,6 +1422,7 @@ _top_ad_
 .collationssunkenentire\.com[/&:?=_]
 .comalonger\.com[/&:?=_]
 .combatmootcrucial\.com[/&:?=_]
+.commonvivacious\.com[/&:?=_]
 .communits\.club[/&:?=_]
 .conjunctionbanner\.com[/&:?=_]
 .conquestdrawers\.com[/&:?=_]
@@ -1434,6 +1448,7 @@ _top_ad_
 .culttolerant\.com[/&:?=_]
 .cupidonmedia\.com[/&:?=_]
 .cupidrecession\.com[/&:?=_]
+.cyjaruvndimgaa\.com[/&:?=_]
 .cytcm\.com[/&:?=_]
 .cyzdyiccpwx\.com[/&:?=_]
 .czgjhotel\.com[/&:?=_]
@@ -1452,6 +1467,7 @@ _top_ad_
 .d3mshiiq22wqhz\.cloudfront\.net[/&:?=_]
 .d3mzokty951c5w\.cloudfront\.net[/&:?=_]
 .d3ou4areduq72f\.cloudfront\.net[/&:?=_]
+.d3rxg69tzsohtw\.cloudfront\.net[/&:?=_]
 .d99sure\.xyz[/&:?=_]
 .dadsimz\.com[/&:?=_]
 .dadspmz\.com[/&:?=_]
@@ -1501,10 +1517,12 @@ _top_ad_
 .dq3yxnlzwhcys\.cloudfront\.net[/&:?=_]
 .dqjazjbqrmrnhb\.com[/&:?=_]
 .dupiwipo\.xyz[/&:?=_]
+.duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j\.xyz[/&:?=_]
 .dxgo95ahe73e8\.cloudfront\.net[/&:?=_]
 .dxkkb5tytkivf\.cloudfront\.net[/&:?=_]
 .dyn\.empflix\.com[/&:?=_]
 .dyn\.tnaflix\.com[/&:?=_]
+.dynsrvtbg\.com[/&:?=_]
 .dyx0878\.cn[/&:?=_]
 .dzhjmp\.com[/&:?=_]
 .e2wysbacctt1\.com[/&:?=_]
@@ -1672,6 +1690,7 @@ _top_ad_
 .idiafix\.com[/&:?=_]
 .ie8eamus\.com[/&:?=_]
 .iicheewi\.com[/&:?=_]
+.iiueuenutuhaf\.com[/&:?=_]
 .ijsprocode\.com[/&:?=_]
 .ikcyxcbqmoptk\.com[/&:?=_]
 .img-ad-nex\.com[/&:?=_]
@@ -1699,6 +1718,7 @@ _top_ad_
 .jcwuzktevijp\.com[/&:?=_]
 .jehudf\.com[/&:?=_]
 .jggqgavrqkudu\.com[/&:?=_]
+.jicypigra\.com[/&:?=_]
 .jinrongwang\.net[/&:?=_]
 .jistvotestabl\.space[/&:?=_]
 .jj0453\.com[/&:?=_]
@@ -1725,6 +1745,7 @@ _top_ad_
 .kiolim\.com[/&:?=_]
 .kittenmilletfoggy\.com[/&:?=_]
 .kiynew\.com[/&:?=_]
+.klqyxeidr\.com[/&:?=_]
 .knivestuitionconsequence\.com[/&:?=_]
 .kogutcho\.net[/&:?=_]
 .konradsheriff\.com[/&:?=_]
@@ -1747,12 +1768,12 @@ _top_ad_
 .lauriestatuestroll\.com[/&:?=_]
 .lbaetmvw\.com[/&:?=_]
 .leaguenod\.com[/&:?=_]
+.lehutv6\.com[/&:?=_]
 .leojmp\.com[/&:?=_]
 .lhs-3844b\.com[/&:?=_]
 .liantmartier\.info[/&:?=_]
 .libertystmedia\.com[/&:?=_]
 .lilacdefencelessroyal\.com[/&:?=_]
-.line\.jzs001\.cn[/&:?=_]
 .link-medias\.com[/&:?=_]
 .liongetme\.com[/&:?=_]
 .lionquerychord\.com[/&:?=_]
@@ -1810,6 +1831,7 @@ _top_ad_
 .mrshield\.hopto\.org[/&:?=_]
 .mrskincash\.com[/&:?=_]
 .msgose\.com[/&:?=_]
+.muer\.cdn-baidu\.fs-sywh\.com[/&:?=_]
 .munchenviableski\.com[/&:?=_]
 .mutenessdollyheadlong\.com[/&:?=_]
 .mxjptfrxqaavdc\.com[/&:?=_]
@@ -1897,6 +1919,7 @@ _top_ad_
 .picturesdeepertwinkle\.com[/&:?=_]
 .pierlinks\.com[/&:?=_]
 .pinkpig2le8tt09\.com[/&:?=_]
+.pl8la42\.cn[/&:?=_]
 .plaguealacritytwitter\.com[/&:?=_]
 .plainwrk\.name[/&:?=_]
 .plantationthrillednoncommittal\.com[/&:?=_]
@@ -1984,6 +2007,7 @@ _top_ad_
 .rindicalapa\.fun[/&:?=_]
 .riotousgrit\.com[/&:?=_]
 .riverhit\.com[/&:?=_]
+.rjhbcghmln\.com[/&:?=_]
 .rkomf\.com[/&:?=_]
 .rkyijdrys\.com[/&:?=_]
 .rmcxyfqbm\.com[/&:?=_]
@@ -2021,6 +2045,7 @@ _top_ad_
 .shockingstrategynovelty\.com[/&:?=_]
 .shqbsdjatunl\.com[/&:?=_]
 .shubadubadlskjfkf\.com[/&:?=_]
+.shukriya90\.com[/&:?=_]
 .sireundermineoperative\.com[/&:?=_]
 .sketchinferiorunits\.com[/&:?=_]
 .slideff\.com[/&:?=_]
@@ -2051,6 +2076,7 @@ _top_ad_
 .stretchedcreepy\.com[/&:?=_]
 .stronglygathering\.com[/&:?=_]
 .strpjmp\.com[/&:?=_]
+.stugorezu\.com[/&:?=_]
 .sub\.xxx-porn-tube\.com[/&:?=_]
 .sub2\.avgle\.com[/&:?=_]
 .submissionspurtgleamed\.com[/&:?=_]
@@ -2129,6 +2155,7 @@ _top_ad_
 .varietyofdisplayformats\.com[/&:?=_]
 .vasgenerete\.site[/&:?=_]
 .vashebiwa\.pro[/&:?=_]
+.vasstycom\.com[/&:?=_]
 .venetrigni\.com[/&:?=_]
 .vfghc\.com[/&:?=_]
 .vggxxhton\.com[/&:?=_]
@@ -2183,7 +2210,6 @@ _top_ad_
 .xinqiannv\.com[/&:?=_]
 .xiongzhangad\.com[/&:?=_]
 .xiqgqftva\.com[/&:?=_]
-.xn--2qux23c9ziyrq\.club[/&:?=_]
 .xn--fjqz50cv5q3so\.ltd[/&:?=_]
 .xoassxowovsrk\.com[/&:?=_]
 .xouzmvlt\.com[/&:?=_]
@@ -2312,7 +2338,6 @@ _top_ad_
 .adsnative\.com[/&:?=_]
 .adspsp\.com[/&:?=_]
 .adsx\.online[/&:?=_]
-.adthrive\.com[/&:?=_]
 .adv\.imadrep\.co\.kr[/&:?=_]
 .adverticum\.net[/&:?=_]
 .advinci\.life[/&:?=_]
@@ -2428,6 +2453,7 @@ _top_ad_
 .beeashale\.club[/&:?=_]
 .beholder\.xyz[/&:?=_]
 .belezaedieta\.com[/&:?=_]
+.bendcauslesscauslessnotion\.com[/&:?=_]
 .berush\.com[/&:?=_]
 .bestcond1tions\.com[/&:?=_]
 .bestcontentproject\.top[/&:?=_]
@@ -2644,7 +2670,6 @@ _top_ad_
 .d31vxm9ubutrmw\.cloudfront\.net[/&:?=_]
 .d38itq6vdv6gr9\.cloudfront\.net[/&:?=_]
 .d39xxywi4dmut5\.cloudfront\.net[/&:?=_]
-.d3al52d8cojds7\.cloudfront\.net[/&:?=_]
 .d3c3uihon9kmp\.cloudfront\.net[/&:?=_]
 .d3dq1nh1l1pzqy\.cloudfront\.net[/&:?=_]
 .d3em0905j9y6sm\.cloudfront\.net[/&:?=_]
@@ -2673,8 +2698,10 @@ _top_ad_
 .dcfnihzg81pa\.com[/&:?=_]
 .deicemaptwin\.com[/&:?=_]
 .deligrassdull\.com[/&:?=_]
+.dkre4lyk6a9bt\.cloudfront\.net[/&:?=_]
 .ds88pc0kw6cvc\.cloudfront\.net[/&:?=_]
 .dealsnbuy\.com[/&:?=_]
+.decenterads\.com[/&:?=_]
 .declinedisobey\.com[/&:?=_]
 .ded733b374cc1c3f\.com[/&:?=_]
 .definedlaunching\.com[/&:?=_]
@@ -2736,6 +2763,7 @@ _top_ad_
 .dotrkme\.com[/&:?=_]
 .doublemax\.net[/&:?=_]
 .doufoacu\.net[/&:?=_]
+.downtonpudic\.com[/&:?=_]
 .dozubatan\.com[/&:?=_]
 .dpmsrv\.com[/&:?=_]
 .drasticdifferentfoetus\.com[/&:?=_]
@@ -2850,6 +2878,7 @@ _top_ad_
 .finkyepbows\.com[/&:?=_]
 .fiorenetwork\.com[/&:?=_]
 .fixchidie\.com[/&:?=_]
+.flabbyyolkinfection\.com[/&:?=_]
 .flatepicbats\.com[/&:?=_]
 .flatlyforensics\.com[/&:?=_]
 .flexlinks\.com[/&:?=_]
@@ -2920,6 +2949,7 @@ _top_ad_
 .glygrebedu\.pro[/&:?=_]
 .gmdsyfvwmqitz\.com[/&:?=_]
 .goaciptu\.net[/&:?=_]
+.goajuzey\.com[/&:?=_]
 .goalebim\.com[/&:?=_]
 .gobmodfoe\.com[/&:?=_]
 .goingsilltrusty\.com[/&:?=_]
@@ -3047,6 +3077,7 @@ _top_ad_
 .jighucme\.com[/&:?=_]
 .jltzknvw\.com[/&:?=_]
 .jnctgldbxc\.com[/&:?=_]
+.jnrtavp2x66u\.com[/&:?=_]
 .joastous\.com[/&:?=_]
 .joeyzzvkpjha\.com[/&:?=_]
 .jomtingi\.net[/&:?=_]
@@ -3092,6 +3123,7 @@ _top_ad_
 .kronosspell\.com[/&:?=_]
 .kustaucu\.com[/&:?=_]
 .kzfwvqylo\.com[/&:?=_]
+.ladnova\.info[/&:?=_]
 .ladsanz\.com[/&:?=_]
 .ladsatz\.com[/&:?=_]
 .lalaping\.com[/&:?=_]
@@ -3135,6 +3167,7 @@ _top_ad_
 .louchees\.net[/&:?=_]
 .loungepatientlyprogramme\.com[/&:?=_]
 .loxbeelid\.com[/&:?=_]
+.loxitdat\.com[/&:?=_]
 .lqeevjgkjjwi\.com[/&:?=_]
 .lubedlegionpea\.com[/&:?=_]
 .luqafzbdscd\.com[/&:?=_]
@@ -3215,6 +3248,7 @@ _top_ad_
 .moistblank\.com[/&:?=_]
 .mommygravelyslime\.com[/&:?=_]
 .monadplug\.com[/&:?=_]
+.moonads\.net[/&:?=_]
 .moonicorn\.network[/&:?=_]
 .moontuftboy\.com[/&:?=_]
 .mopedisods\.com[/&:?=_]
@@ -3284,6 +3318,7 @@ _top_ad_
 .nunailsum\.com[/&:?=_]
 .nunhoefey\.com[/&:?=_]
 .nutscolouredrefrain\.com[/&:?=_]
+.nymphacebids\.com[/&:?=_]
 .oadsouzi\.net[/&:?=_]
 .oagnatch\.com[/&:?=_]
 .obliteratebedblue\.com[/&:?=_]
@@ -3321,6 +3356,7 @@ _top_ad_
 .oranegfodnd\.com[/&:?=_]
 .orbsclawand\.com[/&:?=_]
 .osny2p7a0k\.com[/&:?=_]
+.otheredan\.space[/&:?=_]
 .otnolatrnup\.com[/&:?=_]
 .otrwaram\.com[/&:?=_]
 .oufauthy\.net[/&:?=_]
@@ -3351,6 +3387,7 @@ _top_ad_
 .pagiwp\.com[/&:?=_]
 .paht\.tech[/&:?=_]
 .pailridarm\.com[/&:?=_]
+.paintifiercute\.club[/&:?=_]
 .palasidesdoor\.com[/&:?=_]
 .pallorvain\.com[/&:?=_]
 .palpableequanimityshiver\.com[/&:?=_]
@@ -3377,6 +3414,7 @@ _top_ad_
 .permanentnearly\.com[/&:?=_]
 .petchesa\.net[/&:?=_]
 .petsuccessive\.com[/&:?=_]
+.petulantsubordinate\.com[/&:?=_]
 .peuzubuqo\.com[/&:?=_]
 .pgbxrigvbmdz\.com[/&:?=_]
 .pgmcdn\.com[/&:?=_]
@@ -3510,6 +3548,7 @@ _top_ad_
 .rimstipulatedeputy\.com[/&:?=_]
 .ringexpressbeach\.com[/&:?=_]
 .rjltpektsuqsu\.com[/&:?=_]
+.rndskittytor\.com[/&:?=_]
 .robberets\.site[/&:?=_]
 .robspabah\.com[/&:?=_]
 .rofwvvyp\.com[/&:?=_]
@@ -3553,12 +3592,14 @@ _top_ad_
 .separationreverttap\.com[/&:?=_]
 .servedby-buysellads\.com[/&:?=_]
 .servedbyadbutler\.com[/&:?=_]
+.services\.zam\.com[/&:?=_]
 .setpadchat\.com[/&:?=_]
 .sevenedgesteve\.com[/&:?=_]
 .sflywdvzyh\.com[/&:?=_]
 .shaidolt\.com[/&:?=_]
 .sheechoa\.com[/&:?=_]
 .sheenaup\.net[/&:?=_]
+.sheeroop\.com[/&:?=_]
 .shexawhy\.net[/&:?=_]
 .shinasi\.info[/&:?=_]
 .shingleintelligenceurge\.com[/&:?=_]
@@ -3570,6 +3611,7 @@ _top_ad_
 .shrillbighearted\.com[/&:?=_]
 .shrugartisticelder\.com[/&:?=_]
 .shusacem\.net[/&:?=_]
+.siasky\.net[/&:?=_]
 .sidearm-syndication\.s3\.amazonaws\.com[/&:?=_]
 .sidebyx\.com[/&:?=_]
 .sidewaybeings\.com[/&:?=_]
@@ -3647,6 +3689,7 @@ _top_ad_
 .suptaibo\.com[/&:?=_]
 .surfmdia\.com[/&:?=_]
 .sweepawejasper\.com[/&:?=_]
+.syncwowsails\.com[/&:?=_]
 .syndicpop\.com[/&:?=_]
 .synthesissocietysplitting\.com[/&:?=_]
 .syrupmagical\.com[/&:?=_]
@@ -3871,6 +3914,7 @@ _top_ad_
 .wt2noay3fgjn\.com[/&:?=_]
 .wuckaity\.com[/&:?=_]
 .wurtoosy\.com[/&:?=_]
+.wutipupi\.xyz[/&:?=_]
 .wvahelphpfnhyx\.com[/&:?=_]
 .wvekalpmn\.com[/&:?=_]
 .wwwpromoter\.com[/&:?=_]
@@ -3911,6 +3955,7 @@ _top_ad_
 .ylx-4\.com[/&:?=_]
 .ym-a\.cc[/&:?=_]
 .ym8p\.net[/&:?=_]
+.yonderprodigy\.com[/&:?=_]
 .youradexchange\.com[/&:?=_]
 .yourwebbars\.com[/&:?=_]
 .ypofozux\.xyz[/&:?=_]
@@ -4273,6 +4318,7 @@ _top_ad_
 .driver-times\.com/assets/sidebar_banner-
 .ds-b\.jp/media//files/libs/21767/
 .dshield\.org/images/dev522horizontalbanner\.png
+.duellinksmeta\.com/img/assets/website-ads\.
 .dvdfab\.cn/js/resource_isblock\.
 .dyncdn\.me/static/20/js/expla
 .dz4link\.com/play\.png
@@ -4639,6 +4685,7 @@ _top_ad_
 .mbok\.jp/image/sp/pr/.*/banner/
 .mbs\.jp/common/js/adsbygoogle\.
 .mcafee\.com/japan/home/linkshare/
+.mcc\.godaddy\.com/park/
 .mdn\.co\.jp/di/attach/src/ad/
 .mdpr\.jp/imobile_iframe\.html$
 .media\.complex\.com/common/cmnunt\.js
@@ -4686,6 +4733,7 @@ _top_ad_
 .n-kishou\.co\.jp/image/images/kanko/yamapbn_
 .nagasaki-np\.co\.jp/rs/js/insertAdTag\.
 .nagisaworks\.com/banner\.js
+.nakamap\.com/img/banner/
 .namjai\.cc/img/bnr/ban_
 .namjai\.cc/img/bnr/cpt_banner
 .nandokun\.com/templates/.*/ad/
@@ -4818,8 +4866,6 @@ _top_ad_
 .prepics\.com/gazo/img/banner/
 .press9\.gr\.jp/public/assets/img/press9_banner_
 .pximg\.net/source/dic/javascript/side_ads\.js
-.python-graph-gallery\.com/wp-content/uploads/data-vis-ad\.
-.python-graph-gallery\.com/wp-content/uploads/datacamp\.
 .qbhouse\.co\.jp/images/common/st_banner\.
 .qiita\.com/assets/public/.*/banner-640x160-
 .qiita\.com/assets/public/.*/banner-800x200-
@@ -4843,6 +4889,7 @@ _top_ad_
 .rallys\.online[/&:?=_].*/kindle_banner\.
 .rank\.colorful-instagram\.com/assets/banner1-
 .ranking\.prb\.jp/bn_img/bn_
+.raw\.githack\.com/.*/SpiderBlogging/main/antiadblock/2\.0/code\.min\.js
 .rdlp\.jp/wp/wp-content/themes/rdlp/header/img/header_haikei\.png
 .real-sports\.jp/pages/taboola\.html
 .real\.com/assets/share/images/common/banner_rpdlex\.
@@ -4944,6 +4991,7 @@ _top_ad_
 .store\.shimamura\.co\.jp/ec/images/ols/banner/
 .strcloud\.club/mainstream
 .streamp1ay\..*/jquery-
+.streamtape\.com/adult
 .streanplay\..*/jquery-
 .style--plus\.jp/img_r/side_bn/side-cta\.
 .style\.nikkei\.com/img/sp/react/banner/
@@ -5020,6 +5068,7 @@ _top_ad_
 .tsuhanshimbun\.com/user_data/packages/.*/roptbnr\.jpg
 .tsuiran\.jp/image/pr/
 .tsumanne\.net/maniax\.js
+.tubeoffline\.com/hh/
 .tubeoffline\.com/itbimg/
 .tubeoffline\.com/js/hot\.min\.js
 .tubeoffline\.com/vpn\.php
@@ -5065,12 +5114,13 @@ _top_ad_
 .vuukle\.com/ads/
 .wakudoki\.ne\.jp/ec/images/LS/
 .wakus\.jp[/&:?=_].*/amazon\.jpg
-.walmart\.com[/&:?=_].*/api/wpa\?
+.walmart\.com/cp/api/wpa\?
 .wanchan\.jp/c/.*/pro/resize/300x300/
 .wanchan\.jp/c/.*/pro/resize/600x600/
 .was\.livere\.me/ad[/&:?=_]
 .weather\.goo\.ne\.jp/content/img/s/banner/
 .web\.fisco\.jp/FiscoWeb/banner/
+.web\.lobi\.co/api/banners\?
 .web\.pref\.hyogo\.lg\.jp/images/cm\.
 .web\.tsite\.jp/resource/t-mall/hit/game_bnr_
 .webtan\.impress\.co\.jp/sites/default/files/images/seomoz/
@@ -5081,7 +5131,6 @@ _top_ad_
 .wikihow\.com/x/zscsucgm\?
 .win-tab\.net/wp-content/uploads/.*/banggood_
 .wired\.com/projects/CM-fallbacks/www/img/cm-failsafe-
-.wolfstream\.tv/twos\.js
 .wander-crown\.com/wp-content/uploads/2019/10/houtisyouzyo_2\.gif
 .wareko\.jp/blog/wp-content/uploads/2018/09/saiyasu-kakaku-anime2\.gif
 .wareko\.net/home/myImg/others/alien_ufo_200x158\.png
@@ -5260,6 +5309,7 @@ _top_ad_
 .cherrynudes\.com/t33638ba5008\.js
 .chil-chil\.net/banner_img/
 .chil-chil\.net/comp_ad_img/
+.chiryo-in\.jp/img/banner/fuzokujapan468-60\.gif
 .chopcdn\.com/tds/ztn\.cgi
 .cityheaven\.net/spfrontend/js/contentsbanner\.
 .ck-download\.com/design/banner_pc/
@@ -5298,7 +5348,6 @@ _top_ad_
 .dlsite\.com/js/blogparts\.
 .dmm-drt\.shinobi\.jp/view/runner\.js
 .dmm\.co\.jp/dmmad/
-.dmm\.co\.jp/litevideo/-/part/=/affi_id=
 .dogma-annex\.com/media/affiliate/
 .dorobou\.h\.fc2\.com/image/sp_bn\.jpg
 .dorobou\.h\.fc2\.com/sitagi/image/bbs2\.jpg
@@ -5350,6 +5399,7 @@ _top_ad_
 .erry\.one/video\.js
 .erry\.one/video_2\.js
 .exoav\.com/nb/nt\.js
+.ezjav\.com/p\.js
 .fakeporn\.tv/bb/
 .fanhaoh4\.com/skin/fanhao/img/index1\.
 .fapality\.com/contents/content_sources/
@@ -5411,6 +5461,7 @@ _top_ad_
 .hentai-foundry\.com/themes/Hentai/images/adinfo\.gif
 .hentai-foundry\.com/themes/Hentai/images/jugg-4\.gif
 .hentai2read\.com/cdn-cgi/apps/.*\.js
+.hentai2w\.com/templates/default/js/checkAb\.js
 .hentaicdn\.com/cdn/v2\.assets/js/ARFnet\.
 .hentaidude\.com/wp-content/themes/awp/assets/desktop\.js
 .hentaidude\.com/wp-content/themes/awp/assets/side\.js
@@ -5505,6 +5556,7 @@ _top_ad_
 .javout\.net/fo6\.js
 .javout\.net/videojs/anyhtm2\.js
 .javrave\.club/ads/
+.javsister\.com/wp-content/cache/min/1/sponsors/popunder\.js
 .javstore\.net/images/add-
 .javstore\.net/upload/exlogo/.*\.jpg$
 .javsubtitle\.co/sponsor/
@@ -5687,7 +5739,7 @@ _top_ad_
 .pornhost\.com/jscript/_features\.js
 .pornjam\.com/assets/js/renderer\.
 .porno666\.com/code/script/
-.pornone\.com/VPAIDFlash\.swf
+.pornone\.com/worker\.js
 .pornpics\.com[/&:?=_].*/anilos\.html
 .porntrex\.com/images/ph30-desk\.
 .porntube\.com/external/
@@ -5738,6 +5790,7 @@ _top_ad_
 .silky-love\.net/bana/
 .silky-love\.net/shimap\.html
 .silkysplus\.jp/images/banner/
+.simozo\.com/js/ad_
 .sm-miracle\.com/banner/
 .sm-miracle\.com/images/top/bnr/
 .soapbookmark\.jp/images/soap-bbs\.
@@ -5799,8 +5852,9 @@ _top_ad_
 .tuhentaionline\.com/publi/
 .tubxporn\.xxx/js/xp\.js
 .underhentai\.net/themes/undernet-bs3/adf/
-.upornia\.com/script/
 .uratok\.com/fhUaYi2t/link\.js
+.venusero\.com/wp-content/themes/mdt/js/tare\.
+.venusero\.com/wp-content/themes/mdt/js/tare2\.
 .video\.fc2\.com/a/pagead/
 .video\.fc2\.com/static/video/js/plr/tg/
 .vipergirls\.to/clientscript/popcode_
@@ -5880,6 +5934,7 @@ _top_ad_
 -universal-analytics/
 \.EventTracking\.
 \.analytics\.min\.
+\.com/_\.gif\?
 \.com/counter\?
 \.com/js/ga-.*\.js
 \.com/tp\.php\?
@@ -5955,6 +6010,7 @@ _top_ad_
 /a\.gif\?
 /a8c-analytics/.*
 /a_counts/chkDevice
+/aap/stats
 /ac\.php\?
 /acc\.cgi\?
 /acc\.php\?
@@ -6077,7 +6133,6 @@ _top_ad_
 /beacons-external\.
 /better-analytics/.*
 /bf\.gif\?ac=
-/bin/ll\?
 /bitrix/spread\.php\?
 /bkclick\?
 /blank\.gif\?.*%
@@ -6181,6 +6236,7 @@ _top_ad_
 /delstats/.*
 /demandbase_
 /dfpsvc\?
+/diffuser\.js
 /disp_cnt\.
 /dlpageping\?
 /dot\.gif\?
@@ -6390,6 +6446,7 @@ _top_ad_
 /log\?format=
 /log\?slog=
 /log\?type=
+/logAutoMicroConversion\?
 /logExecutionStats\?
 /logPerf\?
 /log_event\?
@@ -6603,7 +6660,6 @@ _top_ad_
 /sfa\.php
 /sfga\.js
 /shopify-boomerang-
-/sibulla/.*\.js
 /silveregg_tracking\.
 /sirabemasenka\.cgi\?
 /sitecatalyst\.js
@@ -6773,6 +6829,7 @@ _top_ad_
 /w\.gif\?
 /w_js\.php$
 /web-analytics\.
+/web-vitals\.
 /webAnalytics/.*
 /web_analytics/.*
 /web_page_view\?
@@ -6926,7 +6983,6 @@ cgi-bin/counter
 .analytics\.skyscanner\.net[/&:?=_]
 .analytics\.slashdotmedia\.com[/&:?=_]
 .analytics\.sleeknote\.com[/&:?=_]
-.analytics\.sqreem\.com[/&:?=_]
 .analytics\.snssdk\.com[/&:?=_]
 .analytics\.staticiv\.com[/&:?=_]
 .analytics\.styleplus\.ws[/&:?=_]
@@ -6955,7 +7011,6 @@ cgi-bin/counter
 .astat\.nikkei\.com[/&:?=_]
 .asumi\.shinobi\.jp[/&:?=_]
 .atm\.youku\.com[/&:?=_]
-.audience\.acpm\.fr[/&:?=_]
 .awaps\.yandex\.ru[/&:?=_]
 .awtvnrgwxletd\.com[/&:?=_]
 .ax\.xrea\.com[/&:?=_]
@@ -7045,6 +7100,7 @@ cgi-bin/counter
 .collector\.githubapp\.com[/&:?=_]
 .collector\.ozeex\.com[/&:?=_]
 .collector\.xhamster.*\..*[/&:?=_]
+.collector\.xhwebsite\.com[/&:?=_]
 .colvk\.viki\.io[/&:?=_]
 .comcluster\.cxense\.com[/&:?=_]
 .conductrics\.com[/&:?=_]
@@ -7068,6 +7124,7 @@ cgi-bin/counter
 .count3\.makeshop\.jp[/&:?=_]
 .counter\.jdi5\.com[/&:?=_]
 .counter\.joins\.com[/&:?=_]
+.counter\.kikibobo\.top[/&:?=_]
 .counter\.monkeybanana3\.com[/&:?=_]
 .counter\.people\.cn[/&:?=_]
 .counter\.pixplug\.in[/&:?=_]
@@ -7114,6 +7171,7 @@ cgi-bin/counter
 .d335luupugsy2\.cloudfront\.net[/&:?=_]
 .d35u1vg1q28b3w\.cloudfront\.net[/&:?=_]
 .d3c3cq33003psk\.cloudfront\.net[/&:?=_]
+.d3qxwzhswv93jk\.cloudfront\.net[/&:?=_]
 .d3tglifpd8whs6\.cloudfront\.net[/&:?=_]
 .d81mfvml8p5ml\.cloudfront\.net[/&:?=_]
 .da\.netease\.com[/&:?=_]
@@ -7140,7 +7198,6 @@ cgi-bin/counter
 .docomo-analytics\.com[/&:?=_]
 .drlimmode9ddd\.cloudfront\.net[/&:?=_]
 .ds-aksb-a\.akamaihd\.net[/&:?=_]
-.dsp-adcreative\.mobshark\.net[/&:?=_]
 .dumpster\.cam4\.com[/&:?=_]
 .dup\.baidustatic\.com[/&:?=_]
 .dyv1bugovvq1g\.cloudfront\.net[/&:?=_]
@@ -7562,6 +7619,7 @@ cgi-bin/counter
 .somni\.dxc\.technology[/&:?=_]
 .somt\.honda\.com[/&:?=_]
 .sourcepoint\.theguardian\.com[/&:?=_]
+.sourcepointcmp\.bloomberg\.com[/&:?=_]
 .sp\.usatoday\.com[/&:?=_]
 .spanids\.dictionary\.com[/&:?=_]
 .spanids\.thesaurus\.com[/&:?=_]
@@ -7581,7 +7639,6 @@ cgi-bin/counter
 .sstats\.adobe\.com[/&:?=_]
 .stack-sonar\.com[/&:?=_]
 .stackadapt\.com[/&:?=_]
-.stand\.fm/api/log/
 .starman\.fathomdns\.com[/&:?=_]
 .stat\..*\.v-56\.com[/&:?=_]
 .stat\.adultium\.com[/&:?=_]
@@ -7784,7 +7841,6 @@ cgi-bin/counter
 .x\.allabout\.co\.jp[/&:?=_]
 .x\.babe\.today[/&:?=_]
 .x9\.shinobi\.jp[/&:?=_]
-.xg4ken\.com[/&:?=_]
 .xiti\.com[/&:?=_]
 .xoxo5-eng\.spankbang\.com[/&:?=_]
 .xray\.mail\.ru[/&:?=_]
@@ -7935,8 +7991,10 @@ cgi-bin/counter
 .career\.nikkei\.com/netapi/api/registpv/
 .casabrutus\.com/wp-content/themes/casabrutus/assets/js/cx-
 .cbnews\.jp/visitor_survey/
+.cbsaavideo\.com/measurements/
 .cbsi\.com/lib/api/client-info
 .cbsistatic\.com[/&:?=_].*/siteTracking\.js
+.cbsivideo\.com/measurements/
 .cdn\.1337x\.to/ip.*\.php
 .cdnen\.rt\.com/static/js/libs/counters
 .ceair\.com/analysize/
@@ -8060,6 +8118,7 @@ cgi-bin/counter
 .feeds\.feedburner\.com/~fc/
 .fensi\.plus[/&:?=_].*/tracking/
 .ferret-one\.akamaized\.net/assets/mktr\.js
+.fingerprintjs\.com/visitors/
 .flipboard\.com/usage\?
 .flyasiana\.com/ykjEIhcZLYg2zoOOoA/
 .flyasiana\.com[/&:?=_].*/googleAnalysisAjax\.
@@ -8124,6 +8183,7 @@ cgi-bin/counter
 .hsforms\.com[/&:?=_].*/counters\.gif
 .html5games\.com/event/
 .hubspot\.com/analytics/
+.hulu\.com/api/v1/page-hit
 .hulu\.com/metricsconfig
 .hunk-ch\.com/js/click_log_
 .hupso\.com[/&:?=_].*/counters\.
@@ -8280,6 +8340,7 @@ cgi-bin/counter
 .msn\.com/collect/
 .mtalk\.tokyo[/&:?=_].*/ebs\.log\.js
 .mtrf\.net/fpc/
+.mtvnservices\.com/measurements/
 .my\.dmm\.com/js/common/redshield\.
 .myaccount\.google\.com/_/AccountSettingsUi/jserror
 .myanimelist\.net/static/logging\.html
@@ -8306,9 +8367,7 @@ cgi-bin/counter
 .netu\.io/js/netu_counters\.js
 .newmofu\.com/json/clickranking/
 .newmofu\.com/json/rranking/
-.news\.google\.com/_/DotsSplashUi/gen204/
 .news\.google\.com/_/DotsSplashUi/jserror
-.news\.google\.com/_/SubscribewithgoogleClientUi/gen204/
 .news\.google\.com/_/v
 .newscast\.jp/api/tracking
 .newzit\.com/setABframe\.html
@@ -8506,6 +8565,7 @@ cgi-bin/counter
 .ssl\.pstatic\.net/static\.gn/js/clickcrD\.js
 .staff-start\.com/js/track/
 .staff-start\.com/track/
+.stand\.fm/api/log/
 .stat\.i3\.dmm\.com/latest/js/dmm\.tracking\.
 .static-cf\.afreecatv\.com/asset/service/common/common_analysis\.js
 .static-cf\.cleverbridge\.com[/&:?=_].*/cleverAnalytics\.
@@ -8571,7 +8631,6 @@ cgi-bin/counter
 .validate\.onecount\.net/onecount/automation/a\.php\?__cuuid=
 .vdist\.link/vtag\.
 .vee24\.com/c/PageBehaviour\?
-.veoh\.com/increment-view-count-by-id$
 .veritrans\.co\.jp/bcon/
 .vesti\.ru/counter/
 .vexfile\.com/img/cofksar\.png
@@ -8610,15 +8669,12 @@ cgi-bin/counter
 .yoox\.it/storage/rd/yorb/
 .yottaa\.com/rapid\.min\.js
 .youku\.com[/&:?=_].*/click\.php\?
-.youtube-nocookie\.com/api/stats/atr
 .youtube-nocookie\.com/api/stats/delayplay\?
 .youtube-nocookie\.com/api/stats/qoe\?
 .youtube-nocookie\.com/ptracking\?
-.youtube\.com/api/stats/atr
 .youtube\.com/api/stats/delayplay\?
 .youtube\.com/api/stats/qoe\?
 .youtube\.com/ptracking\?
-.ytmp3\.cc/bn/
 .w-nexco\.co\.jp/js/gaEventTracing\.
 .walmart\.com/client/api/logs
 .walmart\.com/client/api/metrics
@@ -8649,6 +8705,7 @@ cgi-bin/counter
 .xrea\.com/x/count/dayx
 .yandex\.com/clck/
 .yandex\.ru/clck/click
+.yandexcdn\.com/ajax\.php
 .za\.zalo\.me/v.*/w/_zaf\.gif
 .zapi\.findfriends\.jp/tracker/
 .zawazawa\.jp/a/pv/
@@ -8800,11 +8857,18 @@ cgi-bin/counter
 
 .archertube\.com/at/
 .berryporn\.com/bp/
+.elephanttubenew\.com/js/omenu2\.js
+.erosite1012\.com/pickup_item/images/
+.freeporn\.works/seven\.aspx\?
+.fucktube\.work/busy\.xhtml\?
+.homemating\.com/js/random\.js
 .hotsextube\.tv/hst/
 .hqprn\.com/hp/
-.tropictube\.com/tt/
-.erosite1012\.com/pickup_item/images/
+.porno-hub\.me/common-js/exit/
 .pussyplunge\.com/bounce\.js
+.sexxx\.kim/literature\.xhtml\?
+.tropictube\.com/tt/
+.xvideo\.party/shop\.aspx\?
 
 
 
@@ -8906,6 +8970,7 @@ cgi-bin/counter
 .h-gakuen\.jp/html/mobile/images/ad\.gif
 .h-port\.net/css/ad\.css
 .hana-navi\.jp/images/ad/top\.gif
+.happyhotel\.jp/ad/image/lovepro2021\.jpg
 .harmonic-sound\.com/wp-content/uploads/ad01\.jpg
 .hcaptcha\.com[/&:?=_].*/api\.js\?
 .hokkoku\.co\.jp/banner/banner_bousai\.jpg$
@@ -9009,6 +9074,7 @@ cgi-bin/counter
 .sincerlheart\.jp/ad/index\.css
 .singerpro\.me/ad/img/pantsu\.jpg
 .sportsbull\.jp/assets/.*/ga\.js
+.stats\.hprofits\.com/advertisement\.js
 .takarakasei-net\.co\.jp/images/ad\.gif
 .takken-k\.co\.jp/images/ad\.gif
 .tcsaa\.jp/images/ad/images20140728170901\.jpg
@@ -9023,6 +9089,7 @@ cgi-bin/counter
 .torrentz\.adtrackers\.net/mgid/ad\.js
 .torrentz\.bannertrack\.net/mgid/ad\.js
 .tottori-green\.or\.jp/images/ad\.gif
+.trj\.valuecommerce\.com/vcushion\.js
 .vbm\.link/v/wp-content/themes/vbw2012/images/ad/hdg-ad\.jpg
 .video\.xscore\.co\.jp/css/ads\.css
 .vippers\.jp/settings/ad\.js
@@ -9045,6 +9112,7 @@ cgi-bin/counter
 .zenjukyo\.gr\.jp/wp/wp-content/uploads/2019/03/ad4\.gif
 .zetadental\.jp/themes/zetadental/images/banner/ad_r1\.png
 .zinro\.net/m/log\.php
+/wp-content/plugins/quick-adsense-reloaded/assets/js/ads\.js
 .a\.sofmap\.com/ec/contents/animega/banner/stellamap_ban_600x160\.png
 .actzero\.jp/.*/service/smm/txt_ad_achievement\.png
 .ads-i\.org/images/ads1\.jpg
@@ -9060,6 +9128,7 @@ cgi-bin/counter
 .bfhotel\.net/archives/ad_banner1\.gif
 .bfhotel\.net/archives/ad_banner2\.gif
 .biz\.toyokeizai\.net/files/user/images/logo_ad\.png\?
+.buzztter\.co\.jp/wp-content/uploads/2019/08/what-listing-ads\.gif
 .cs9\.co\.jp/ads/main\.css
 .dancesagasu\.net/shared/images/ads-bt_contact\.gif
 .dancesagasu\.net/shared/images/ads_tit-ads\.gif
@@ -9212,7 +9281,8 @@ _300x250
 .daiwahouse\.com/ad/images/index_
 .deai\.for-ladies\.com/link/banner/468x60-
 .dmlab\.jp/images/ads/
-.dmm\.co\.jp/mono/movie/adult/
+.dmm\.co\.jp/mono/actjpgs/
+.dmm\.co\.jp/mono/movie/
 .dokuritsu\.mynavi\.jp/img/ad/inquiry/
 .dr\.medicareer\.jp/images/ad/ad_
 .dxlive\.com[/&:?=_]
@@ -9416,6 +9486,7 @@ _300x250
 .info\.es-navi\.com/include/ads/img/
 .k-ijishinpo\.jp/old/images/webpage/advertising_
 .kochinews\.co\.jp/ad/index_
+.kougei\.jp/images/.*-ads\.gif
 .low-ya\.com/banners/.*/PC_368x75\.jpg\?
 .mobygames\.com/images/covers/
 .monorail-agency\.co\.jp/ad/image/img_ad_

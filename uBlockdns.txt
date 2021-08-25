@@ -1350,6 +1350,7 @@
 ||api.primecaster.net^
 ||api.relaido.jp^
 ||api.repro.io^
+||api.rudderlabs.com^
 ||api.saypromo.net^
 ||api.uca.cloud.unity3d.com^
 ||api.webpush.jp^
@@ -2048,9 +2049,11 @@
 ||dacdn.visualwebsiteoptimizer.com^
 ||dacdn.vwo.com^
 ||dakic-ia-300.com^
+||damageddistance.com^
 ||damdoor.com^
 ||dancemistake.com^
 ||dapper.net^
+||dapperfloor.com^
 ||dashbida.com^
 ||dashingdirt.com^
 ||dashingsweater.com^
@@ -3830,6 +3833,7 @@
 ||samsungads.com^
 ||samuraiclick.com^
 ||san-ni-ichi.com^
+||sanity-dataplane.rudderstack.com^
 ||saygames.sfo2.cdn.digitaloceanspaces.com^
 ||saypromo.sfo2.cdn.digitaloceanspaces.com^
 ||saysidewalk.com^
@@ -4139,6 +4143,7 @@
 ||sugarcurtain.com^
 ||sugoicounter.com^
 ||sulkybutter.com^
+||sulkycook.com^
 ||sumapo.org^
 ||summerhamster.com^
 ||summerobject.com^
