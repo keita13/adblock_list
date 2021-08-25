@@ -104,7 +104,8 @@ make_privoxy_list(){
 
     echo -e "\nMake Privoxy list"
     local i=0
-    local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
+    #local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
+    local FILE_LIST=($(ls $UBLOCKLIST_DIR/uBlockOrigin.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
 	echo -e "\n${FILE_LIST[i]}"
