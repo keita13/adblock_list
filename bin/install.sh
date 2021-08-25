@@ -176,9 +176,10 @@ main(){
     adblock_init
     download_list
 
+    merge_block_list
     make_privoxy_list
     make_dns_list
-    merge_block_list
+    #merge_block_list
     merge_ublack_list
 
     echo -e "\ngit"
