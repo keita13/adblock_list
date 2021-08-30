@@ -68,6 +68,7 @@
 *://*.ghcc.net/*
 *://*.githubmemory.com/*
 *://*.gitmemory.com/*
+*://*.ha-navi.com/*
 *://*.helloworldkb.com/*
 *://*.helpex.vn/*
 *://*.hi.qaru.tech/*
@@ -3974,6 +3975,7 @@
 *://*.linkfang.org/*
 *://*.living-sun.com/*
 *://*.melayukini.net/*
+*://*.newbedev.com/*
 *://*.nico-ran.jp/*
 *://*.nicoapple.sub.jp/*
 *://*.nicochart.jp/*
@@ -5659,6 +5661,7 @@
 *://*.voidcc.com/*
 *://*.while-do.com/*
 *://*.wikiarabi.org/*
+*://*.wikiwand.com/*
 *://*.www.366service.com/*
 *://*.www.it-swarm-ja.tech/*
 *://*.www.it-swarm.dev/*

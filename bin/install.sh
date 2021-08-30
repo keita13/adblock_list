@@ -4,6 +4,7 @@ sedcmd=${SEDCMD:-sed}
 NAME_280=($(date -d '1 month' "+%Y%m"))
 echo $NAME_280
 
+cd $HOME
 #FILE_DIR FILE_NAME FILE_URL
 download_list(){
 

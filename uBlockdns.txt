@@ -205,7 +205,6 @@
 ||ad.hodomobile.com^
 ||ad.hyena.cz^
 ||ad.iinfo.cz^
-||ad.ilove.ch^
 ||ad.impressbm.co.jp^
 ||ad.infoseek.com^
 ||ad.internetcom.jp^
@@ -813,7 +812,6 @@
 ||ads.rediff.com^
 ||ads.redlightcenter.com^
 ||ads.revjet.com^
-||ads.satyamonline.com^
 ||ads.saymedia.com^
 ||ads.schmoozecom.net^
 ||ads.scifi.com^
@@ -1522,7 +1520,6 @@
 ||banners.freett.com^
 ||banners.friendfinder.com^
 ||banners.getiton.com^
-||banners.golfasian.com^
 ||banners.iq.pl^
 ||banners.isoftmarketing.com^
 ||banners.linkbuddies.com^
@@ -2856,6 +2853,7 @@
 ||leaplunchroom.com^
 ||lemmatechnologies.com^
 ||lettucelimit.com^
+||levelrate.de^
 ||lever-analytics.com^
 ||lfeeder.com^
 ||lfstmedia.com^
@@ -2939,7 +2937,6 @@
 ||look.ichlnk.com^
 ||look.opskln.com^
 ||look.udncoeln.com^
-||look.ufinkln.com^
 ||loopme.com^
 ||lop.com^
 ||loudlunch.com^
@@ -3557,7 +3554,6 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||proper.io^
-||props.id^
 ||prosper.on-line-casino.ca^
 ||prosumsit.com^
 ||protectcrev.com^
@@ -3755,7 +3751,6 @@
 ||richmails.com^
 ||richmedia.yimg.com^
 ||richstring.com^
-||richwebmaster.com^
 ||rightstats.com^
 ||rihzsedipaqq.com^
 ||rinad.jp^
@@ -4775,4 +4770,5 @@
 ||zqtk.net^
 ||zucks.net^
 ||zukxd6fkxqn.com^
+||zy16eoat1w.com^
 ||zzhc.vnet.cn^
