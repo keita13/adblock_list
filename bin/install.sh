@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sedcmd=${SEDCMD:-sed}
-NAME_280=($(date -d '1 month' "+%Y%m"))
+NAME_280=($(date "+%Y%m"))
 echo $NAME_280
 
 #cd $HOME
