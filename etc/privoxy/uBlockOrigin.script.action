@@ -2407,7 +2407,6 @@ _analytics\.js\?
 &ad_type=
 &adserver=
 &adslot=
-&advert_
 .*/wp-content/plugins/adsanity
 -160x600-
 -300x250_
@@ -3069,9 +3068,7 @@ _analytics\.js\?
 \?adid=
 \?adspot_
 \?adtype=
-\?ad_type=
 \?bannerid=
-\?vmAdID=
 _120_600\.
 _120x600\.
 _160x600-
@@ -3108,7 +3105,6 @@ _ad2\.
 _ad_banner\.
 _ad_box\.
 _ad_change\.
-_ad_code\.
 _ad_count=
 _adhome_
 _adhoriz\.
@@ -3785,6 +3781,7 @@ _top_ad_
 .d3beefy8kd1pr7\.cloudfront\.net[/&:?=_]
 .d3hj4iyx6t1waz\.cloudfront\.net[/&:?=_]
 .d3hs51abvkuanv\.cloudfront\.net[/&:?=_]
+.d3iih5w7xp5hdg\.cloudfront\.net[/&:?=_]
 .d3j7esvm4tntxq\.cloudfront\.net[/&:?=_]
 .d3mshiiq22wqhz\.cloudfront\.net[/&:?=_]
 .d3mzokty951c5w\.cloudfront\.net[/&:?=_]
@@ -4925,6 +4922,7 @@ _top_ad_
 .coaphauk\.net[/&:?=_]
 .coccusadmanlob\.com[/&:?=_]
 .cogleapad\.com[/&:?=_]
+.coherepeasant\.com[/&:?=_]
 .coinadster\.com[/&:?=_]
 .coinverti\.com[/&:?=_]
 .coljledqo\.com[/&:?=_]
@@ -5162,6 +5160,7 @@ _top_ad_
 .emuwanflat\.com[/&:?=_]
 .encasedandelionhauled\.com[/&:?=_]
 .enkayijamal\.club[/&:?=_]
+.ensignpancreasrun\.com[/&:?=_]
 .eonwayaha\.com[/&:?=_]
 .eqads\.com[/&:?=_]
 .equipmentshorterradiation\.com[/&:?=_]
@@ -5763,6 +5762,7 @@ _top_ad_
 .paternalhumiliate\.com[/&:?=_]
 .patgsrv\.com[/&:?=_]
 .pattyheadlong\.com[/&:?=_]
+.pauzajoo\.net[/&:?=_]
 .pawheatyous\.com[/&:?=_]
 .peekcogentpope\.com[/&:?=_]
 .pengenanu\.files\.im[/&:?=_]
@@ -5918,6 +5918,7 @@ _top_ad_
 .roilsnadirink\.com[/&:?=_]
 .rontent\.powvibeo\.cc[/&:?=_]
 .roserobotx\.online[/&:?=_]
+.rotdubboy\.com[/&:?=_]
 .roujaufu\.net[/&:?=_]
 .roujonoa\.net[/&:?=_]
 .rowframemailer\.com[/&:?=_]
@@ -5954,6 +5955,7 @@ _top_ad_
 .sellerbackstagejolly\.com[/&:?=_]
 .sendmepush\.com[/&:?=_]
 .separationreverttap\.com[/&:?=_]
+.serdaive\.com[/&:?=_]
 .servedby-buysellads\.com[/&:?=_]
 .servedbyadbutler\.com[/&:?=_]
 .services\.zam\.com[/&:?=_]
@@ -6809,8 +6811,6 @@ _top_ad_
 .google\.com/adsense/domains
 .google\.com/adsense/search/
 .google\.com/pagead/
-.google\.com/uds/\?file=ads&
-.google\.com/uds/api/ads/
 .googlesyndication\.com/pagead/
 .goonews\.jp/common/img/header/beforward_bnr\.
 .goonews\.jp/common/img/sub/right/
@@ -7191,6 +7191,7 @@ _top_ad_
 .p\.dmm\.com/p/pf/card/bnr/
 .p\.dmm\.com/p/pf/page/statics/special/
 .p-bandai\.jp/bc/images/linkshare/
+.pandarticles\.com/articles/wp-content/uploads/.*-ads\.png
 .paraft\.jp/img/bnr/bnr_
 .paraft\.jp/img/bnr/paraft_bnr_
 .pawoo\.net/packs/media/pawoo/images/about/banner-
@@ -7390,7 +7391,6 @@ _top_ad_
 .tei\.ai/sw\.js
 .tenhou\.net/ad1\.js
 .tenpo\.biz[/&:?=_].*/lp/csc/img/csc_tentsu\.
-.tgiw\.info/amazon6\.html
 .the-ans\.info[/&:?=_].*_600_200\.jpg$
 .the-ans\.info[/&:?=_].*_banner\.jpg$
 .thepiratebay\.uproxy\..*/helper-js
@@ -7953,6 +7953,7 @@ _top_ad_
 .js\.gazo\.space/tagjpa\.php\?
 .js\.jialingmm\.net/dm/history\.js
 .jsdelivr\.net/gh/.*/960x100\.gif
+.jsdelivr\.net/gh/RockBlogger/Anti-AdBlocker@main/
 .jsdelivr\.net/gh/sedaddy/cdn/sedaddy\.
 .jsdelivr\.net/gh/yaofa88/bifa@main/.*960
 .justjavhd\.com[/&:?=_].*/300\.gif
@@ -10005,7 +10006,6 @@ cgi-bin/counter
 .somni\.dxc\.technology[/&:?=_]
 .somt\.honda\.com[/&:?=_]
 .sourcepoint\.theguardian\.com[/&:?=_]
-.sourcepointcmp\.bloomberg\.com[/&:?=_]
 .sp\.usatoday\.com[/&:?=_]
 .spanids\.dictionary\.com[/&:?=_]
 .spanids\.thesaurus\.com[/&:?=_]
@@ -10060,6 +10060,7 @@ cgi-bin/counter
 .strack\.softbankhawksstore\.jp[/&:?=_]
 .stt\.dell\.com[/&:?=_]
 .sugoicounter\.com[/&:?=_]
+.sulkycook\.com[/&:?=_]
 .summerhamster\.com[/&:?=_]
 .sumome\.com[/&:?=_]
 .swa\.and\.co\.uk[/&:?=_]
