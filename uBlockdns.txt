@@ -1,4 +1,3 @@
-||1-1ads.com^
 ||100651.advision-adnw.jp^
 ||101com.com^
 ||101order.com^
@@ -241,7 +240,6 @@
 ||ad.prv.pl^
 ||ad.rarure.com^
 ||ad.response.jp^
-||ad.reunion.com^
 ||ad.sensismediasmart.com.au^
 ||ad.simflight.com^
 ||ad.simgames.net^
@@ -1249,6 +1247,7 @@
 ||allmyverygreatlife.com^
 ||allosponsor.com^
 ||alogs.umengcloud.com^
+||aloofmetal.com^
 ||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
@@ -1762,7 +1761,6 @@
 ||cdnprism.pandora.tv^
 ||cdns.lodeo.io^
 ||cdp.cloud.unity3d.com^
-||cecash.com^
 ||cedato.com^
 ||celtra.com^
 ||centerpointmedia.com^
@@ -1862,6 +1860,7 @@
 ||clksite.com^
 ||clktrx.com^
 ||cloisteredhydrant.com^
+||closedcows.com^
 ||cloudcoins.biz^
 ||cloudflareinsights.com^
 ||cloudmobi.net^
@@ -2559,7 +2558,6 @@
 ||hlok.qertewrt.com^
 ||hm.mieru-ca.com^
 ||hocgeese.com^
-||hollps.win^
 ||homelycrown.com^
 ||homepageking.de^
 ||honeygoldfish.com^
@@ -3200,6 +3198,7 @@
 ||n259adserv.com^
 ||n69.com^
 ||naj.sk^
+||nappyattack.com^
 ||naradxb.com^
 ||nastydollars.com^
 ||native.propellerads.com^
@@ -3406,6 +3405,7 @@
 ||panickypancake.com^
 ||paradoxfactor.com^
 ||parchedangle.com^
+||parchedsofa.com^
 ||parketsy.pro^
 ||parsely.com^
 ||parsimoniouspolice.com^
@@ -3557,6 +3557,7 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||proper.io^
+||props.id^
 ||prosper.on-line-casino.ca^
 ||prosumsit.com^
 ||protectcrev.com^
@@ -4027,6 +4028,7 @@
 ||sponsorads.de^
 ||sponsorpro.de^
 ||sponsors.thoughtsmedia.com^
+||spookysleet.com^
 ||sportsad.net^
 ||spot-01.atas.io^
 ||spot-01.trackingpro.pro^
@@ -4137,6 +4139,7 @@
 ||strivesidewalk.com^
 ||structurerod.com^
 ||stupendoussleet.com^
+||stupendoussnow.com^
 ||sub2.avgle.com^
 ||subscribe.hearstmags.com^
 ||succeedscene.com^
@@ -4276,6 +4279,7 @@
 ||tidaltv.com^
 ||tidint.pro^
 ||tinybar.com^
+||tinytendency.com^
 ||tiresomethunder.com^
 ||tk.mobri.jp^
 ||tkbo.com^
