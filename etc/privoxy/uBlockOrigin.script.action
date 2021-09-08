@@ -2718,7 +2718,6 @@ _analytics\.js\?
 /banner468x60_live173\.
 /banner_ad\.
 /bannerbridge\.js
-/banners.*swf
 /banners/ad_
 /bens/vinos\.js
 /bens/vinos3\.js
@@ -2740,6 +2739,8 @@ _analytics\.js\?
 /chaturbate\.php
 /clc\?aid=
 /clog_ad\.js
+/cmbdv2\.js
+/cmbv2\.js
 /code/native\.js\?h=
 /code/pops\.js\?h=
 /code/silent\.js\?h=
@@ -3412,6 +3413,7 @@ _top_ad_
 .revrtb\.com[/&:?=_]
 .rossoad\.com[/&:?=_]
 .rotfrigilityfrigility\.com[/&:?=_]
+.s\.skimresources\.com[/&:?=_]
 .sail-horizon\.com[/&:?=_]
 .sankei2ad\.durasite\.net[/&:?=_]
 .sda\.seesaa\.jp[/&:?=_]
@@ -3657,6 +3659,7 @@ _top_ad_
 .basisendingabattoir\.com[/&:?=_]
 .bate\.cum-shows\.net[/&:?=_]
 .baufaich\.com[/&:?=_]
+.baywednesday\.com[/&:?=_]
 .bbnfcfrvjs\.com[/&:?=_]
 .bbvdd\.com[/&:?=_]
 .bcloudhost\.com[/&:?=_]
@@ -4684,6 +4687,7 @@ _top_ad_
 .abodealley\.com[/&:?=_]
 .adop\.pw[/&:?=_]
 .adopalstroy\.com[/&:?=_]
+.adoptum\.net[/&:?=_]
 .adornmadeup\.com[/&:?=_]
 .adpay\.network[/&:?=_]
 .adpia\.vn[/&:?=_]
@@ -5217,7 +5221,6 @@ _top_ad_
 .eyeshadowappellationshady\.com[/&:?=_]
 .eyevfswxtcij\.com[/&:?=_]
 .ezexfzek\.com[/&:?=_]
-.ezoic\.net[/&:?=_]
 .ezojs\.com[/&:?=_]
 .ezrvmxshalr\.com[/&:?=_]
 .f8205a529477e1\.com[/&:?=_]
@@ -5710,6 +5713,7 @@ _top_ad_
 .notesbook\.in[/&:?=_]
 .noughttrustthreshold\.com[/&:?=_]
 .nouseeth\.com[/&:?=_]
+.nsdzrhsb\.com[/&:?=_]
 .nsparket\.top[/&:?=_]
 .ntdvjlvau\.com[/&:?=_]
 .nthfundog\.com[/&:?=_]
@@ -5993,6 +5997,7 @@ _top_ad_
 .scripsjeermint\.com[/&:?=_]
 .sdhfbvd\.com[/&:?=_]
 .sdmfyqkghzedvx\.com[/&:?=_]
+.sdxqusoze\.com[/&:?=_]
 .seaofads\.com[/&:?=_]
 .seektravelingdiffident\.com[/&:?=_]
 .selfswayjay\.com[/&:?=_]
@@ -10138,6 +10143,7 @@ cgi-bin/counter
 .sync\.richmediastudio\.com[/&:?=_]
 .sync\.wowma\.jp[/&:?=_]
 .sysmon\.kakaku\.com[/&:?=_]
+.t.*\.zcvh\.net[/&:?=_]
 .t\.9gag\.com[/&:?=_]
 .t\.beop\.io[/&:?=_]
 .t\.blog\.livedoor\.jp[/&:?=_]
@@ -11941,6 +11947,7 @@ _300x250
 .arthousing\.net/sys/ad/upload/
 .blogging-life\.com/wp-content/uploads/.*/AdSense-
 .coachandfour\.ne\.jp/cfwp/wp-content/themes/staffTemplate/imgs/ad/ad_
+.confirmit\.com/isa/
 .cs9\.co\.jp/ads/img/
 .daikin\.co\.jp/ad/common/
 .daily\.co\.jp/ad/paper/img_ad/
