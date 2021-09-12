@@ -2899,6 +2899,7 @@ _analytics\.js\?
 /nativead/.*
 /nativeads-
 /nb/a_frog\.js
+/nb/f_ls\.js
 /nb/fe_ld\.js
 /nb/fl\.js
 /nb/frot_lod\.js
@@ -2908,6 +2909,7 @@ _analytics\.js\?
 /newAd/.*
 /news/ads/.*
 /ntv-ad\.js
+/ok/ok\.js
 /oncc-ad\.
 /optscript/script-
 /original/ad_
@@ -6238,6 +6240,7 @@ _top_ad_
 .umekian\.pw[/&:?=_]
 .underneathfirsthand\.com[/&:?=_]
 .unmortalloose\.com[/&:?=_]
+.untimburra\.com[/&:?=_]
 .unwieldyhealth\.com[/&:?=_]
 .upgulpinon\.com[/&:?=_]
 .uporods\.com[/&:?=_]
@@ -6769,7 +6772,6 @@ _top_ad_
 .dz4link\.com/play\.png
 .e-kodate\.com/img/cm/250x600_
 .e-shops\.jp/hotitem/$
-.e-typing\.ne\.jp/app/ad_
 .easeus\.com/images_2019/index/header/ad-recexperts-
 .ebay\.com/scl/js/ScandalLoader\.js
 .ebayrtm\.com/rtm\?RtmCmd.*&enc=
@@ -6968,6 +6970,7 @@ _top_ad_
 .imageaws\.popin\.cc/discovery/
 .img-proxy\.blog-video\.jp/images\?url=.*\.trafficgate\.net
 .img-proxy\.blog-video\.jp/images\?url=.*\.ziyu\.net
+.img\.news\.goo\.ne\.jp/topics/special/recommend/got_
 .img1\.kakaku\.k-img\.com/images/bbs/.*_148x148\.jpg$
 .imgcdn\.pandora\.tv/static/global/jp_img_banner_
 .in\.com/common/script_catch\.js
@@ -9891,6 +9894,7 @@ cgi-bin/counter
 .log\.ma-jin\.jp[/&:?=_]
 .log\.olark\.com[/&:?=_]
 .log\.outbrainimg\.com[/&:?=_]
+.log\.perfecttitspics\.com[/&:?=_]
 .log\.pinterest\.com[/&:?=_]
 .log\.popin\.cc[/&:?=_]
 .log\.quora\.com[/&:?=_]
@@ -10323,7 +10327,6 @@ cgi-bin/counter
 .visiblemeasures\.com[/&:?=_]
 .vlitag\.com[/&:?=_]
 .vortex\.hulu\.com[/&:?=_]
-.w55c\.net[/&:?=_]
 .wal\.wolfram\.com[/&:?=_]
 .washpost\.nile\.works[/&:?=_]
 .web-t\.9gag\.com[/&:?=_]
@@ -11454,7 +11457,6 @@ cgi-bin/counter
 .game-tsutaya\.tsite\.jp/pc/common/scripts/analytics/s_code_ggame\.js
 .gdinc\.jp/wp/wp-content/themes/gdinc/images/ad\.gif
 .google\.com/adsense/start/images/favicon\.ico
-.google\.com/recaptcha/
 .goonews\.jp/common/img/sub/right/goonet_ryutsu_googleform\.png
 .gounlimited\.to/ads/pop\.js$
 .gsgs\.co\.jp/wp/wp-content/themes/gs/images/AD01\.jpg
