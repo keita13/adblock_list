@@ -76,6 +76,7 @@
 *://*.ecomedincanto.it/*
 *://*.edilemazzocco.it/*
 *://*.edureka.co/*
+*://*.elfishgene.com/*
 *://*.esuteru.com/*
 *://*.exceptionshub.com/*
 *://*.extutorial.com/*
@@ -3994,6 +3995,7 @@
 *://*.javaer101.com/*
 *://*.jin115.com/*
 *://*.jpcloud.net/*
+*://*.kaifa99.com/*
 *://*.kejisen.com/*
 *://*.knews.vip/*
 *://*.konnichiwasekai.com/*
@@ -4003,6 +4005,7 @@
 *://*.linkfang.org/*
 *://*.living-sun.com/*
 *://*.melayukini.net/*
+*://*.mlog.club/*
 *://*.modulosnc.it/*
 *://*.monicagargiulo.it/*
 *://*.newbedev.com/*
@@ -4030,6 +4033,7 @@
 *://*.proklimatshop.ru/*
 *://*.proxybot.cc/*
 *://*.proxyfly.org/*
+*://*.python.engineering/*
 *://*.python2.net/*
 *://*.python5.com/*
 *://*.pythonq.com/*
@@ -5688,16 +5692,21 @@
 *://*.thinbug.com/*
 *://*.titanwolf.org/*
 *://*.try2explore.com/*
+*://*.tutorialguruji.com/*
 *://*.tutorialmore.com/*
 *://*.ubuntu.buildwebhost.com/*
 *://*.ubuntugeeks.com/*
 *://*.uefir.com/*
+*://*.unionpedia.org/*
 *://*.usersuper.ru/*
 *://*.uwenku.com/*
 *://*.vitadamoglie.it/*
 *://*.voidcc.com/*
+*://*.webdevqa.jp.net/*
+*://*.wenyanet.com/*
 *://*.while-do.com/*
 *://*.wikiarabi.org/*
+*://*.wikinew.wiki/*
 *://*.wikiwand.com/*
 *://*.www.366service.com/*
 *://*.www.it-swarm-ja.tech/*

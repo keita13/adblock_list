@@ -2377,6 +2377,8 @@ _analytics\.js\?
 .necoichi\.co\.jp/files/rcms_conv_webp/files/topics/4606_ext_06_
 .news\.mynavi\.jp/assets/top/cardloan-
 .newsoku\.blog/wp-content/uploads/2021/04/.*_logo\.jpg
+.nichepcgamer\.com/wp-content/uploads/2021/09/kindle-unlimited-d-r412-cut-299b\.png
+.nichepcgamer\.com/wp-content/uploads/2021/12/amazon-music-500-r\.png
 .nifty\.com/misc_top/images/nojima-koneta-bnr\.gif
 .nnn\.co\.jp/dainichi/images/cla\.
 .okkisokuho\.com/wp-content/themes/pc_okkisokuho/images/onahogazo\.jpg
@@ -2925,6 +2927,7 @@ _analytics\.js\?
 /pbjsandwich-
 /pbjsandwich\.
 /pcOfficialAdTags;
+/pfr_loader\.js
 /pgad\.
 /piaofu\.js
 /pix/ads/.*
@@ -3791,6 +3794,7 @@ _top_ad_
 .cshkgktv\.com[/&:?=_]
 .ctsywy\.com[/&:?=_]
 .cuculf\.name[/&:?=_]
+.cultivatedbrandnewelemental\.com[/&:?=_]
 .culttolerant\.com[/&:?=_]
 .cupidonmedia\.com[/&:?=_]
 .cupidrecession\.com[/&:?=_]
@@ -6485,7 +6489,6 @@ _top_ad_
 .9to5google\.com/wp-content/uploads/.*-750x150-bnr-
 .9to5mac\.com/wp-content/uploads/.*/9to5mac_promo-
 .9to5toys\.com/wp-content/uploads/.*-native-banner-
-.a\.watchomovies\.com/hnzrgg5\.js
 .aacdn\.jp/app/aa-front/js/pc/aa/ad_
 .aacdn\.jp/js/allabout-request-async\.
 .aacdn\.jp/js/mtx/
@@ -7156,7 +7159,8 @@ _top_ad_
 .mbs\.jp/common/js/adsbygoogle\.
 .mcafee\.com/japan/home/linkshare/
 .mcc\.godaddy\.com/park/
-.mdn\.co\.jp/di/attach/src/ad/
+.mdn\.co\.jp/adModules/
+.mdn\.co\.jp/js/modAdBanner-3\.
 .mdpr\.jp/imobile_iframe\.html$
 .media\.complex\.com/common/cmnunt\.js
 .megasoft\.co\.jp/mifes/seiki/img/navi_.*_top\.
@@ -7335,6 +7339,7 @@ _top_ad_
 .poginfo\.ddo\.jp/pogs/images/pr/
 .point\.rakuten\.co\.jp/img/mno/20210226_mno_pc_280_190\.png
 .pop\.co\.jp/img/banner/bnr_kurazushi_
+.popin\.cc/popin_video6_ads-min\.js
 .popin\.cc/searchbox/popin_ad_
 .popmaster\.jp/wp-content/uploads/primevideo\.png
 .portal\.profile\.livedoor\.com/blogparts/
@@ -8046,7 +8051,6 @@ _top_ad_
 .javhub\.net/av/img/play-left-
 .javhub\.net/av/img/try\.
 .javhub\.net/av/js/cpp\.js
-.javmap\.com/d/js/acmsd/
 .javopen\.co[/&:?=_].*/brave\.png$
 .javout\.net/fo6\.js
 .javout\.net/videojs/anyhtm2\.js
@@ -8257,6 +8261,7 @@ _top_ad_
 .princess-umeda\.com/img2/rec/
 .pure-girl\.com/access\.html$
 .pussysaga\.com[/&:?=_].*/footer/logo_ps\.jpg
+.pussyspace\..*/lazyload\.ads\?
 .pya\.cc/bnrth2/
 .qianxilai\.club/av/img/
 .rainbownet\.jp/pr\.js
@@ -8522,6 +8527,7 @@ _top_ad_
 /_js/log\.js
 /a\.gif\?
 /a8c-analytics/.*
+/a\.php[/&:?=_]
 /a_counts/chkDevice
 /aap/stats
 /ac\.php\?
@@ -10369,6 +10375,7 @@ cgi-bin/counter
 .wknd\.ai[/&:?=_]
 .wren\.condenastdigital\.com[/&:?=_]
 .ws\.audioeye\.com[/&:?=_]
+.wstats\.e-wok\.tv[/&:?=_]
 .www-smt\.daiichisankyo-hc\.co\.jp[/&:?=_]
 .x\.allabout\.co\.jp[/&:?=_]
 .x\.babe\.today[/&:?=_]
@@ -10723,7 +10730,6 @@ cgi-bin/counter
 .hunk-ch\.com/js/click_log_
 .hupso\.com[/&:?=_].*/counters\.
 .hugedomains\.com/js/stat-counter-
-.i-amlg-prod\.appspot\.com/display\?
 .i\.cdn\.cnn\.com/\.a/bundles/usabilla
 .ias\.r10s\.jp/grp15/ex_common2\.js
 .ibispaint\.com/getCountUpPV\.
@@ -11165,7 +11171,6 @@ cgi-bin/counter
 .usnews\.com/static/esi/usn-geo\.json
 .utils\.global-e\.com/set\?
 .va\.tawk\.to/log
-.validate\.onecount\.net/onecount/automation/a\.php\?__cuuid=
 .vdist\.link/vtag\.
 .vee24\.com/c/PageBehaviour\?
 .veritrans\.co\.jp/bcon/
@@ -11345,6 +11350,7 @@ cgi-bin/counter
 .mediamodern\.biz[/&:?=_]
 .mybetterdl\.com[/&:?=_]
 .nowvisitor\.rentalcgi\.com/counter\.php\?
+.pclk\.name[/&:?=_]
 .prltmz\.com[/&:?=_]
 .pubaka5\.com[/&:?=_]
 .pushwelcome\.com[/&:?=_]
@@ -11483,6 +11489,7 @@ cgi-bin/counter
 .g-ken-art\.co\.jp/company/images/ad\.gif
 .gaihan-boshi\.info/common/css/ad\.css
 .game-tsutaya\.tsite\.jp/pc/common/scripts/analytics/s_code_ggame\.js
+.gamebox\.gesoten\.com/googleads_ima_html5_samples/advanced/ads\.js
 .gdinc\.jp/wp/wp-content/themes/gdinc/images/ad\.gif
 .google\.com/adsense/start/images/favicon\.ico
 .google\.com/recaptcha/api\.js
