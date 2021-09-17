@@ -89,6 +89,7 @@
 ||absentstream.com^
 ||absoluteclickscom.com^
 ||absorbingband.com^
+||abstractedauthority.com^
 ||absurdwater.com^
 ||abtasty.com^
 ||abz.com^
@@ -209,8 +210,6 @@
 ||ad.internetcom.jp^
 ||ad.intl.xiaomi.com^
 ||ad.jacotei.com.br^
-||ad.jamba.net^
-||ad.jamster.co.uk^
 ||ad.jetsoftware.com^
 ||ad.jognote.com^
 ||ad.jorudan.co.jp^
@@ -870,7 +869,6 @@
 ||ads.verticalresponse.com^
 ||ads.vgchartz.com^
 ||ads.videosz.com^
-||ads.viksaffiliates.com^
 ||ads.virtual-nights.com^
 ||ads.virtuopolitan.com^
 ||ads.vnumedia.com^
@@ -990,7 +988,6 @@
 ||adserver.janes.com^
 ||adserver.lecool.com^
 ||adserver.libero.it^
-||adserver.madeby.ws^
 ||adserver.mobi^
 ||adserver.msmb.biz^
 ||adserver.news.com.au^
@@ -2591,6 +2588,7 @@
 ||hyperpromote.com^
 ||hypertracker.com^
 ||hyprmx.com^
+||hystericalcloth.com^
 ||hystericalhelp.com^
 ||i-clicks.net^
 ||i-generation.jp^
@@ -4504,6 +4502,7 @@
 ||unwieldyhealth.com^
 ||unwrittenspot.com^
 ||upu.samsungelectronics.com^
+||uramog.com^
 ||urlcash.net^
 ||urldata.net^
 ||us.a1.yimg.com^
@@ -4511,6 +4510,8 @@
 ||user-shield-check.com^
 ||user.in.net^
 ||userdive.com^
+||userreplay.com^
+||userreplay.net^
 ||useurmind.com^
 ||usherprayer.com^
 ||usingirritatecordial.com^
@@ -4574,6 +4575,7 @@
 ||vivads.net^
 ||vivtracking.com^
 ||vizury.com^
+||vmmpxl.com^
 ||voicefive.com^
 ||voicevegetable.com^
 ||voluum.com^
