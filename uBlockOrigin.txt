@@ -5691,6 +5691,10 @@ courrier.jp##.pre_banner_area
 crank-in.net###banner
 curazy.com##.sponsor-link-text
 curazy.com##[class^=cu_pc_all_]
+curazy.com##.jsViewer_overlay-dialogAd
+curazy.com##.jsViewer_dialog-ad
+curazy.com##.viewer_controller_footer_ad
+curazy.com##.viewer_controller_footer:style(height: auto !important;)
 cyclowired.jp##.block.block-block.clearfix
 cyclowired.jp##.field-name-field-amazon-product1
 daily.co.jp##.pageAd
@@ -6030,7 +6034,7 @@ matomedane.jp##.adv_top
 matomedane.jp##.pc_header_bottom_adv
 medibang.com##.asArtStreetTopIllustAd
 medibang.com##.mdbnAdBlock
-medibang.com##.mdModal
+medibang.com#?#.mdModal:-abp-has(.mdbnViewer__ad.-first)
 medibang.com##[class^="adBlock__"]
 medibang.com##.mfp-ready
 medibang.com##.viewer-bottomBanner
@@ -6897,7 +6901,7 @@ realtime-chart.info##body > div > div:first-child td:not(:nth-of-type(2))
 ||tok2.com/app/ad/
 tok2.com###meerkat-wrap
 tok2.com###tok2_footer
-||bab7b663ef.391e04933a.com^
+/^https:\/\/[a-f0-9]{10}\.[a-f0-9]{10}\.com\/[a-f0-9]{32}\.js$/$script,domain=tokyomotion.net
 ||congrab.com/banner.
 ||d2swpuhpwp3khd.cloudfront.net^
 ||tokyo-motion.net/bnr/
@@ -7812,6 +7816,7 @@ secrettalk.me##.week_hot
 -728-90-
 -728-90.
 -728x90-
+-728x90.
 -Ads-BoxRail-
 -Web-Ad.
 -ad-code/
@@ -10109,6 +10114,7 @@ vkcdnservice.appspot.com^$3p
 ||iicheewi.com^
 ||iidfyyelvijfk.com^$3p
 ||iiueuenutuhaf.com^
+||ijir.cn^
 ||ijsprocode.com^
 ||ikcyxcbqmoptk.com^
 ||img-ad-nex.com^
@@ -11187,6 +11193,7 @@ vkcdnservice.appspot.com^$3p
 ||atdmt.com^$3p
 ||ateletswitoto.com^
 ||auchoons.net^
+||audiencerun.com^$3p
 ||audionews.fm^
 ||augaufta.com^
 ||aulrains.com^
@@ -11683,6 +11690,7 @@ vkcdnservice.appspot.com^$3p
 ||elathalobolo.com^
 ||eldestcontribution.com^
 ||elitistrawirresistible.com^
+||elizaguarapo.com^
 ||elkbahtax.com^
 ||ematicsolutions.com^$3p
 ||embogsoarers.com^
@@ -16264,7 +16272,7 @@ _pop_under.js$domain=souko.pipii.tv
 ||mintj.com/ms/mb/img/img1/banner/
 ||miohentai.com/wp-content/themes/frontier/homebn.js
 ||mirai-soft.net^*/banner/$image,3p
-||mixhost.jp/vpn-column/*/vpn_footer_$image
+||mixhost.jp/vpn-column/*_footer_bnr.$image
 ||mixxporn.com/b1.php
 ||mobav.jp/images/shoubu_
 ||mobav.jp/img/bokki_150_120.
@@ -19290,6 +19298,7 @@ cgi-bin/counter
 ||tercept.com^$3p
 ||tgknt.com^$3p
 ||tgt.maep.ibm.com^
+||the-ozone-project.com^
 ||theadex.com^$3p
 ||tidaltv.com^
 ||tilanalytics.timesinternet.in^
@@ -23755,7 +23764,7 @@ gogen-yurai.jp##.tcd_ad_widget
 gogo-miyagi.com,tsurihack.com,yamahack.com###sub > .sub-section:first-child > [id^="div-gpt-ad"]:upward(1)
 gogo.gs##.ad4
 gogoanime.*##.anime_video_body_cate > div[style]:has(> div[id] + script[src])
-gogoanime.*##.headnav_center
+gogoanime.*,gogoanime2.org##.headnav_center
 gogotorimaru.blog19.fc2.com###center > hr
 gogotorimaru.blog19.fc2.com##.ently_outline + hr + div[style$="border-width:1px 1px 1px 7px;border-style:solid;"]
 gogotorimaru.blog19.fc2.com##.page_navi + hr + div[style$="border-width:1px 1px 1px 7px;border-style:solid;"]
@@ -30967,6 +30976,7 @@ ghacks.net##+js(acis, window.googletag)
 gifans.com##+js(acis, document.cookie, :visible)
 gigazine.net##+js(ra, onclick, .contentadleft a)
 giveawayoftheday.com##+js(nosiif, _checkBait)
+go-mp3.com##+js(nowoif, !clickmp3)
 gogoanimetv.*,javfull.net,playhydrax.com##+js(nosiif, _0x)
 gogoanimetv.*,ouo.*##+js(aopr, AaDetector)
 goldencocco.jp,katfile.com,lnk2.cc,mottonoutore.jp,t-mall.cmnw.jp##+js(set, adblock, false)
@@ -31152,6 +31162,9 @@ punisoku.blogo.jp##+js(acis, url, Math.random)
 pussyspace.*##+js(aopr, exoticdom)
 pussyspace.*##+js(set, kajwidksxas.addZone, noopFunc)
 qq.com##+js(json-prune, ad)
+quizlet.com##+js(rc, has-adz, div.has-adz, stay)
+quizlet.com##+js(rc, has-sidebar-adz|DashboardPage-inner, div[class^="DashboardPage-inner"], stay)
+quizlet.com##+js(rc, hasStickyAd, div.hasStickyAd[class^="SetPage"], stay)
 quora.com##+js(set, ansFrontendGlobals.settings.signupWallType, undefined)
 readcomiconline.*##+js(aopr, adblockDetector)
 readm.org##+js(acis, $, Sponsor)

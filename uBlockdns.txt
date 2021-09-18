@@ -1445,6 +1445,7 @@
 ||ay.delivery^
 ||aztracking.net^
 ||azvjudwr.info^
+||b-s.tercept.com^
 ||b.grvcdn.com^
 ||b.smartnews.be^
 ||b3.yahoo.co.jp^
@@ -2265,6 +2266,7 @@
 ||evertherenous.info^
 ||evyy.net^
 ||exaf.jp^
+||exanae.com^
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
@@ -3891,6 +3893,7 @@
 ||servads.net^
 ||servadsdisrupt.com^
 ||serve.richmediaads.com^
+||serve.tercept.com^
 ||servedby-buysellads.com^
 ||servedby.openxmarket.jp^
 ||servedbyadbutler.com^
@@ -4245,7 +4248,6 @@
 ||telemetry.v.dropbox.com^
 ||temelio.com^
 ||tendertest.com^
-||tercept.com^
 ||terrapsps.com^
 ||terriblethumb.com^
 ||terrout9.biz^
