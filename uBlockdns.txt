@@ -1824,7 +1824,6 @@
 ||clickedyclick.com^
 ||clickfuse.com^
 ||clickhereforcellphones.com^
-||clickhouse.com^
 ||clickhype.com^
 ||clicklink.jp^
 ||clickmate.io^
@@ -4517,6 +4516,7 @@
 ||useurmind.com^
 ||usherprayer.com^
 ||usingirritatecordial.com^
+||utenod.com^
 ||utils.mediageneral.net^
 ||utl-1.com^
 ||uttermosthobbies.com^
@@ -4758,6 +4758,7 @@
 ||ylx-1.com^
 ||ymetrica1.com^
 ||yoggrt.com^
+||yogyn.com^
 ||your-notice.com^
 ||youradexchange.com^
 ||yourwebbars.com^
