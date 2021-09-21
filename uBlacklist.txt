@@ -161,6 +161,7 @@
 *://*.forumedia.ru/*
 *://*.francogaliano.it/*
 *://*.fundament163.ru/*
+*://*.gajet.club/*
 *://*.game8.jp/*
 *://*.gamerch.com/*
 *://*.gamewith.jp/*
@@ -4084,6 +4085,7 @@
 *://*.it-swarm.zw/*
 *://*.italianfooding.it/*
 *://*.iteramos.com/*
+*://*.itnews.org/*
 *://*.izakayayoko.cl/*
 *://*.janghan.net/*
 *://*.japan2.wiki/*
