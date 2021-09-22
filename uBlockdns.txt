@@ -1800,6 +1800,7 @@
 ||click.a-ads.com^
 ||click.adv.livedoor.com^
 ||click.airmalta-mail.com^
+||click.bkdpt.com^
 ||click.cartsguru.io^
 ||click.duga.jp^
 ||click.email.bbc.com^
@@ -2243,6 +2244,7 @@
 ||etahub.com^
 ||etargetnet.com^
 ||etc.atja.jp^
+||etioh.com^
 ||etracker.com^
 ||etracker.de^
 ||eu-adcenter.net^
@@ -2575,6 +2577,7 @@
 ||hs-analytics.net^
 ||hs-banner.com^
 ||hsadspixel.net^
+||hsn.uqhv.net^
 ||htlbid.com^
 ||httpool.com^
 ||hubadnetwork.com^
@@ -2799,6 +2802,7 @@
 ||karonty.com^
 ||kau.li^
 ||kdowqlpt.info^
+||kesmatic.com^
 ||ketchapp.org^
 ||keymedia.hu^
 ||kindads.com^
@@ -3310,6 +3314,7 @@
 ||offshoreanglehost.com^
 ||oglasi.posjetnica.com^
 ||ogury.com^
+||ojrq.net^
 ||olmsoneenh.info^
 ||omnijay.com^
 ||omniscientspark.com^
@@ -3531,6 +3536,7 @@
 ||presetrabbits.com^
 ||previousplayground.com^
 ||previouspotato.com^
+||priefy.com^
 ||primead.jp^
 ||primetime.net^
 ||prism.pandora.tv^
@@ -3611,6 +3617,7 @@
 ||px.dynamicyield.com^
 ||px.gfycat.com^
 ||px.spiceworks.com^
+||pxf.io^
 ||pxl.iqm.com^
 ||pymx5.com^
 ||q.azcentral.com^
@@ -3642,6 +3649,7 @@
 ||r.popin.cc^
 ||r.profilepassport.jp^
 ||r.scoota.co^
+||r.sibmail.havasit.com^
 ||r1.visualwebsiteoptimizer.com^
 ||r2.visualwebsiteoptimizer.com^
 ||r3.visualwebsiteoptimizer.com^
@@ -4106,6 +4114,7 @@
 ||stats.pusher.com^
 ||stats.rdphv.net^
 ||stats.self.com^
+||stats.sharksice.timetoscore.com^
 ||stats.stb-ottow.de^
 ||stats.townnews.com^
 ||stats.unity3d.com^
@@ -4189,6 +4198,7 @@
 ||t.insigit.com^
 ||t.irtyd.com^
 ||t.net-ap19.stream^
+||t.salesmatemail.com^
 ||t.sharethis.com^
 ||taboola.com^
 ||tacoda.net^
@@ -4390,6 +4400,7 @@
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
 ||tracking.publicidees.com^
+||tracking.theoceanac.online^
 ||tracking.thinkabt.com^
 ||tracking.yohoads.com^
 ||tracking01.walmart.com^

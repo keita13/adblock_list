@@ -3069,6 +3069,7 @@ _analytics\.js\?
 /wp-content/plugins/popupbuilder-adblock/.*
 /wp-content/themes/twentyten/js/agad2\.js
 /wp-content/uploads/useful_banner_manager_banners/.*
+/wp-srv/ad/.*
 /www/delivery/.*
 /wwwads\.
 /wxhfm\.html\?cid=
@@ -3217,7 +3218,6 @@ _top_ad_
 .api\.primecaster\.net[/&:?=_]
 .appollo-plus\.com[/&:?=_]
 .apus\.tech[/&:?=_]
-.apvdr\.com[/&:?=_]
 .assoc-amazon\.com[/&:?=_]
 .assoc-amazon\.jp[/&:?=_]
 .assys01\.fc2\.com[/&:?=_]
@@ -4082,6 +4082,7 @@ _top_ad_
 .loadnot\.online[/&:?=_]
 .loboclick\.com[/&:?=_]
 .localsnaughty\.com[/&:?=_]
+.logystowtencon\.info[/&:?=_]
 .lologhfd\.com[/&:?=_]
 .lovelybingo\.com[/&:?=_]
 .lowtyroguer\.com[/&:?=_]
@@ -4910,6 +4911,7 @@ _top_ad_
 .d22xmn10vbouk4\.cloudfront\.net[/&:?=_]
 .d24ak3f2b\.top[/&:?=_]
 .d261u4g5nqprix\.cloudfront\.net[/&:?=_]
+.d27gtglsu4f4y2\.cloudfront\.net[/&:?=_]
 .d29i6o40xcgdai\.cloudfront\.net[/&:?=_]
 .d2c4ylitp1qu24\.cloudfront\.net[/&:?=_]
 .d2cmh8xu3ncrj2\.cloudfront\.net[/&:?=_]
@@ -5599,7 +5601,9 @@ _top_ad_
 .phaudree\.com[/&:?=_]
 .phaurtuh\.net[/&:?=_]
 .pheegoab\.click[/&:?=_]
+.phoalard\.net[/&:?=_]
 .phoapsoo\.com[/&:?=_]
+.phoaraut\.com[/&:?=_]
 .phonograph2\.voxmedia\.com[/&:?=_]
 .phooreew\.net[/&:?=_]
 .phoossax\.net[/&:?=_]
@@ -5929,6 +5933,7 @@ _top_ad_
 .ultimowraxle\.com[/&:?=_]
 .ul8seok7w5al\.com[/&:?=_]
 .umekian\.pw[/&:?=_]
+.unsaferairn\.com[/&:?=_]
 .untimburra\.com[/&:?=_]
 .unwieldyhealth\.com[/&:?=_]
 .upgulpinon\.com[/&:?=_]
@@ -8157,6 +8162,7 @@ _top_ad_
 /\?sentry_version=
 /\?swift-performance-tracking
 /Analytics/Tracking\.
+/Article/ViewCount/.*
 /CelebrusInsert\.js
 /Certona/.*
 /CookiePingback\?
@@ -9678,7 +9684,6 @@ cgi-bin/counter
 .mybloglog\.com[/&:?=_]
 .mycounter\.ua[/&:?=_]
 .nav\.sciencedirect\.com[/&:?=_]
-.netmng\.com[/&:?=_]
 .nil\.naver\.com[/&:?=_]
 .notify-bugs-fra1\.rtl\.de[/&:?=_]
 .notify\.bugsnag\.com[/&:?=_]
@@ -9770,7 +9775,6 @@ cgi-bin/counter
 .pxlgnpgecom-a\.akamaihd\.net[/&:?=_]
 .pzd\.rakuten\.co\.jp[/&:?=_]
 .quantserve\.com[/&:?=_]
-.quantummetric\.com[/&:?=_]
 .r\.bbci\.co\.uk[/&:?=_]
 .radar\.cedexis\.com[/&:?=_]
 .radar\.imgsmail\.ru[/&:?=_]
@@ -9907,6 +9911,7 @@ cgi-bin/counter
 .sulkycook\.com[/&:?=_]
 .summerhamster\.com[/&:?=_]
 .sumome\.com[/&:?=_]
+.supportmetrics\.apple\.com[/&:?=_]
 .swcs\.jp[/&:?=_]
 .sy\.ameblo\.jp[/&:?=_]
 .sync\.rambler\.ru[/&:?=_]
@@ -9998,6 +10003,7 @@ cgi-bin/counter
 .tracker\.arc\.io[/&:?=_]
 .tracker\.bannerflow\.com[/&:?=_]
 .tracker\.cdnbye\.com[/&:?=_]
+.tracker\.digitalcamp\.co\.kr[/&:?=_]
 .tracker\.relaido\.jp[/&:?=_]
 .tracker\.jawcloud\.co[/&:?=_]
 .tracker\.smartseminar\.jp[/&:?=_]
@@ -10303,7 +10309,6 @@ cgi-bin/counter
 .dmm\.com/static/fingerprint/
 .dmm\.com/v2/page_performance/view/
 .docs\.github\.com/events
-.dop3jnx8my3ym\.cloudfront\.net/sg-track-sdk\.js
 .doga\.cm/tracker_
 .dogma-annex\.com/lib/ajax/track\.
 .dogma-annex\.com/tpl/dogma-annex/js/x/counter\.
@@ -11699,6 +11704,7 @@ _300x250
 .tokushinkan\.jp/images/ad/
 .tokyugroup\.jp/ad/images/
 .topio\.biz/AD/
+.topxlive\.com/thumbs_.*/b_300x250_
 .toridori\.co\.jp/ad/img/
 .travel\.co\.jp/images/ad/top/
 .travel\.explore\.ne\.jp/images/ad/
