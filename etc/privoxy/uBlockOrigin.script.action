@@ -2690,6 +2690,7 @@ _analytics\.js\?
 /affiliate_banner/.*
 /affiliatelinks\.js$
 /affiliates/banner
+/ajax-advert-
 /amazon\.js
 /amazonjs/.*
 /amazonjs\.
@@ -2793,6 +2794,7 @@ _analytics\.js\?
 /exports/tour_20/.*
 /ezcl\.webp\?
 /fanza_banner\.
+/fel456\.js
 /fiets-banner_
 /fixed_ad\.js
 /flashad\.
@@ -4577,6 +4579,7 @@ _top_ad_
 .adglare\.net[/&:?=_]
 .adhaven\.com[/&:?=_]
 .adincube\.com[/&:?=_]
+.adkaora\.space[/&:?=_]
 .adlane\.info[/&:?=_]
 .adman\.gr[/&:?=_]
 .admaster\.com\.cn[/&:?=_]
@@ -5561,6 +5564,7 @@ _top_ad_
 .ousseghu\.net[/&:?=_]
 .oustoope\.com[/&:?=_]
 .outblowtewhit\.com[/&:?=_]
+.outsliggooa\.com[/&:?=_]
 .ovcxvpvdk\.com[/&:?=_]
 .overkirliaan\.com[/&:?=_]
 .overture\.com[/&:?=_]
@@ -6069,9 +6073,11 @@ _top_ad_
 .xwktyiydn\.com[/&:?=_]
 .xxccdshj\.com[/&:?=_]
 .xxutoyreg\.com[/&:?=_]
+.xykdglmymu\.com[/&:?=_]
 .xzidjitondzt\.com[/&:?=_]
 .y3k7rqxsh55c\.com[/&:?=_]
 .yapfurniture\.com[/&:?=_]
+.yasiwngdihnfe\.com[/&:?=_]
 .yasmwesikz\.com[/&:?=_]
 .ybytexer\.xyz[/&:?=_]
 .ycipiwic\.xyz[/&:?=_]
@@ -7314,6 +7320,7 @@ _top_ad_
 .xn--eckva4aab4g4gsde\.net[/&:?=_].*/sp-tebukuro1\.jpg
 .xn--eckva4aab4g4gsde\.net[/&:?=_].*/wakeari1\.jpg
 .xn--jx2a33n\.com/nnn\.js
+.yahoo-mbga\.jp/ad/
 .yahoo\.com/bidRequest\?
 .yahoo\.com/sdarla/
 .yamagata-np\.jp/img/banner/bn_
@@ -8091,7 +8098,6 @@ _top_ad_
 .xvideos\.com/cams/
 .xxxadd\.com/js/hrqst\.js
 .xxxdessert\.com/.*_fe\.js
-.yahoo-mbga\.jp/ad/
 .yamidas\.yamiboard\.com/index_img/af_sozai/
 .yamidas\.yamiboard\.com/joyful2/sozai/bbs_top_
 .yeptube\.com/templates/base_master/js/jquery\.shows\.min\.js
@@ -8727,6 +8733,7 @@ _top_ad_
 /opentag-
 /optimizely-
 /optimizelyjs/.*
+/optmzly/.*
 /ouibounce\.min\.js
 /outLoging\.js
 /outLoging2\.js
@@ -9365,6 +9372,7 @@ cgi-bin/counter
 .d\.image-ad\.jp[/&:?=_]
 .d\.wi-fi\.ru[/&:?=_]
 .d10lpsik1i8c69\.cloudfront\.net[/&:?=_]
+.d16fk4ms6rqz1v\.cloudfront\.net[/&:?=_]
 .d1fc8wv8zag5ca\.cloudfront\.net[/&:?=_]
 .d1gwclp1pmzk26\.cloudfront\.net[/&:?=_]
 .d1l6p2sc9645hc\.cloudfront\.net[/&:?=_]
@@ -9672,6 +9680,7 @@ cgi-bin/counter
 .miao\.baidu\.com[/&:?=_]
 .mktoresp\.com[/&:?=_]
 .ml314\.com[/&:?=_]
+.mm\.actionlink\.jp[/&:?=_]
 .mmi\.bemobile\.ua[/&:?=_]
 .mmismm\.com[/&:?=_]
 .mms\.cnn\.com[/&:?=_]

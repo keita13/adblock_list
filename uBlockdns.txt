@@ -1389,6 +1389,7 @@
 ||ard.xxxblackbook.com^
 ||argyresthia.com^
 ||aromamirror.com^
+||artisany.net^
 ||as.webmd.com^
 ||as2.adserverhd.com^
 ||aserv.motorsgate.com^
@@ -1438,6 +1439,7 @@
 ||awakebird.com^
 ||awempire.com^
 ||awin1.com^
+||awstrack.me^
 ||awzbijw.com^
 ||axia-hakusan.com^
 ||axiomaticalley.com^
@@ -1757,6 +1759,7 @@
 ||cdn.z-profit.com^
 ||cdn1.inner-active.mobi^
 ||cdn2.googlestatisticalserver.com^
+||cdnondemand.org^
 ||cdnprism.pandora.tv^
 ||cdns.lodeo.io^
 ||cdp.cloud.unity3d.com^
@@ -1972,6 +1975,7 @@
 ||cpmly.com^
 ||cpmstar.com^
 ||cpu.samsungelectronics.com^
+||cpx-traffic.com^
 ||cpx.to^
 ||cpxinteractive.com^
 ||cqcounter.com^
@@ -3486,6 +3490,7 @@
 ||pixel.yabidos.com^
 ||pixon.ads-pixiv.net^
 ||placed.com^
+||plardi.com^
 ||plausibleio.workers.dev^
 ||play.entretenimientolz.com^
 ||play4traffic.com^
@@ -4472,6 +4477,7 @@
 ||trust.titanhq.com^
 ||trustx.org^
 ||tryworks.website^
+||tsuam.com^
 ||tsyndicate.com^
 ||tsyndicate.net^
 ||ttplugins.ttpsdk.info^
