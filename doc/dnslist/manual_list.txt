@@ -1,7 +1,12 @@
+#image.rakuten.co.jp
+#log.affiliate.rakuten.co.jp
+ad-style.com
 adjust-net.jp
 adlantis.jp
 adresult.jp
 advg.jp
+android-defender-info.com
+android-protection.net
 api.flipdesk.jp
 b3.yahoo.co.jp
 b90.yahoo.co.jp
@@ -14,12 +19,8 @@ gsspat.jp
 gsspcln.jp
 gssprt.jp
 i-mobile.co.jp
-#image.rakuten.co.jp
 impact-ad.jp
-js.ptengine.jp
-#log.affiliate.rakuten.co.jp
 itvalleynews.com
-android-defender-info.com
-android-protection.net
-ad-style.com
+javhd.com
+js.ptengine.jp
 kpia.shop
