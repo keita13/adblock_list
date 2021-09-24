@@ -1,4 +1,4 @@
-dnslist 280blocker_domain.txt https://280blocker.net/files/280blocker_domain_$NAME_280.txt
+OBdnslist 280blocker_domain.txt https://280blocker.net/files/280blocker_domain_$NAME_280.txt
 dnslist pgl_yoyo.txt 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext'
 uBlacklist ncaq.txt https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt
 uBlocklist 280blocker_adblock.txt https://280blocker.net/files/280blocker_adblock_$NAME_280.txt
@@ -6,4 +6,4 @@ uBlocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/
 uBlocklist yuki_jpfilter_ad.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt
 uBlocklist ublock_filter.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 uBlocklist ublock_filter_badware.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-uBlocklist adguard_basefilter https://filters.adtidy.org/extension/ublock/filters/2.txt
+uBlocklist adguard_basefilter.txt https://filters.adtidy.org/extension/ublock/filters/2.txt
