@@ -184,6 +184,10 @@ main(){
     #merge_block_list
     merge_ublack_list
 
+    update_timestamp=$(date "+%Y%m%d-%H")
+    sed -i "1i\!$update_timestamp" $DNS_LIST
+    sed -i "1i\!$update_timestamp" $BLOCK_FILTER_LIST
+
     echo -e "\ngit"
     cd $DIR
     git add .
