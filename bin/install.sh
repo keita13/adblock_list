@@ -10,7 +10,7 @@ download_list(){
 
     while read line;
     do
-	
+
 	local IMPORT_NAME=($(eval echo $line))
 	echo -e "\n${IMPORT_NAME[@]}"
 	if [ "${IMPORT_NAME[0]}" != "" ]; then
@@ -18,7 +18,7 @@ download_list(){
 	    nkf -Lu --overwrite "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
 	fi
     done < $DIR/bin/download_list.txt
-    
+
 }
 
 adblock_init(){
@@ -26,12 +26,12 @@ adblock_init(){
     DIR="$HOME/adblock_list"
     DIR_TMP="$DIR/tmp"
     RULE_DIR="$DIR/doc"
-    
+
     echo "Delte tmp file"
     rm -rf $DIR_TMP/*
     echo "Copy myrule"
     cp -RT "$RULE_DIR" "$DIR_TMP"
-    
+
     DNSLIST_DIR="$DIR_TMP/dnslist"
     UBLOCKLIST_DIR="$DIR_TMP/uBlocklist"
     UBLACKLIST_DIR="$DIR_TMP/uBlacklist"
@@ -39,7 +39,7 @@ adblock_init(){
     PRIVOXY_DIR="$DIR/etc/privoxy"
     DNSMASQ_DIR="$DIR/etc/dnsmasq.blocklist.d"
 
-    
+
     DNS_SORT="$DNSLIST_DIR/ad-block_sort.conf"
     DNS_LIST="$DIR/uBlockdns.txt"
     DNSMASQ_LIST="$DNSMASQ_DIR/ad-block.conf"
@@ -49,7 +49,7 @@ adblock_init(){
 
     UBLACK_SORT="$UBLACKLIST_DIR/uBlacklist.txt"
     UBLACK_LIST="$DIR/uBlacklist.txt"
-    
+
     if [ ! -d "$UBLOCKLIST_DIR" ]; then
         mkdir $UBLOCKLIST_DIR
     fi
@@ -77,7 +77,7 @@ merge_ublack_list(){
     do
 	echo "${FILE_LIST[i]}"
 	cat ${FILE_LIST[i]}  >> $UBLACK_SORT
-	
+
 	let i++
     done
 
@@ -87,7 +87,7 @@ merge_ublack_list(){
 merge_block_list(){
 
     echo -e "\nMerge uBlocklist"
-    
+
     local i=0
     local FILE_LIST=($(ls $UBLOCKLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
@@ -98,7 +98,7 @@ merge_block_list(){
     done
 
     cp $BLOCK_FILTER_SORT $BLOCK_FILTER_LIST
-    
+
 }
 
 make_privoxy_list(){
@@ -158,15 +158,15 @@ make_dns_list(){
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^|' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d"|sed -e "/^$/d" >> $DNS_SORT
+	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^!' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d" | sed -e "/^$/d" | sed -e "s/^||//g" sed -e "s/\^$//g" >> $DNS_SORT
 	let i++
     done
-    
+
     sort -u $DNS_SORT -o $DNS_SORT | uniq
-    
+
     COUNT=($(cat $DNS_SORT | wc -l))
     echo "... SORT and MERGE... $COUNT"
-    
+
     cat $DNS_SORT | sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > $DNSMASQ_LIST
     cat $DNS_SORT | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > $DNS_LIST
 
