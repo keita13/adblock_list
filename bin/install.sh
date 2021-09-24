@@ -1,4 +1,4 @@
-#!/bin/bash
+OB#!/bin/bash
 
 sedcmd=${SEDCMD:-sed}
 NAME_280=($(date "+%Y%m"))
@@ -158,7 +158,7 @@ make_dns_list(){
     local FILE_LIST=($(ls $DNSLIST_DIR/*.txt))
     while [ "${FILE_LIST[i]}" != "" ]
     do
-	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^!' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d" | sed -e "/^$/d" | sed -e "s/^||//g" sed -e "s/\^$//g" >> $DNS_SORT
+	cat ${FILE_LIST[i]} | sort | grep -v '^@' | grep -v '^!' | sed -e '1s/^\xef\xbb\xbf//' | sed -e "s/\r//g" | sed -e "/^#/d" | sed -e "/^[<space><tab>\n\r]*$/d" | sed -e "/^$/d" | sed -e "s/^||//g" | sed -e "s/\^$//g" >> $DNS_SORT
 	let i++
     done
 
@@ -176,7 +176,7 @@ main(){
 
     echo "start"
     adblock_init
-    download_list
+    #download_list
 
     merge_block_list
     make_privoxy_list
