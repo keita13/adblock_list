@@ -6,3 +6,4 @@ uBlocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/
 uBlocklist yuki_jpfilter_ad.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt
 uBlocklist ublock_filter.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 uBlocklist ublock_filter_badware.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+uBlocklist adguard_basefilter https://filter.adtidy.org/extension/ublock/filters/2.txt
