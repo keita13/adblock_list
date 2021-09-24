@@ -84,6 +84,7 @@
 *://*.chzorka.ru/*
 *://*.cityshin.ru/*
 *://*.ciupacabra.com/*
+*://*.classmethod.dev/*
 *://*.clearwatergardenclub.org/*
 *://*.cloud.tencent.com/developer/ask/*
 *://*.cloud6.net/*
@@ -132,6 +133,7 @@
 *://*.dgtaz698.ecomedincanto.it/*
 *://*.diariopatagon.cl/*
 *://*.diddyhome.fr/*
+*://*.docow.com/*
 *://*.domvgorah.ru/*
 *://*.ducom.cl/*
 *://*.dudakids.ru/*
@@ -146,6 +148,7 @@
 *://*.esmalte.ru/*
 *://*.estateinmontagna.it/*
 *://*.esuteru.com/*
+*://*.euromar2012.org/*
 *://*.eventi.it/*
 *://*.exceptionshub.com/*
 *://*.exnovoband.it/*
@@ -197,6 +200,7 @@
 *://*.ikioi5ch.net/*
 *://*.iknzr.ru/*
 *://*.ilmioprovino.it/*
+*://*.includestdio.com/*
 *://*.instatigers.it/*
 *://*.irapido.it/*
 *://*.isolution.pro/*
@@ -4113,6 +4117,7 @@
 *://*.losangelesudec.cl/*
 *://*.lucagisticiimpianti.it/*
 *://*.lvn.cl/*
+*://*.lycaeum.dev/*
 *://*.maderasconta.cl/*
 *://*.magazine.ru/*
 *://*.makeup.ru/*
@@ -5832,12 +5837,14 @@
 *://*.shippinghome.cl/*
 *://*.sib.ru/*
 *://*.siciliafse1420.it/*
+*://*.siwib.org/*
 *://*.sociedadteosofica.cl/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.soinside.com/*
 *://*.spb.ru/*
 *://*.sportfiske.org/*
+*://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
 *://*.stackoverfill.com/*
@@ -5851,6 +5858,7 @@
 *://*.studiocoppolasarzana.it/*
 *://*.style.ru/*
 *://*.sub-nicoapple.ssl-lolipop.jp/*
+*://*.superduperartscamp.com/*
 *://*.sushi.ru/*
 *://*.suttonedfoundation.org/*
 *://*.switch-case.com/*
@@ -5862,6 +5870,7 @@
 *://*.theredhair.it/*
 *://*.thinbug.com/*
 *://*.tieressen.ru/*
+*://*.timeglobal.cn/*
 *://*.titanwolf.org/*
 *://*.tlcpv.org/*
 *://*.trandt3.ru/*
@@ -5875,6 +5884,7 @@
 *://*.unavocefuoricampo.it/*
 *://*.unionpedia.org/*
 *://*.usersuper.ru/*
+*://*.utyatnishna.ru/*
 *://*.uwenku.com/*
 *://*.verleih.it/*
 *://*.vfwpost8762.org/*

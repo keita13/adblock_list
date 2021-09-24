@@ -838,6 +838,7 @@
 ||ads.syscdn.de^
 ||ads.tahono.com^
 ||ads.themoneytizer.com^
+||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
 ||ads.tiktok.com^
@@ -1774,7 +1775,6 @@
 ||chairscrack.com^
 ||chameleon.ad^
 ||channelintelligence.com^
-||chardwardse.club^
 ||chart.dk^
 ||chartbeat.com^
 ||chartbeat.net^
@@ -2027,6 +2027,7 @@
 ||cxense.com^
 ||cyberbounty.com^
 ||cyberwing.co.jp^
+||cyrasi.com^
 ||d.5.to^
 ||d.adroll.com^
 ||d.agkn.com^
@@ -3738,7 +3739,6 @@
 ||relevanz10.de^
 ||relmaxtop.com^
 ||remarketingpixel.com^
-||remistrainew.club^
 ||remox.com^
 ||reon.club^
 ||reporo.net^
@@ -4447,6 +4447,7 @@
 ||trax-ad.jp^
 ||trc.pitadtag.jp^
 ||trck.a8.net^
+||trcked.me^
 ||trcking4wdm.de^
 ||trcklion.com^
 ||treasuredata.com^
