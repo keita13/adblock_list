@@ -5,4 +5,4 @@ uBlocklist 280blocker_adblock.txt https://280blocker.net/files/280blocker_adbloc
 uBlocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
 uBlocklist yuki_jpfilter_ad.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt
 uBlocklist ublock_filter.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-uBLocklist ublock_filter_badware.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+uBlocklist ublock_filter_badware.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
