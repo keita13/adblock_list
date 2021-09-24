@@ -1,4 +1,4 @@
-OB#!/bin/bash
+#!/bin/bash
 
 sedcmd=${SEDCMD:-sed}
 NAME_280=($(date "+%Y%m"))
@@ -176,7 +176,7 @@ main(){
 
     echo "start"
     adblock_init
-    #download_list
+    download_list
 
     merge_block_list
     make_privoxy_list
