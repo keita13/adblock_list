@@ -16,6 +16,14 @@ download_list(){
 	if [ "${IMPORT_NAME[0]}" != "" ]; then
 	    curl -L ${IMPORT_NAME[2]} | awk 1 > "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
 	    nkf -Lu --overwrite "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
+
+	    if [ ! -s "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}" ]; then
+		ehco "0byte"
+		rm "${DIR_TMP}/${IMPORT_NAME[0]}/${IMPORT_NAME[1]}"
+	    else
+		echo "OK"
+	    fi
+
 	fi
     done < $DIR/bin/download_list.txt
 
