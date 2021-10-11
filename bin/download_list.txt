@@ -6,6 +6,7 @@ uBlocklist 280blocker_adblock.txt https://280blocker.net/files/280blocker_adbloc
 uBlocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
 uBlocklist yuki_jpfilter_mobile.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt
 uBlocklist yuki_jpfilter_ad.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt
+uBlocklist yuki_jpfilter_social.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-social.txt
 uBlocklist adguard_basefilter.txt https://filters.adtidy.org/extension/ublock/filters/2.txt
 uBlocklist ublock_filter.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 uBlocklist ublock_filter-2020.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
@@ -17,3 +18,4 @@ uBlocklist ublock_filter_unbreak.txt https://raw.githubusercontent.com/uBlockOri
 uBlocklist Online_Malicious.txt https://filters.adtidy.org/extension/ublock/filters/208_optimized.txt
 uBlocklist Spam404.txt https://filters.adtidy.org/extension/ublock/filters/210_optimized.txt
 uBlocklist kame_filter.txt https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kame_filter.txt
+uBlocklist kotori_filter.txt https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kotori_filter.txt
