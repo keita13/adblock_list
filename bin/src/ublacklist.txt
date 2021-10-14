@@ -1,0 +1,1 @@
+uBlacklist ncaq.txt https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt

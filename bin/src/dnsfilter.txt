@@ -1,0 +1,3 @@
+dnslist 280blocker_domain.txt https://280blocker.net/files/280blocker_domain_$NAME_280.txt
+dnslist pgl_yoyo.txt 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=showintro=0&mimetype=plaintext'
+dnslist adguard_dnsfilter.txt https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt

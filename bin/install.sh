@@ -31,7 +31,8 @@ download_list(){
 
 adblock_init(){
 
-    DIR="$HOME/adblock_list"
+    DIR=$(cd $(dirname ${BASH_SOURCE[0]}); pwd)
+    echo $DIR
     DIR_TMP="$DIR/tmp"
     RULE_DIR="$DIR/doc"
 
