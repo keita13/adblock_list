@@ -56,9 +56,23 @@ copy_myrule(){
     cp -RT "$myrule_dir" "$tmp_dir"
 }
 
+merge_ublacklist(){
+
+    echo -e "\nMerge uBlacklist"
+    local tmp_dir_local="$tmp_dir/uBlacklist"
+
+    for f in $tmp_dir_local/*txt
+    do
+	cat $f >> "$base_dir/uBlacklist.txt"
+    done
+
+    sort -u "$base_dir/uBlacklist.txt" -o "$base_dir/uBlacklist.txt" | uniq
+}
+
 main(){
     download
     copy_myrule
+    merge_ublacklist
 
     exit 0
 }

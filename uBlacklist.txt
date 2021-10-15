@@ -5912,3 +5912,4 @@
 *://*.xbuba.com/*
 *://*.yurestaurant.it/*
 *://*.zhouni.net/*
+/home/ubuntu/adblock_list/tmp/ublacklist/uBlacklist/ncaq.txt
