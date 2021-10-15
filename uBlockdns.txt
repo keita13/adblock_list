@@ -1,6 +1,7 @@
 !20211016-03
 ||00-gov.cn^
 ||0001.best^
+||000123456789.online^
 ||0024aaaa.com^
 ||003store.com^
 ||006a039c957c142bb.com^
@@ -873,6 +874,7 @@
 ||50trk.com^
 ||50websads.com^
 ||50zera.com^
+||51-tour.net^
 ||51189fb815.com^
 ||5123b.com^
 ||5125129.com^
@@ -5608,6 +5610,7 @@
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
 ||analytics.kidoz.net^
+||analytics.kkb.com.tr^
 ||analytics.ladmedia.fr^
 ||analytics.lekumo.jp^
 ||analytics.live.com^
@@ -9922,6 +9925,7 @@
 ||channelcamp.com^
 ||channelintelligence.com^
 ||chaogej.com^
+||chaoyi4.com^
 ||chapelonefoldonefoldpuppet.com^
 ||chapsartore.com^
 ||chaptersus.com^
@@ -9933,7 +9937,6 @@
 ||chargingsensationmetropolitan.com^
 ||charitablemilletplumber.com^
 ||charitablepausing.com^
-||charlestownwyllie.oaklawnnonantum.com^
 ||charltonmedia.com^
 ||charmeddipware.com^
 ||charmour.club^
@@ -15840,6 +15843,7 @@
 ||fbxnsabawjkylo.com^
 ||fc.webmasterpro.de^
 ||fc2b9b7ce3165.com^
+||fc2ppv.buzz^
 ||fc408d7caec09.com^
 ||fcb8.com^
 ||fcb8.fun^
@@ -17693,6 +17697,7 @@
 ||gnezdo.ru^
 ||gng5.cn^
 ||gnncc.cc^
+||gnoyvsielusbi.xyz^
 ||gnpge.com^
 ||gnrdomimplementation.com^
 ||go-clicks.de^
@@ -19543,6 +19548,7 @@
 ||hvato.info^
 ||hvcbkr.com^
 ||hw6.com^
+||hwanjia.com^
 ||hwmonitor-ru.ru^
 ||hwpub.com^
 ||hwstats.unity3d.com^
@@ -23231,6 +23237,7 @@
 ||locked4.com^
 ||lockerdome.com^
 ||lockerdomecdn.com^
+||locketamoral.com^
 ||lockgranted.com^
 ||lockhosts.com^
 ||lockingadmitted.com^
@@ -29085,6 +29092,7 @@
 ||placeoff.ru^
 ||placidperson.com^
 ||plaguealacritytwitter.com^
+||plaicecaught.com^
 ||plaicenaive.com^
 ||plainlycradlescalp.com^
 ||plainplayground.com^
@@ -32719,6 +32727,7 @@
 ||sanity-dataplane.rudderstack.com^
 ||sankaudacityrefine.com^
 ||sanme2.lanzoui.com^
+||sanxiucaiwu.top^
 ||sanxueshufa.cn^
 ||sanzhong.co^
 ||sapclasped.com^
@@ -34261,6 +34270,7 @@
 ||softenedimmortalityprocedure.com^
 ||softenedprepare.com^
 ||softexcellence.com^
+||softlygaiety.com^
 ||softonic-analytics.net^
 ||softonicads.com^
 ||softpopads.com^
@@ -34393,6 +34403,7 @@
 ||sousaira.com^
 ||southene.club^
 ||southvane.com^
+||souvenirsattachedcountenance.com^
 ||souvenirwatery.com^
 ||sovieashlig.club^
 ||sovietit.com^
@@ -38880,6 +38891,7 @@
 ||ujccccb.com^
 ||ujiasm.com^
 ||ujieva.com^
+||ujlvongqbjouubp.xyz^
 ||ujoongeilaej.info^
 ||ujuqvalvvvof.com^
 ||ukatoe.com^
@@ -39553,6 +39565,7 @@
 ||vdazz.net^
 ||vdc.zoomph.com^
 ||vddf0.club^
+||vddoxukqwh.xyz^
 ||vde1.voyage-prive.de^
 ||vdkejkyztas.com^
 ||vdna-assets.com^
@@ -39840,6 +39853,7 @@
 ||vietdorje.com^
 ||vietnamnetad.vn^
 ||view-affiliwelt.net^
+||view-flix.com^
 ||view-prod.ad.singular.net^
 ||view4cash.de^
 ||viewablemedia.net^
@@ -40019,7 +40033,6 @@
 ||vk77lnizckm6.com^
 ||vkafirac.com^
 ||vkaofq64zz.com^
-||vkcdnservice.appspot.com^
 ||vkcdnservice.com^
 ||vkekyx.com^
 ||vkjmljhcdn.com^
@@ -41497,7 +41510,6 @@
 ||www.fuze-sea*.xyz^
 ||www.hey.lt^
 ||www.kaplanindex.com^
-||www.llllllllllll.net^
 ||www.masksjp.com^
 ||www.milawka.com^
 ||www.net.kg^
@@ -42957,6 +42969,7 @@
 ||zerg.pro^
 ||zero.kz^
 ||zeroao.cn^
+||zerodestructive.com^
 ||zeroethgipsy.com^
 ||zeroidtech.com^
 ||zerolullaby.com^

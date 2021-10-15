@@ -1,5 +1,6 @@
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
+0.0.0.0 000123456789.online
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
 0.0.0.0 006a039c957c142bb.com
@@ -872,6 +873,7 @@
 0.0.0.0 50trk.com
 0.0.0.0 50websads.com
 0.0.0.0 50zera.com
+0.0.0.0 51-tour.net
 0.0.0.0 51189fb815.com
 0.0.0.0 5123b.com
 0.0.0.0 5125129.com
@@ -5607,6 +5609,7 @@
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kidoz.net
+0.0.0.0 analytics.kkb.com.tr
 0.0.0.0 analytics.ladmedia.fr
 0.0.0.0 analytics.lekumo.jp
 0.0.0.0 analytics.live.com
@@ -9921,6 +9924,7 @@
 0.0.0.0 channelcamp.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 chaogej.com
+0.0.0.0 chaoyi4.com
 0.0.0.0 chapelonefoldonefoldpuppet.com
 0.0.0.0 chapsartore.com
 0.0.0.0 chaptersus.com
@@ -15838,6 +15842,7 @@
 0.0.0.0 fbxnsabawjkylo.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc2b9b7ce3165.com
+0.0.0.0 fc2ppv.buzz
 0.0.0.0 fc408d7caec09.com
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
@@ -17691,6 +17696,7 @@
 0.0.0.0 gnezdo.ru
 0.0.0.0 gng5.cn
 0.0.0.0 gnncc.cc
+0.0.0.0 gnoyvsielusbi.xyz
 0.0.0.0 gnpge.com
 0.0.0.0 gnrdomimplementation.com
 0.0.0.0 go-clicks.de
@@ -19541,6 +19547,7 @@
 0.0.0.0 hvato.info
 0.0.0.0 hvcbkr.com
 0.0.0.0 hw6.com
+0.0.0.0 hwanjia.com
 0.0.0.0 hwmonitor-ru.ru
 0.0.0.0 hwpub.com
 0.0.0.0 hwstats.unity3d.com
@@ -23229,6 +23236,7 @@
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
 0.0.0.0 lockerdomecdn.com
+0.0.0.0 locketamoral.com
 0.0.0.0 lockgranted.com
 0.0.0.0 lockhosts.com
 0.0.0.0 lockingadmitted.com
@@ -29083,6 +29091,7 @@
 0.0.0.0 placeoff.ru
 0.0.0.0 placidperson.com
 0.0.0.0 plaguealacritytwitter.com
+0.0.0.0 plaicecaught.com
 0.0.0.0 plaicenaive.com
 0.0.0.0 plainlycradlescalp.com
 0.0.0.0 plainplayground.com
@@ -32717,6 +32726,7 @@
 0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 sankaudacityrefine.com
 0.0.0.0 sanme2.lanzoui.com
+0.0.0.0 sanxiucaiwu.top
 0.0.0.0 sanxueshufa.cn
 0.0.0.0 sanzhong.co
 0.0.0.0 sapclasped.com
@@ -34259,6 +34269,7 @@
 0.0.0.0 softenedimmortalityprocedure.com
 0.0.0.0 softenedprepare.com
 0.0.0.0 softexcellence.com
+0.0.0.0 softlygaiety.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 softonicads.com
 0.0.0.0 softpopads.com
@@ -34391,6 +34402,7 @@
 0.0.0.0 sousaira.com
 0.0.0.0 southene.club
 0.0.0.0 southvane.com
+0.0.0.0 souvenirsattachedcountenance.com
 0.0.0.0 souvenirwatery.com
 0.0.0.0 sovieashlig.club
 0.0.0.0 sovietit.com
@@ -38878,6 +38890,7 @@
 0.0.0.0 ujccccb.com
 0.0.0.0 ujiasm.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujlvongqbjouubp.xyz
 0.0.0.0 ujoongeilaej.info
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ukatoe.com
@@ -39551,6 +39564,7 @@
 0.0.0.0 vdazz.net
 0.0.0.0 vdc.zoomph.com
 0.0.0.0 vddf0.club
+0.0.0.0 vddoxukqwh.xyz
 0.0.0.0 vde1.voyage-prive.de
 0.0.0.0 vdkejkyztas.com
 0.0.0.0 vdna-assets.com
@@ -39838,6 +39852,7 @@
 0.0.0.0 vietdorje.com
 0.0.0.0 vietnamnetad.vn
 0.0.0.0 view-affiliwelt.net
+0.0.0.0 view-flix.com
 0.0.0.0 view-prod.ad.singular.net
 0.0.0.0 view4cash.de
 0.0.0.0 viewablemedia.net
@@ -42953,6 +42968,7 @@
 0.0.0.0 zerg.pro
 0.0.0.0 zero.kz
 0.0.0.0 zeroao.cn
+0.0.0.0 zerodestructive.com
 0.0.0.0 zeroethgipsy.com
 0.0.0.0 zeroidtech.com
 0.0.0.0 zerolullaby.com

@@ -1,6 +1,7 @@
 #!/bin/bash
 sedcmd=${SEDCMD:-sed}
 NAME_280=($(date "+%Y%m"))
+timestamp=$(date "+%Y%m%d-%H")
 
 #adblock/bin/src
 script_dir=$(cd $(dirname ${BASH_SOURCE[0]}); pwd)
@@ -78,12 +79,12 @@ merge_domainlist(){
 
     cat "$tmp_dir_local/domain.conf" |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/0\.0\.0\.0/g" > "$base_dir/etc/dnsmasq.blocklist.d/ad-block.conf"
     cat "$tmp_dir_local/domain.conf" | sed -e "s/^/0\.0\.0\.0 /g" > "$base_dir/etc/squid/hosts.txt"
-    cat "$tmp_dir_local/domain.conf" | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" > "$base_dir/uBlockdns.txt"
+    cat "$tmp_dir_local/domain.conf" | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" | sed "1i\!$timestamp" > "$base_dir/uBlockdns.txt"
 }
 
 main(){
-    #download
-    #copy_myrule
+    download
+    copy_myrule
     change_adgurd2domain
     merge_domainlist
 
