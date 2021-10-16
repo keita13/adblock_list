@@ -1,1 +1,0 @@
-###ad_left_box > [href^="https://appmedia.jp/appli-data"] > .size-full.aligncenter

@@ -1,0 +1,17 @@
+ublocklist 280blocker_adblock.txt https://280blocker.net/files/280blocker_adblock_$NAME_280.txt
+ublocklist yuki_jpfilter.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
+ublocklist yuki_jpfilter_mobile.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt
+ublocklist yuki_jpfilter_ad.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt
+ublocklist yuki_jpfilter_social.txt https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-social.txt
+ublocklist adguard_basefilter.txt https://filters.adtidy.org/extension/ublock/filters/2.txt
+ublocklist ublock_filter.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+ublocklist ublock_filter-2020.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+ublocklist ublock_filter-2021.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+ublocklist ublock_filter_badware.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ublocklist ublock_filter_privacy.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+ublocklist ublocklist_filter_resource.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+ublocklist ublock_filter_unbreak.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+ublocklist Online_Malicious.txt https://filters.adtidy.org/extension/ublock/filters/208_optimized.txt
+ublocklist Spam404.txt https://filters.adtidy.org/extension/ublock/filters/210_optimized.txt
+ublocklist kame_filter.txt https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kame_filter.txt
+ublocklist kotori_filter.txt https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/kotori_filter.txt
