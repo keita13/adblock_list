@@ -6,7 +6,7 @@ main(){
 
     bash "$script_dir/src/dnsfilter.sh"
     bash "$script_dir/src/ublacklist.sh"
-
+    bash "$script_dir/src/ublocklist.sh"
 }
 
 
