@@ -1,0 +1,839 @@
+#AbBlock generated filters -- don't edit --
+#----- source -----
+#Title: 280blocker adblock filter
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
+#Last modified: 17 Oct 2021 15:00 UTC
+#Expires: 72 hours
+#Homepage: https://280blocker.net
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/Online_Malicious.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/Spam404.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/adguard_basefilter.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Title: 亀フィルタ（ウイルスサイトブロック）
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
+#Last modified: 17 Oct 2021 15:00 UTC
+#Expires: 72 hours
+#License: CC0 (Public Domain)
+#Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
+#----- source -----
+#Title: ことりフィルタ（SNSボタンブロック）
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
+#Last modified: 17 Oct 2021 15:00 UTC
+#Expires: 72 hours
+#License: CC0 (Public Domain)
+#Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/manual_list.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter-2020.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter-2021.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_badware.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_privacy.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_unbreak.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/ublocklist_filter_resource.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_ad.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_mobile.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#----- source -----
+#Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_social.txt
+#Last modified: 17 Nov 1858 00:00 UTC
+#Expires: 72 hours (expired)
+#------- end ------
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R1
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R10
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R11
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R12
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R13
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R14
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R15
+s@^referer(?=:[^\n]*[./](?:my-best\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R16
+s@^referer(?=:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R17
+s@^referer(?=:[^\n]*[./](?:nogizaka-46bunno1\.blog\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R18
+s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R19
+s@^referer(?=:[^\n]*[./](?:wikipedia\.org)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R2
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R20
+s@^referer(?=:[^\n]*[./](?:xbooks\.to)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R21
+s@^referer(?=:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R3
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R4
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R5
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R6
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R7
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R8
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-R9
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn22
+s@^referer(?!:[^\n]*[./](?:109cinemas\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn23
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|forbes\.com|mydocomo\.com|onlineshop\.smt\.docomo\.ne\.jp|ralphlauren\.co\.jp|109cinemas\.net|square-enix\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn24
+s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn25
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn26
+s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn27
+s@^referer(?!:[^\n]*[./](?:afl\.rakuten\.co\.jp|kakaku\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn28
+s@^referer(?!:[^\n]*[./](?:cosme\.net|amazon\.co\.jp|onlineshop\.smt\.docomo\.ne\.jp|mydocomo\.com|ralphlauren\.co\.jp|atwiki\.jp|bookoffonline\.co\.jp|natgeo\.nikkeibp\.co\.jp|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn29
+s@^referer(?!:[^\n]*[./](?:nicovideo\.jp|amazon\.co\.jp|avgle\.com|weddingpark\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn30
+s@^referer(?!:[^\n]*[./](?:auone\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn31
+s@^referer(?!:[^\n]*[./](?:avgle\.com|manga1000\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn32
+s@^referer(?!:[^\n]*[./](?:naver\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn33
+s@^referer(?!:[^\n]*[./](?:tokyo-gas\.co\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn34
+s@^referer(?!:[^\n]*[./](?:bbchat\.tv)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn35
+s@^referer(?!:[^\n]*[./](?:blogmura\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn36
+s@^referer(?!:[^\n]*[./](?:casabrutus\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn37
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|studio-mario\.jp|kitamura\.jp|charingress\.tokyo)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn38
+s@^referer(?!:[^\n]*[./](?:dropbooks\.tv|xbooks\.to)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn39
+s@^referer(?!:[^\n]*[./](?:softbank\.jp|sbg\.jp|e-gift\.co)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn40
+s@^referer(?!:[^\n]*[./](?:excite\.co\.jp|tv\.golfnetwork\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn41
+s@^referer(?!:[^\n]*[./](?:feedly\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn42
+s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn43
+s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn44
+s@^referer(?!:[^\n]*[./](?:news\.livedoor\.com|gendai\.ismedia\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn45
+s@^referer(?!:[^\n]*[./](?:gendama\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn46
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn47
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn48
+s@^referer(?!:[^\n]*[./](?:gree\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn49
+s@^referer(?!:[^\n]*[./](?:hackintosh\.zone)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn50
+s@^referer(?!:[^\n]*[./](?:hapitas\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn51
+s@^referer(?!:[^\n]*[./](?:happymail\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn52
+s@^referer(?!:[^\n]*[./](?:hatenablog\.com|hatenablog\.jp|hateblo\.jp|hatena\.ne\.jp|hatenadiary\.com|hatenadiary\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn53
+s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn54
+s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn55
+s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn56
+s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn57
+s@^referer(?!:[^\n]*[./](?:mainichi\.jp|itmedia\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn58
+s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn59
+s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn60
+s@^referer(?!:[^\n]*[./](?:line\.me)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn61
+s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn62
+s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn63
+s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn64
+s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn65
+s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn66
+s@^referer(?!:[^\n]*[./](?:qiita\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn67
+s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn68
+s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn69
+s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn70
+s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn71
+s@^referer(?!:[^\n]*[./](?:wired\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn72
+s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn73
+s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn74
+s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn75
+s@^referer(?!:[^\n]*[./](?:www\.nifty\.com)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn76
+s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R1
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R10
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R11
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R12
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R13
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R14
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R15
+s@^referer(?=:[^\n]*[./](?:my-best\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R16
+s@^referer(?=:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R17
+s@^referer(?=:[^\n]*[./](?:nogizaka-46bunno1\.blog\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R18
+s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R19
+s@^referer(?=:[^\n]*[./](?:wikipedia\.org)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R2
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R20
+s@^referer(?=:[^\n]*[./](?:xbooks\.to)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R21
+s@^referer(?=:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R3
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R4
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R5
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R6
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R7
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R8
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-R9
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn22
+s@^referer(?!:[^\n]*[./](?:109cinemas\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn23
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|forbes\.com|mydocomo\.com|onlineshop\.smt\.docomo\.ne\.jp|ralphlauren\.co\.jp|109cinemas\.net|square-enix\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn24
+s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn25
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn26
+s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn27
+s@^referer(?!:[^\n]*[./](?:afl\.rakuten\.co\.jp|kakaku\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn28
+s@^referer(?!:[^\n]*[./](?:cosme\.net|amazon\.co\.jp|onlineshop\.smt\.docomo\.ne\.jp|mydocomo\.com|ralphlauren\.co\.jp|atwiki\.jp|bookoffonline\.co\.jp|natgeo\.nikkeibp\.co\.jp|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn29
+s@^referer(?!:[^\n]*[./](?:nicovideo\.jp|amazon\.co\.jp|avgle\.com|weddingpark\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn30
+s@^referer(?!:[^\n]*[./](?:auone\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn31
+s@^referer(?!:[^\n]*[./](?:avgle\.com|manga1000\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn32
+s@^referer(?!:[^\n]*[./](?:naver\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn33
+s@^referer(?!:[^\n]*[./](?:tokyo-gas\.co\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn34
+s@^referer(?!:[^\n]*[./](?:bbchat\.tv)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn35
+s@^referer(?!:[^\n]*[./](?:blogmura\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn36
+s@^referer(?!:[^\n]*[./](?:casabrutus\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn37
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|studio-mario\.jp|kitamura\.jp|charingress\.tokyo)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn38
+s@^referer(?!:[^\n]*[./](?:dropbooks\.tv|xbooks\.to)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn39
+s@^referer(?!:[^\n]*[./](?:softbank\.jp|sbg\.jp|e-gift\.co)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn40
+s@^referer(?!:[^\n]*[./](?:excite\.co\.jp|tv\.golfnetwork\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn41
+s@^referer(?!:[^\n]*[./](?:feedly\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn42
+s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn43
+s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn44
+s@^referer(?!:[^\n]*[./](?:news\.livedoor\.com|gendai\.ismedia\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn45
+s@^referer(?!:[^\n]*[./](?:gendama\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn46
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn47
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn48
+s@^referer(?!:[^\n]*[./](?:gree\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn49
+s@^referer(?!:[^\n]*[./](?:hackintosh\.zone)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn50
+s@^referer(?!:[^\n]*[./](?:hapitas\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn51
+s@^referer(?!:[^\n]*[./](?:happymail\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn52
+s@^referer(?!:[^\n]*[./](?:hatenablog\.com|hatenablog\.jp|hateblo\.jp|hatena\.ne\.jp|hatenadiary\.com|hatenadiary\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn53
+s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn54
+s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn55
+s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn56
+s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn57
+s@^referer(?!:[^\n]*[./](?:mainichi\.jp|itmedia\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn58
+s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn59
+s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn60
+s@^referer(?!:[^\n]*[./](?:line\.me)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn61
+s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn62
+s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn63
+s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn64
+s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn65
+s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn66
+s@^referer(?!:[^\n]*[./](?:qiita\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn67
+s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn68
+s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn69
+s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn70
+s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn71
+s@^referer(?!:[^\n]*[./](?:wired\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn72
+s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn73
+s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn74
+s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn75
+s@^referer(?!:[^\n]*[./](?:www\.nifty\.com)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn76
+s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Ahm
+s@^accept(?=:[\s\w]*(?:\/html|\/xml)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Ai
+s@^accept(?=:[\s\w]*(?:image\/)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Aj
+s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm
+s@^accept(?!:[\s\w]*(?:\/html|\/xml)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn77t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|forbes\.com|mydocomo\.com|onlineshop\.smt\.docomo\.ne\.jp|ralphlauren\.co\.jp|109cinemas\.net|square-enix\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn78t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:afl\.rakuten\.co\.jp|kakaku\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn79t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:naver\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn80t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:blogmura\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn81t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:casabrutus\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn82t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:softbank\.jp|sbg\.jp|e-gift\.co))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn83t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:gendama\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn84t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn85t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:gree\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn86t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:hapitas\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn87t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:i\.ntere\.st))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn88t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:instagram\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn89t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:instapaper\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn90t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:mixi\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn91t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:moppy\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn92t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:ponta\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn93t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:qiita\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn94t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:shop-list\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn95t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:tjapan\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn96t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:with2\.net))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn97t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rt
+s@^referer:.*@$&\t$host@Di
+s@^referer(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
+
+SERVER-HEADER-TAGGER: ab2p-block-request-Chm
+s@^content-type(?=:[\s\w]*(?:\/html|\/xml)):.*@ab2p-block-request@Ti
+
+SERVER-HEADER-TAGGER: ab2p-block-request-Ci
+s@^content-type(?=:[\s\w]*(?:image\/)):.*@ab2p-block-request@Ti
+
+SERVER-HEADER-TAGGER: ab2p-block-request-Cj
+s@^content-type(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-block-request@Ti
+
+SERVER-HEADER-TAGGER: ab2p-block-request-Cnhm
+s@^content-type(?!:[\s\w]*(?:\/html|\/xml)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R1
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R10
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R11
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R12
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R13
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R14
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R15
+s@^referer(?=:[^\n]*[./](?:my-best\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R16
+s@^referer(?=:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R17
+s@^referer(?=:[^\n]*[./](?:nogizaka-46bunno1\.blog\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R18
+s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R19
+s@^referer(?=:[^\n]*[./](?:wikipedia\.org)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R2
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R20
+s@^referer(?=:[^\n]*[./](?:xbooks\.to)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R21
+s@^referer(?=:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R3
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R4
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R5
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R6
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R7
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R8
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-R9
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn22
+s@^referer(?!:[^\n]*[./](?:109cinemas\.net)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn24
+s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn25
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn26
+s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn28
+s@^referer(?!:[^\n]*[./](?:cosme\.net|amazon\.co\.jp|onlineshop\.smt\.docomo\.ne\.jp|mydocomo\.com|ralphlauren\.co\.jp|atwiki\.jp|bookoffonline\.co\.jp|natgeo\.nikkeibp\.co\.jp|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn29
+s@^referer(?!:[^\n]*[./](?:nicovideo\.jp|amazon\.co\.jp|avgle\.com|weddingpark\.net)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn30
+s@^referer(?!:[^\n]*[./](?:auone\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn31
+s@^referer(?!:[^\n]*[./](?:avgle\.com|manga1000\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn33
+s@^referer(?!:[^\n]*[./](?:tokyo-gas\.co\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn34
+s@^referer(?!:[^\n]*[./](?:bbchat\.tv)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn37
+s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|studio-mario\.jp|kitamura\.jp|charingress\.tokyo)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn38
+s@^referer(?!:[^\n]*[./](?:dropbooks\.tv|xbooks\.to)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn40
+s@^referer(?!:[^\n]*[./](?:excite\.co\.jp|tv\.golfnetwork\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn41
+s@^referer(?!:[^\n]*[./](?:feedly\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn42
+s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn43
+s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn44
+s@^referer(?!:[^\n]*[./](?:news\.livedoor\.com|gendai\.ismedia\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn46
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn49
+s@^referer(?!:[^\n]*[./](?:hackintosh\.zone)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn51
+s@^referer(?!:[^\n]*[./](?:happymail\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn52
+s@^referer(?!:[^\n]*[./](?:hatenablog\.com|hatenablog\.jp|hateblo\.jp|hatena\.ne\.jp|hatenadiary\.com|hatenadiary\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn53
+s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn57
+s@^referer(?!:[^\n]*[./](?:mainichi\.jp|itmedia\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn58
+s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn59
+s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn60
+s@^referer(?!:[^\n]*[./](?:line\.me)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn61
+s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn64
+s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn65
+s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn69
+s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn70
+s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn71
+s@^referer(?!:[^\n]*[./](?:wired\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn73
+s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn74
+s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn75
+s@^referer(?!:[^\n]*[./](?:www\.nifty\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn76
+s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R98
+s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R98
+s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-Aj
+s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-unblock-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-Aj-Cj-when-R98
+s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-request-Aj-Cj@Ti
+
+SERVER-HEADER-TAGGER: ab2p-unblock-request-Cj
+s@^content-type(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-unblock-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R98
+s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-request@Ti

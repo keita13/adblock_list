@@ -62,19 +62,22 @@ merge_ublocklist(){
     local tmp_dir_local="$tmp_dir/ublocklist"
     for f in $tmp_dir_local/*.txt
     do
-	cat $f | sed -e "/^\s/d" | sed -e "/^!/d" | sed -e "/^$/d" >> "$tmp_dir_local/uBlockOrigin.conf"
+	cat $f | sed -e "/^\s/d" | sed -e "/^!/d" | sed -e "/^$/d" >> "$tmp_dir_local/ublocklist.conf"
     done
 
-    cp  "$tmp_dir_local/uBlockOrigin.conf" "$base_dir/uBlockOrigin.txt"
-    sed -i "1i\!$timestamp" $base_dir/uBlockOrigin.txt
+    cp  "$tmp_dir_local/ublocklist.conf" "$base_dir/ublocklist.txt"
+    sed -i "1i\!$timestamp" $base_dir/ublocklist.txt
 }
 
+change_adblock2privoxy(){
+    adblock2privoxy -t $script_dir/ublocklist.task
+}
 
 main(){
     download
     copy_myrule
     merge_ublocklist
-
+    change_adblock2privoxy
     exit 0
 }
 

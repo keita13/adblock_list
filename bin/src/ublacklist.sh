@@ -59,14 +59,14 @@ copy_myrule(){
 merge_ublacklist(){
 
     echo -e "\nMerge uBlacklist"
-    local tmp_dir_local="$tmp_dir/uBlacklist"
+    local tmp_dir_local="$tmp_dir/ublacklist"
 
     for f in $tmp_dir_local/*txt
     do
-	cat $f >> "$base_dir/uBlacklist.txt"
+	cat $f >> "$base_dir/ublacklist.txt"
     done
 
-    sort -u "$base_dir/uBlacklist.txt" -o "$base_dir/uBlacklist.txt" | uniq
+    sort -u "$base_dir/ublacklist.txt" -o "$base_dir/ublacklist.txt" | uniq
 }
 
 main(){
