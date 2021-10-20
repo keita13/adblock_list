@@ -5900,6 +5900,7 @@
 *://*.wikiarabi.org/*
 *://*.wikinew.wiki/*
 *://*.wikiqube.net/*
+*://*.wikituscany.com/*
 *://*.wikiwand.com/*
 *://*.winskin.ru/*
 *://*.www.366service.com/*
