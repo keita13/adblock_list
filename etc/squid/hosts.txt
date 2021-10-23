@@ -817,6 +817,7 @@
 0.0.0.0 4bb6jls06l.com
 0.0.0.0 4c13cac4bb.com
 0.0.0.0 4c935d6a244f.com
+0.0.0.0 4cinsights.com
 0.0.0.0 4clvr.jp
 0.0.0.0 4cr447ewncl4.com
 0.0.0.0 4d5.net
@@ -1185,6 +1186,7 @@
 0.0.0.0 7b6l2j.cn
 0.0.0.0 7bpeople.com
 0.0.0.0 7c1e55606540.com
+0.0.0.0 7caidai.xyz
 0.0.0.0 7car.com.cn
 0.0.0.0 7cbwus.cn
 0.0.0.0 7cdf78unokr7.ru
@@ -1464,6 +1466,7 @@
 0.0.0.0 9icmzvn6.website
 0.0.0.0 9itmr1lzaltn.com
 0.0.0.0 9j1y.cn
+0.0.0.0 9j3a.cn
 0.0.0.0 9kanw.com
 0.0.0.0 9kff.com
 0.0.0.0 9kh5b.cn
@@ -4676,6 +4679,7 @@
 0.0.0.0 aexperiod.fun
 0.0.0.0 af-110.com
 0.0.0.0 af-ad.co.uk
+0.0.0.0 af-next.com
 0.0.0.0 af-z.jp
 0.0.0.0 af.1gdz.ru
 0.0.0.0 af.fukuishimbun.co.jp
@@ -5919,6 +5923,7 @@
 0.0.0.0 antevenio.com
 0.0.0.0 anthill.vn
 0.0.0.0 anti-cheat.info
+0.0.0.0 anti.allcryptoz.net
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 antiblock.info
 0.0.0.0 anticipatedlying.com
@@ -6390,6 +6395,7 @@
 0.0.0.0 artisticdisgraceevidently.com
 0.0.0.0 artpever.com
 0.0.0.0 artreconnect.com
+0.0.0.0 artsai.com
 0.0.0.0 artsmalle.pro
 0.0.0.0 arxistenthe.top
 0.0.0.0 arysignificc.fun
@@ -10077,6 +10083,7 @@
 0.0.0.0 chickenkiller.com
 0.0.0.0 chickensaladandads.com
 0.0.0.0 chickensstation.com
+0.0.0.0 chicoryapp.com
 0.0.0.0 chidir.com
 0.0.0.0 chidsimp.com
 0.0.0.0 chief-con.pro
@@ -10727,6 +10734,7 @@
 0.0.0.0 cnliken.com
 0.0.0.0 cnlongshou.com
 0.0.0.0 cnnected.org
+0.0.0.0 cnnx.io
 0.0.0.0 cnnywz.cn
 0.0.0.0 cnolhzguwnfgk.com
 0.0.0.0 cnomy.com
@@ -10844,6 +10852,7 @@
 0.0.0.0 cognativex.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitivematch.com
+0.0.0.0 cognitivlabs.com
 0.0.0.0 cogocast.net
 0.0.0.0 cogsdigital.com
 0.0.0.0 coguan.com
@@ -11078,6 +11087,7 @@
 0.0.0.0 compteur.fr
 0.0.0.0 compteur.org
 0.0.0.0 compteur.websiteout.net
+0.0.0.0 compulsivehemisphere.com
 0.0.0.0 computeterrifyingobdurate.com
 0.0.0.0 comscore.com
 0.0.0.0 comunicazio.com
@@ -11919,6 +11929,7 @@
 0.0.0.0 culpritwatchmanhostile.com
 0.0.0.0 culreelt.com
 0.0.0.0 culsauwou.com
+0.0.0.0 cultergoy.com
 0.0.0.0 cultidifficient.info
 0.0.0.0 cultivatedbrandnewelemental.com
 0.0.0.0 cultivationparagraph.com
@@ -12010,6 +12021,7 @@
 0.0.0.0 cxyldc.com
 0.0.0.0 cxzudwk.com
 0.0.0.0 cy-ck.top
+0.0.0.0 cy-s.click
 0.0.0.0 cy-wz.com
 0.0.0.0 cya1t.net
 0.0.0.0 cya2.net
@@ -13107,6 +13119,7 @@
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denlorian.com
 0.0.0.0 denouncetenantequipment.com
+0.0.0.0 denseplatter.com
 0.0.0.0 dentaint.pro
 0.0.0.0 dentalsadness.com
 0.0.0.0 deobp.com
@@ -14998,6 +15011,7 @@
 0.0.0.0 entiregraterfurs.com
 0.0.0.0 entpressent.top
 0.0.0.0 entractta.top
+0.0.0.0 entravision.com
 0.0.0.0 entrecard.com
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entrecent.xyz
@@ -16032,6 +16046,7 @@
 0.0.0.0 fengmishop.cn
 0.0.0.0 fengousm.com
 0.0.0.0 fengspw.xyz
+0.0.0.0 fengzhilu.cn
 0.0.0.0 fenhao14.com
 0.0.0.0 fenixm.com
 0.0.0.0 fenrunwayradiant.com
@@ -18980,6 +18995,7 @@
 0.0.0.0 hhslbz.cn
 0.0.0.0 hhsoftinfo.com
 0.0.0.0 hhunvu.com
+0.0.0.0 hhytrace.sogoucdn.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hi.xiunm.cn
 0.0.0.0 hi.xiunm.com
@@ -19817,6 +19833,7 @@
 0.0.0.0 iaudienc.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ib.snssdk.com
+0.0.0.0 ib.teicdn.com
 0.0.0.0 ibanner.de
 0.0.0.0 ibannerexchange.com
 0.0.0.0 ibatom.com
@@ -20779,6 +20796,7 @@
 0.0.0.0 iqiyi.pub
 0.0.0.0 iqkbi.top
 0.0.0.0 iqkfplsez.com
+0.0.0.0 iqm.com
 0.0.0.0 iqok.ru
 0.0.0.0 iqsns.top
 0.0.0.0 iqsoh.ru
@@ -23460,6 +23478,7 @@
 0.0.0.0 log.mappy.net
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
+0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mp3.zing.vn
 0.0.0.0 log.musical.ly
 0.0.0.0 log.news.zing.vn
@@ -23486,6 +23505,7 @@
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.shufoo.net
+0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.snssdk.com
@@ -24429,6 +24449,7 @@
 0.0.0.0 mavq.net
 0.0.0.0 mavuz.com
 0.0.0.0 mawlaybob.com
+0.0.0.0 mawmishtrior.com
 0.0.0.0 mawsewtow.com
 0.0.0.0 max-adserv.com
 0.0.0.0 max.i12.de
@@ -27396,6 +27417,7 @@
 0.0.0.0 oedoxundnibwc.com
 0.0.0.0 oegdmfjoqyyt.com
 0.0.0.0 oei1.gq
+0.0.0.0 oeitlgqjw.com
 0.0.0.0 oende.cn
 0.0.0.0 oeqirr.com
 0.0.0.0 oesfriences.fun
@@ -32999,6 +33021,7 @@
 0.0.0.0 sbc7wfnaakau.com
 0.0.0.0 sbcpower.com
 0.0.0.0 sbdtds.com
+0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sbenx.com
 0.0.0.0 sbfsdvc.com
 0.0.0.0 sbgsodufuosmmvsdf.info
@@ -33526,7 +33549,6 @@
 0.0.0.0 services.hearstmags.com
 0.0.0.0 services.wetek.com
 0.0.0.0 services.zam.com
-0.0.0.0 servicesdrtviceshjgugjgufjfiffjfufjffjfjfjfjfjfjfjjdhgd.azurewebsites.net
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 serving-sys.com
 0.0.0.0 serving-system.com
@@ -34378,6 +34400,8 @@
 0.0.0.0 sngakyf.com
 0.0.0.0 sngmta.qq.com
 0.0.0.0 sni-dat.com
+0.0.0.0 sni.ps
+0.0.0.0 snickchangesolder.com
 0.0.0.0 snickgainfulmuch.com
 0.0.0.0 snifferent.club
 0.0.0.0 snigelweb.com
@@ -36107,6 +36131,7 @@
 0.0.0.0 sworatio.co
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
+0.0.0.0 swpsvc.com
 0.0.0.0 swq48b.cn
 0.0.0.0 swqpfcet.com
 0.0.0.0 swtkc.cn
@@ -36208,6 +36233,7 @@
 0.0.0.0 sytsr.com
 0.0.0.0 syxchj.cn
 0.0.0.0 syxcwxur.com
+0.0.0.0 syxwj.cn
 0.0.0.0 syxylyche.pro
 0.0.0.0 syybmy.cn
 0.0.0.0 syyycc.com
@@ -41615,6 +41641,7 @@
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wpnsrv.com
 0.0.0.0 wpu.sh
+0.0.0.0 wpuivmzqqnad.com
 0.0.0.0 wpunativesh.com
 0.0.0.0 wpush.org
 0.0.0.0 wpyjkfcucjpuwh.com
