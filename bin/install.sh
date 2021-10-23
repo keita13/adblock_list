@@ -5,11 +5,15 @@ base_dir=$(dirname ${script_dir})
 
 main(){
 
+    cd $base_dir
+    git pull origin master
+
     bash "$script_dir/src/dnsfilter.sh"
     bash "$script_dir/src/ublacklist.sh"
     bash "$script_dir/src/ublocklist.sh"
 
-    git add $base_dir
+    cd $base_dir
+    git add .
     git commit -m "$(date "+%Y%m%d")"
     git push origin master
     exit 0
