@@ -6,6 +6,7 @@
 *://*.2ch.sc/*
 *://*.2ch.vet/*
 *://*.2chmm.com/*
+*://*.2nf2.rdy.jp/*
 *://*.2nn.jp/*
 *://*.360comunication.it/*
 *://*.365airsoft.com/*
@@ -106,6 +107,7 @@
 *://*.codingdict.com/*
 *://*.cogestinformatica.it/*
 *://*.colegiobalmaceda.cl/*
+*://*.comedydouga.com/*
 *://*.conceptfoam.ru/*
 *://*.consorziorebaude.it/*
 *://*.constructorweb.cl/*

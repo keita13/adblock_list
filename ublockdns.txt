@@ -1,4 +1,4 @@
-!20211025-03
+!20211026-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1347,6 +1347,7 @@
 ||8livevn.com^
 ||8mb4qkd74cht.com^
 ||8mono.biz^
+||8o9m.cn^
 ||8po6fdwjsym3.com^
 ||8q2g560ynxlkz9rm.in.net^
 ||8s32e590un.com^
@@ -1652,7 +1653,6 @@
 ||a2gw.com^
 ||a2pub.com^
 ||a2put.chinaz.com^
-||a2z.com^
 ||a3.jandan.net^
 ||a31daecf420.com^
 ||a32a.com.cn^
@@ -6489,6 +6489,7 @@
 ||aspirinsuicide.com^
 ||aspm.jp^
 ||aspservice.jp^
+||aspwg.cn^
 ||asqgcaeeprydk.com^
 ||asrety.com^
 ||asrop.xyz^
@@ -9560,6 +9561,7 @@
 ||cbfhghb.pro^
 ||cbgunpz3aoayscg.ru^
 ||cbgyhe.cn^
+||cbh365.club^
 ||cbibhbghgdjbbageabd.ru^
 ||cbjs.baidu.com^
 ||cbjs.ciwei.in^
@@ -15937,6 +15939,7 @@
 ||fd7qz88ckd.com^
 ||fdbtvavxtfvpbx.com^
 ||fdf4.com^
+||fdfgf.cc^
 ||fdgeen.com^
 ||fdnfnqgmfykg.com^
 ||fdoun.com^
@@ -17597,6 +17600,7 @@
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
 ||gjc.gjirafa.com^
+||gjohvhf.cn^
 ||gjqhufkamcoc.com^
 ||gjrswtzjn.com^
 ||gjslebmbiawh.com^
@@ -19295,6 +19299,7 @@
 ||honghaotravel.com^
 ||hongjiaex.cn^
 ||hongjiujiaoyi.com^
+||hongruikt.com^
 ||hongshikai.com^
 ||hongtefm.com^
 ||hongwenge.com^
@@ -19527,6 +19532,7 @@
 ||huangyeqing.cn^
 ||huapuzs.com^
 ||huataisangao.cn^
+||huaxiaozhang.club^
 ||huayancn.cn^
 ||huayange.com^
 ||huayi65.com^
@@ -19639,6 +19645,7 @@
 ||hwstats.unity3d.com^
 ||hxadt.com^
 ||hxbt.alading123.com^
+||hxf1688.xyz^
 ||hxfree.vip^
 ||hxguqogewaicf42s.in.net^
 ||hxiak.com^
@@ -20693,6 +20700,7 @@
 ||ioredi.com^
 ||ios.426g.com^
 ||ios.bugly.qq.com^
+||iosuppu.com^
 ||iotechnologies.com^
 ||iovation.com^
 ||ip-label.net^
@@ -22536,6 +22544,7 @@
 ||laim.tv^
 ||lainswitche.top^
 ||laiphouz.net^
+||laiyangalibaba.cn^
 ||laiye315.top^
 ||lajeshuru.pro^
 ||lakequincy.com^
@@ -23026,6 +23035,7 @@
 ||lihailin.vip^
 ||lijie1010.top^
 ||lijit.com^
+||likeads.com^
 ||likecontrol.com^
 ||likefly.com.cn^
 ||likelycatchunhappy.com^
@@ -23547,6 +23557,7 @@
 ||logg4u.cnnd.vn^
 ||logger-*.dailymotion.com^
 ||logger.applovefrom.com^
+||logger.bzu.kr^
 ||logger.cbs.co.kr^
 ||logger.cloudmobi.net^
 ||logger.co.kr^
@@ -28124,6 +28135,7 @@
 ||ovustav.ru^
 ||owap.su^
 ||owbihynrz.com^
+||owdfxgc.cn^
 ||owebanalytics.com^
 ||owebmoney.ru^
 ||owenexposure.com^
@@ -29974,6 +29986,7 @@
 ||proclivitysystems.com^
 ||prod-collector.bigbasket.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
+||prod.cm.publishers.advertising.a2z.com^
 ||prod.html5-ads.vk-apps.com^
 ||prod.untd.com^
 ||producebreed.com^
@@ -33653,6 +33666,7 @@
 ||sharegods.com^
 ||shareifyoulike.com^
 ||shareitpp.com^
+||shareman.xyz^
 ||sharemedia.top^
 ||shareresults.com^
 ||shareste.top^
@@ -36585,6 +36599,7 @@
 ||tbe.tom.ru^
 ||tbex.ru^
 ||tbkjttmdcjduhs.com^
+||tbl1.cn^
 ||tbm09.com^
 ||tbnmmjm.com^
 ||tbv157xq.com^
@@ -37681,6 +37696,7 @@
 ||tpbid.com^
 ||tpc.googlesyndication.com^
 ||tpcdn.top^
+||tpd4.cn^
 ||tpdads.com^
 ||tpe163.com^
 ||tpjsqt.com^
@@ -38835,6 +38851,7 @@
 ||tw*.netcore.co.in^
 ||tw-api.vpon.com^
 ||tw.api.vpon.com^
+||tw5k2vc.cn^
 ||twcount.com^
 ||twcouponcenter.com^
 ||tweakdisguisesapplications.com^
@@ -39821,6 +39838,7 @@
 ||veille-referencement.com^
 ||veinteractive.com^
 ||velaro.com^
+||velawhagru.com^
 ||velismedia.com^
 ||velmedia.net^
 ||velocecdn.com^
@@ -39978,6 +39996,7 @@
 ||video-ad-stats.googlesyndication.com^
 ||video-adblocker.com^
 ||video-ads-module.ad-tech.nbcuni.com^
+||video-ads.a2z.com^
 ||video-invest.net^
 ||video-link.ru^
 ||video-loader.com^
@@ -40648,6 +40667,7 @@
 ||wanderbj.top^
 ||wanfukang.cc^
 ||wangchuanwujin.cn^
+||wangcm01.top^
 ||wangdaguanli.com^
 ||wangdaizao.com^
 ||wangdddy.com^
@@ -40879,6 +40899,7 @@
 ||webleads-tracker.com^
 ||weblist.de^
 ||weblog.com.ua^
+||weblog.hankookilbo.com^
 ||weblog.livesport.eu^
 ||weblog.zdnet.co.kr^
 ||weblogger-dynamic-lb.playdom.com^
@@ -40897,6 +40918,7 @@
 ||webminerpool.com^
 ||webmining.co^
 ||webmobile.ws^
+||webmontify.com^
 ||webodu.com^
 ||weboohost.com^
 ||weborama.com^
@@ -42081,6 +42103,7 @@
 ||xintaizhaoming.com^
 ||xintengfeiyang.info^
 ||xinxbh.cn^
+||xinyansaas.com^
 ||xinyuanstudio.com^
 ||xiongdong.com^
 ||xiongzhangad.com^
@@ -42597,6 +42620,7 @@
 ||yf898.com^
 ||yfbiwkxjkaw.com^
 ||yfcxzvdyrnp.com^
+||yfetyg.com^
 ||yfibjzosrqrtmv.com^
 ||yfkha.xyz^
 ||yfomeimset.com^
@@ -43084,6 +43108,7 @@
 ||yzyszy.com^
 ||yzytb.com^
 ||z-profit.com^
+||z-xiao.xyz^
 ||z.cdn.adpool.bet^
 ||z.grfyw.com^
 ||z.nowscore.com^

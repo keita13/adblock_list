@@ -1346,6 +1346,7 @@
 0.0.0.0 8livevn.com
 0.0.0.0 8mb4qkd74cht.com
 0.0.0.0 8mono.biz
+0.0.0.0 8o9m.cn
 0.0.0.0 8po6fdwjsym3.com
 0.0.0.0 8q2g560ynxlkz9rm.in.net
 0.0.0.0 8s32e590un.com
@@ -1651,7 +1652,6 @@
 0.0.0.0 a2gw.com
 0.0.0.0 a2pub.com
 0.0.0.0 a2put.chinaz.com
-0.0.0.0 a2z.com
 0.0.0.0 a3.jandan.net
 0.0.0.0 a31daecf420.com
 0.0.0.0 a32a.com.cn
@@ -6488,6 +6488,7 @@
 0.0.0.0 aspirinsuicide.com
 0.0.0.0 aspm.jp
 0.0.0.0 aspservice.jp
+0.0.0.0 aspwg.cn
 0.0.0.0 asqgcaeeprydk.com
 0.0.0.0 asrety.com
 0.0.0.0 asrop.xyz
@@ -9559,6 +9560,7 @@
 0.0.0.0 cbfhghb.pro
 0.0.0.0 cbgunpz3aoayscg.ru
 0.0.0.0 cbgyhe.cn
+0.0.0.0 cbh365.club
 0.0.0.0 cbibhbghgdjbbageabd.ru
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cbjs.ciwei.in
@@ -15936,6 +15938,7 @@
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fdbtvavxtfvpbx.com
 0.0.0.0 fdf4.com
+0.0.0.0 fdfgf.cc
 0.0.0.0 fdgeen.com
 0.0.0.0 fdnfnqgmfykg.com
 0.0.0.0 fdoun.com
@@ -17596,6 +17599,7 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjc.gjirafa.com
+0.0.0.0 gjohvhf.cn
 0.0.0.0 gjqhufkamcoc.com
 0.0.0.0 gjrswtzjn.com
 0.0.0.0 gjslebmbiawh.com
@@ -19294,6 +19298,7 @@
 0.0.0.0 honghaotravel.com
 0.0.0.0 hongjiaex.cn
 0.0.0.0 hongjiujiaoyi.com
+0.0.0.0 hongruikt.com
 0.0.0.0 hongshikai.com
 0.0.0.0 hongtefm.com
 0.0.0.0 hongwenge.com
@@ -19526,6 +19531,7 @@
 0.0.0.0 huangyeqing.cn
 0.0.0.0 huapuzs.com
 0.0.0.0 huataisangao.cn
+0.0.0.0 huaxiaozhang.club
 0.0.0.0 huayancn.cn
 0.0.0.0 huayange.com
 0.0.0.0 huayi65.com
@@ -19638,6 +19644,7 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hxadt.com
 0.0.0.0 hxbt.alading123.com
+0.0.0.0 hxf1688.xyz
 0.0.0.0 hxfree.vip
 0.0.0.0 hxguqogewaicf42s.in.net
 0.0.0.0 hxiak.com
@@ -20692,6 +20699,7 @@
 0.0.0.0 ioredi.com
 0.0.0.0 ios.426g.com
 0.0.0.0 ios.bugly.qq.com
+0.0.0.0 iosuppu.com
 0.0.0.0 iotechnologies.com
 0.0.0.0 iovation.com
 0.0.0.0 ip-label.net
@@ -22535,6 +22543,7 @@
 0.0.0.0 laim.tv
 0.0.0.0 lainswitche.top
 0.0.0.0 laiphouz.net
+0.0.0.0 laiyangalibaba.cn
 0.0.0.0 laiye315.top
 0.0.0.0 lajeshuru.pro
 0.0.0.0 lakequincy.com
@@ -23025,6 +23034,7 @@
 0.0.0.0 lihailin.vip
 0.0.0.0 lijie1010.top
 0.0.0.0 lijit.com
+0.0.0.0 likeads.com
 0.0.0.0 likecontrol.com
 0.0.0.0 likefly.com.cn
 0.0.0.0 likelycatchunhappy.com
@@ -23546,6 +23556,7 @@
 0.0.0.0 logg4u.cnnd.vn
 0.0.0.0 logger-*.dailymotion.com
 0.0.0.0 logger.applovefrom.com
+0.0.0.0 logger.bzu.kr
 0.0.0.0 logger.cbs.co.kr
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.co.kr
@@ -28123,6 +28134,7 @@
 0.0.0.0 ovustav.ru
 0.0.0.0 owap.su
 0.0.0.0 owbihynrz.com
+0.0.0.0 owdfxgc.cn
 0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owenexposure.com
@@ -29973,6 +29985,7 @@
 0.0.0.0 proclivitysystems.com
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
+0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.html5-ads.vk-apps.com
 0.0.0.0 prod.untd.com
 0.0.0.0 producebreed.com
@@ -33652,6 +33665,7 @@
 0.0.0.0 sharegods.com
 0.0.0.0 shareifyoulike.com
 0.0.0.0 shareitpp.com
+0.0.0.0 shareman.xyz
 0.0.0.0 sharemedia.top
 0.0.0.0 shareresults.com
 0.0.0.0 shareste.top
@@ -36584,6 +36598,7 @@
 0.0.0.0 tbe.tom.ru
 0.0.0.0 tbex.ru
 0.0.0.0 tbkjttmdcjduhs.com
+0.0.0.0 tbl1.cn
 0.0.0.0 tbm09.com
 0.0.0.0 tbnmmjm.com
 0.0.0.0 tbv157xq.com
@@ -37680,6 +37695,7 @@
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcdn.top
+0.0.0.0 tpd4.cn
 0.0.0.0 tpdads.com
 0.0.0.0 tpe163.com
 0.0.0.0 tpjsqt.com
@@ -38834,6 +38850,7 @@
 0.0.0.0 tw*.netcore.co.in
 0.0.0.0 tw-api.vpon.com
 0.0.0.0 tw.api.vpon.com
+0.0.0.0 tw5k2vc.cn
 0.0.0.0 twcount.com
 0.0.0.0 twcouponcenter.com
 0.0.0.0 tweakdisguisesapplications.com
@@ -39820,6 +39837,7 @@
 0.0.0.0 veille-referencement.com
 0.0.0.0 veinteractive.com
 0.0.0.0 velaro.com
+0.0.0.0 velawhagru.com
 0.0.0.0 velismedia.com
 0.0.0.0 velmedia.net
 0.0.0.0 velocecdn.com
@@ -39977,6 +39995,7 @@
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-adblocker.com
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
+0.0.0.0 video-ads.a2z.com
 0.0.0.0 video-invest.net
 0.0.0.0 video-link.ru
 0.0.0.0 video-loader.com
@@ -40647,6 +40666,7 @@
 0.0.0.0 wanderbj.top
 0.0.0.0 wanfukang.cc
 0.0.0.0 wangchuanwujin.cn
+0.0.0.0 wangcm01.top
 0.0.0.0 wangdaguanli.com
 0.0.0.0 wangdaizao.com
 0.0.0.0 wangdddy.com
@@ -40878,6 +40898,7 @@
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de
 0.0.0.0 weblog.com.ua
+0.0.0.0 weblog.hankookilbo.com
 0.0.0.0 weblog.livesport.eu
 0.0.0.0 weblog.zdnet.co.kr
 0.0.0.0 weblogger-dynamic-lb.playdom.com
@@ -40896,6 +40917,7 @@
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 webmobile.ws
+0.0.0.0 webmontify.com
 0.0.0.0 webodu.com
 0.0.0.0 weboohost.com
 0.0.0.0 weborama.com
@@ -42080,6 +42102,7 @@
 0.0.0.0 xintaizhaoming.com
 0.0.0.0 xintengfeiyang.info
 0.0.0.0 xinxbh.cn
+0.0.0.0 xinyansaas.com
 0.0.0.0 xinyuanstudio.com
 0.0.0.0 xiongdong.com
 0.0.0.0 xiongzhangad.com
@@ -42596,6 +42619,7 @@
 0.0.0.0 yf898.com
 0.0.0.0 yfbiwkxjkaw.com
 0.0.0.0 yfcxzvdyrnp.com
+0.0.0.0 yfetyg.com
 0.0.0.0 yfibjzosrqrtmv.com
 0.0.0.0 yfkha.xyz
 0.0.0.0 yfomeimset.com
@@ -43083,6 +43107,7 @@
 0.0.0.0 yzyszy.com
 0.0.0.0 yzytb.com
 0.0.0.0 z-profit.com
+0.0.0.0 z-xiao.xyz
 0.0.0.0 z.cdn.adpool.bet
 0.0.0.0 z.grfyw.com
 0.0.0.0 z.nowscore.com
