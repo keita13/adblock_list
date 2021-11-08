@@ -207,6 +207,7 @@
 *://*.irapido.it/*
 *://*.isolution.pro/*
 *://*.issue.life/*
+*://*.issueexplorer.com/*
 *://*.issues-world.com/*
 *://*.it-mure.aa.net/*
 *://*.it-mure.ab.net/*
