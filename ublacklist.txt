@@ -4098,6 +4098,7 @@
 *://*.japan2.wiki/*
 *://*.javaer101.com/*
 *://*.jin115.com/*
+*://*.jpan.wiki/*
 *://*.jpcloud.net/*
 *://*.jumpevolution.ru/*
 *://*.kaifa99.com/*
