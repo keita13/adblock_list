@@ -5900,6 +5900,7 @@
 0.0.0.0 anevod.ru
 0.0.0.0 anews.cc
 0.0.0.0 anews7.nvwu.com
+0.0.0.0 anfcadf.cn
 0.0.0.0 angege.com
 0.0.0.0 angelbaby.store
 0.0.0.0 angeleswouldnt.com
@@ -6782,6 +6783,7 @@
 0.0.0.0 auredzeon.com
 0.0.0.0 auriro.net
 0.0.0.0 aurjueeh.com
+0.0.0.0 aurora-d3.herokuapp.com
 0.0.0.0 ausoafab.net
 0.0.0.0 auspicealibis.com
 0.0.0.0 auspicionfr.fun
@@ -7483,6 +7485,7 @@
 0.0.0.0 banusdona.top
 0.0.0.0 banxf.com
 0.0.0.0 banzaiadv.it
+0.0.0.0 banzd.com
 0.0.0.0 baodc.com
 0.0.0.0 baogames.cn
 0.0.0.0 baojiada.vip
@@ -8669,6 +8672,7 @@
 0.0.0.0 bogusadmiral.com
 0.0.0.0 bogytoeelf.com
 0.0.0.0 bohowhepsandked.info
+0.0.0.0 boilerstab.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
 0.0.0.0 boilingumbrella.com
@@ -8832,6 +8836,7 @@
 0.0.0.0 boxofficecounselling.com
 0.0.0.0 boxxxcash.com
 0.0.0.0 boyalebut.site
+0.0.0.0 boyh5d.cn
 0.0.0.0 boylesportsreklame.com
 0.0.0.0 boyughaye.com
 0.0.0.0 bozhixiang.top
@@ -14132,6 +14137,7 @@
 0.0.0.0 doulaihai.top
 0.0.0.0 dounwil.ru
 0.0.0.0 douoblelimpup.com
+0.0.0.0 doupteju.com
 0.0.0.0 doushoom.net
 0.0.0.0 douthosh.net
 0.0.0.0 doutthenhap.info
@@ -15108,6 +15114,7 @@
 0.0.0.0 embraceable-venom.eu
 0.0.0.0 embraceforgivingfrenzy.com
 0.0.0.0 embtrk.com
+0.0.0.0 emccgujavc.xyz
 0.0.0.0 emdcadvertise.eastmoney.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -15643,6 +15650,7 @@
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-eu.freshsuccess.com
+0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
@@ -16000,6 +16008,7 @@
 0.0.0.0 fadedsnow.com
 0.0.0.0 fadewaves.com
 0.0.0.0 fadingamplify.com
+0.0.0.0 fadrewols.com
 0.0.0.0 fadsabs.com
 0.0.0.0 fadsaltshey.com
 0.0.0.0 fadsans.com
@@ -16303,7 +16312,6 @@
 0.0.0.0 fejla.com
 0.0.0.0 felicitysupermarketmounted.com
 0.0.0.0 felinessynonym.com
-0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 felixstown.one
 0.0.0.0 feljack.com
 0.0.0.0 felliescrackle.com
@@ -17450,6 +17458,7 @@
 0.0.0.0 gangsstowapps.com
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 gaobata.com
 0.0.0.0 gaojiedesign.cn
 0.0.0.0 gaomingbo.com
@@ -17484,6 +17493,7 @@
 0.0.0.0 gauvaiho.net
 0.0.0.0 gauwicig.com
 0.0.0.0 gavnogeeygaika.com
+0.0.0.0 gavvia.com
 0.0.0.0 gavycuse.com
 0.0.0.0 gawxf.com
 0.0.0.0 gay-hotvideo.net
@@ -17513,6 +17523,7 @@
 0.0.0.0 gcdnsl.com
 0.0.0.0 gcdpqbdyaivpys.com
 0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 gcebhl.com
 0.0.0.0 gchgao.com
 0.0.0.0 gciywquey.xyz
 0.0.0.0 gcjehafhajjhcdicaeb.ru
@@ -17545,6 +17556,7 @@
 0.0.0.0 gdrtgroyhtqsx.xyz
 0.0.0.0 gdrvwsqlikh.com
 0.0.0.0 gds786bomyc.com
+0.0.0.0 gdshuotai.cn
 0.0.0.0 gdskywings.com
 0.0.0.0 gdsoq.com
 0.0.0.0 gdsqwy.org
@@ -18948,6 +18960,7 @@
 0.0.0.0 haoerer.cn
 0.0.0.0 haoinn.top
 0.0.0.0 haojun.info
+0.0.0.0 haokan3.cn
 0.0.0.0 haolew.com
 0.0.0.0 haomaiweb.com
 0.0.0.0 haomaojin.com
@@ -19057,6 +19070,7 @@
 0.0.0.0 hbchwmrqb.bid
 0.0.0.0 hbcygs518.com
 0.0.0.0 hbepoqct.xyz
+0.0.0.0 hbeqnte.cn
 0.0.0.0 hbfls.vip
 0.0.0.0 hbfqcy.com
 0.0.0.0 hbggcm.com
@@ -20443,6 +20457,7 @@
 0.0.0.0 illustcutesy.com
 0.0.0.0 illustrationmanlypageant.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 ilmwi.cn
 0.0.0.0 ilogbox.com
 0.0.0.0 ilohfbiph.com
 0.0.0.0 ilovemakingpics.com
@@ -21323,6 +21338,7 @@
 0.0.0.0 itxinrou.com
 0.0.0.0 iu16wmye.com
 0.0.0.0 iu1xoe7o.com
+0.0.0.0 iubzka.online
 0.0.0.0 iulftx.com
 0.0.0.0 iupgxu.com
 0.0.0.0 iupnlpd.cn
@@ -22891,6 +22907,7 @@
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 kxrxh.com
 0.0.0.0 kyad88.com
+0.0.0.0 kyefakwa.com
 0.0.0.0 kyfunahi.pro
 0.0.0.0 kykmuyi.cn
 0.0.0.0 kylxsbsljvya.xyz
@@ -23129,13 +23146,11 @@
 0.0.0.0 lbn.ru
 0.0.0.0 lbts.ltd
 0.0.0.0 lbwcdnjpy.com
-0.0.0.0 lc.fresheye.com
 0.0.0.0 lc2ads.ru
 0.0.0.0 lc442.com
 0.0.0.0 lcads.ru
 0.0.0.0 lcdnw.com
 0.0.0.0 lcentntel.com
-0.0.0.0 lcexp.fresheye.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lcloc.com
 0.0.0.0 lcmqyl.cn
@@ -26716,6 +26731,7 @@
 0.0.0.0 namitol.com
 0.0.0.0 namogemi.ru
 0.0.0.0 namol.xyz
+0.0.0.0 namystal.com
 0.0.0.0 nancyface.com
 0.0.0.0 nanda.vn
 0.0.0.0 nandlookfo.fun
@@ -27183,6 +27199,7 @@
 0.0.0.0 ngceq.cn
 0.0.0.0 ngecity.com
 0.0.0.0 ngehochsi.fun
+0.0.0.0 nggdwfz.cn
 0.0.0.0 ngjquyzjgcrupz.com
 0.0.0.0 ngjzmt.com
 0.0.0.0 nglmedia.com
@@ -30345,6 +30362,7 @@
 0.0.0.0 powerfulrumbleshrewd.com
 0.0.0.0 powerlinks.com
 0.0.0.0 powertraf.com
+0.0.0.0 powferads.com
 0.0.0.0 poxa.xyz
 0.0.0.0 poxaharap.com
 0.0.0.0 poxeemso.com
@@ -31305,6 +31323,7 @@
 0.0.0.0 pyjamaican.club
 0.0.0.0 pyksf.com
 0.0.0.0 pyloic.com
+0.0.0.0 pymsqjixir.xyz
 0.0.0.0 pymx5.com
 0.0.0.0 pyntynujmsbw.xyz
 0.0.0.0 pypwlfysofmez.com
@@ -33122,6 +33141,7 @@
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rsaltsjt.com
+0.0.0.0 rsctljb.cn
 0.0.0.0 rscxwmj.cn
 0.0.0.0 rselffreedsc.top
 0.0.0.0 rseyebrown.fun
@@ -33898,6 +33918,7 @@
 0.0.0.0 sdsttt.com
 0.0.0.0 sdurhnd.com
 0.0.0.0 sdv-m.ru
+0.0.0.0 sdw8vzd.cn
 0.0.0.0 sdweldrobot.cn
 0.0.0.0 sdxctr.com
 0.0.0.0 sdxkdj.cn
@@ -34497,6 +34518,7 @@
 0.0.0.0 shojovuptu.pro
 0.0.0.0 shokala.com
 0.0.0.0 sholke.com
+0.0.0.0 shonretimus.com
 0.0.0.0 shoofle.tv
 0.0.0.0 shoogloonetwork.com
 0.0.0.0 shooterpillar.com
@@ -35121,6 +35143,7 @@
 0.0.0.0 snowdayonline.xyz
 0.0.0.0 snowplow-collector-*.amazonaws.com
 0.0.0.0 snowplow-collector.apartmentlist.io
+0.0.0.0 snowplow-pixel.tradingview.com
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowsignal.com
 0.0.0.0 snrbox.com
@@ -37236,6 +37259,7 @@
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangozebra.com
 0.0.0.0 tangsoc.com
+0.0.0.0 tangxue.me
 0.0.0.0 tanidigital.com
 0.0.0.0 tankeuro.com
 0.0.0.0 tantheretrec.ru
@@ -37329,6 +37353,7 @@
 0.0.0.0 tattepush.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 tattomedia.com
+0.0.0.0 taumeln.com
 0.0.0.0 tauntdoctrineestablishment.com
 0.0.0.0 tauptaup.com
 0.0.0.0 tauptoat.com
@@ -38030,6 +38055,7 @@
 0.0.0.0 titranco.info
 0.0.0.0 tiutietur.com
 0.0.0.0 tivan.naver.com
+0.0.0.0 tivfcaa.cn
 0.0.0.0 tivibyca.com
 0.0.0.0 tiwom.com
 0.0.0.0 tiz-et.ru
@@ -38232,6 +38258,7 @@
 0.0.0.0 tongbuchi.com
 0.0.0.0 tongdejiayuan.com
 0.0.0.0 tonghao.ltd
+0.0.0.0 tonghuaji.com
 0.0.0.0 tongj.xilu.com
 0.0.0.0 tongjiwo.com
 0.0.0.0 tongqing2015.com
@@ -40152,6 +40179,7 @@
 0.0.0.0 uohz.cn
 0.0.0.0 uopmcdnpad.com
 0.0.0.0 uoredi.com
+0.0.0.0 uowbqce.surf
 0.0.0.0 uoyrsd.com
 0.0.0.0 up-rank.com
 0.0.0.0 up.hiao.com
@@ -43441,6 +43469,7 @@
 0.0.0.0 yceml.net
 0.0.0.0 ycgy8888.com
 0.0.0.0 ychml.com
+0.0.0.0 yckussysvawiu.xyz
 0.0.0.0 yclxrj.top
 0.0.0.0 ycurrentjobis.biz
 0.0.0.0 ycxtpbfcsl.com
