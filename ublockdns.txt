@@ -1,4 +1,4 @@
-!20211128-03
+!20211129-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1435,6 +1435,7 @@
 ||9596yy.com^
 ||95p5qep4aq.com^
 ||95thalj5.ru^
+||95wvb.xyz^
 ||96660970b05417.com^
 ||967rett6fzaf.com^
 ||96e8abd9c4.com^
@@ -4147,6 +4148,7 @@
 ||adsoss.gzfingertip.cn^
 ||adsota.com^
 ||adsovo.com^
+||adsozai.com^
 ||adsp.ciner.com.tr^
 ||adsp.com^
 ||adsp.haberturk.com^
@@ -7128,6 +7130,7 @@
 ||b00.xyz^
 ||b014381c95cb.com^
 ||b02byun5xc3s.com^
+||b0432.cn^
 ||b07b29ceb5c.com^
 ||b07f916388fc6e06847.com^
 ||b0d3ea12ec1b93f7af9.com^
@@ -7988,6 +7991,7 @@
 ||belaya2shu1ba1.com^
 ||belazyelephant.com^
 ||belboon.de^
+||belexglokmpld.com^
 ||belgradualuna.site^
 ||belgrekblackad.com^
 ||belickitungchan.com^
@@ -10990,12 +10994,14 @@
 ||cm-trk3.com^
 ||cm-trk5.com^
 ||cm.baidu.com^
+||cm.bilibili.com^
 ||cma.jword.jp^
 ||cmadserver.de^
 ||cmap.alibaba.com^
 ||cmaxisolation.com^
 ||cmbestsrv.com^
 ||cmbnmfolofubr.xyz^
+||cmbzqtf.cn^
 ||cmcintra.net^
 ||cmcore.com^
 ||cmdsdkekfhavlv.xyz^
@@ -12831,6 +12837,7 @@
 ||d39ion77s0ucuz.cloudfront.net^
 ||d39xxywi4dmut5.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
+||d3a00ifauhjdp.cloudfront.net^
 ||d3a2okcloueqyx.cloudfront.net^
 ||d3a42c7xs4vn3.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
@@ -20152,6 +20159,7 @@
 ||htalizer.com^
 ||htamaster.com^
 ||htblcwhrnvwhs.xyz^
+||htds.vip^
 ||htdvt.com^
 ||htdzwy.com^
 ||htexamplerri.top^
@@ -22817,6 +22825,7 @@
 ||kiezohky.xyz^
 ||kihoadoa.com^
 ||kihuxyda.xyz^
+||kiiqnnx.cn^
 ||kijkxx.com^
 ||kiki.ykjmy.com^
 ||kikoucuy.net^
@@ -23346,6 +23355,7 @@
 ||laichaim.net^
 ||laidauni.com^
 ||laifu365.com^
+||lailer.cn^
 ||lailitou.com^
 ||lailivob.net^
 ||laim.tv^
@@ -31003,6 +31013,7 @@
 ||printmeantime.com^
 ||prioritybeforehand.com^
 ||priorityinvaderinflation.com^
+||priry.com^
 ||prisedeluge.com^
 ||prism.pandora.tv^
 ||prisma-tr.prismamedia.com^
@@ -31684,6 +31695,7 @@
 ||putrunsspawn.com^
 ||putstairboor.com^
 ||puttrotgob.com^
+||puturebraving.com^
 ||puuvpsveaskxzb.com^
 ||puwpush.com^
 ||puxrotate.ru^
@@ -33617,6 +33629,7 @@
 ||rscxwmj.cn^
 ||rselffreedsc.top^
 ||rseyebrown.fun^
+||rsftjj.cn^
 ||rskillsplu.club^
 ||rsngelaqprud.xyz^
 ||rss-loader.com^
@@ -40851,6 +40864,7 @@
 ||urnawareflan.com^
 ||urokcwwzno.com^
 ||urotenukna.xyz^
+||urqrduklwgvyy.top^
 ||ursegreatm.fun^
 ||urstats.de^
 ||urt7bpvfz4am.com^
@@ -42007,6 +42021,7 @@
 ||vvhatsappsohbetim.site^
 ||vvmblock.ru^
 ||vvnna.com^
+||vvqknwws.com^
 ||vvv.ieduw.com^
 ||vvyhhrjigq.com^
 ||vw.onlinia.net^
@@ -43335,6 +43350,7 @@
 ||wxhiojortldjyegtkx.bid^
 ||wxiansen.cn^
 ||wxkksk.com^
+||wxkouem.cn^
 ||wxktv.cn^
 ||wxs666.cn^
 ||wxskqy.cn^
@@ -43441,6 +43457,7 @@
 ||xadcentral.com^
 ||xaded.de^
 ||xadsmart.com^
+||xafcgsfxkhavry.top^
 ||xafengzhij.xyz^
 ||xafxs.cn^
 ||xaholica.com^
@@ -43730,6 +43747,7 @@
 ||xmlrtb.com^
 ||xmlwizard.com^
 ||xmorex.com^
+||xmouxe.cn^
 ||xmqju.xyz^
 ||xmrepair.com^
 ||xmrpool.net^
@@ -44003,6 +44021,7 @@
 ||xzidjitondzt.com^
 ||xzipy.com^
 ||xzixbirtfo.com^
+||xzjgzpw.cn^
 ||xzlnews.info^
 ||xzpyjd.com^
 ||xztms.com^
@@ -44530,6 +44549,7 @@
 ||yr9n47004g.com^
 ||yrdrtzmsmt.com^
 ||yrehdfer.com^
+||yrhnlyshnnataoa.top^
 ||yrqwyn.cn^
 ||yrrsckr.cn^
 ||yrsfs.com^
@@ -44997,6 +45017,7 @@
 ||zhuyuanp.top^
 ||zhuzaogangqiu.com^
 ||zhwyjd.cn^
+||zhxkzss.cn^
 ||zhy333.com^
 ||zhylm.cn^
 ||zhywyl.cn^
@@ -45080,6 +45101,7 @@
 ||zlinkm.com^
 ||zllnb.top^
 ||zln44.cn^
+||zlnmzc.top^
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zlp6s.pw^
