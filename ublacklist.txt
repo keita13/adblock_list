@@ -51,6 +51,7 @@
 *://*.attac.cl/*
 *://*.augmentum-plumbi.it/*
 *://*.avviso22018.siciliafse1420.it/*
+*://*.baksi.xyz/*
 *://*.baltpr.ru/*
 *://*.bar-stools-plus.com/*
 *://*.base64.work/*
@@ -62,6 +63,7 @@
 *://*.betarenovables.cl/*
 *://*.beyoganow.it/*
 *://*.bleepcoder.com/*
+*://*.blog.artwolf.in/*
 *://*.blueweld.ru/*
 *://*.bmxklubben.dk/*
 *://*.bojonerentacar.ru/*
@@ -177,6 +179,8 @@
 *://*.generacodice.com/*
 *://*.generaindustrial.cl/*
 *://*.ghcc.net/*
+*://*.github-dotcom.gateway.web.tr/*
+*://*.githubhelp.com/*
 *://*.githubmemory.com/*
 *://*.gitmemory.com/*
 *://*.giveeme.ru/*
