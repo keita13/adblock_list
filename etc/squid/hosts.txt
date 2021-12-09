@@ -346,6 +346,7 @@
 0.0.0.0 1bestgoods.com
 0.0.0.0 1bfc228b50a902db.com
 0.0.0.0 1biznes.net
+0.0.0.0 1buu1.penyouw.com
 0.0.0.0 1cb4faaf56af2497ac01.date
 0.0.0.0 1ccbt.com
 0.0.0.0 1ce86868bf.com
@@ -391,6 +392,7 @@
 0.0.0.0 1rankingad.com
 0.0.0.0 1re.re
 0.0.0.0 1redira.com
+0.0.0.0 1redirb.com
 0.0.0.0 1rt0n.news
 0.0.0.0 1rtl.info
 0.0.0.0 1rtlfor.info
@@ -450,6 +452,7 @@
 0.0.0.0 2137dc12f9d8.com
 0.0.0.0 218.26.217.*.html
 0.0.0.0 21c9a53484951.com
+0.0.0.0 21fit3-wnro.cn
 0.0.0.0 21kk.cc
 0.0.0.0 21sexturycash.com
 0.0.0.0 220efda3143.com
@@ -2785,6 +2788,7 @@
 0.0.0.0 adhese.com
 0.0.0.0 adhese.net
 0.0.0.0 adhigh.net
+0.0.0.0 adhimunc.com
 0.0.0.0 adhits.cf
 0.0.0.0 adhitzads.com
 0.0.0.0 adhoc4.net
@@ -5159,8 +5163,10 @@
 0.0.0.0 akkdyflrqpdtkt.top
 0.0.0.0 aklglpwljiv.com
 0.0.0.0 aklm.cc
+0.0.0.0 akmxts.com
 0.0.0.0 aknice.info
 0.0.0.0 akolafovar.com
+0.0.0.0 akozxay.cn
 0.0.0.0 akrgmgjdcojjcws.top
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aksessuarov.ru
@@ -7329,6 +7335,7 @@
 0.0.0.0 bam-x.com
 0.0.0.0 bambar.net
 0.0.0.0 bambarmedia.com
+0.0.0.0 bamcsfm.com
 0.0.0.0 ban-host.ru
 0.0.0.0 ban.mirorgazma.ru
 0.0.0.0 ban.xxxvid.ru
@@ -7532,6 +7539,7 @@
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 banstat.nadavi.net
 0.0.0.0 banstockseldest.com
+0.0.0.0 bantb.com
 0.0.0.0 bantex.ru
 0.0.0.0 bantgoau.com
 0.0.0.0 bantiz.ru
@@ -7951,7 +7959,6 @@
 0.0.0.0 behave.noen.at
 0.0.0.0 behavingsali.club
 0.0.0.0 behavioralengine.com
-0.0.0.0 bei7.clewx.com
 0.0.0.0 beibhw.cn
 0.0.0.0 beifb.com
 0.0.0.0 beifd.com
@@ -8030,6 +8037,7 @@
 0.0.0.0 benwtw.cn
 0.0.0.0 benwzw.cn
 0.0.0.0 benybw.cn
+0.0.0.0 benykw.cn
 0.0.0.0 beonixom.com
 0.0.0.0 beparaspr.com
 0.0.0.0 bephamema.com
@@ -10306,6 +10314,7 @@
 0.0.0.0 cheatingagricultural.com
 0.0.0.0 check-now.online
 0.0.0.0 check-out-this.site
+0.0.0.0 check-update-today.com
 0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 check.dummy280280.net
 0.0.0.0 check.tadapi.info
@@ -11298,6 +11307,7 @@
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhamster*.desi
 0.0.0.0 collector.xhamster.com
+0.0.0.0 collector.xhwide1.com
 0.0.0.0 collector1.afreecatv.com
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector2c.zhihuishu.com
@@ -12403,6 +12413,7 @@
 0.0.0.0 cyberwing.co.jp
 0.0.0.0 cybmas.com
 0.0.0.0 cyboke.cn
+0.0.0.0 cybook.fun
 0.0.0.0 cybugim4bdzqhwl.ru
 0.0.0.0 cycalaky.xyz
 0.0.0.0 cycsfe.com
@@ -14277,6 +14288,7 @@
 0.0.0.0 donreach.com
 0.0.0.0 dontbeevils.de
 0.0.0.0 dontibar.com
+0.0.0.0 donttbeevils.de
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 doolooku.net
 0.0.0.0 dooloust.net
@@ -14685,6 +14697,7 @@
 0.0.0.0 dwomentt.biz
 0.0.0.0 dwore.bid
 0.0.0.0 dwphl6ujiij6es.xyz
+0.0.0.0 dwqxnsovyitvv.top
 0.0.0.0 dwr0.cn
 0.0.0.0 dxbwukm.cn
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
@@ -16333,6 +16346,7 @@
 0.0.0.0 fandommetrics.com
 0.0.0.0 fangfeeling.com
 0.0.0.0 fanghua2.cn
+0.0.0.0 fangjieshi.club
 0.0.0.0 fangjslc.com
 0.0.0.0 fanglinwang.cn
 0.0.0.0 fangniaowang.net
@@ -20464,6 +20478,7 @@
 0.0.0.0 hzucji.com
 0.0.0.0 hzuok.com
 0.0.0.0 hzxfmc.com
+0.0.0.0 hzyouhejia.com
 0.0.0.0 hzyyhz.cn
 0.0.0.0 hzzevwlmjji.com
 0.0.0.0 hzzfan.com
@@ -20672,6 +20687,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 ieatlu.xyz
 0.0.0.0 ieboohdfxdc.com
+0.0.0.0 iedqnfbq.top
 0.0.0.0 ieeod0.com
 0.0.0.0 iehtzdq.cn
 0.0.0.0 iendoo.com
@@ -22506,6 +22522,7 @@
 0.0.0.0 juricts.xyz
 0.0.0.0 juringupstage.com
 0.0.0.0 jurjgajux.xyz
+0.0.0.0 jurmus.com
 0.0.0.0 juroptyne.com
 0.0.0.0 juroudaw.com
 0.0.0.0 jursp.com
@@ -22612,6 +22629,7 @@
 0.0.0.0 jytjw.com
 0.0.0.0 jyzae.cn
 0.0.0.0 jyzai.cn
+0.0.0.0 jyzaj.cn
 0.0.0.0 jyzaw.cn
 0.0.0.0 jzdianlan.cn
 0.0.0.0 jzhxzsgs.com
@@ -22872,6 +22890,7 @@
 0.0.0.0 kgthputeelbyp.com
 0.0.0.0 kgua0o66bcw8.com
 0.0.0.0 kguke.com
+0.0.0.0 kgvjcsp.cn
 0.0.0.0 kgxnaenrozyuh.com
 0.0.0.0 khandragthresh.com
 0.0.0.0 khcbilxtj.com
@@ -24215,6 +24234,7 @@
 0.0.0.0 llgerege.com
 0.0.0.0 llguandongyan.com
 0.0.0.0 llhrardbu.com
+0.0.0.0 llii.club
 0.0.0.0 llladiez.click
 0.0.0.0 llladiez.org
 0.0.0.0 lllypmcqagpgj.top
@@ -24754,6 +24774,7 @@
 0.0.0.0 lsfinteractive.com
 0.0.0.0 lshmjz.com
 0.0.0.0 lsjne.com
+0.0.0.0 lspzhtvstux.com
 0.0.0.0 lsxc.shop
 0.0.0.0 lsxdcdnrrco.com
 0.0.0.0 lsxmg.com
@@ -26313,6 +26334,7 @@
 0.0.0.0 mmccint.com
 0.0.0.0 mmcispartners.com
 0.0.0.0 mmctsvc.com
+0.0.0.0 mmellwauqyajh.top
 0.0.0.0 mmfusheng.com
 0.0.0.0 mmgads.com
 0.0.0.0 mmhhjt.com
@@ -30136,6 +30158,7 @@
 0.0.0.0 phokukse.com
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
+0.0.0.0 phoneapplicationlabs.top
 0.0.0.0 phoneboothslender.com
 0.0.0.0 phonefilamentembarrassment.com
 0.0.0.0 phonenow.net
@@ -32329,6 +32352,7 @@
 0.0.0.0 qwddcwmwqiqwd20.cn
 0.0.0.0 qwddcwmwqiqwd21.cn
 0.0.0.0 qwe.qrrgv.space
+0.0.0.0 qweewq2021.site
 0.0.0.0 qweoc88123.top
 0.0.0.0 qwer0001.top
 0.0.0.0 qwerfdx.com
@@ -33767,6 +33791,7 @@
 0.0.0.0 rsvffmn.cn
 0.0.0.0 rsviqjzhvubz.com
 0.0.0.0 rsvpgenius.com
+0.0.0.0 rsykksw.cn
 0.0.0.0 rsyokbyvawav.com
 0.0.0.0 rsyslog.24h.com.vn
 0.0.0.0 rsz.sk
@@ -34985,6 +35010,7 @@
 0.0.0.0 sh996.dftoutiao.com
 0.0.0.0 shackapple.com
 0.0.0.0 shacsda.name
+0.0.0.0 shadamu2.com
 0.0.0.0 shadesconfrontsickle.com
 0.0.0.0 shadowlegends.pro
 0.0.0.0 shaftalong.com
@@ -35537,6 +35563,7 @@
 0.0.0.0 slfpu.com
 0.0.0.0 slfsmf.com
 0.0.0.0 slhnj.com
+0.0.0.0 sli.familyhandyman.com
 0.0.0.0 slickjump.net
 0.0.0.0 slideff.com
 0.0.0.0 slightcareconditions.com
@@ -37306,6 +37333,7 @@
 0.0.0.0 suchmaschinen-ranking-hits.de
 0.0.0.0 suchshame.com
 0.0.0.0 sucior.ru
+0.0.0.0 sucloe.com
 0.0.0.0 suctioneliminatecongestion.com
 0.0.0.0 suctorado-wrivate.icu
 0.0.0.0 sudahj.com
@@ -38077,6 +38105,7 @@
 0.0.0.0 tbnmmjm.com
 0.0.0.0 tbv157xq.com
 0.0.0.0 tc-log.mattel163.com
+0.0.0.0 tc.tradetracker.net
 0.0.0.0 tc600.com
 0.0.0.0 tcactivity.net
 0.0.0.0 tcadops.ca
@@ -40658,6 +40687,7 @@
 0.0.0.0 uhqpnhorurueku.com
 0.0.0.0 uhsmmaq4l2n5.com
 0.0.0.0 uhxdsplo.com
+0.0.0.0 uhxjxgxgr.top
 0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 uhzjdfpccxtne.com
 0.0.0.0 ui.oix.net
@@ -43208,6 +43238,7 @@
 0.0.0.0 wom8day.ru
 0.0.0.0 womanclick.ru
 0.0.0.0 womanear.com
+0.0.0.0 womanlimitless.com
 0.0.0.0 womans-history.ru
 0.0.0.0 wombsaimscary.com
 0.0.0.0 women-and-handsome.info
@@ -43734,6 +43765,7 @@
 0.0.0.0 xfffx.xyz
 0.0.0.0 xffiyaucxebto.com
 0.0.0.0 xfileload.com
+0.0.0.0 xfkkvjabbogciwl.top
 0.0.0.0 xfreeservice.com
 0.0.0.0 xfuckbook.com
 0.0.0.0 xfujeuozbld.com
@@ -44488,6 +44520,7 @@
 0.0.0.0 yiydtredbofv.com
 0.0.0.0 yiyu-fz.cn
 0.0.0.0 yiyuantian.com
+0.0.0.0 yizhanghaoquan.pw
 0.0.0.0 yjbuhao.top
 0.0.0.0 yjegf.com
 0.0.0.0 yjiaj.com
@@ -44632,6 +44665,7 @@
 0.0.0.0 youlamedia.com
 0.0.0.0 youle55.com
 0.0.0.0 youlejia.xyz
+0.0.0.0 youliangyouxian.xyz
 0.0.0.0 youlouk.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 youmi.net
