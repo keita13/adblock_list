@@ -4527,6 +4527,7 @@
 *://*.qa-stack.zw/*
 *://*.qa.1r1g.com/*
 *://*.qa.codeflow.site/*
+*://*.qapicks.com/*
 *://*.qaru.site/*
 *://*.qastack.aa/*
 *://*.qastack.ab/*
