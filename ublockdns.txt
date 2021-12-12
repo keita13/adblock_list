@@ -1,4 +1,4 @@
-!20211212-03
+!20211213-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1100,6 +1100,7 @@
 ||6f1dba68f65.com^
 ||6f2tjr26.top^
 ||6f793cc9999.com^
+||6gt.cc^
 ||6huu.com^
 ||6i4uibyg0c82.com^
 ||6jfvnf69jx.ru^
@@ -4904,6 +4905,7 @@
 ||afp.wasu.cn^
 ||afpcreative.wasu.cn^
 ||afraidlanguage.com^
+||afrazanna.com^
 ||africaewgrhdtb.com^
 ||africawin.com^
 ||afriflatry.co^
@@ -7146,6 +7148,7 @@
 ||b1.b2b168.net^
 ||b1.baomihua.com^
 ||b1.c1km4.com^
+||b1.puxuewang.cn^
 ||b1.qqjay.com^
 ||b1.xiao84.com^
 ||b13.penzainform.ru^
@@ -7380,6 +7383,7 @@
 ||banfivmind.com^
 ||banfk.com^
 ||banfourmind.com^
+||banfs.com^
 ||banfz.com^
 ||banfzw.cn^
 ||bang8.org.cn^
@@ -7562,6 +7566,7 @@
 ||banusdona.top^
 ||banwb.com^
 ||banwm.com^
+||banwt.com^
 ||banxf.com^
 ||banxfw.cn^
 ||banzaiadv.it^
@@ -12041,6 +12046,7 @@
 ||cqjjlsy.com^
 ||cqlijie.cn^
 ||cqlupb.com^
+||cqnpfyb.cn^
 ||cqshaseng.com^
 ||cquotient.com^
 ||cqut.ltd^
@@ -19432,6 +19438,7 @@
 ||hbguzhenyuan.com^
 ||hbgwmkydpjmv.com^
 ||hbhbafghdbgbhfhgaee.ru^
+||hbhdyn.club^
 ||hbhnwy.com^
 ||hbhook.com^
 ||hbhtbn.com^
@@ -21802,6 +21809,7 @@
 ||ivtcdnhshx.com^
 ||ivwbox.de^
 ||ivwtqfbmkwen.com^
+||ivwvvtr.cn^
 ||ivy.pconline.com.cn^
 ||ivykiosk.com^
 ||iwanad.baidu.com^
@@ -27606,6 +27614,7 @@
 ||networx.me^
 ||netzaehler.de^
 ||netzstat.ch^
+||neudata.cloud^
 ||neudesicmediagroup.com^
 ||neuronales.xyz^
 ||neuroticthinner.com^
@@ -29006,6 +29015,7 @@
 ||opapxq.com^
 ||opawyzoh.xyz^
 ||opbandit.com^
+||opbtc.cn^
 ||opcharizardon.com^
 ||opekom.ru^
 ||opekoobs.net^
@@ -29601,6 +29611,7 @@
 ||paintifiercute.club^
 ||paintplantation.com^
 ||paiptoaz.com^
+||paishuiban.ltd^
 ||paishuno.net^
 ||pajigkcel.work^
 ||pakbanners.com^
@@ -42441,6 +42452,7 @@
 ||wangtianci.cn^
 ||wangxingkui.online^
 ||wangyeshij.top^
+||wangyh.icu^
 ||wangyuekun.xyz^
 ||wangzhenzhi.cn^
 ||wangzibo.top^
@@ -44407,6 +44419,7 @@
 ||ycgy8888.com^
 ||ychbgss.cn^
 ||ychml.com^
+||yckpdr.com^
 ||yckussysvawiu.xyz^
 ||yclhtech.cn^
 ||yclxrj.top^
@@ -45405,6 +45418,7 @@
 ||zlp6s.pw^
 ||zlsvr3xybeh4.com^
 ||zlx.com.br^
+||zlys.store^
 ||zm232.com^
 ||zmedia.com^
 ||zmgod.com^
