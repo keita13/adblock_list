@@ -17,6 +17,7 @@
 *://*.5ch-ranking.com/*
 *://*.5ch.pub/*
 *://*.7815671.ru/*
+*://*.796t.com/*
 *://*.888wenti.com/*
 *://*.89081813030.ru/*
 *://*.achillemannara.it/*
@@ -91,6 +92,7 @@
 *://*.cloud.tencent.com/developer/ask/*
 *://*.cloud6.net/*
 *://*.cndgn.com/*
+*://*.cnpython.com/*
 *://*.cocoachina.com/*
 *://*.code-404.net/*
 *://*.code-adviser.com/*
@@ -102,9 +104,12 @@
 *://*.codeflow.site/*
 *://*.codegrepper.com/*
 *://*.codehero.jp/*
+*://*.codengineering.ru/*
 *://*.codenong.com/*
 *://*.coder.work/*
+*://*.coderedirect.com/*
 *://*.coderoad.ru/*
+*://*.codersatellite.com/*
 *://*.codetd.com/*
 *://*.codingdict.com/*
 *://*.cogestinformatica.it/*
@@ -125,6 +130,7 @@
 *://*.ctsoldemo.it/*
 *://*.cuchelschool.it/*
 *://*.daimajiaoliu.com/*
+*://*.daplus.net/*
 *://*.davidg.cl/*
 *://*.de-vraag.com/*
 *://*.debugcn.com/*
@@ -138,7 +144,9 @@
 *://*.diariopatagon.cl/*
 *://*.diddyhome.fr/*
 *://*.docow.com/*
+*://*.docway.net/*
 *://*.domvgorah.ru/*
+*://*.dovov.com/*
 *://*.ducom.cl/*
 *://*.dudakids.ru/*
 *://*.ecomedincanto.it/*
@@ -214,6 +222,7 @@
 *://*.issue.life/*
 *://*.issueexplorer.com/*
 *://*.issues-world.com/*
+*://*.it-gundan.net/*
 *://*.it-mure.aa.net/*
 *://*.it-mure.ab.net/*
 *://*.it-mure.ad.net/*
@@ -4096,12 +4105,16 @@
 *://*.it-swarm.zu/*
 *://*.it-swarm.zw/*
 *://*.italianfooding.it/*
+*://*.itbloger.tistory.com/*
 *://*.iteramos.com/*
 *://*.itnews.org/*
+*://*.itread01.com/*
 *://*.izakayayoko.cl/*
+*://*.izziswift.com/*
 *://*.janghan.net/*
 *://*.japan2.wiki/*
 *://*.javaer101.com/*
+*://*.jb51.cc/*
 *://*.jin115.com/*
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
@@ -4138,6 +4151,8 @@
 *://*.metagame.cl/*
 *://*.methossolutions.it/*
 *://*.mfaux.ru/*
+*://*.mianquan.net/*
+*://*.mianshigee.com/*
 *://*.mioshi.it/*
 *://*.missp.it/*
 *://*.mlog.club/*
@@ -5822,6 +5837,7 @@
 *://*.qastack.zu/*
 *://*.qastack.zw/*
 *://*.qathai.com/*
+*://*.qedev.com/*
 *://*.quabr.com/*
 *://*.quarentenet.cl/*
 *://*.quares.ru/*
@@ -5873,12 +5889,15 @@
 *://*.suttonedfoundation.org/*
 *://*.switch-case.com/*
 *://*.switch-case.ru/*
+*://*.t.codebug.vip/*
 *://*.tappezzeriafusco.it/*
 *://*.teambikevalconca.it/*
 *://*.tech-ja.netlify.app/*
+*://*.techfeed.net/*
 *://*.thercb.org/*
 *://*.theredhair.it/*
 *://*.thinbug.com/*
+*://*.ti-enxame.com/*
 *://*.tieressen.ru/*
 *://*.timeglobal.cn/*
 *://*.titanwolf.org/*
@@ -5923,3 +5942,4 @@
 *://*.xbuba.com/*
 *://*.yurestaurant.it/*
 *://*.zhouni.net/*
+*://*.zweryfikowac.pl/*
