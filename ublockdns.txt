@@ -1,4 +1,4 @@
-!20211219-03
+!20211220-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -856,6 +856,7 @@
 ||4oney.com^
 ||4onqfs7iv4.com^
 ||4prgkoj870j9.com^
+||4qdx69gg2d.com^
 ||4rabettraff.com^
 ||4rgm6z478o.cn^
 ||4rm.de^
@@ -1979,6 +1980,7 @@
 ||acid-adserver.click^
 ||acidlikenessdejected.com^
 ||acidpigs.com^
+||acidwits.design^
 ||acinster.info^
 ||acint.net^
 ||acinuf.com^
@@ -4105,6 +4107,7 @@
 ||adsmeda.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmetadata.startappk8s.com^
+||adsmetadata.startappservice.com^
 ||adsmmgp.com^
 ||adsmo.ru^
 ||adsmobila.com^
@@ -6019,6 +6022,7 @@
 ||antennash.com^
 ||antevenio.com^
 ||anthill.vn^
+||anti-adblock.herokuapp.com^
 ||anti-cheat.info^
 ||anti.allcryptoz.net^
 ||antiadblocksystems.com^
@@ -6153,6 +6157,7 @@
 ||api.cloudmobi.net^
 ||api.crittercism.com^
 ||api.dataroid.com^
+||api.eu.amplitude.com^
 ||api.exc.mob.com^
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||api.flat-ads.com^
@@ -6171,6 +6176,7 @@
 ||api.kaiu-marketing.com^
 ||api.kameleoon.com^
 ||api.kiip.me^
+||api.lab.amplitude.com^
 ||api.limbik.com^
 ||api.mediation.amberweather.com^
 ||api.miui.security.xiaomi.com^
@@ -6204,6 +6210,7 @@
 ||api.widget.zalo.me^
 ||api.wipmania.com^
 ||api.ztgm17.ru^
+||api2.amplitude.com^
 ||api2.poperblocker.com^
 ||api64.com^
 ||api9.net^
@@ -6236,6 +6243,7 @@
 ||apostropheemailcompetence.com^
 ||app-analytics-*.snapchat.com^
 ||app-analytics-ru.huami.com^
+||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-c.net^
 ||app-department.report^
@@ -8018,6 +8026,7 @@
 ||beitd.com^
 ||beiven.pw^
 ||beiwc.com^
+||beiwd.com^
 ||beiwf.com^
 ||beiwh.com^
 ||beiwm.com^
@@ -8569,6 +8578,7 @@
 ||bkqqpm.com^
 ||bkrkv.com^
 ||bkrtx.com^
+||bksijiunc.com^
 ||bkvtrack.com^
 ||bl.impresa.pt^
 ||bl.wavecdn.de^
@@ -9028,6 +9038,7 @@
 ||bqcgrwahvuapq.com^
 ||bqhnj.cn^
 ||bqiovml.com^
+||bqsjb.cn^
 ||bqsm.com.cn^
 ||bqugumvxc.biz^
 ||br-rx.atatus.com^
@@ -10409,6 +10420,7 @@
 ||checkreliableupdatinglatest.info^
 ||checkru.net^
 ||checkstat.nl^
+||checktrc.icu^
 ||checkyofeed.com^
 ||checkyourgeo.info^
 ||cheekugly.com^
@@ -11037,6 +11049,7 @@
 ||cloudcoins.biz^
 ||clouderrorreporting.googleapis.com^
 ||cloudfastads.ru^
+||cloudflare-dacdn.visualwebsiteoptimizer.com^
 ||cloudflare.solutions^
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
@@ -12320,6 +12333,7 @@
 ||csyfe.com^
 ||cszz.ru^
 ||ct.buzzfeed.com^
+||ct.corpusapp.com^
 ||ct.eid.co.nz^
 ||ct.itbusinessedge.com^
 ||ct.needlive.com^
@@ -12377,6 +12391,7 @@
 ||cucumbersdespitebristle.com^
 ||cuelinks.com^
 ||cueyetwee.site^
+||cufcmdj.cn^
 ||cufcw.com^
 ||cugylkeqvdfrwi.xyz^
 ||cuhoxiphi.com^
@@ -15738,6 +15753,7 @@
 ||erksjojsp.top^
 ||erkui.tech^
 ||ermitteedi.biz^
+||erna.xyz^
 ||erne.co^
 ||erniphiq.com^
 ||ero-advertising.com^
@@ -16075,6 +16091,7 @@
 ||evhj9.52av.tv^
 ||eviclick.pro^
 ||evidentlycaricatureinside.com^
+||evidon.com^
 ||eviltracker.net^
 ||evisitanalyst.com^
 ||evlega.ru^
@@ -17296,6 +17313,7 @@
 ||fpyacdna.com^
 ||fqab5xq7qlgt.info^
 ||fqbucxkfcya.com^
+||fqcltrhcblpupm.top^
 ||fqigyr.xyz^
 ||fqjgxtyaqftpt.com^
 ||fqjinyinhua.shop^
@@ -19521,6 +19539,7 @@
 ||hazelnutshighs.com^
 ||hb-247.com^
 ||hb.afl.rakuten.co.jp^
+||hb.vhsrv.com^
 ||hb.vntsm.com^
 ||hbagency.it^
 ||hbawqr.com^
@@ -19958,7 +19977,6 @@
 ||hitfarm.com^
 ||hitgelsin.com^
 ||hitgraph.jp^
-||hitiz.com^
 ||hitlist.ru^
 ||hitlnk.com^
 ||hitlounge.com^
@@ -21303,6 +21321,7 @@
 ||infocentro.ru^
 ||infocode.tech^
 ||infocollect.dk^
+||infoevent.startappservice.com^
 ||infoguardru.info^
 ||infolinks.com^
 ||infomir.pw^
@@ -21699,6 +21718,7 @@
 ||ipinfodb.com^
 ||ipinyou.com^
 ||ipinyou.com.cn^
+||ipjvrkudtfxwodj.top^
 ||iplist.cc^
 ||iplocationtools.com^
 ||ipmbnqqaon.com^
@@ -22563,6 +22583,7 @@
 ||js.xiao7cdn.com^
 ||js.yanyue.cn^
 ||js.yanyue.net^
+||js.yjbys.com^
 ||js1.haoge500.com^
 ||js862.anreson.net^
 ||js88895.net^
@@ -23731,6 +23752,7 @@
 ||lasttopreg.top^
 ||lasyowayrzgv.com^
 ||lataurir.com^
+||lateroffer.com^
 ||lathechevo.com^
 ||latheendsmoo.com^
 ||latlfa.biz^
@@ -23868,7 +23890,6 @@
 ||leadtopays.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
-||leady.com^
 ||leadzu.com^
 ||leadzupc.com^
 ||leadzutw.com^
@@ -24334,6 +24355,7 @@
 ||liveadserver.net^
 ||liveappgirl.net^
 ||liveburst.com^
+||livecheersharder.com^
 ||liveclix.net^
 ||livecount.fr^
 ||livecounter.dk^
@@ -25502,6 +25524,7 @@
 ||marketing.modalife.com^
 ||marketing.net.brillen.de^
 ||marketing.net.home24.de^
+||marketing.net.occhiali24.it^
 ||marketing.nyi.net^
 ||marketing.osijek031.com^
 ||marketingautomation.services^
@@ -26437,6 +26460,7 @@
 ||mistletoecaliberdecency.com^
 ||mistletoeethicleak.com^
 ||misunderstanddependableour.com^
+||misunderstandlosingaffluent.com^
 ||misusefreeze.com^
 ||misxgkvnlf.com^
 ||mitao17.com^
@@ -26478,6 +26502,7 @@
 ||mk1lyl406xmp.com^
 ||mkavkaz.ru^
 ||mkazanc.com^
+||mkdrrqtfnpyw.top^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
 ||mkjunc.cn^
@@ -27262,6 +27287,7 @@
 ||myams.cn^
 ||myaudience.de^
 ||mybasilsoup.com^
+||mybbc-analytics.files.bbci.co.uk^
 ||mybce.top^
 ||mybestdc.com^
 ||mybestmv.com^
@@ -27725,6 +27751,8 @@
 ||netizen.co^
 ||netliker.com^
 ||netloader.cc^
+||netmera-web.com^
+||netmera.com^
 ||netminers.dk^
 ||netmining.com^
 ||netmng.com^
@@ -30017,6 +30045,7 @@
 ||payperpost.com^
 ||paypopup.com^
 ||paypublicity.it^
+||payslipsplunge.com^
 ||payslipsprolong.com^
 ||payslipsscowl.com^
 ||paywoman.ru^
@@ -32488,6 +32517,7 @@
 ||qttbfdygj.com^
 ||qttmjwno.com^
 ||qtymi.com^
+||qtzvsufbkpxin.com^
 ||quackexclusfdfjd.com^
 ||quacksquirrel.com^
 ||quadran.eu^
@@ -35646,7 +35676,9 @@
 ||simpan.online^
 ||simpasa.cn^
 ||simpio.com^
+||simpleanalytics.com^
 ||simpleanalytics.io^
+||simpleanalyticsbadge.com^
 ||simpleanalyticscdn.com^
 ||simpleheatmaps.com^
 ||simplehitcounter.com^
@@ -39713,6 +39745,7 @@
 ||track.libii.cn^
 ||track.list-finder.jp^
 ||track.lobi.co^
+||track.mailalert.io^
 ||track.mailerlite.com^
 ||track.miro.com^
 ||track.mopo.de^
@@ -41025,6 +41058,7 @@
 ||ujccccb.com^
 ||ujiasm.com^
 ||ujieva.com^
+||ujjhemhlax.top^
 ||ujlvongqbjouubp.xyz^
 ||ujoongeilaej.info^
 ||ujupfpyhw.top^
@@ -41569,6 +41603,7 @@
 ||uyueread.com^
 ||uz-analysis.akamaized.net^
 ||uzcdnzta.com^
+||uzehen.com^
 ||uzekrs.com^
 ||uzerly.net^
 ||uzk4umokyri3.com^
@@ -44147,6 +44182,7 @@
 ||xiangwangdesh.com^
 ||xiangyudj.cn^
 ||xiangzhengjinshu.com^
+||xianka.cloud^
 ||xianweidang.cc^
 ||xianxhwy.com^
 ||xiaochengzhixue.com^

@@ -855,6 +855,7 @@
 0.0.0.0 4oney.com
 0.0.0.0 4onqfs7iv4.com
 0.0.0.0 4prgkoj870j9.com
+0.0.0.0 4qdx69gg2d.com
 0.0.0.0 4rabettraff.com
 0.0.0.0 4rgm6z478o.cn
 0.0.0.0 4rm.de
@@ -1978,6 +1979,7 @@
 0.0.0.0 acid-adserver.click
 0.0.0.0 acidlikenessdejected.com
 0.0.0.0 acidpigs.com
+0.0.0.0 acidwits.design
 0.0.0.0 acinster.info
 0.0.0.0 acint.net
 0.0.0.0 acinuf.com
@@ -4104,6 +4106,7 @@
 0.0.0.0 adsmeda.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsmetadata.startappk8s.com
+0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmmgp.com
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmobila.com
@@ -6018,6 +6021,7 @@
 0.0.0.0 antennash.com
 0.0.0.0 antevenio.com
 0.0.0.0 anthill.vn
+0.0.0.0 anti-adblock.herokuapp.com
 0.0.0.0 anti-cheat.info
 0.0.0.0 anti.allcryptoz.net
 0.0.0.0 antiadblocksystems.com
@@ -6152,6 +6156,7 @@
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.dataroid.com
+0.0.0.0 api.eu.amplitude.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 api.flat-ads.com
@@ -6170,6 +6175,7 @@
 0.0.0.0 api.kaiu-marketing.com
 0.0.0.0 api.kameleoon.com
 0.0.0.0 api.kiip.me
+0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api.limbik.com
 0.0.0.0 api.mediation.amberweather.com
 0.0.0.0 api.miui.security.xiaomi.com
@@ -6203,6 +6209,7 @@
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 api.wipmania.com
 0.0.0.0 api.ztgm17.ru
+0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 api64.com
 0.0.0.0 api9.net
@@ -6235,6 +6242,7 @@
 0.0.0.0 apostropheemailcompetence.com
 0.0.0.0 app-analytics-*.snapchat.com
 0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-c.net
 0.0.0.0 app-department.report
@@ -8017,6 +8025,7 @@
 0.0.0.0 beitd.com
 0.0.0.0 beiven.pw
 0.0.0.0 beiwc.com
+0.0.0.0 beiwd.com
 0.0.0.0 beiwf.com
 0.0.0.0 beiwh.com
 0.0.0.0 beiwm.com
@@ -8568,6 +8577,7 @@
 0.0.0.0 bkqqpm.com
 0.0.0.0 bkrkv.com
 0.0.0.0 bkrtx.com
+0.0.0.0 bksijiunc.com
 0.0.0.0 bkvtrack.com
 0.0.0.0 bl.impresa.pt
 0.0.0.0 bl.wavecdn.de
@@ -9027,6 +9037,7 @@
 0.0.0.0 bqcgrwahvuapq.com
 0.0.0.0 bqhnj.cn
 0.0.0.0 bqiovml.com
+0.0.0.0 bqsjb.cn
 0.0.0.0 bqsm.com.cn
 0.0.0.0 bqugumvxc.biz
 0.0.0.0 br-rx.atatus.com
@@ -10408,6 +10419,7 @@
 0.0.0.0 checkreliableupdatinglatest.info
 0.0.0.0 checkru.net
 0.0.0.0 checkstat.nl
+0.0.0.0 checktrc.icu
 0.0.0.0 checkyofeed.com
 0.0.0.0 checkyourgeo.info
 0.0.0.0 cheekugly.com
@@ -11036,6 +11048,7 @@
 0.0.0.0 cloudcoins.biz
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfastads.ru
+0.0.0.0 cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0 cloudflare.solutions
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudfront-labs.amazonaws.com
@@ -12319,6 +12332,7 @@
 0.0.0.0 csyfe.com
 0.0.0.0 cszz.ru
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.needlive.com
@@ -12376,6 +12390,7 @@
 0.0.0.0 cucumbersdespitebristle.com
 0.0.0.0 cuelinks.com
 0.0.0.0 cueyetwee.site
+0.0.0.0 cufcmdj.cn
 0.0.0.0 cufcw.com
 0.0.0.0 cugylkeqvdfrwi.xyz
 0.0.0.0 cuhoxiphi.com
@@ -15737,6 +15752,7 @@
 0.0.0.0 erksjojsp.top
 0.0.0.0 erkui.tech
 0.0.0.0 ermitteedi.biz
+0.0.0.0 erna.xyz
 0.0.0.0 erne.co
 0.0.0.0 erniphiq.com
 0.0.0.0 ero-advertising.com
@@ -16074,6 +16090,7 @@
 0.0.0.0 evhj9.52av.tv
 0.0.0.0 eviclick.pro
 0.0.0.0 evidentlycaricatureinside.com
+0.0.0.0 evidon.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evisitanalyst.com
 0.0.0.0 evlega.ru
@@ -17295,6 +17312,7 @@
 0.0.0.0 fpyacdna.com
 0.0.0.0 fqab5xq7qlgt.info
 0.0.0.0 fqbucxkfcya.com
+0.0.0.0 fqcltrhcblpupm.top
 0.0.0.0 fqigyr.xyz
 0.0.0.0 fqjgxtyaqftpt.com
 0.0.0.0 fqjinyinhua.shop
@@ -19520,6 +19538,7 @@
 0.0.0.0 hazelnutshighs.com
 0.0.0.0 hb-247.com
 0.0.0.0 hb.afl.rakuten.co.jp
+0.0.0.0 hb.vhsrv.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hbagency.it
 0.0.0.0 hbawqr.com
@@ -19957,7 +19976,6 @@
 0.0.0.0 hitfarm.com
 0.0.0.0 hitgelsin.com
 0.0.0.0 hitgraph.jp
-0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
 0.0.0.0 hitlnk.com
 0.0.0.0 hitlounge.com
@@ -21302,6 +21320,7 @@
 0.0.0.0 infocentro.ru
 0.0.0.0 infocode.tech
 0.0.0.0 infocollect.dk
+0.0.0.0 infoevent.startappservice.com
 0.0.0.0 infoguardru.info
 0.0.0.0 infolinks.com
 0.0.0.0 infomir.pw
@@ -21698,6 +21717,7 @@
 0.0.0.0 ipinfodb.com
 0.0.0.0 ipinyou.com
 0.0.0.0 ipinyou.com.cn
+0.0.0.0 ipjvrkudtfxwodj.top
 0.0.0.0 iplist.cc
 0.0.0.0 iplocationtools.com
 0.0.0.0 ipmbnqqaon.com
@@ -22562,6 +22582,7 @@
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.yanyue.cn
 0.0.0.0 js.yanyue.net
+0.0.0.0 js.yjbys.com
 0.0.0.0 js1.haoge500.com
 0.0.0.0 js862.anreson.net
 0.0.0.0 js88895.net
@@ -23730,6 +23751,7 @@
 0.0.0.0 lasttopreg.top
 0.0.0.0 lasyowayrzgv.com
 0.0.0.0 lataurir.com
+0.0.0.0 lateroffer.com
 0.0.0.0 lathechevo.com
 0.0.0.0 latheendsmoo.com
 0.0.0.0 latlfa.biz
@@ -23867,7 +23889,6 @@
 0.0.0.0 leadtopays.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
-0.0.0.0 leady.com
 0.0.0.0 leadzu.com
 0.0.0.0 leadzupc.com
 0.0.0.0 leadzutw.com
@@ -24333,6 +24354,7 @@
 0.0.0.0 liveadserver.net
 0.0.0.0 liveappgirl.net
 0.0.0.0 liveburst.com
+0.0.0.0 livecheersharder.com
 0.0.0.0 liveclix.net
 0.0.0.0 livecount.fr
 0.0.0.0 livecounter.dk
@@ -25501,6 +25523,7 @@
 0.0.0.0 marketing.modalife.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketing.net.home24.de
+0.0.0.0 marketing.net.occhiali24.it
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingautomation.services
@@ -26436,6 +26459,7 @@
 0.0.0.0 mistletoecaliberdecency.com
 0.0.0.0 mistletoeethicleak.com
 0.0.0.0 misunderstanddependableour.com
+0.0.0.0 misunderstandlosingaffluent.com
 0.0.0.0 misusefreeze.com
 0.0.0.0 misxgkvnlf.com
 0.0.0.0 mitao17.com
@@ -26477,6 +26501,7 @@
 0.0.0.0 mk1lyl406xmp.com
 0.0.0.0 mkavkaz.ru
 0.0.0.0 mkazanc.com
+0.0.0.0 mkdrrqtfnpyw.top
 0.0.0.0 mkhoj.com
 0.0.0.0 mkjsqrpmxqdf.com
 0.0.0.0 mkjunc.cn
@@ -27261,6 +27286,7 @@
 0.0.0.0 myams.cn
 0.0.0.0 myaudience.de
 0.0.0.0 mybasilsoup.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybce.top
 0.0.0.0 mybestdc.com
 0.0.0.0 mybestmv.com
@@ -27724,6 +27750,8 @@
 0.0.0.0 netizen.co
 0.0.0.0 netliker.com
 0.0.0.0 netloader.cc
+0.0.0.0 netmera-web.com
+0.0.0.0 netmera.com
 0.0.0.0 netminers.dk
 0.0.0.0 netmining.com
 0.0.0.0 netmng.com
@@ -30016,6 +30044,7 @@
 0.0.0.0 payperpost.com
 0.0.0.0 paypopup.com
 0.0.0.0 paypublicity.it
+0.0.0.0 payslipsplunge.com
 0.0.0.0 payslipsprolong.com
 0.0.0.0 payslipsscowl.com
 0.0.0.0 paywoman.ru
@@ -32487,6 +32516,7 @@
 0.0.0.0 qttbfdygj.com
 0.0.0.0 qttmjwno.com
 0.0.0.0 qtymi.com
+0.0.0.0 qtzvsufbkpxin.com
 0.0.0.0 quackexclusfdfjd.com
 0.0.0.0 quacksquirrel.com
 0.0.0.0 quadran.eu
@@ -35645,7 +35675,9 @@
 0.0.0.0 simpan.online
 0.0.0.0 simpasa.cn
 0.0.0.0 simpio.com
+0.0.0.0 simpleanalytics.com
 0.0.0.0 simpleanalytics.io
+0.0.0.0 simpleanalyticsbadge.com
 0.0.0.0 simpleanalyticscdn.com
 0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
@@ -39712,6 +39744,7 @@
 0.0.0.0 track.libii.cn
 0.0.0.0 track.list-finder.jp
 0.0.0.0 track.lobi.co
+0.0.0.0 track.mailalert.io
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.miro.com
 0.0.0.0 track.mopo.de
@@ -41024,6 +41057,7 @@
 0.0.0.0 ujccccb.com
 0.0.0.0 ujiasm.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujjhemhlax.top
 0.0.0.0 ujlvongqbjouubp.xyz
 0.0.0.0 ujoongeilaej.info
 0.0.0.0 ujupfpyhw.top
@@ -41568,6 +41602,7 @@
 0.0.0.0 uyueread.com
 0.0.0.0 uz-analysis.akamaized.net
 0.0.0.0 uzcdnzta.com
+0.0.0.0 uzehen.com
 0.0.0.0 uzekrs.com
 0.0.0.0 uzerly.net
 0.0.0.0 uzk4umokyri3.com
@@ -44146,6 +44181,7 @@
 0.0.0.0 xiangwangdesh.com
 0.0.0.0 xiangyudj.cn
 0.0.0.0 xiangzhengjinshu.com
+0.0.0.0 xianka.cloud
 0.0.0.0 xianweidang.cc
 0.0.0.0 xianxhwy.com
 0.0.0.0 xiaochengzhixue.com
