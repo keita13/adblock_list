@@ -1,4 +1,4 @@
-!20211220-03
+!20211221-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -5187,6 +5187,7 @@
 ||aknice.info^
 ||akolafovar.com^
 ||akozxay.cn^
+||akqrt.cn^
 ||akrgmgjdcojjcws.top^
 ||aksb-a.akamaihd.net^
 ||aksessuarov.ru^
@@ -5592,6 +5593,7 @@
 ||analytics-rhwg.rhcloud.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics-scripts.cablelabs.com^
+||analytics-sdk.yle.fi^
 ||analytics-server.gimbal.com^
 ||analytics-sg.tiktok.com^
 ||analytics-sprint.qoqa.com^
@@ -7601,6 +7603,7 @@
 ||banzaiadv.it^
 ||banzd.com^
 ||banzdw.cn^
+||baobf.com^
 ||baodc.com^
 ||baogames.cn^
 ||baojiada.vip^
@@ -8030,6 +8033,7 @@
 ||beiwf.com^
 ||beiwh.com^
 ||beiwm.com^
+||beiwt.com^
 ||beiwz.com^
 ||beixbw.cn^
 ||beixcw.cn^
@@ -11881,6 +11885,7 @@
 ||counter.1i.kz^
 ||counter.24h.com.vn^
 ||counter.adguard.com^
+||counter.ajansspor.com^
 ||counter.all.biz^
 ||counter.blogoscoop.net^
 ||counter.bloke.com^
@@ -15984,6 +15989,7 @@
 ||evbsa.xyz^
 ||evcknbym.com^
 ||eveaggravationloosen.com^
+||evealm.com^
 ||evelopiestab.space^
 ||evemasoil.com^
 ||evenescapenavy.com^
@@ -17480,6 +17486,7 @@
 ||frtyk.com^
 ||frtyo.com^
 ||frugalrushcap.com^
+||fruine.com^
 ||fruitablock.net^
 ||fruitflan.com^
 ||fruitice.realnetwrk.com^
@@ -18309,6 +18316,7 @@
 ||ggweb.net^
 ||ggxt.net^
 ||ggydofjoubxptm.xyz^
+||gh1024.xyz^
 ||ghargh.com^
 ||gharnt.com^
 ||ghcncwmm.com^
@@ -18682,6 +18690,7 @@
 ||golden-fishka.com^
 ||goldenbettingefforlessefforless.com^
 ||goldenssp.com^
+||goldenwind.icu^
 ||goldfishnightclubpatronize.com^
 ||goldoffer.online^
 ||goldstats.com^
@@ -18738,6 +18747,7 @@
 ||google-rank.org^
 ||google-shopping.sapoapps.vn^
 ||googleadapis.l.google.com^
+||googleads.github.io^
 ||googleadservices.com^
 ||googleanalytcs.com^
 ||googleanalytics.com^
@@ -22585,6 +22595,7 @@
 ||js.yanyue.net^
 ||js.yjbys.com^
 ||js1.haoge500.com^
+||js7k.com^
 ||js862.anreson.net^
 ||js88895.net^
 ||jsb.qianzhan.com^
@@ -22791,6 +22802,7 @@
 ||jxdzoy.cn^
 ||jxfkevszqqdb.com^
 ||jxhcyc.com^
+||jxin.xyz^
 ||jxinyue.top^
 ||jxjzny.com^
 ||jxlqgs.com^
@@ -24203,6 +24215,7 @@
 ||limetreenearly.com^
 ||limevisitedinaugurate.com^
 ||liminances.xyz^
+||liming23.xyz^
 ||limitagesdidjet.site^
 ||limonads.net^
 ||limoncash.com^
@@ -28095,6 +28108,7 @@
 ||njq.net^
 ||njs.manhuahome.com^
 ||njsbzc.cn^
+||njupt-sacc.com^
 ||njwxh.com^
 ||njxczy.com^
 ||njygp.cn^
@@ -28400,6 +28414,7 @@
 ||nsparket.top^
 ||nspmotion.com^
 ||nspot.co^
+||nsqedcmktda.top^
 ||nsrealbig.ru^
 ||nsstatic.com^
 ||nsstatic.net^
@@ -31488,6 +31503,7 @@
 ||proclaimsubjected.com^
 ||proclivitysystems.com^
 ||prod-collector.bigbasket.com^
+||prod-plague-bacon.miniclippt.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.ew.srp.navigacloud.com^
@@ -32371,6 +32387,7 @@
 ||qijiandian.xyz^
 ||qiklsv.com^
 ||qilashou.com^
+||qilinwh.cn^
 ||qilungroup.cn^
 ||qinchugudao.com^
 ||qingjiedi.com^
@@ -41134,6 +41151,7 @@
 ||umengacs.m.taobao.com^
 ||umengcloud.com.gds.alibabadns.com^
 ||umengjmacs.m.taobao.com^
+||umhfrtu.cn^
 ||umihecd.cn^
 ||umis.top^
 ||umm6.cn^

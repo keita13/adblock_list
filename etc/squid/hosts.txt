@@ -5186,6 +5186,7 @@
 0.0.0.0 aknice.info
 0.0.0.0 akolafovar.com
 0.0.0.0 akozxay.cn
+0.0.0.0 akqrt.cn
 0.0.0.0 akrgmgjdcojjcws.top
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aksessuarov.ru
@@ -5591,6 +5592,7 @@
 0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-rollout-*.amazonaws.com
 0.0.0.0 analytics-scripts.cablelabs.com
+0.0.0.0 analytics-sdk.yle.fi
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-sprint.qoqa.com
@@ -7600,6 +7602,7 @@
 0.0.0.0 banzaiadv.it
 0.0.0.0 banzd.com
 0.0.0.0 banzdw.cn
+0.0.0.0 baobf.com
 0.0.0.0 baodc.com
 0.0.0.0 baogames.cn
 0.0.0.0 baojiada.vip
@@ -8029,6 +8032,7 @@
 0.0.0.0 beiwf.com
 0.0.0.0 beiwh.com
 0.0.0.0 beiwm.com
+0.0.0.0 beiwt.com
 0.0.0.0 beiwz.com
 0.0.0.0 beixbw.cn
 0.0.0.0 beixcw.cn
@@ -11880,6 +11884,7 @@
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.24h.com.vn
 0.0.0.0 counter.adguard.com
+0.0.0.0 counter.ajansspor.com
 0.0.0.0 counter.all.biz
 0.0.0.0 counter.blogoscoop.net
 0.0.0.0 counter.bloke.com
@@ -15983,6 +15988,7 @@
 0.0.0.0 evbsa.xyz
 0.0.0.0 evcknbym.com
 0.0.0.0 eveaggravationloosen.com
+0.0.0.0 evealm.com
 0.0.0.0 evelopiestab.space
 0.0.0.0 evemasoil.com
 0.0.0.0 evenescapenavy.com
@@ -17479,6 +17485,7 @@
 0.0.0.0 frtyk.com
 0.0.0.0 frtyo.com
 0.0.0.0 frugalrushcap.com
+0.0.0.0 fruine.com
 0.0.0.0 fruitablock.net
 0.0.0.0 fruitflan.com
 0.0.0.0 fruitice.realnetwrk.com
@@ -18308,6 +18315,7 @@
 0.0.0.0 ggweb.net
 0.0.0.0 ggxt.net
 0.0.0.0 ggydofjoubxptm.xyz
+0.0.0.0 gh1024.xyz
 0.0.0.0 ghargh.com
 0.0.0.0 gharnt.com
 0.0.0.0 ghcncwmm.com
@@ -18681,6 +18689,7 @@
 0.0.0.0 golden-fishka.com
 0.0.0.0 goldenbettingefforlessefforless.com
 0.0.0.0 goldenssp.com
+0.0.0.0 goldenwind.icu
 0.0.0.0 goldfishnightclubpatronize.com
 0.0.0.0 goldoffer.online
 0.0.0.0 goldstats.com
@@ -18737,6 +18746,7 @@
 0.0.0.0 google-rank.org
 0.0.0.0 google-shopping.sapoapps.vn
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.github.io
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytcs.com
 0.0.0.0 googleanalytics.com
@@ -22584,6 +22594,7 @@
 0.0.0.0 js.yanyue.net
 0.0.0.0 js.yjbys.com
 0.0.0.0 js1.haoge500.com
+0.0.0.0 js7k.com
 0.0.0.0 js862.anreson.net
 0.0.0.0 js88895.net
 0.0.0.0 jsb.qianzhan.com
@@ -22790,6 +22801,7 @@
 0.0.0.0 jxdzoy.cn
 0.0.0.0 jxfkevszqqdb.com
 0.0.0.0 jxhcyc.com
+0.0.0.0 jxin.xyz
 0.0.0.0 jxinyue.top
 0.0.0.0 jxjzny.com
 0.0.0.0 jxlqgs.com
@@ -24202,6 +24214,7 @@
 0.0.0.0 limetreenearly.com
 0.0.0.0 limevisitedinaugurate.com
 0.0.0.0 liminances.xyz
+0.0.0.0 liming23.xyz
 0.0.0.0 limitagesdidjet.site
 0.0.0.0 limonads.net
 0.0.0.0 limoncash.com
@@ -28094,6 +28107,7 @@
 0.0.0.0 njq.net
 0.0.0.0 njs.manhuahome.com
 0.0.0.0 njsbzc.cn
+0.0.0.0 njupt-sacc.com
 0.0.0.0 njwxh.com
 0.0.0.0 njxczy.com
 0.0.0.0 njygp.cn
@@ -28399,6 +28413,7 @@
 0.0.0.0 nsparket.top
 0.0.0.0 nspmotion.com
 0.0.0.0 nspot.co
+0.0.0.0 nsqedcmktda.top
 0.0.0.0 nsrealbig.ru
 0.0.0.0 nsstatic.com
 0.0.0.0 nsstatic.net
@@ -31487,6 +31502,7 @@
 0.0.0.0 proclaimsubjected.com
 0.0.0.0 proclivitysystems.com
 0.0.0.0 prod-collector.bigbasket.com
+0.0.0.0 prod-plague-bacon.miniclippt.com
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.ew.srp.navigacloud.com
@@ -32370,6 +32386,7 @@
 0.0.0.0 qijiandian.xyz
 0.0.0.0 qiklsv.com
 0.0.0.0 qilashou.com
+0.0.0.0 qilinwh.cn
 0.0.0.0 qilungroup.cn
 0.0.0.0 qinchugudao.com
 0.0.0.0 qingjiedi.com
@@ -41133,6 +41150,7 @@
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengcloud.com.gds.alibabadns.com
 0.0.0.0 umengjmacs.m.taobao.com
+0.0.0.0 umhfrtu.cn
 0.0.0.0 umihecd.cn
 0.0.0.0 umis.top
 0.0.0.0 umm6.cn
