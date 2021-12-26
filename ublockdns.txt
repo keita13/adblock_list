@@ -1,4 +1,4 @@
-!20211226-03
+!20211227-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1594,7 +1594,6 @@
 ||a.oix.net^
 ||a.overlay.top^
 ||a.partner-versicherung.de^
-||a.pub.network^
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
@@ -1937,7 +1936,6 @@
 ||acceleratesign.com^
 ||accelerationirreproachabledonation.com^
 ||accengage.net^
-||acceptable.a-ads.com^
 ||acceptablecolor.com^
 ||access-analyze.org^
 ||access-mc.com^
@@ -2167,7 +2165,6 @@
 ||ad.52av.tv^
 ||ad.71i.de^
 ||ad.886644.com^
-||ad.a-ads.com^
 ||ad.a8.net^
 ||ad.abcnews.com^
 ||ad.abctv.com^
@@ -2246,7 +2243,6 @@
 ||ad.exyws.org^
 ||ad.flipboard.com^
 ||ad.floq.jp^
-||ad.flurry.com^
 ||ad.foxnetworks.com^
 ||ad.fx168api.com^
 ||ad.gameagregator.com^
@@ -2297,7 +2293,6 @@
 ||ad.lupa.cz^
 ||ad.madvertise.de^
 ||ad.mail.ru^|^
-||ad.media-servers.net^
 ||ad.mediastorm.hu^
 ||ad.mediba.jp^
 ||ad.mg^
@@ -2346,7 +2341,6 @@
 ||ad.response.jp^
 ||ad.reyazilim.com^
 ||ad.sacitaslan.com^
-||ad.sensismediasmart.com.au^
 ||ad.setrowid.com^
 ||ad.simflight.com^
 ||ad.simgames.net^
@@ -2366,7 +2360,6 @@
 ||ad.terra.com.mx^
 ||ad.tokyo-tube-ad.com^
 ||ad.topwar.ru^
-||ad.turn.com^
 ||ad.tv2.no^
 ||ad.unispire.jp^
 ||ad.universcine.com^
@@ -2395,10 +2388,8 @@
 ||ad.xiaomi.com^
 ||ad.xmovies8.si^
 ||ad.xrea.com^
-||ad.yadro.ru^
 ||ad.yemeksepeti.com^
 ||ad.yieldpartners.com^
-||ad.zanox.com^
 ||ad.zima.kg^
 ||ad.zing.vn^
 ||ad.ztylez.com^
@@ -2991,7 +2982,6 @@
 ||admatchly.com^
 ||admatic.com.tr^
 ||admatrix.jp^
-||admax.nexage.com^
 ||admaxer.ru^
 ||admaxim.com^
 ||admaya.in^
@@ -3450,8 +3440,6 @@
 ||ads.conlatatca.vn^
 ||ads.contactmusic.com^
 ||ads.contentabc.com^
-||ads.contextweb.com^
-||ads.crakmedia.com^
 ||ads.creative-serving.com^
 ||ads.cybersales.cz^
 ||ads.dada.it^
@@ -3548,7 +3536,6 @@
 ||ads.hbv.de^
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
-||ads.heias.com^
 ||ads.heyzap.com^
 ||ads.hollywood.com^
 ||ads.home.vn^
@@ -3701,7 +3688,6 @@
 ||ads.prisacom.com^
 ||ads.privatemedia.co^
 ||ads.program3.com^
-||ads.programattik.com^
 ||ads.psd2html.com^
 ||ads.pubmatic.com^
 ||ads.pushplay.com^
@@ -3726,7 +3712,6 @@
 ||ads.seniorfriendfinder.com^
 ||ads.servebom.com^
 ||ads.sexgratuit.tv^
-||ads.sexinyourcity.com^
 ||ads.shizmoo.com^
 ||ads.shopstyle.com^
 ||ads.sift.co.uk^
@@ -3773,7 +3758,6 @@
 ||ads.totallyfreestuff.com^
 ||ads.townhall.com^
 ||ads.travelaudience.com^
-||ads.tremorhub.com^
 ||ads.trinitymirror.co.uk^
 ||ads.tripod.com^
 ||ads.tripod.lycos.co.uk^
@@ -3788,7 +3772,6 @@
 ||ads.uknetguide.co.uk^
 ||ads.ultimate-guitar.com^
 ||ads.uncrate.com^
-||ads.undertone.com^
 ||ads.unison.bg^
 ||ads.usatoday.com^
 ||ads.uxs.at^
@@ -4019,9 +4002,7 @@
 ||adserver.yahoo.co.jp^
 ||adserver.yahoo.com^
 ||adserver01.de^
-||adserver1-images.backbeatmedia.com^
 ||adserver1.^
-||adserver1.backbeatmedia.com^
 ||adserver1.mindshare.de^
 ||adserver2.mindshare.de^
 ||adserverplus.com^
@@ -5206,7 +5187,6 @@
 ||aksessuarov.ru^
 ||akstat.com^
 ||akstat.io^
-||aktrack.pubmatic.com^
 ||akusafla.com^
 ||al.newxue.com^
 ||ala.durasite.net^
@@ -7571,7 +7551,6 @@
 ||banners.haqqin.az^
 ||banners.iq.pl^
 ||banners.isoftmarketing.com^
-||banners.linkbuddies.com^
 ||banners.mobile.yandex.net^
 ||banners.myads.ge^
 ||banners.passion.com^
@@ -9273,6 +9252,7 @@
 ||bsjjtpkc.com^
 ||bskevojpydks.com^
 ||bskeye.com^
+||bslnb.cn^
 ||bspdyp.com^
 ||bspwmmghrvoyqs.xyz^
 ||bst-offers.com^
@@ -9379,7 +9359,6 @@
 ||bulletprofitads.com^
 ||bulletprofitpop.com^
 ||bullionyield.com^
-||bullseye.backbeatmedia.com^
 ||bulovuni.pro^
 ||bultenler.klscdn.com^
 ||bultigho.net^
@@ -10823,7 +10802,6 @@
 ||click-da-click.com^
 ||click-plus.net^
 ||click-url.com^
-||click.a-ads.com^
 ||click.abctrack.bid^
 ||click.ad1.ru^
 ||click.adv.livedoor.com^
@@ -15890,7 +15868,6 @@
 ||esliga.ru^
 ||esm1.net^
 ||esomniture.com^
-||espn.com.ssl.sc.omtrdc.net^
 ||essayads.com^
 ||essaycoupons.com^
 ||essokosi.com^
@@ -18338,6 +18315,7 @@
 ||gflcsiot.com^
 ||gflnzl1vqntw.com^
 ||gfn1.ugap.fr^
+||gfncg.cn^
 ||gfnttldx.com^
 ||gforasale.club^
 ||gfpplflrif.com^
@@ -21069,6 +21047,7 @@
 ||ikxcep.xyz^
 ||il133.cn^
 ||il8r.com^
+||ilaohuyou.xyz^
 ||ilbanner.com^
 ||ilbmhvmjev.xyz^
 ||ilczz.cn^
@@ -21448,6 +21427,7 @@
 ||infox.sg^
 ||infra.systems^
 ||infrashift.com^
+||infuriateharder.com^
 ||infvb.com^
 ||ingage.tech^
 ||ingameads.gameloft.com^
@@ -21954,6 +21934,7 @@
 ||istlandoll.com^
 ||istori.site^
 ||istrack.com^
+||istudyenglish.pro^
 ||isupopc.com^
 ||it-pearl.com^
 ||it.tagslimit.com^
@@ -24969,7 +24950,6 @@
 ||look.ichlnk.com^
 ||look.kfiopkln.com^
 ||look.opskln.com^
-||look.udncoeln.com^
 ||look.ufinkln.com^
 ||lookandfind.me^
 ||lookery.com^
@@ -25366,7 +25346,6 @@
 ||m1.nn670.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
-||m1.webstats4u.com^
 ||m1ll1c4n0.com^
 ||m2.ai^
 ||m2.lelemh.com^
@@ -26530,6 +26509,7 @@
 ||mingledunorder.com^
 ||minglee.vip^
 ||mini.hao123.com^
+||miniapp.online^
 ||minidoc.ru^
 ||miniholiday.cn^
 ||miniling.cn^
@@ -30788,7 +30768,6 @@
 ||pixel.4players.de^$important^
 ||pixel.ad^
 ||pixel.admobclick.com^
-||pixel.adsafeprotected.com^
 ||pixel.ampry.com^
 ||pixel.anyclip.com^
 ||pixel.bild.de^
@@ -30812,7 +30791,6 @@
 ||pixel.keywee.co^
 ||pixel.klout.com^
 ||pixel.mintigo.com^
-||pixel.mtrcs.samba.tv^
 ||pixel.naij.com^
 ||pixel.newscgp.com^
 ||pixel.newscred.com^
@@ -35751,6 +35729,7 @@
 ||shroughtened.com^
 ||shrtswkj.com^
 ||shrugartisticelder.com^
+||shsdw.cn^
 ||shsnjj.top^
 ||shtiesen.cn^
 ||shua66.vip^
@@ -37253,7 +37232,6 @@
 ||static-sb.com^
 ||static-ssp.yidianzixun.com^
 ||static-tracking.klaviyo.com^
-||static.a-ads.com^
 ||static.accesstrade.vn^
 ||static.ad-lancers.jp^
 ||static.adconnect.vn^
@@ -38429,7 +38407,6 @@
 ||tag.triboomedia.it^
 ||tag.vlitag.com^
 ||tag4arm.com^
-||tagan.adlightning.com^
 ||tagbom.com^
 ||tagbucket.cc^
 ||tagcachedataxrt.com^
@@ -39611,7 +39588,6 @@
 ||top.mail.ru^
 ||top.myfilms.su^
 ||top.nydus.org^
-||top.proext.com^
 ||top.skyzone.ro^
 ||top.t-sk.ru^
 ||top.topua.net^
@@ -39931,7 +39907,6 @@
 ||track.fxstreet.com^
 ||track.game18click.com^
 ||track.gawker.com^
-||track.hexcan.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
 ||track.icheck.com.vn^
@@ -39999,7 +39974,6 @@
 ||track.themaccleanup.info^
 ||track.thesaurus.com^
 ||track.tiara.^
-||track.tkbo.com^
 ||track.tomwx.net^
 ||track.tooplay.com^
 ||track.tproger.ru^
@@ -40274,7 +40248,6 @@
 ||tracking.prd.mz.internal.unity3d.com^
 ||tracking.promiflash.de^
 ||tracking.propelmedia.com^
-||tracking.publicidees.com^
 ||tracking.rapidape.com^
 ||tracking.rce.veeseo.com^
 ||tracking.realtor.com^
@@ -42805,6 +42778,7 @@
 ||vx88.com^
 ||vx88e.com^
 ||vxhmytfndmqko.com^
+||vxjvcwc.cn^
 ||vxqpomwum.pw^
 ||vxrpmslex.com^
 ||vxsnk.com^
@@ -44748,6 +44722,7 @@
 ||xvwebllndr.com^
 ||xvxxbrzhjunco.com^
 ||xvyljkr.com^
+||xvyvknl.cn^
 ||xw1001.com^
 ||xwdsp.com^
 ||xwell.ru^
@@ -45384,6 +45359,7 @@
 ||yrqwyn.cn^
 ||yrrsckr.cn^
 ||yrsfs.com^
+||yrzdbzq.cn^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
 ||ys3e965d.top^
@@ -45909,6 +45885,7 @@
 ||zismone.ru^
 ||zisu.cn.com^
 ||zitaoh.cn^
+||ziwyduke.xyz^
 ||zixiansun.com^
 ||zixinnuo.cn^
 ||zixivily.com^
