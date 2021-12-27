@@ -1382,6 +1382,7 @@
 0.0.0.0 8wtkfxiss1o2.com
 0.0.0.0 8yauhcv.cn
 0.0.0.0 8zp3wtw7783xta3n.com
+0.0.0.0 90158js.com
 0.0.0.0 90447d62cf.f53d8e67f8.com
 0.0.0.0 9053fe03868ab.com
 0.0.0.0 910weixin.com
@@ -1431,6 +1432,7 @@
 0.0.0.0 96mob.com
 0.0.0.0 976b97b6da.com
 0.0.0.0 978655.online
+0.0.0.0 978ea72276.com
 0.0.0.0 979067.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 97kuaixiu.com
@@ -7681,6 +7683,7 @@
 0.0.0.0 baskettexture.com
 0.0.0.0 basknausea.com
 0.0.0.0 basnn14.com
+0.0.0.0 basnn15.com
 0.0.0.0 bastingestival.com
 0.0.0.0 basvformu*.xyz
 0.0.0.0 bat.bing.com
@@ -7774,6 +7777,7 @@
 0.0.0.0 bcfads.com
 0.0.0.0 bcggo.ru
 0.0.0.0 bchaser.info
+0.0.0.0 bcjxwlkj.com
 0.0.0.0 bckfnohmg.com
 0.0.0.0 bclheggx.com
 0.0.0.0 bcloudhost.com
@@ -8393,6 +8397,7 @@
 0.0.0.0 bigbonga.com
 0.0.0.0 bigbootymania.com
 0.0.0.0 bigbord.net
+0.0.0.0 bigbrainker.top
 0.0.0.0 bigcattracks.com
 0.0.0.0 bigchoicegroup.com
 0.0.0.0 bigclick.me
@@ -9249,6 +9254,7 @@
 0.0.0.0 bshrdr.com
 0.0.0.0 bsjgc.com
 0.0.0.0 bsjjtpkc.com
+0.0.0.0 bsjxwlkj.com
 0.0.0.0 bskevojpydks.com
 0.0.0.0 bskeye.com
 0.0.0.0 bslnb.cn
@@ -12514,6 +12520,7 @@
 0.0.0.0 cws.conviva.com
 0.0.0.0 cwt.citywire.info
 0.0.0.0 cwwzubqasdqayf.com
+0.0.0.0 cwyxyw.com
 0.0.0.0 cx0001.cn
 0.0.0.0 cxb4.cn
 0.0.0.0 cxcxt.com
@@ -21250,6 +21257,7 @@
 0.0.0.0 improveapesbates.com
 0.0.0.0 improvedigital.com
 0.0.0.0 improvely.com
+0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 impservice*.yodao.com
 0.0.0.0 impservice*.youdao.com
 0.0.0.0 impulsehands.com
@@ -22418,6 +22426,7 @@
 0.0.0.0 jisyzysy.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
 0.0.0.0 jituangongsi.cn
+0.0.0.0 jiucaishuo.cn
 0.0.0.0 jiudiandyw.com
 0.0.0.0 jiuhui878.com
 0.0.0.0 jiuji.ltd
@@ -22936,6 +22945,7 @@
 0.0.0.0 k-analytix.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 k.streamrail.com
+0.0.0.0 k0r2eokjm6.ru
 0.0.0.0 k1.dancihu.com
 0.0.0.0 k1.wanwenwan.cn
 0.0.0.0 k1815.com
@@ -32812,6 +32822,7 @@
 0.0.0.0 qycjrkfzx.com
 0.0.0.0 qyctj.com
 0.0.0.0 qydhjirz.com
+0.0.0.0 qygzbxpt.com
 0.0.0.0 qyjreehcxomjaon.top
 0.0.0.0 qyjzleh.cn
 0.0.0.0 qyqc4s.com
@@ -38244,6 +38255,7 @@
 0.0.0.0 szwzjk.cn
 0.0.0.0 szxhybj.com
 0.0.0.0 szyuke.cn
+0.0.0.0 szzd.ltd
 0.0.0.0 t*.zcvh.net
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t-analytics.com
@@ -39367,6 +39379,7 @@
 0.0.0.0 tjhjtoyy.cn
 0.0.0.0 tjhmsdd.cn
 0.0.0.0 tjhtclwubg.xyz
+0.0.0.0 tjhxv.cn
 0.0.0.0 tjhzsrqq.cn
 0.0.0.0 tjiaa.com
 0.0.0.0 tjisenap.com
@@ -45136,6 +45149,7 @@
 0.0.0.0 ykxipfcg.com
 0.0.0.0 ykxwn.com
 0.0.0.0 yl-zipper.com
+0.0.0.0 ylbb-vipjs.com
 0.0.0.0 yldbt.com
 0.0.0.0 yldmgrimg.net
 0.0.0.0 yldr.io
@@ -45922,6 +45936,7 @@
 0.0.0.0 zkrmeml.cn
 0.0.0.0 zkwsdf.com
 0.0.0.0 zl588.com
+0.0.0.0 zl856.cn
 0.0.0.0 zlacraft.com
 0.0.0.0 zlfgedpuxrbpgm.com
 0.0.0.0 zlink2.com
