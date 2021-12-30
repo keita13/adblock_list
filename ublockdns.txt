@@ -1,4 +1,4 @@
-!20211230-03
+!20211231-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -2044,6 +2044,7 @@
 ||activeconversion.com^
 ||activedancer.com^
 ||activemeter.com^
+||activemetering.com^
 ||activeoffbracelet.com^
 ||activepr.info^
 ||activepr.ru^
@@ -2432,6 +2433,7 @@
 ||ad3.rambler.ru^
 ||ad3.udn.com^
 ||ad3.xrea.com^
+||ad4.com.cn^
 ||ad4.udn.com^
 ||ad4989.co.kr^
 ||ad4cash.de^
@@ -6197,6 +6199,7 @@
 ||api.ozui.vn^
 ||api.pingstart.com^
 ||api.primecaster.net^
+||api.pubfinity.com^
 ||api.relaido.jp^
 ||api.reon.club^
 ||api.repro.io^
@@ -6417,6 +6420,7 @@
 ||arancefy.com^
 ||aratyr.com^
 ||arbadgika.ru^
+||arbaloseyepit.com^
 ||arbitrarydefectrightfully.com^
 ||arbourrenewal.com^
 ||arc1.msn.com^
@@ -6519,6 +6523,7 @@
 ||arthyredir.com^
 ||articismstre.fun^
 ||articlefddss1.info^
+||artisan-digital.cn^
 ||artisany.net^
 ||artisticdisgraceevidently.com^
 ||artmentm.one^
@@ -9865,6 +9870,7 @@
 ||caringcast.com^
 ||caringzinc.com^
 ||carl.pubsvs.com^
+||carlseb.xyz^
 ||caroda.io^
 ||carotolbhavan.com^
 ||carpentercomparison.com^
@@ -12157,6 +12163,7 @@
 ||cqlijie.cn^
 ||cqlupb.com^
 ||cqnpfyb.cn^
+||cqrvwq.com^
 ||cqshaseng.com^
 ||cquotient.com^
 ||cqut.ltd^
@@ -13251,6 +13258,7 @@
 ||daima.yuzhulin.com^
 ||daimude.com^
 ||dainaith.net^
+||dainifei3.com^
 ||daintyecstasyspleen.com^
 ||daipsuwi.net^
 ||dairouzy.net^
@@ -13902,6 +13910,7 @@
 ||dhb8psqhvz9a.com^
 ||dhboldoduti.com^
 ||dhdgkj.com^
+||dhejr.cn^
 ||dhilyjdw.com^
 ||dhipc.cn^
 ||dhkwxpzgvqgr.com^
@@ -16081,6 +16090,7 @@
 ||eventlog.outbrain.com^
 ||eventlogger.soundcloud.com^
 ||eventreg.sphdigital.com^
+||events*.cre.ma^
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||events-api.outfit7.com^
@@ -16440,6 +16450,7 @@
 ||fabrkrup.com^
 ||fabrouter.com^
 ||faceblum.ru^
+||facebookinbox-omni-onapp.haravan.com^
 ||facebookz.co^
 ||facebruek.online^
 ||faceearlobe.com^
@@ -16783,6 +16794,7 @@
 ||fejla.com^
 ||felicitysupermarketmounted.com^
 ||felinessynonym.com^
+||felix.data.tm-awx.com^
 ||felixstown.one^
 ||feljack.com^
 ||felliescrackle.com^
@@ -16795,6 +16807,7 @@
 ||fengmishop.cn^
 ||fengousm.com^
 ||fengspw.xyz^
+||fengyiwc.xyz^
 ||fengzhilu.cn^
 ||fenhao14.com^
 ||fenixm.com^
@@ -17796,6 +17809,7 @@
 ||g12281228770.co^
 ||g12479313105.co^
 ||g1584674682.co^
+||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
 ||g1c5.com^
@@ -17828,6 +17842,7 @@
 ||g8ads.com^
 ||g8cp5djk1j0r.com^
 ||g9111879410.co^
+||g990421675.co^
 ||g990421676.co^
 ||g9c7ofl.cn^
 ||g9o.cn^
@@ -18124,6 +18139,7 @@
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||genfar.club^
+||gengsang.me^
 ||geniad.net^
 ||geniee.jp^
 ||genieedmp.com^
@@ -18510,6 +18526,7 @@
 ||glathycapto.com^
 ||glattepush.com^
 ||glauptan.net^
+||glaurtas.com^
 ||glauvoob.com^
 ||glazegha.com^
 ||glbtracker.com^
@@ -19560,7 +19577,6 @@
 ||harafunnel.com^
 ||harahero.top^
 ||haraloyalty.com^
-||haravan.com^
 ||harborcub.com^
 ||hardened.top^
 ||hardiness.top^
@@ -20769,6 +20785,7 @@
 ||i-stats.com^
 ||i-vengo.com^
 ||i.atleit.com^
+||i.bigin.io^
 ||i.btg360.com.br^
 ||i.compendium.com^
 ||i.connectad.io^
@@ -24880,6 +24897,7 @@
 ||logentries.com^
 ||loger.ru^
 ||logethy.com^
+||logevt.pubfinity.com^
 ||logg4u.cnnd.vn^
 ||logger-*.dailymotion.com^
 ||logger.applovefrom.com^
@@ -25425,6 +25443,7 @@
 ||ma.zoho.eu^
 ||ma1.meishij.net^
 ||ma2gs3wne3gfej70osium.com^
+||ma716.cn^
 ||maad.maru.jp^
 ||maaled.com^
 ||mababa.info^
@@ -25488,6 +25507,7 @@
 ||magdove.xyz^
 ||mageti.cn^
 ||magetic.com^
+||maghoutwell.com^
 ||magic-future.com^
 ||magic-traff.com^
 ||magicadz.co^
@@ -27774,6 +27794,7 @@
 ||nceinbutiwo.biz^
 ||ncerningy.club^
 ||ncesspervice.co^
+||ncgywud.cn^
 ||nchte.com^
 ||nckjysyk.com^
 ||nckwgmbfdwrj.xyz^
@@ -28078,6 +28099,7 @@
 ||newtention.net^
 ||newthuads.com^
 ||newtizz.net^
+||newtontanrec.casa^
 ||newtrackmedia.com^
 ||newtueads.com^
 ||newviralmobistore.com^
@@ -29226,6 +29248,7 @@
 ||onads.com^
 ||onadvert.ru^
 ||onalskillsexkc.com^
+||onapp.haravan.com^
 ||onarydarlie.fun^
 ||onatozo.info^
 ||onaudience.com^
@@ -29759,6 +29782,7 @@
 ||owkkdsfg.com^
 ||owlanalytics.io^
 ||owldata.com^
+||owlerydominos.cam^
 ||owlsr.us^
 ||owlsyumducal.com^
 ||owltiphem.club^
@@ -31798,6 +31822,7 @@
 ||promoted.com^
 ||promoted.sndcdn.com^
 ||promoted.soundcloud.com^
+||promotion.haravan.com^
 ||promotionalads.yahoo.co.jp^
 ||promotioncamp.com^
 ||promotionengine.com^
@@ -32255,6 +32280,7 @@
 ||pushmenews.com^
 ||pushmobilenews.com^
 ||pushmono.com^
+||pushnami.com^
 ||pushnative.com^
 ||pushnest.com^
 ||pushnevis.com^
@@ -32887,6 +32913,7 @@
 ||qzfrmewdbzkcsf.com^
 ||qzgbhuelut.com^
 ||qzgs99.cn^
+||qzi-ggjsyuming.com^
 ||qzkxt.com^
 ||qzlglizfy.com^
 ||qzlog.com^
@@ -35818,6 +35845,7 @@
 ||shukongshebei.net^
 ||shukriya90.com^
 ||shulhanafuh.com^
+||shumsooz.net^
 ||shunguts.com^
 ||shunlidl.online^
 ||shunlige.com^
@@ -36417,6 +36445,7 @@
 ||socialbirth.com^
 ||socialelective.com^
 ||socialhoney.co^
+||socialloginplus-apps.haravan.com^
 ||sociallypublish.com^
 ||socialmedia.com^
 ||socialprofitmachine.com^
@@ -36857,6 +36886,7 @@
 ||spitter.pauk.ru^
 ||spittsprevi.club^
 ||spixel.socy.es^
+||spjxwlkj.com^
 ||spklw.com^
 ||spkoevngk.com^
 ||splash-screen.voodoo-ads.io^
@@ -38651,6 +38681,7 @@
 ||tarttendency.com^
 ||taskanalytics.com^
 ||taskapi.net^
+||taspectsofcu.com^
 ||tasteddeceived.com^
 ||tastedisparitychecking.com^
 ||tastefulsongs.com^
@@ -39605,6 +39636,7 @@
 ||tomrigdabih.com^
 ||tonefuse.com^
 ||tonemedia.com^
+||tong.pub^
 ||tongbaimi.cn^
 ||tongbuchi.com^
 ||tongdejiayuan.com^
@@ -40635,7 +40667,6 @@
 ||trblocked.com^
 ||trbo.com^
 ||trc.pitadtag.jp^
-||trc.pushnami.com^
 ||trc85.com^
 ||trccmpnlnk.com^
 ||trck.a8.net^
@@ -40983,6 +41014,7 @@
 ||turnefo.ru^
 ||turngrind.com^
 ||turnipcontentmentlegalize.com^
+||turnipsoft.pubfinity.com^
 ||turnsocial.com^
 ||turnstilerecruit.com^
 ||turtlemobile.com.tw^
@@ -44054,6 +44086,7 @@
 ||ws341.com^
 ||ws7j.com^
 ||wsabci.com^
+||wsaphvlnnlle.top^
 ||wsapi-global.master.live^
 ||wsapi.master.live^
 ||wsbnk.com^
@@ -44947,6 +44980,7 @@
 ||yan.zhouguanchen.com^
 ||yanabmw.ru^
 ||yanbenji.cn^
+||yancy.fun^
 ||yandepit.com^
 ||yandexadexchange.net^
 ||yandexbrowser2019.ru^
@@ -44999,6 +45033,7 @@
 ||ybsyyh.com^
 ||ybtianxi.com^
 ||ybx.yahoo.co.jp^
+||ybxsdyvpkpfoxd.top^
 ||yc-ads.s3.amazonaws.com^
 ||yceml.net^
 ||ycgy8888.com^
@@ -45730,6 +45765,7 @@
 ||zcl-js.com^
 ||zclick.pro^
 ||zcmnffq.cn^
+||zcode7.me^
 ||zcoolfc.com^
 ||zcp.zwame.pt^
 ||zcpmenyq.com^
