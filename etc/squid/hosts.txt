@@ -6515,6 +6515,7 @@
 0.0.0.0 arswabluchan.com
 0.0.0.0 artandand.online
 0.0.0.0 artantash.club
+0.0.0.0 artbluesea.xyz
 0.0.0.0 artefact.is
 0.0.0.0 artemisaffiliates.com
 0.0.0.0 artfin.club
@@ -7227,6 +7228,7 @@
 0.0.0.0 b42rracj.com
 0.0.0.0 b44a98d1901e5b7.com
 0.0.0.0 b477.life
+0.0.0.0 b49.xyz
 0.0.0.0 b4q982rbqdsw.com
 0.0.0.0 b52.win
 0.0.0.0 b57acfcd767.com
@@ -9258,6 +9260,7 @@
 0.0.0.0 bs.commontools.net
 0.0.0.0 bs.orsk.ru
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bs987.cn
 0.0.0.0 bsaq5.cn
 0.0.0.0 bsbopag.cn
 0.0.0.0 bsdaban.com
@@ -10031,6 +10034,7 @@
 0.0.0.0 cchvc.net
 0.0.0.0 ccioo.vip
 0.0.0.0 ccjudian.com
+0.0.0.0 ccjxwlkj.com
 0.0.0.0 ccjxybj.cn
 0.0.0.0 ccjysdii.xyz
 0.0.0.0 ccmdgg.com
@@ -13927,6 +13931,7 @@
 0.0.0.0 dhxuiho.cn
 0.0.0.0 dhxyzx.cn
 0.0.0.0 dhygr.com
+0.0.0.0 dhyns.cn
 0.0.0.0 di-capt.com
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 di7stero.com
@@ -25521,6 +25526,7 @@
 0.0.0.0 madyna.ru
 0.0.0.0 maebtjn.com
 0.0.0.0 maegkrquttm.xyz
+0.0.0.0 mafengow.club
 0.0.0.0 magariusaqmuri.cf
 0.0.0.0 magazinescontaining.com
 0.0.0.0 magdove.xyz
@@ -27303,6 +27309,7 @@
 0.0.0.0 mskjf.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msparktrk.com
+0.0.0.0 msri.club
 0.0.0.0 msrv.su
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstat.ga
@@ -32929,6 +32936,7 @@
 0.0.0.0 qyjzleh.cn
 0.0.0.0 qyqc4s.com
 0.0.0.0 qysyyg.com
+0.0.0.0 qytkjsz.com
 0.0.0.0 qytyf.com
 0.0.0.0 qyxwfe.com
 0.0.0.0 qzbxfs.com
@@ -44400,6 +44408,7 @@
 0.0.0.0 xawab.com
 0.0.0.0 xawsnngjljanxof.su
 0.0.0.0 xaxaxa.ovh
+0.0.0.0 xaxdwz.xyz
 0.0.0.0 xaxivaho.com
 0.0.0.0 xaxo.xyz
 0.0.0.0 xaxoro.com
@@ -45181,6 +45190,7 @@
 0.0.0.0 ygsm.com
 0.0.0.0 ygtnn.cn
 0.0.0.0 ygtt.mobi
+0.0.0.0 ygtx.mobi
 0.0.0.0 ygudtbdnhkhlmkd.xyz
 0.0.0.0 ygunaf.biz
 0.0.0.0 yguuoibdsscki.com
@@ -45244,6 +45254,7 @@
 0.0.0.0 yimai51.cn
 0.0.0.0 yimd.vip
 0.0.0.0 yimeize.cn
+0.0.0.0 yinan.tech
 0.0.0.0 yingfulook.cn
 0.0.0.0 yingge.fun
 0.0.0.0 yingjiawm.com
