@@ -1,4 +1,4 @@
-!20220110-03
+!20220111-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -934,6 +934,7 @@
 ||52tushuo.com^
 ||52yugan.com^
 ||52zfl.com^
+||52zhekou.online^
 ||5355439.com^
 ||538b5d8f303be.com^
 ||53953.club^
@@ -7905,6 +7906,7 @@
 ||bds.snssdk.com^
 ||bdstatic.org^
 ||bdsyimg.com^
+||bdtao.vip^
 ||bdu.focus.cn^
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
@@ -8353,6 +8355,7 @@
 ||bgaxgjre.xyz^
 ||bgclck.me^
 ||bgcsojmtgdrv.com^
+||bgelvy.cn^
 ||bggzqvjqtwthy.com^
 ||bgjiihhebcbjhfdaiba.ru^
 ||bgkecb.com^
@@ -15983,6 +15986,7 @@
 ||esm1.net^
 ||esomniture.com^
 ||esou.me^
+||esp-12f.xyz^
 ||essayads.com^
 ||essaycoupons.com^
 ||essokosi.com^
@@ -21065,6 +21069,7 @@
 ||idcqi.com^
 ||iddjpop.com^
 ||iddpop.com^
+||iddu1vvb7sk8-a.akamaihd.net^
 ||ideahealkeeper.com^
 ||idealadvertising.net^
 ||idealmedia.io^
@@ -22306,6 +22311,7 @@
 ||jakseque.com^
 ||jalewaads.com^
 ||jamdomn.pro^
+||jameschan.info^
 ||jamexistence.com^
 ||jamsoulsfriday.com^
 ||jandolav.com^
@@ -23089,6 +23095,7 @@
 ||jy.zhongxues.com^
 ||jyagyffnbysg.com^
 ||jycdnjnz.com^
+||jycwqeo.cn^
 ||jyebqhel.com^
 ||jygotubvpyguak.com^
 ||jygtlqh.cn^
@@ -28428,7 +28435,6 @@
 ||nimbleswan.io^
 ||nimdinb.com^
 ||nimhuemark.com^
-||nimiq.watch^
 ||nimiqpool.com^
 ||nimiqtest.net^
 ||nimmediu.info^
@@ -29000,7 +29006,6 @@
 ||o.jy135.com^
 ||o.phb123.com^
 ||o01fv23.loan^
-||o0bc.com^
 ||o1.jyjyj.cn^
 ||o2o.api.xiaomi.com^
 ||o333o.com^
@@ -31429,6 +31434,8 @@
 ||pooboafi.net^
 ||poodsboiko.com^
 ||poogriry.click^
+||pool.nimiq.watch^
+||pool.nimiqchain.info^
 ||pool5.info^
 ||poolgmsd.com^
 ||poolunbelievably.com^
@@ -33387,6 +33394,7 @@
 ||rctxiqx.cn^
 ||rctxjbv.cn^
 ||rctxmbr.cn^
+||rctxpks.cn^
 ||rctxsrv.cn^
 ||rctxtjp.cn^
 ||rctxubn.cn^
@@ -36811,6 +36819,7 @@
 ||son-in-lawmorbid.com^
 ||sonat.space^
 ||sonet-rp.swaxis.com^
+||songcan.me^
 ||songlongtech.com^
 ||songrfid.com^
 ||songssmoke.com^
@@ -38772,6 +38781,7 @@
 ||tagcdn.com^
 ||tagcommander.com^
 ||tagdatax.com^
+||tagdeliver.com^
 ||tagdelivery.com^
 ||tagger.ope.scmp.com^
 ||tagger.opecloud.com^
@@ -44621,6 +44631,7 @@
 ||x4pollyxxpush.com^
 ||x4x4x.org^
 ||x5.jougennotuki.com^
+||x56za02.cn^
 ||x6.yakiuchi.com^
 ||x6z6.com^
 ||x7rrjgs.cn^
@@ -45790,6 +45801,7 @@
 ||yqrta.xyz^
 ||yqsoxyhmumnn.com^
 ||yqw88.com^
+||yqzaz.cn^
 ||yr9n47004g.com^
 ||yrdrtzmsmt.com^
 ||yrehdfer.com^

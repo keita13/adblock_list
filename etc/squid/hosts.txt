@@ -933,6 +933,7 @@
 0.0.0.0 52tushuo.com
 0.0.0.0 52yugan.com
 0.0.0.0 52zfl.com
+0.0.0.0 52zhekou.online
 0.0.0.0 5355439.com
 0.0.0.0 538b5d8f303be.com
 0.0.0.0 53953.club
@@ -7904,6 +7905,7 @@
 0.0.0.0 bds.snssdk.com
 0.0.0.0 bdstatic.org
 0.0.0.0 bdsyimg.com
+0.0.0.0 bdtao.vip
 0.0.0.0 bdu.focus.cn
 0.0.0.0 bdu1.coozhi.cn
 0.0.0.0 bdunion1.suxiazai.com
@@ -8352,6 +8354,7 @@
 0.0.0.0 bgaxgjre.xyz
 0.0.0.0 bgclck.me
 0.0.0.0 bgcsojmtgdrv.com
+0.0.0.0 bgelvy.cn
 0.0.0.0 bggzqvjqtwthy.com
 0.0.0.0 bgjiihhebcbjhfdaiba.ru
 0.0.0.0 bgkecb.com
@@ -15982,6 +15985,7 @@
 0.0.0.0 esm1.net
 0.0.0.0 esomniture.com
 0.0.0.0 esou.me
+0.0.0.0 esp-12f.xyz
 0.0.0.0 essayads.com
 0.0.0.0 essaycoupons.com
 0.0.0.0 essokosi.com
@@ -21064,6 +21068,7 @@
 0.0.0.0 idcqi.com
 0.0.0.0 iddjpop.com
 0.0.0.0 iddpop.com
+0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 ideahealkeeper.com
 0.0.0.0 idealadvertising.net
 0.0.0.0 idealmedia.io
@@ -22305,6 +22310,7 @@
 0.0.0.0 jakseque.com
 0.0.0.0 jalewaads.com
 0.0.0.0 jamdomn.pro
+0.0.0.0 jameschan.info
 0.0.0.0 jamexistence.com
 0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jandolav.com
@@ -23088,6 +23094,7 @@
 0.0.0.0 jy.zhongxues.com
 0.0.0.0 jyagyffnbysg.com
 0.0.0.0 jycdnjnz.com
+0.0.0.0 jycwqeo.cn
 0.0.0.0 jyebqhel.com
 0.0.0.0 jygotubvpyguak.com
 0.0.0.0 jygtlqh.cn
@@ -28427,7 +28434,6 @@
 0.0.0.0 nimbleswan.io
 0.0.0.0 nimdinb.com
 0.0.0.0 nimhuemark.com
-0.0.0.0 nimiq.watch
 0.0.0.0 nimiqpool.com
 0.0.0.0 nimiqtest.net
 0.0.0.0 nimmediu.info
@@ -28999,7 +29005,6 @@
 0.0.0.0 o.jy135.com
 0.0.0.0 o.phb123.com
 0.0.0.0 o01fv23.loan
-0.0.0.0 o0bc.com
 0.0.0.0 o1.jyjyj.cn
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o333o.com
@@ -31428,6 +31433,8 @@
 0.0.0.0 pooboafi.net
 0.0.0.0 poodsboiko.com
 0.0.0.0 poogriry.click
+0.0.0.0 pool.nimiq.watch
+0.0.0.0 pool.nimiqchain.info
 0.0.0.0 pool5.info
 0.0.0.0 poolgmsd.com
 0.0.0.0 poolunbelievably.com
@@ -33386,6 +33393,7 @@
 0.0.0.0 rctxiqx.cn
 0.0.0.0 rctxjbv.cn
 0.0.0.0 rctxmbr.cn
+0.0.0.0 rctxpks.cn
 0.0.0.0 rctxsrv.cn
 0.0.0.0 rctxtjp.cn
 0.0.0.0 rctxubn.cn
@@ -36810,6 +36818,7 @@
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 sonat.space
 0.0.0.0 sonet-rp.swaxis.com
+0.0.0.0 songcan.me
 0.0.0.0 songlongtech.com
 0.0.0.0 songrfid.com
 0.0.0.0 songssmoke.com
@@ -38771,6 +38780,7 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagdatax.com
+0.0.0.0 tagdeliver.com
 0.0.0.0 tagdelivery.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
@@ -44620,6 +44630,7 @@
 0.0.0.0 x4pollyxxpush.com
 0.0.0.0 x4x4x.org
 0.0.0.0 x5.jougennotuki.com
+0.0.0.0 x56za02.cn
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 x6z6.com
 0.0.0.0 x7rrjgs.cn
@@ -45789,6 +45800,7 @@
 0.0.0.0 yqrta.xyz
 0.0.0.0 yqsoxyhmumnn.com
 0.0.0.0 yqw88.com
+0.0.0.0 yqzaz.cn
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 yrehdfer.com
