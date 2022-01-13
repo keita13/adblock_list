@@ -166,6 +166,7 @@
 0.0.0.0 1.pncdn.cn
 0.0.0.0 1.qjhm.net
 0.0.0.0 1.rr95.com
+0.0.0.0 1.shopit.cn
 0.0.0.0 1.sj33.net
 0.0.0.0 1.soufy.cn
 0.0.0.0 1.tecbbs.com
@@ -277,6 +278,7 @@
 0.0.0.0 13p76nnir.de
 0.0.0.0 13vm73vbmp.com
 0.0.0.0 13wn.com
+0.0.0.0 1486050000.rsc.cdn77.org
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 1494.top
 0.0.0.0 14nuzznszbdp.com
@@ -2221,6 +2223,7 @@
 0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
+0.0.0.0 ad.bluepartner.eu
 0.0.0.0 ad.bnmla.com
 0.0.0.0 ad.bobi.tw
 0.0.0.0 ad.bondage.com
@@ -3128,6 +3131,7 @@
 0.0.0.0 adnz.co
 0.0.0.0 ado.delfi.ee
 0.0.0.0 adobetag.com
+0.0.0.0 adobetarget.com
 0.0.0.0 adocean.cz
 0.0.0.0 adocean.pl
 0.0.0.0 adoftheyear.com
@@ -5055,6 +5059,7 @@
 0.0.0.0 ai.thanhnien.vn
 0.0.0.0 ai256.top
 0.0.0.0 ai36588.com
+0.0.0.0 aiactiv.io
 0.0.0.0 aiadvi.com
 0.0.0.0 aibangzs.com
 0.0.0.0 aibiqihhuplxv.top
@@ -6159,6 +6164,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-keks.com
+0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api.140proof.com
 0.0.0.0 api.557400.com
 0.0.0.0 api.abcxs.org
@@ -8457,6 +8463,7 @@
 0.0.0.0 big6q4y2oy.ru
 0.0.0.0 big88.one
 0.0.0.0 bigappboi.com
+0.0.0.0 bigasfactive.com
 0.0.0.0 bigbangbon.online
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigbolz.com
@@ -8669,6 +8676,7 @@
 0.0.0.0 bkrtx.com
 0.0.0.0 bksijiunc.com
 0.0.0.0 bkvtrack.com
+0.0.0.0 bkyflsjdsraeba.top
 0.0.0.0 bl.impresa.pt
 0.0.0.0 bl.wavecdn.de
 0.0.0.0 bl0uxepb4o.com
@@ -10156,6 +10164,7 @@
 0.0.0.0 cdn.ads.fotoable.net
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adsquirrel.ai
+0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.advsmedia.net
 0.0.0.0 cdn.alistcloud.com
 0.0.0.0 cdn.allsportsflix.best
@@ -10733,6 +10742,7 @@
 0.0.0.0 circumstantialobtrusive.com
 0.0.0.0 circusbreadth.com
 0.0.0.0 ciridola.com
+0.0.0.0 cisheeng.com
 0.0.0.0 citheekr.com
 0.0.0.0 citireklam.com
 0.0.0.0 citizenshadowrequires.com
@@ -11459,6 +11469,7 @@
 0.0.0.0 collect-test.arabam.com
 0.0.0.0 collect.*.miui.com
 0.0.0.0 collect.albacross.com
+0.0.0.0 collect.babybus.com
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.data.tm-awx.com
 0.0.0.0 collect.feefo.com
@@ -11941,6 +11952,7 @@
 0.0.0.0 corwrite.com
 0.0.0.0 corycj.top
 0.0.0.0 cosdkaa.pro
+0.0.0.0 coseik.com
 0.0.0.0 cosimolaugh.pro
 0.0.0.0 cosimotable.pro
 0.0.0.0 cosmeticsgenerosity.com
@@ -12205,6 +12217,7 @@
 0.0.0.0 cpng.be
 0.0.0.0 cpng.click
 0.0.0.0 cpng.lol
+0.0.0.0 cpnomnojtrt.top
 0.0.0.0 cppgf.com
 0.0.0.0 cprekl.com
 0.0.0.0 cpro.baidu.com
@@ -16642,6 +16655,7 @@
 0.0.0.0 faithaiy.com
 0.0.0.0 faithfularchipelagogrind.com
 0.0.0.0 faithfulfacultativeladder.com
+0.0.0.0 faithfullyfridge.com
 0.0.0.0 faithknotpositive.com
 0.0.0.0 faithlessdessertdetailed.com
 0.0.0.0 fajuer.xyz
@@ -18239,6 +18253,7 @@
 0.0.0.0 gecatikonstantin.ru
 0.0.0.0 gecauuksehin.com
 0.0.0.0 gecko-sg.byteoversea.com
+0.0.0.0 gecko.me
 0.0.0.0 gecl.xyz
 0.0.0.0 gecontentasap.com
 0.0.0.0 gedus.cn
@@ -18561,6 +18576,7 @@
 0.0.0.0 ghkjnrgqmmoa.xyz
 0.0.0.0 ghnmg.top
 0.0.0.0 ghostsinstance.com
+0.0.0.0 ghrqxdvmqcisfy.xyz
 0.0.0.0 ghsmfmjcicgup.com
 0.0.0.0 ghxadv.com
 0.0.0.0 ghyklxvleas.xyz
@@ -18575,6 +18591,7 @@
 0.0.0.0 giddyattendant.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giddyuptrk.com
+0.0.0.0 giftcode-lienquanmobile-vn.com
 0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 giftedglue.com
 0.0.0.0 giftedthumb.com
@@ -19909,6 +19926,7 @@
 0.0.0.0 headstonerinse.com
 0.0.0.0 headup.com
 0.0.0.0 headwell.cn
+0.0.0.0 headyguin.com
 0.0.0.0 headyhook.com
 0.0.0.0 healmsuoguurd.eu
 0.0.0.0 healte.de
@@ -20347,6 +20365,7 @@
 0.0.0.0 hlmiq.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hlokux.cn
+0.0.0.0 hloprhawmswdb.com
 0.0.0.0 hlqoefai.cn
 0.0.0.0 hlserve.com
 0.0.0.0 hlstlyy.com
@@ -21157,6 +21176,7 @@
 0.0.0.0 ieatlu.xyz
 0.0.0.0 ieboohdfxdc.com
 0.0.0.0 iedqnfbq.top
+0.0.0.0 ieecheng.com
 0.0.0.0 ieeod0.com
 0.0.0.0 iehtzdq.cn
 0.0.0.0 iendoo.com
@@ -23119,6 +23139,7 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwuqescfqa.xyz
+0.0.0.0 jwvjcr.cn
 0.0.0.0 jwvwak1a.com
 0.0.0.0 jwyiyqptg.com
 0.0.0.0 jwyl.ltd
@@ -23142,6 +23163,7 @@
 0.0.0.0 jxlqgs.com
 0.0.0.0 jxmzyg.com
 0.0.0.0 jxpxzxf.cn
+0.0.0.0 jxqkiqpvg.com
 0.0.0.0 jxsgxzx.com
 0.0.0.0 jxxcedyaazm.com
 0.0.0.0 jxxcfd.com
@@ -24847,6 +24869,7 @@
 0.0.0.0 lltiukmeposi.one
 0.0.0.0 lltrck.com
 0.0.0.0 lltrsknoob.click
+0.0.0.0 llyqy.top
 0.0.0.0 lm.ijq.tv
 0.0.0.0 lm1.tuliu.com
 0.0.0.0 lm1.wkpcw.cn
@@ -26037,6 +26060,7 @@
 0.0.0.0 matiro.com
 0.0.0.0 matoakie.com
 0.0.0.0 matomo.*.vn
+0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.cloud
 0.0.0.0 matomo.gals24.ru
@@ -26631,6 +26655,7 @@
 0.0.0.0 metricswpsh.com
 0.0.0.0 metrigo.zalan.do
 0.0.0.0 metrika-informer.com
+0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie.io
 0.0.0.0 metrika.myseldon.com
 0.0.0.0 metrika.traff.space
@@ -27543,6 +27568,7 @@
 0.0.0.0 msyq.xyz
 0.0.0.0 mt-data.ru
 0.0.0.0 mt.64foot.com
+0.0.0.0 mt34iofvjay.com
 0.0.0.0 mt48.net
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtbjupleyqy.xyz
@@ -28035,6 +28061,7 @@
 0.0.0.0 nbpyfog.cn
 0.0.0.0 nbsave.xyz
 0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 nbslx.mobi
 0.0.0.0 nbstatic.com
 0.0.0.0 nbsxa.cn
 0.0.0.0 nbtree.cn
@@ -31810,6 +31837,7 @@
 0.0.0.0 pramdishevelledsquare.com
 0.0.0.0 prankmechanics.com
 0.0.0.0 praterswhally.com
+0.0.0.0 prautl.com
 0.0.0.0 prayersitsskid.com
 0.0.0.0 prayuserparka.com
 0.0.0.0 prazpf.cn
@@ -32064,6 +32092,7 @@
 0.0.0.0 projectpoi.com
 0.0.0.0 projectsunblock.com
 0.0.0.0 projectwonderful.com
+0.0.0.0 proko.cn
 0.0.0.0 prolinker.ru
 0.0.0.0 promclickapp.biz
 0.0.0.0 promenadd.ru
@@ -32805,6 +32834,7 @@
 0.0.0.0 qd.x4399.com
 0.0.0.0 qd3u5eeuos.com
 0.0.0.0 qdatasales.com
+0.0.0.0 qdawavxvrcnkg.top
 0.0.0.0 qdayipnsir.com
 0.0.0.0 qdb6gd3nth.ru
 0.0.0.0 qdchunyu.com
@@ -33470,6 +33500,7 @@
 0.0.0.0 rcpudkfstrocmx.top
 0.0.0.0 rcsadv.it
 0.0.0.0 rctxcsi.cn
+0.0.0.0 rctxczy.cn
 0.0.0.0 rctxijo.cn
 0.0.0.0 rctxiqx.cn
 0.0.0.0 rctxjbv.cn
@@ -34067,6 +34098,7 @@
 0.0.0.0 resultlinks.com
 0.0.0.0 resultplus.jp
 0.0.0.0 resultsz.com
+0.0.0.0 resumedelayed.com
 0.0.0.0 resumersvo.fun
 0.0.0.0 resupposer.club
 0.0.0.0 resurnommions.xyz
@@ -34380,6 +34412,7 @@
 0.0.0.0 rl7944.ru
 0.0.0.0 rlbbvrcnu.xyz
 0.0.0.0 rlcdn.com
+0.0.0.0 rldwideorga.com
 0.0.0.0 rle.ru
 0.0.0.0 rlets.com
 0.0.0.0 rlinks.one.in
@@ -35214,6 +35247,7 @@
 0.0.0.0 sauaopmdesyysa.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 sauceheirloom.com
+0.0.0.0 sauceillusionstruggling.com
 0.0.0.0 saucepanshakymemorial.com
 0.0.0.0 saucerharmlessinternational.com
 0.0.0.0 saucesenseless.com
@@ -35323,6 +35357,7 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredoutillicit.com
 0.0.0.0 scatteredstream.com
+0.0.0.0 scbgujdxdscub.top
 0.0.0.0 scbywiqkm.com
 0.0.0.0 scelebnow.xyz
 0.0.0.0 scenbe.com
@@ -36586,6 +36621,7 @@
 0.0.0.0 smarterremarketer.net
 0.0.0.0 smartfarming.cn
 0.0.0.0 smartinfomarketing.ru
+0.0.0.0 smartlify.com
 0.0.0.0 smartlnk.com
 0.0.0.0 smartlook.com
 0.0.0.0 smartmnews.pro
@@ -37376,6 +37412,7 @@
 0.0.0.0 sqr3.xyz
 0.0.0.0 squalid-linen.fun
 0.0.0.0 squallcircuit.com
+0.0.0.0 squarepicket.com
 0.0.0.0 squashfriction.com
 0.0.0.0 squawcubesfry.com
 0.0.0.0 squeakvegetable.com
@@ -41950,6 +41987,7 @@
 0.0.0.0 unolis.ru
 0.0.0.0 unoseconomin.xyz
 0.0.0.0 unpanchamon.com
+0.0.0.0 unpleasantconcrete.com
 0.0.0.0 unpredictablewatchpenalty.com
 0.0.0.0 unreasonablecompatibledivorced.com
 0.0.0.0 unreshiramor.com
@@ -43894,6 +43932,7 @@
 0.0.0.0 wgafd.com
 0.0.0.0 wgat5ln2wly8.com
 0.0.0.0 wgbeugkn.com
+0.0.0.0 wgcsxqkyry.com
 0.0.0.0 wgnlz.com
 0.0.0.0 wgpsjcpdulptl.com
 0.0.0.0 wgqeigtu.xyz
@@ -44515,6 +44554,7 @@
 0.0.0.0 wstatslive.com
 0.0.0.0 wstztt.com
 0.0.0.0 wsvay.com
+0.0.0.0 wswh.club
 0.0.0.0 wswh.xyz
 0.0.0.0 wsxxu.com
 0.0.0.0 wsynefadhuli.xyz
@@ -44617,6 +44657,7 @@
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 www.agkn.com
 0.0.0.0 www.auditude.com
+0.0.0.0 www.bekdbxdhrffnj.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.fuze-hill*.xyz
 0.0.0.0 www.fuze-sea*.xyz
@@ -44628,6 +44669,7 @@
 0.0.0.0 www.p.de
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.rakuten-contect-japan-servicc.com
+0.0.0.0 www.seyevjpcjkcnka.com
 0.0.0.0 www.trading24.io
 0.0.0.0 www0.xyz
 0.0.0.0 www1.wxnmh.com
