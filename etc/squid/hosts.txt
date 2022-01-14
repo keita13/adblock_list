@@ -5188,6 +5188,8 @@
 0.0.0.0 ajur.info
 0.0.0.0 ajwssds.com
 0.0.0.0 ajx130.online
+0.0.0.0 ak.hetaruvg.com
+0.0.0.0 ak.hetaruwg.com
 0.0.0.0 ak.imgaft.com
 0.0.0.0 ak0429.com
 0.0.0.0 ak0gsh40.com
@@ -5397,6 +5399,7 @@
 0.0.0.0 allzdorovy.ru
 0.0.0.0 almasatten.com
 0.0.0.0 almosto.com
+0.0.0.0 alnko.cn
 0.0.0.0 alocdn.com
 0.0.0.0 aloetichansels.casa
 0.0.0.0 alog.umeng.co
@@ -8938,6 +8941,7 @@
 0.0.0.0 bodyclick.net
 0.0.0.0 bodykaa.ru
 0.0.0.0 boetwu.com
+0.0.0.0 boffero.com
 0.0.0.0 boffinsoft.com
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boffoadsfeeds.com
@@ -10889,6 +10893,7 @@
 0.0.0.0 cleverwebserver.com
 0.0.0.0 clevi.com
 0.0.0.0 clevv.com
+0.0.0.0 clfmm.cn
 0.0.0.0 clfvfumqqok.com
 0.0.0.0 clfxjrlui.com
 0.0.0.0 clfxts.com
@@ -11194,6 +11199,7 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 clscsbcj.com
 0.0.0.0 cltgtstor001.blob.core.windows.net
+0.0.0.0 club-premium.net
 0.0.0.0 clubcollector.com
 0.0.0.0 clubesaudedeassinatura.com.br
 0.0.0.0 clubpenguinclub.com
@@ -17538,6 +17544,7 @@
 0.0.0.0 fpjs.io
 0.0.0.0 fpkvvuaieo.top
 0.0.0.0 fpmef.com
+0.0.0.0 fpreld.cn
 0.0.0.0 fprnt.com
 0.0.0.0 fptad.com
 0.0.0.0 fpyacdna.com
@@ -19435,6 +19442,7 @@
 0.0.0.0 guckawoh.net
 0.0.0.0 gudangbanner.com
 0.0.0.0 guduopu.com
+0.0.0.0 guerrilla-links.com
 0.0.0.0 guess.h.qhimg.com
 0.0.0.0 gufan.fun
 0.0.0.0 guffawdecipher.com
@@ -20577,6 +20585,7 @@
 0.0.0.0 hot-hits.us
 0.0.0.0 hot-mob.com
 0.0.0.0 hot4k.org
+0.0.0.0 hot59.de
 0.0.0.0 hotcounter.de
 0.0.0.0 hotelfroma.fun
 0.0.0.0 hotelscombined.com.au
@@ -22241,7 +22250,6 @@
 0.0.0.0 its-that-easy.com
 0.0.0.0 itsibdi.info
 0.0.0.0 itskiddoan.club
-0.0.0.0 itsptp.com
 0.0.0.0 itteholm.site
 0.0.0.0 ittorchicer.com
 0.0.0.0 itv.hexun.com
@@ -22297,6 +22305,7 @@
 0.0.0.0 iwstats.com
 0.0.0.0 iwtserve.com
 0.0.0.0 iwucoz.cn
+0.0.0.0 iwwl.vip
 0.0.0.0 iwxzizcw.com
 0.0.0.0 iwyphlxfuufeos.com
 0.0.0.0 ixcris.com
@@ -23960,6 +23969,7 @@
 0.0.0.0 kyefakwa.com
 0.0.0.0 kyfunahi.pro
 0.0.0.0 kykmuyi.cn
+0.0.0.0 kyle.pub
 0.0.0.0 kylxsbsljvya.xyz
 0.0.0.0 kymirasite.pro
 0.0.0.0 kyouad.com
@@ -24237,6 +24247,7 @@
 0.0.0.0 ldliketouse.biz
 0.0.0.0 ldnlyap.com
 0.0.0.0 ldnxy.xyz
+0.0.0.0 ldogre.top
 0.0.0.0 lduhtrp.net
 0.0.0.0 ldutvi.com
 0.0.0.0 ldvatxaqcd.com
@@ -25990,6 +26001,7 @@
 0.0.0.0 marktang.love
 0.0.0.0 marktest.pt
 0.0.0.0 maro30.com
+0.0.0.0 marout.bloodteethrub.top
 0.0.0.0 marphezis.com
 0.0.0.0 marsads.com
 0.0.0.0 marshydespotdestroyer.com
@@ -26118,6 +26130,7 @@
 0.0.0.0 mayclub.net
 0.0.0.0 mayert.link
 0.0.0.0 mayhemabjure.com
+0.0.0.0 maymooth-stopic.com
 0.0.0.0 mayordiminution.com
 0.0.0.0 mayvbm.com
 0.0.0.0 maze4aem56jf.com
@@ -33506,9 +33519,11 @@
 0.0.0.0 rctxjbv.cn
 0.0.0.0 rctxmbr.cn
 0.0.0.0 rctxpks.cn
+0.0.0.0 rctxprz.cn
 0.0.0.0 rctxsrv.cn
 0.0.0.0 rctxtjp.cn
 0.0.0.0 rctxubn.cn
+0.0.0.0 rctxwpn.cn
 0.0.0.0 rctxwtt.cn
 0.0.0.0 rctxymu.cn
 0.0.0.0 rcurn.com
@@ -35948,6 +35963,7 @@
 0.0.0.0 shadowlegends.pro
 0.0.0.0 shaftalong.com
 0.0.0.0 shaggytank.com
+0.0.0.0 shaiban.wang
 0.0.0.0 shaidolt.com
 0.0.0.0 shaimsoo.net
 0.0.0.0 shakamech.com
@@ -36496,6 +36512,7 @@
 0.0.0.0 skyvideo1.ru
 0.0.0.0 sl-ct5.com
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
+0.0.0.0 sl00ufi.cn
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slakesshimtames.com
 0.0.0.0 slammederasepolicy.com
@@ -44809,6 +44826,7 @@
 0.0.0.0 xaholica.com
 0.0.0.0 xahydp.cn
 0.0.0.0 xahywwx.com
+0.0.0.0 xakywl.xyz
 0.0.0.0 xalisi.co
 0.0.0.0 xamaky.top
 0.0.0.0 xamap.club
@@ -46083,6 +46101,7 @@
 0.0.0.0 yvzgazds6d.com
 0.0.0.0 ywadf.cn
 0.0.0.0 ywadk.top
+0.0.0.0 ywak.com.cn
 0.0.0.0 ywasgxqzf.com
 0.0.0.0 ywbwsm.com
 0.0.0.0 ywgcbcibz.com
