@@ -5909,6 +5909,7 @@
 *://*.ubuntu.buildwebhost.com/*
 *://*.ubuntugeeks.com/*
 *://*.uchile.cl/*
+*://*.uebu-kaihatsu.jp.net/*
 *://*.uefir.com/*
 *://*.unavocefuoricampo.it/*
 *://*.unionpedia.org/*
