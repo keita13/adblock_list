@@ -183,6 +183,7 @@
 *://*.gamy.jp/*
 *://*.geek-qa.imtqy.com/*
 *://*.geek-tips.imtqy.com/*
+*://*.geekcxy.com/*
 *://*.geeks-world.imtqy.com/*
 *://*.generacodice.com/*
 *://*.generaindustrial.cl/*
@@ -4118,6 +4119,7 @@
 *://*.jin115.com/*
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
+*://*.jpcodeqa.com/*
 *://*.jumpevolution.ru/*
 *://*.kaifa99.com/*
 *://*.kejisen.com/*
