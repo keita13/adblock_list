@@ -43,8 +43,10 @@
 *://*.argidro.ru/*
 *://*.aristidecaruso.it/*
 *://*.arnosportservice.it/*
+*://*.array.cyou/*
 *://*.artefunerariadiligas.it/*
 *://*.artfit-prk.com/*
+*://*.article.docway.net/*
 *://*.artigianatoveneto.it/*
 *://*.asisettoresoftair.i/*
 *://*.askdev.info/*
@@ -5943,6 +5945,7 @@
 *://*.www.sejuku.net/*
 *://*.www.voidcc.com/*
 *://*.xbuba.com/*
+*://*.younggeeks.in/*
 *://*.yurestaurant.it/*
 *://*.zhouni.net/*
 *://*.zweryfikowac.pl/*
