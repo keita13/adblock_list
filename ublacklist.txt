@@ -5928,6 +5928,7 @@
 *://*.vitadamoglie.it/*
 *://*.vl.ru/*
 *://*.voidcc.com/*
+*://*.web-dev-qa.com/*
 *://*.webdevqa.jp.net/*
 *://*.wenyanet.com/*
 *://*.while-do.com/*
