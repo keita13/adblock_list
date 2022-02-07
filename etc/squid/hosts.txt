@@ -1417,6 +1417,7 @@
 0.0.0.0 9377ku.com
 0.0.0.0 9377or.com
 0.0.0.0 9377os.com
+0.0.0.0 9391434.com
 0.0.0.0 93aihbjs7bv4.com
 0.0.0.0 93c82d38a751.com
 0.0.0.0 9405876.xyz
@@ -5054,6 +5055,7 @@
 0.0.0.0 ahuac.com
 0.0.0.0 ahuano.com
 0.0.0.0 ahuhfljg.com
+0.0.0.0 ahurmtx9dnwwxa.ru
 0.0.0.0 ahvclick.com
 0.0.0.0 ahwangtao.com
 0.0.0.0 ahwczn.cn
@@ -5901,6 +5903,7 @@
 0.0.0.0 analytics.vadio.com
 0.0.0.0 analytics.valiuz.com
 0.0.0.0 analytics.vanillaforums.com
+0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.viblo.asia
 0.0.0.0 analytics.videocloud.top
@@ -7362,6 +7365,7 @@
 0.0.0.0 baggyritual.com
 0.0.0.0 bah8g3.cn
 0.0.0.0 bahaimlo.com
+0.0.0.0 bahfhgfdibgbcegbgg.ru
 0.0.0.0 bahisciler.co
 0.0.0.0 bahmemohod.com
 0.0.0.0 bahu.xyz
@@ -9778,6 +9782,7 @@
 0.0.0.0 caiwuwang.ltd
 0.0.0.0 caiyugang.com
 0.0.0.0 cajkov.ru
+0.0.0.0 calabeshes.xyz
 0.0.0.0 calameo-beacon.global.ssl.fastly.net
 0.0.0.0 calamityfortuneaudio.com
 0.0.0.0 calculated.cn
@@ -11147,6 +11152,7 @@
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cloudimagesb.com
 0.0.0.0 cloudioo.net
+0.0.0.0 cloudlogobox.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudpsvn.com
 0.0.0.0 cloudsdestruction.com
@@ -11281,6 +11287,7 @@
 0.0.0.0 cnt.ramlife.ru
 0.0.0.0 cnt.rate.ru
 0.0.0.0 cnt.spbland.ru
+0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt.xhamster.com
 0.0.0.0 cnt1.net
@@ -14372,6 +14379,7 @@
 0.0.0.0 dmd53.com
 0.0.0.0 dmdi.pl
 0.0.0.0 dmeq7blex6x1u.cloudfront.net
+0.0.0.0 dmfhqzo.cn
 0.0.0.0 dmg0877nfcvqj.cloudfront.net
 0.0.0.0 dmhpgshchfoawtn.com
 0.0.0.0 dmkdtkad2jyb9.cloudfront.net
@@ -19327,6 +19335,7 @@
 0.0.0.0 guanoo.net
 0.0.0.0 guansenff.cn
 0.0.0.0 guanxingyule.com
+0.0.0.0 guanxs.com
 0.0.0.0 guaranteelamp.com
 0.0.0.0 guarda4k.online
 0.0.0.0 guardapl.com
@@ -24367,6 +24376,7 @@
 0.0.0.0 leyxue.cn
 0.0.0.0 lezengxin.com
 0.0.0.0 leztc.com
+0.0.0.0 lf666.xyz
 0.0.0.0 lfannaifu.cn
 0.0.0.0 lfd-media.ru
 0.0.0.0 lfdydk.com
@@ -29202,6 +29212,7 @@
 0.0.0.0 offaces-butional.com
 0.0.0.0 offclaydolon.com
 0.0.0.0 offer.fyber.com
+0.0.0.0 offer.slgnt.eu
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offerforge.net
@@ -35757,6 +35768,7 @@
 0.0.0.0 setoyourad.biz
 0.0.0.0 setpadchat.com
 0.0.0.0 setting.rayjump.com
+0.0.0.0 settlef.com
 0.0.0.0 setupbarton.com
 0.0.0.0 seurne.com
 0.0.0.0 sev4ifmxa.com
@@ -38823,6 +38835,7 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
+0.0.0.0 tags.remixd.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.sprizzy.com
 0.0.0.0 tags.tiqcdn.com
@@ -38902,6 +38915,7 @@
 0.0.0.0 taoke.cloud
 0.0.0.0 taomochou.cn
 0.0.0.0 taomovie.club
+0.0.0.0 taopiaopiao.shop
 0.0.0.0 taoput.com
 0.0.0.0 taoyouhuiquan.top
 0.0.0.0 taoyuay.top
@@ -42495,6 +42509,7 @@
 0.0.0.0 verblife-3.co
 0.0.0.0 verblife-4.co
 0.0.0.0 verblife-5.co
+0.0.0.0 verbolia.com
 0.0.0.0 vercel-analytics.com
 0.0.0.0 vercel-insights.com
 0.0.0.0 verdantanswer.com
@@ -44530,6 +44545,7 @@
 0.0.0.0 wwgdwl.com
 0.0.0.0 wwija.com
 0.0.0.0 wwjijoywqiu.xyz
+0.0.0.0 wwlipxritaoo.com
 0.0.0.0 wwlolbs.com
 0.0.0.0 wwm24.de
 0.0.0.0 wwmocmktwnaeik.xyz
