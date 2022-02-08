@@ -29,6 +29,7 @@
 *://*.agriturismoalrefolo.it/*
 *://*.agzulueta.cl/*
 *://*.ahamse.it/*
+*://*.ajaxhispano.com/*
 *://*.aleaonlus.it/*
 *://*.alessandropecoraro.it/*
 *://*.alessandrototaro.it/*
@@ -4193,6 +4194,7 @@
 *://*.ordenmasterov.ru/*
 *://*.oseni.ru/*
 *://*.ospedaliprivatiforli.it/*
+*://*.ostack.cn/*
 *://*.overcoder.net/*
 *://*.panaindustrial.com/*
 *://*.parchisalentointour.it/*
@@ -5874,6 +5876,7 @@
 *://*.soinside.com/*
 *://*.spb.ru/*
 *://*.sportfiske.org/*
+*://*.sqlite.in/*
 *://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
