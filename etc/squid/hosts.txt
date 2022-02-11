@@ -1759,7 +1759,6 @@
 0.0.0.0 aa.0755rc.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 aa.gushiwen.org
-0.0.0.0 aa.ninze.com
 0.0.0.0 aa.pornvideotop.com
 0.0.0.0 aa.voice2page.com
 0.0.0.0 aa.wenxue6.com
@@ -2004,6 +2003,7 @@
 0.0.0.0 achcdn.com
 0.0.0.0 achievablecpmrevenue.com
 0.0.0.0 achingmercury.com
+0.0.0.0 achu.wang
 0.0.0.0 achyrepeatitchy.com
 0.0.0.0 acid-adserver.click
 0.0.0.0 acidlikenessdejected.com
@@ -3439,7 +3439,6 @@
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 ads.blog.com
-0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.boerding.com
@@ -3597,7 +3596,6 @@
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jianchiapp.com
-0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.justhungry.com
@@ -4005,7 +4003,6 @@
 0.0.0.0 adserver.kimia.es
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adserver.lecool.com
-0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.mobillex.com
 0.0.0.0 adserver.msmb.biz
@@ -5636,7 +5633,6 @@
 0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
-0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
@@ -7108,6 +7104,7 @@
 0.0.0.0 awtks.com
 0.0.0.0 awtvnrgwxletd.com
 0.0.0.0 awwlfb.cn
+0.0.0.0 awwlrd.cn
 0.0.0.0 awxoddnhl.xyz
 0.0.0.0 awxqiujkhrf.top
 0.0.0.0 awyys.com
@@ -7519,7 +7516,6 @@
 0.0.0.0 banner-rotation.com
 0.0.0.0 banner.*.tccapis.com
 0.0.0.0 banner.5giay.vn
-0.0.0.0 banner.ad.nu
 0.0.0.0 banner.aismo.ru
 0.0.0.0 banner.ambercoastcasino.com
 0.0.0.0 banner.blogranking.net
@@ -7783,6 +7779,7 @@
 0.0.0.0 baxisafy.com
 0.0.0.0 baxofalis.com
 0.0.0.0 baxusanu.pro
+0.0.0.0 bayalnephite.com
 0.0.0.0 bayctrk.com
 0.0.0.0 bayfluke.com
 0.0.0.0 bayil.cn
@@ -9885,6 +9882,7 @@
 0.0.0.0 canyboysho.info
 0.0.0.0 cao444cao.com
 0.0.0.0 caofta.cn
+0.0.0.0 caomeixz10.xyz
 0.0.0.0 caomindianying.com
 0.0.0.0 cap-cap-pop.com
 0.0.0.0 capablecows.com
@@ -11322,6 +11320,7 @@
 0.0.0.0 cntdy.mobi
 0.0.0.0 cntrafficpro.com
 0.0.0.0 cnxad.net
+0.0.0.0 cnxdztpgjyc.com
 0.0.0.0 cnxmyb.cn
 0.0.0.0 cnxunkewang.info
 0.0.0.0 cnxweb.com
@@ -11415,6 +11414,7 @@
 0.0.0.0 cogocast.net
 0.0.0.0 cogsdigital.com
 0.0.0.0 coguan.com
+0.0.0.0 cogwoodwelder.com
 0.0.0.0 cohabitrecipetransmitted.com
 0.0.0.0 coherepeasant.com
 0.0.0.0 cohesionapps.com
@@ -13978,6 +13978,7 @@
 0.0.0.0 dflfnrmi.xyz
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dfmnbv.pro
+0.0.0.0 dfmngtubtdfxnq.com
 0.0.0.0 dfnetwork.link
 0.0.0.0 dfseafood.com
 0.0.0.0 dftvhvapqxs.xyz
@@ -15476,6 +15477,7 @@
 0.0.0.0 efmqnhbbqyko.xyz
 0.0.0.0 efngeka8czukzyb.ru
 0.0.0.0 efpark.ru
+0.0.0.0 efpvhqdw.xyz
 0.0.0.0 efresa.ru
 0.0.0.0 efyt6.com
 0.0.0.0 eg.light2gr0w.me
@@ -19080,6 +19082,7 @@
 0.0.0.0 govkunming.cn
 0.0.0.0 govmetric.com
 0.0.0.0 govqingdao.cn
+0.0.0.0 govshanxi.cn
 0.0.0.0 govshenzhen.cn
 0.0.0.0 govxian.cn
 0.0.0.0 govyunfu.cn
@@ -19508,6 +19511,7 @@
 0.0.0.0 gxxcbj.com
 0.0.0.0 gxymlqcnu.com
 0.0.0.0 gybdtg.com
+0.0.0.0 gybyxsy1588.com
 0.0.0.0 gyccdnydir.com
 0.0.0.0 gycy2.com
 0.0.0.0 gyeet.com
@@ -20791,6 +20795,7 @@
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 humoek.com
 0.0.0.0 humorshieldrecede.com
+0.0.0.0 humpzip.com
 0.0.0.0 humsoolt.net
 0.0.0.0 humuseliyahu.com
 0.0.0.0 hunchbackimpulse.com
@@ -25513,6 +25518,7 @@
 0.0.0.0 lushcrush.com
 0.0.0.0 lusrg.cn
 0.0.0.0 lustmanicureput.com
+0.0.0.0 lustre.ai
 0.0.0.0 lutachechu.pro
 0.0.0.0 lutsoops.net
 0.0.0.0 luuming.com
@@ -27072,6 +27078,7 @@
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 mn1nm.com
 0.0.0.0 mnbvjhg.com
+0.0.0.0 mncvz.top
 0.0.0.0 mnemicguaza.cam
 0.0.0.0 mnetads.com
 0.0.0.0 mng-ads.com
@@ -27908,6 +27915,7 @@
 0.0.0.0 mzokqm.cn
 0.0.0.0 mzol7lbm.com
 0.0.0.0 mzwfu.xyz
+0.0.0.0 mzya5718.xyz
 0.0.0.0 n-ad.work
 0.0.0.0 n-analytics.io
 0.0.0.0 n.baminw.com.cn
@@ -33232,6 +33240,7 @@
 0.0.0.0 qvpublish.com
 0.0.0.0 qvuehosxuzhagv.com
 0.0.0.0 qvvoom.com
+0.0.0.0 qvylkvlpjwz.com
 0.0.0.0 qwa3ldhn9u0t.com
 0.0.0.0 qwddcwmwqiqwd18.cn
 0.0.0.0 qwddcwmwqiqwd19.cn
@@ -36561,6 +36570,7 @@
 0.0.0.0 slingstapeats.com
 0.0.0.0 slinse.com
 0.0.0.0 slipclearing.com
+0.0.0.0 slipdashedundermine.com
 0.0.0.0 slippersferry.com
 0.0.0.0 slipperyextremelyvast.com
 0.0.0.0 slipperysack.com
@@ -38966,7 +38976,6 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
-0.0.0.0 tags.remixd.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.sprizzy.com
 0.0.0.0 tags.tiqcdn.com
@@ -39049,6 +39058,7 @@
 0.0.0.0 taomovie.club
 0.0.0.0 taopiaopiao.shop
 0.0.0.0 taoput.com
+0.0.0.0 taoyinbiacid.com
 0.0.0.0 taoyouhuiquan.top
 0.0.0.0 taoyuay.top
 0.0.0.0 tap-nexus.appspot.com
@@ -39110,6 +39120,7 @@
 0.0.0.0 tarnifotum.com
 0.0.0.0 taroads.com
 0.0.0.0 tarpitbar.com
+0.0.0.0 tarsuscaul.com
 0.0.0.0 tartoals.net
 0.0.0.0 tarttendency.com
 0.0.0.0 tarvemowhay.com
@@ -40512,6 +40523,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
+0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.somewrite.jp
 0.0.0.0 track.spacepush.ru
@@ -41465,6 +41477,7 @@
 0.0.0.0 tupeloherem.com
 0.0.0.0 tupope.com
 0.0.0.0 tur-tur-key.com
+0.0.0.0 turbanmadman.com
 0.0.0.0 turbanmixturephysician.com
 0.0.0.0 turboads.de
 0.0.0.0 turboadv.com
@@ -43917,6 +43930,7 @@
 0.0.0.0 weightequilibriumforehead.com
 0.0.0.0 weiguanwang888.com
 0.0.0.0 weiiii.com
+0.0.0.0 weiiimt.cn
 0.0.0.0 weijiakeji.top
 0.0.0.0 weikefanli.com
 0.0.0.0 weimeicar.cn
@@ -44145,7 +44159,6 @@
 0.0.0.0 wi3brxwr2b3v.com
 0.0.0.0 wicktrown.co
 0.0.0.0 widebanner.com
-0.0.0.0 widebundle.com
 0.0.0.0 widefox.ru
 0.0.0.0 widerplanet.com
 0.0.0.0 widespace.com
@@ -44792,6 +44805,7 @@
 0.0.0.0 wywsdx.com
 0.0.0.0 wywy.com
 0.0.0.0 wyxcb6.top
+0.0.0.0 wyykxyp.cn
 0.0.0.0 wyzq.rehuwang.com
 0.0.0.0 wyzxn.cn
 0.0.0.0 wz-adserver.de
@@ -45758,6 +45772,7 @@
 0.0.0.0 yijiuningyia.gushiwen.org
 0.0.0.0 yijuxie.com
 0.0.0.0 yikebang.xyz
+0.0.0.0 yikouxian.fun
 0.0.0.0 yikuaiqian.com.cn
 0.0.0.0 yilianqing.com
 0.0.0.0 yim3eyv5.top
@@ -45783,6 +45798,7 @@
 0.0.0.0 yiran686.cn
 0.0.0.0 yirendajiankang.com
 0.0.0.0 yisd.press
+0.0.0.0 yishengad.com
 0.0.0.0 yishuifa.org
 0.0.0.0 yitai001.com
 0.0.0.0 yitcmu.com
@@ -46928,6 +46944,7 @@
 0.0.0.0 zzcharming.top
 0.0.0.0 zzchuy.cn
 0.0.0.0 zzdb5p4upiug.com
+0.0.0.0 zzfoms.com
 0.0.0.0 zzghcckpzlhob.com
 0.0.0.0 zzgyly.cn
 0.0.0.0 zzhc.vnet.cn
