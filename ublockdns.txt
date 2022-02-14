@@ -1,4 +1,4 @@
-!20220214-03
+!20220215-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -84,6 +84,7 @@
 ||0azx1.com^
 ||0b2qv7.cn^
 ||0b9d84d93f1b.com^
+||0c6fb44787.com^
 ||0dbcf515975d.com^
 ||0dcdc74c3ca.com^
 ||0e6fc55ed3d4c2c2ba0.com^
@@ -752,6 +753,7 @@
 ||3ec9b1217d.com^
 ||3enm.com^
 ||3f9f440ecad916.com^
+||3fakaixi.xyz^
 ||3file.info^
 ||3fish.store^
 ||3g.990.net^
@@ -1077,6 +1079,7 @@
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
+||668kbet.com^
 ||66993.top^
 ||66996.top^
 ||66997.top^
@@ -1311,6 +1314,7 @@
 ||860010.com^
 ||8603887.com^
 ||863c4c0c521.se^
+||864db374c6.com^
 ||864feb57ruary.com^
 ||86695755.cn^
 ||86a6b542l7.com^
@@ -1456,6 +1460,7 @@
 ||979067.com^
 ||97d73lsi.com^
 ||97kuaixiu.com^
+||97shang.wang^
 ||97wanle.com^
 ||98158.com^
 ||983jdh.xyz^
@@ -12474,6 +12479,7 @@
 ||csjs.ltd^
 ||csjuq.com^
 ||csjwawe.top^
+||cslgcomputer.club^
 ||csm.cxpublic.com^
 ||csmads.gameclick.vn^
 ||csnem.ru^
@@ -16987,6 +16993,7 @@
 ||ff-membership-garena.com^
 ||ff-membersship-garrena.com^
 ||ff-memnber-garena.com^
+||ff-menber-garena.vn^
 ||ff.astv.ru^
 ||ff.garena.memmbershipp.com^
 ||ff.guidaye.com^
@@ -17117,7 +17124,9 @@
 ||firescorrelationprodigy.com^
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
+||fireworkapi.com^
 ||fireworks-advertising.com^
+||fireworktv.com^
 ||firexclamation.com^
 ||firingair.com^
 ||firm.bidtizadd.ru^
@@ -18085,6 +18094,7 @@
 ||gamebai.club^
 ||gamecetera.com^
 ||gamefeat.net^
+||gameiwin.vip^
 ||gamequyong.site^
 ||gamequyong.xyz^
 ||gamerickius.com^
@@ -22596,6 +22606,7 @@
 ||ji.ihualun.com^
 ||jia-huan.cn^
 ||jiachangwuliu.cn^
+||jiage.ink^
 ||jiahewine.cn^
 ||jiaheyonggu.com^
 ||jiajiann.cn^
@@ -22967,6 +22978,7 @@
 ||js.users.51.la^
 ||js.winc-ad.com^
 ||js.wizeraz.net^
+||js.wpushsdk.com^
 ||js.xiao7cdn.com^
 ||js.yanyue.cn^
 ||js.yanyue.net^
@@ -28605,6 +28617,7 @@
 ||nimpool.io^
 ||ninavyg.ru^
 ||ninestats.com^
+||nineteenthdipper.com^
 ||ningbojipiao.com^
 ||ningme.ru^
 ||ningmengshenhuo.com^
@@ -29849,6 +29862,7 @@
 ||oplwseln.com^
 ||opmnstr.com^
 ||opoapibs.net^
+||opoew.top^
 ||opotey.com^
 ||opoxv.com^
 ||oppa888.com^
@@ -31407,8 +31421,11 @@
 ||playhaven.com^
 ||playiwin.biz^
 ||playiwin.site^
+||playiwin.uk^
 ||playjusting.com^
 ||playmanclub.uk^
+||playmanclub.us^
+||playmanclub.vin^
 ||playstream.media^
 ||playtem.com^
 ||playukinternet.com^
@@ -34398,9 +34415,11 @@
 ||riibl.com^
 ||rik.vip^
 ||rik.win^
+||rikgame.live^
 ||rikobisti.com^
 ||rikvip.uk^
 ||rikvip.us^
+||rikvipp.net^
 ||rilelogicbuy.com^
 ||rilesticks.com^
 ||rilins.com^
@@ -39055,6 +39074,7 @@
 ||taidi.net.cn^
 ||taifouwo.com^
 ||taigrooh.net^
+||taiiwinclub.cc^
 ||taijiwhi.com^
 ||taikangshenyuan.com^
 ||tailsweep.com^
@@ -39072,6 +39092,7 @@
 ||taiv8.top^
 ||taiwhups.net^
 ||taixuan.net.cn^
+||taiztf.cn^
 ||tajxgs.com^
 ||takethatad.com^
 ||takidd.site^
@@ -39841,6 +39862,7 @@
 ||tiesmises.fun^
 ||tigerhub.net^
 ||tigerhysteriaspree.com^
+||tigerpush.net^
 ||tightsaturdayi.com^
 ||tightslowingpredictable.com^
 ||tiglesoshi.pro^
@@ -45118,6 +45140,7 @@
 ||xiachouchou.com^
 ||xiald.com^
 ||xiandafood.cn^
+||xianggouwu.vip^
 ||xiangkantv.cn^
 ||xianglong360.cn^
 ||xianguangergaozhi.com^
@@ -45809,6 +45832,7 @@
 ||yhsmk.com^
 ||yi.ximizi.com^
 ||yiatelychur.top^
+||yibaosenlin.top^
 ||yibivacaji.com^
 ||yicha.jp^
 ||yichunrz.com^
@@ -46248,6 +46272,7 @@
 ||yuyue008.cn^
 ||yvatswzotstdve.com^
 ||yvebbtqvqvhufs.com^
+||yvfnb.cn^
 ||yvgqtrnncvearx.xyz^
 ||yvmads.com^
 ||yvoria.com^
@@ -46367,7 +46392,6 @@
 ||zamok911.com^
 ||zampad.com^
 ||zampda.net^
-||zanghaihua.org^
 ||zangocash.com^
 ||zanox-affiliate.de^
 ||zanox.com^

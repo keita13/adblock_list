@@ -83,6 +83,7 @@
 0.0.0.0 0azx1.com
 0.0.0.0 0b2qv7.cn
 0.0.0.0 0b9d84d93f1b.com
+0.0.0.0 0c6fb44787.com
 0.0.0.0 0dbcf515975d.com
 0.0.0.0 0dcdc74c3ca.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
@@ -751,6 +752,7 @@
 0.0.0.0 3ec9b1217d.com
 0.0.0.0 3enm.com
 0.0.0.0 3f9f440ecad916.com
+0.0.0.0 3fakaixi.xyz
 0.0.0.0 3file.info
 0.0.0.0 3fish.store
 0.0.0.0 3g.990.net
@@ -1076,6 +1078,7 @@
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
+0.0.0.0 668kbet.com
 0.0.0.0 66993.top
 0.0.0.0 66996.top
 0.0.0.0 66997.top
@@ -1310,6 +1313,7 @@
 0.0.0.0 860010.com
 0.0.0.0 8603887.com
 0.0.0.0 863c4c0c521.se
+0.0.0.0 864db374c6.com
 0.0.0.0 864feb57ruary.com
 0.0.0.0 86695755.cn
 0.0.0.0 86a6b542l7.com
@@ -1455,6 +1459,7 @@
 0.0.0.0 979067.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 97kuaixiu.com
+0.0.0.0 97shang.wang
 0.0.0.0 97wanle.com
 0.0.0.0 98158.com
 0.0.0.0 983jdh.xyz
@@ -12473,6 +12478,7 @@
 0.0.0.0 csjs.ltd
 0.0.0.0 csjuq.com
 0.0.0.0 csjwawe.top
+0.0.0.0 cslgcomputer.club
 0.0.0.0 csm.cxpublic.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 csnem.ru
@@ -16986,6 +16992,7 @@
 0.0.0.0 ff-membership-garena.com
 0.0.0.0 ff-membersship-garrena.com
 0.0.0.0 ff-memnber-garena.com
+0.0.0.0 ff-menber-garena.vn
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.garena.memmbershipp.com
 0.0.0.0 ff.guidaye.com
@@ -17116,7 +17123,9 @@
 0.0.0.0 firescorrelationprodigy.com
 0.0.0.0 fireworkadservices.com
 0.0.0.0 fireworkanalytics.com
+0.0.0.0 fireworkapi.com
 0.0.0.0 fireworks-advertising.com
+0.0.0.0 fireworktv.com
 0.0.0.0 firexclamation.com
 0.0.0.0 firingair.com
 0.0.0.0 firm.bidtizadd.ru
@@ -18084,6 +18093,7 @@
 0.0.0.0 gamebai.club
 0.0.0.0 gamecetera.com
 0.0.0.0 gamefeat.net
+0.0.0.0 gameiwin.vip
 0.0.0.0 gamequyong.site
 0.0.0.0 gamequyong.xyz
 0.0.0.0 gamerickius.com
@@ -22595,6 +22605,7 @@
 0.0.0.0 ji.ihualun.com
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiachangwuliu.cn
+0.0.0.0 jiage.ink
 0.0.0.0 jiahewine.cn
 0.0.0.0 jiaheyonggu.com
 0.0.0.0 jiajiann.cn
@@ -22966,6 +22977,7 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 js.winc-ad.com
 0.0.0.0 js.wizeraz.net
+0.0.0.0 js.wpushsdk.com
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.yanyue.cn
 0.0.0.0 js.yanyue.net
@@ -28604,6 +28616,7 @@
 0.0.0.0 nimpool.io
 0.0.0.0 ninavyg.ru
 0.0.0.0 ninestats.com
+0.0.0.0 nineteenthdipper.com
 0.0.0.0 ningbojipiao.com
 0.0.0.0 ningme.ru
 0.0.0.0 ningmengshenhuo.com
@@ -29848,6 +29861,7 @@
 0.0.0.0 oplwseln.com
 0.0.0.0 opmnstr.com
 0.0.0.0 opoapibs.net
+0.0.0.0 opoew.top
 0.0.0.0 opotey.com
 0.0.0.0 opoxv.com
 0.0.0.0 oppa888.com
@@ -31406,8 +31420,11 @@
 0.0.0.0 playhaven.com
 0.0.0.0 playiwin.biz
 0.0.0.0 playiwin.site
+0.0.0.0 playiwin.uk
 0.0.0.0 playjusting.com
 0.0.0.0 playmanclub.uk
+0.0.0.0 playmanclub.us
+0.0.0.0 playmanclub.vin
 0.0.0.0 playstream.media
 0.0.0.0 playtem.com
 0.0.0.0 playukinternet.com
@@ -34397,9 +34414,11 @@
 0.0.0.0 riibl.com
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
+0.0.0.0 rikgame.live
 0.0.0.0 rikobisti.com
 0.0.0.0 rikvip.uk
 0.0.0.0 rikvip.us
+0.0.0.0 rikvipp.net
 0.0.0.0 rilelogicbuy.com
 0.0.0.0 rilesticks.com
 0.0.0.0 rilins.com
@@ -39054,6 +39073,7 @@
 0.0.0.0 taidi.net.cn
 0.0.0.0 taifouwo.com
 0.0.0.0 taigrooh.net
+0.0.0.0 taiiwinclub.cc
 0.0.0.0 taijiwhi.com
 0.0.0.0 taikangshenyuan.com
 0.0.0.0 tailsweep.com
@@ -39071,6 +39091,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 taiwhups.net
 0.0.0.0 taixuan.net.cn
+0.0.0.0 taiztf.cn
 0.0.0.0 tajxgs.com
 0.0.0.0 takethatad.com
 0.0.0.0 takidd.site
@@ -39840,6 +39861,7 @@
 0.0.0.0 tiesmises.fun
 0.0.0.0 tigerhub.net
 0.0.0.0 tigerhysteriaspree.com
+0.0.0.0 tigerpush.net
 0.0.0.0 tightsaturdayi.com
 0.0.0.0 tightslowingpredictable.com
 0.0.0.0 tiglesoshi.pro
@@ -45117,6 +45139,7 @@
 0.0.0.0 xiachouchou.com
 0.0.0.0 xiald.com
 0.0.0.0 xiandafood.cn
+0.0.0.0 xianggouwu.vip
 0.0.0.0 xiangkantv.cn
 0.0.0.0 xianglong360.cn
 0.0.0.0 xianguangergaozhi.com
@@ -45808,6 +45831,7 @@
 0.0.0.0 yhsmk.com
 0.0.0.0 yi.ximizi.com
 0.0.0.0 yiatelychur.top
+0.0.0.0 yibaosenlin.top
 0.0.0.0 yibivacaji.com
 0.0.0.0 yicha.jp
 0.0.0.0 yichunrz.com
@@ -46247,6 +46271,7 @@
 0.0.0.0 yuyue008.cn
 0.0.0.0 yvatswzotstdve.com
 0.0.0.0 yvebbtqvqvhufs.com
+0.0.0.0 yvfnb.cn
 0.0.0.0 yvgqtrnncvearx.xyz
 0.0.0.0 yvmads.com
 0.0.0.0 yvoria.com
@@ -46366,7 +46391,6 @@
 0.0.0.0 zamok911.com
 0.0.0.0 zampad.com
 0.0.0.0 zampda.net
-0.0.0.0 zanghaihua.org
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
