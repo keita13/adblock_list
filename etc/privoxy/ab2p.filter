@@ -2,7 +2,7 @@
 #----- source -----
 #Title: 280blocker adblock filter
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-#Last modified: 23 Oct 2021 04:29 UTC
+#Last modified: 16 Feb 2022 18:34 UTC
 #Expires: 72 hours
 #Homepage: https://280blocker.net
 #----- source -----
@@ -20,14 +20,14 @@
 #----- source -----
 #Title: 亀フィルタ（ウイルスサイトブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-#Last modified: 23 Oct 2021 04:29 UTC
+#Last modified: 16 Feb 2022 18:34 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 #----- source -----
 #Title: ことりフィルタ（SNSボタンブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-#Last modified: 23 Oct 2021 04:29 UTC
+#Last modified: 16 Feb 2022 18:34 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
@@ -229,7 +229,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn45
 s@^referer(?!:[^\n]*[./](?:gendama\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn46
-s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo|onsen\.nifty\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn47
 s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp)):.*@ab2p-block-dnt@Ti
@@ -457,7 +457,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn45
 s@^referer(?!:[^\n]*[./](?:gendama\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn46
-s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo|onsen\.nifty\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn47
 s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp)):.*@ab2p-block-elem@Ti
@@ -776,7 +776,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Rn44
 s@^referer(?!:[^\n]*[./](?:news\.livedoor\.com|gendai\.ismedia\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn46
-s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo)):.*@ab2p-block-request@Ti
+s@^referer(?!:[^\n]*[./](?:gizmodo\.jp|svy\.ooo|onsen\.nifty\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn49
 s@^referer(?!:[^\n]*[./](?:hackintosh\.zone)):.*@ab2p-block-request@Ti

@@ -7949,6 +7949,7 @@
 0.0.0.0 bdjj.makepolo.net
 0.0.0.0 bdjs.163lady.com
 0.0.0.0 bdjs.91zhuti.com
+0.0.0.0 bdjs.daziba.cn
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.gushiju.net
 0.0.0.0 bdjs.kaixin100.com
@@ -19808,6 +19809,7 @@
 0.0.0.0 happeningaxis.com
 0.0.0.0 happer.info
 0.0.0.0 happy9luck.com
+0.0.0.0 happycastle.me
 0.0.0.0 happynb.com
 0.0.0.0 happysow.com
 0.0.0.0 happyunicorns.gutefrage.net
@@ -40478,6 +40480,7 @@
 0.0.0.0 toutiao.social
 0.0.0.0 toutiao.xn--fiqs8s
 0.0.0.0 toutiles.com
+0.0.0.0 touzi110.mobi
 0.0.0.0 tovery.net
 0.0.0.0 tovespiquener.com
 0.0.0.0 tovihhhyhe.xyz
