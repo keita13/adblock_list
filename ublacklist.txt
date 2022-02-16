@@ -39,6 +39,7 @@
 *://*.andreafagioni.it/*
 *://*.annuncitelelavoro.it/*
 *://*.answer-id.com/*
+*://*.answerlib.com/*
 *://*.apollohairdesign.it/*
 *://*.appartamentilignanoviacarinzia.it/*
 *://*.argidro.ru/*
@@ -106,6 +107,7 @@
 *://*.codefaq.ru/*
 *://*.codeflow.site/*
 *://*.codegrepper.com/*
+*://*.codeguides.site/*
 *://*.codehero.jp/*
 *://*.codengineering.ru/*
 *://*.codenong.com/*
@@ -172,6 +174,7 @@
 *://*.fattoriaascaniocruciani.it/*
 *://*.ferrum42kem.ru/*
 *://*.festivalvocideuropa.it/*
+*://*.firstlightsalon.in/*
 *://*.fiscalformula.it/*
 *://*.fixes.pub/*
 *://*.fkdent.ru/*
