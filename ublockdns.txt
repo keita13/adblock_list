@@ -1,4 +1,4 @@
-!20220220-03
+!20220221-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1713,6 +1713,7 @@
 ||a15c5009bcbe272.com^
 ||a15d55423.5tps.xyz^
 ||a1714.com^
+||a1webstrategy.com^
 ||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a22f0d8201ade09fa3.com^
@@ -9411,6 +9412,7 @@
 ||btbuckets.com^
 ||btcadtop.com^
 ||btdnav.com^
+||bte.ink^
 ||btez8.xyz^
 ||btgndarx.xyz^
 ||btjapxtpernyg.com^
@@ -12830,6 +12832,7 @@
 ||d.email.forbes.com^
 ||d.haberler.com^
 ||d.image-ad.jp^
+||d.k3r.jp^
 ||d.omsnative.de^
 ||d.pixiv.org^
 ||d.shareaholic.com^
@@ -16931,6 +16934,7 @@
 ||fd555b2faf5a40c.com^
 ||fd7c.com^
 ||fd7qz88ckd.com^
+||fdasew.top^
 ||fdelphaswcealifornica.com^
 ||fdf4.com^
 ||fdfgf.cc^
@@ -17767,6 +17771,7 @@
 ||fritterhurtfuldowry.com^
 ||frknseo.info^
 ||frnwvialjbey.xyz^
+||frodx.com^
 ||frog.yuanfudao.com^
 ||froggyinter.com^
 ||frogrugby.com^
@@ -18670,6 +18675,7 @@
 ||ghimc.vn^
 ||ghjnpy.com^
 ||ghkjnrgqmmoa.xyz^
+||ghmsrxt.cn^
 ||ghnmg.top^
 ||ghosthis.review^
 ||ghostsinstance.com^
@@ -23628,8 +23634,10 @@
 ||keywordstrategy.org^
 ||keyxel.com^
 ||keyyou.net^
+||kf3.xyz^
 ||kf3msfm.com^
 ||kfd3sm2c.com^
+||kfir.club^
 ||kfluoa.com^
 ||kfrfr.life^
 ||kfrpr.club^
@@ -24452,6 +24460,7 @@
 ||lead-or-call.ru^
 ||lead.im^
 ||leadadvert.info^
+||leadberry.com^
 ||leadbi.com^
 ||leadbolt.net^
 ||leadboltads.net^
@@ -24470,6 +24479,7 @@
 ||leadformix.com^
 ||leadgid.go2cloud.org^
 ||leadgidads.ru^
+||leadhit.ru^
 ||leadid.com^
 ||leadin.com^
 ||leadinfo.net^
@@ -26883,6 +26893,7 @@
 ||metrics0.com^
 ||metrics34.com^
 ||metricsdirect.com^
+||metricskey.com^
 ||metricswpsh.com^
 ||metrigo.zalan.do^
 ||metrika-informer.com^
@@ -34413,6 +34424,7 @@
 ||retargeter.com^
 ||retargeter.com.br^
 ||retargeting.biz^
+||retargeting.newsmanapp.com^
 ||retargetly.com^
 ||retargettracker.com^
 ||retcherruny.xyz^
@@ -35099,6 +35111,7 @@
 ||ruigezx.com^
 ||ruigra.com^
 ||ruiy.shop^
+||ruiyijy.xyz^
 ||rujioimped.xyz^
 ||rukoval.com^
 ||rulejanuary.com^
@@ -36952,6 +36965,7 @@
 ||smartology.co^
 ||smartpixel.auditorius.ru^
 ||smartracker.net^
+||smartselling.cz^
 ||smartstream.tv^
 ||smarttargetting.co.uk^
 ||smarttargetting.com^
@@ -37982,6 +37996,7 @@
 ||stat.nate.com^
 ||stat.novostimira.com^
 ||stat.ovh^
+||stat.pet^
 ||stat.php-d.com^
 ||stat.pl^
 ||stat.prsmedia.fr^
@@ -39183,6 +39198,7 @@
 ||t5lxz7dtq4iz.com^
 ||t5wm.cc^
 ||t6ibq24c5.com^
+||t6q6187.cn^
 ||t70123.com^
 ||t7z.cupid.iqiyi.com^
 ||t8betvip.com^
@@ -39257,6 +39273,7 @@
 ||taghaugh.com^
 ||tagjunction.com^
 ||tagm.tchibo.de^
+||tagman.britishairways.com^
 ||tagmanager.alright.network^
 ||tagmanager.cn^
 ||tagmanager.toast.com^
@@ -40129,6 +40146,7 @@
 ||tinglian.com^
 ||tingrevolu.xyz^
 ||tingthenee.biz^
+||tingyusw.xyz^
 ||tinkerta.com^
 ||tinkerwidth.com^
 ||tinkshop.cn^
@@ -40850,7 +40868,6 @@
 ||track.spacepush.ru^
 ||track.span-smt.jp^
 ||track.spots.im^
-||track.stat.pet^
 ||track.strife.com^
 ||track.tcppu.com^
 ||track.td3x.com^
@@ -42249,6 +42266,7 @@
 ||umm6.cn^
 ||umrefebaot.biz^
 ||umtnycoscl.xyz^
+||umvspj.cn^
 ||umwiba.com^
 ||umyetor.ru^
 ||un.ubaike.cn^
@@ -45464,6 +45482,7 @@
 ||xingsky.cn^
 ||xingtou888.com^
 ||xingtu.ltd^
+||xingxingdd.com^
 ||xingxingdm.com^
 ||xingyou46.icu^
 ||xingzhu.top^
@@ -45670,6 +45689,7 @@
 ||xs.houyi.baofeng.net^
 ||xsa2zq7q2l.ru^
 ||xsdizch.cn^
+||xsdlt.top^
 ||xseed-digital.jp^
 ||xsell.6waves.com^
 ||xsgkjsb.cn^
@@ -46603,6 +46623,7 @@
 ||yzihutyb.xyz^
 ||yzjihang.cn^
 ||yzjlsb.com^
+||yzjy.pro^
 ||yzlwuuzzehjh.com^
 ||yzt001.com^
 ||yzus09by.com^
