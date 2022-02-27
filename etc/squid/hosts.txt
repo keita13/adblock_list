@@ -886,6 +886,7 @@
 0.0.0.0 4sqt6jq.de
 0.0.0.0 4stats.de
 0.0.0.0 4strokemedia.com
+0.0.0.0 4takaixi.xyz
 0.0.0.0 4tdbbs.cn
 0.0.0.0 4th3d48.com
 0.0.0.0 4tnui5r06j62.com
@@ -1262,6 +1263,7 @@
 0.0.0.0 7g9m3r.com
 0.0.0.0 7gg.cc
 0.0.0.0 7gomedia.ru
+0.0.0.0 7gukaip.xyz
 0.0.0.0 7gustis.xyz
 0.0.0.0 7hor9gul4s.com
 0.0.0.0 7hu8e1u001.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 87gw0fl0rc11.com
 0.0.0.0 87uq.com
 0.0.0.0 88-baidu.com
+0.0.0.0 8848skins.com
 0.0.0.0 886721.com
 0.0.0.0 887251.com
 0.0.0.0 887591.com
@@ -1940,6 +1943,7 @@
 0.0.0.0 abrjsiuuhet.com
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abroadlynijiz.site
+0.0.0.0 abrocvhkwhd.com
 0.0.0.0 abroodeuripi.com
 0.0.0.0 abrts.pro
 0.0.0.0 abruptrenewmakeover.com
@@ -2721,6 +2725,7 @@
 0.0.0.0 addaim.com
 0.0.0.0 addan.xyz
 0.0.0.0 addapptr.com
+0.0.0.0 addata.exxen.com
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 adddpc01.ru
 0.0.0.0 adddyy.com
@@ -4026,6 +4031,7 @@
 0.0.0.0 adserver.anawe.cz
 0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.ariase.org
+0.0.0.0 adserver.bafrahaber.com
 0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
@@ -10926,6 +10932,7 @@
 0.0.0.0 ckrf1.com
 0.0.0.0 ckseeknew.com
 0.0.0.0 ckwlurries.com
+0.0.0.0 cl*.k5a.io
 0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 cl-xny.cn
 0.0.0.0 cl.canva.com
@@ -14682,6 +14689,7 @@
 0.0.0.0 dodgiercuvy.cam
 0.0.0.0 dodolive.cn
 0.0.0.0 doflygonan.com
+0.0.0.0 dofsg.cn
 0.0.0.0 doga.cm
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 dogcollarnearest.com
@@ -15836,6 +15844,7 @@
 0.0.0.0 emanog.com
 0.0.0.0 emarbox.com
 0.0.0.0 ematicsolutions.com
+0.0.0.0 embed.contentverticals.de
 0.0.0.0 embed.tonews.org
 0.0.0.0 embed.usersmagic.com
 0.0.0.0 embeddedanalytics.com
@@ -15970,6 +15979,7 @@
 0.0.0.0 enhichej.xyz
 0.0.0.0 enicyvys.xyz
 0.0.0.0 enidie.cn
+0.0.0.0 enifeygqued.com
 0.0.0.0 enihongo.cn
 0.0.0.0 eniunifiiegma.xyz
 0.0.0.0 enjoyingbind.com
@@ -16654,7 +16664,6 @@
 0.0.0.0 extrafastip.xyz
 0.0.0.0 extraordinarygeorgianaanomalous.com
 0.0.0.0 extreme-dm.com
-0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extremedirectness.com
 0.0.0.0 extremereach.io
 0.0.0.0 extremetracking.com
@@ -19970,6 +19979,7 @@
 0.0.0.0 haoxxwang.com
 0.0.0.0 haoyundm.com
 0.0.0.0 haoyundmn.com
+0.0.0.0 haoyundmtaotao.com
 0.0.0.0 haphazarddrunk.com
 0.0.0.0 haphazardhum.com
 0.0.0.0 haphiterton.ru
@@ -21054,8 +21064,10 @@
 0.0.0.0 huitiankuaiji.com
 0.0.0.0 huiwbpmphy.com
 0.0.0.0 huixingcheng.cn
+0.0.0.0 huiyef.cn
 0.0.0.0 huiyutz.cn
 0.0.0.0 huizeyoupin.com
+0.0.0.0 hulauf.cn
 0.0.0.0 hulemedia.com
 0.0.0.0 hulewangsi.cn
 0.0.0.0 hulkflugarb.com
@@ -21169,6 +21181,7 @@
 0.0.0.0 hyhfsj.com
 0.0.0.0 hyinlegvghul.com
 0.0.0.0 hyjdz.cn
+0.0.0.0 hylmimgg.com
 0.0.0.0 hylmxing.com
 0.0.0.0 hylyl.club
 0.0.0.0 hyndir.com
@@ -23811,6 +23824,7 @@
 0.0.0.0 khimandi.info
 0.0.0.0 khoteris.ru
 0.0.0.0 khovdimina.com
+0.0.0.0 khphkum.cn
 0.0.0.0 khrg04h.cn
 0.0.0.0 khrtac.xiangha.com
 0.0.0.0 khudagi.info
@@ -33407,6 +33421,7 @@
 0.0.0.0 qiangren.biz
 0.0.0.0 qiangzai.work
 0.0.0.0 qianmeiby.com
+0.0.0.0 qiannian.biz
 0.0.0.0 qianyuntengyue.com
 0.0.0.0 qiaobaba.top
 0.0.0.0 qiaoenyl.xyz
@@ -33746,6 +33761,7 @@
 0.0.0.0 qxyam.com
 0.0.0.0 qxyu.top
 0.0.0.0 qyafndr.cn
+0.0.0.0 qycg.wang
 0.0.0.0 qycjrkfzx.com
 0.0.0.0 qyctj.com
 0.0.0.0 qydhjirz.com
@@ -39206,6 +39222,7 @@
 0.0.0.0 sxrs.shop
 0.0.0.0 sxsui.cn
 0.0.0.0 sxswjkgs.com
+0.0.0.0 sxtc.wang
 0.0.0.0 sxtcdjy.com
 0.0.0.0 sxtut.org
 0.0.0.0 sxtyhl.top
@@ -44769,6 +44786,7 @@
 0.0.0.0 whsepelmrnz.com
 0.0.0.0 whshangsha.com
 0.0.0.0 whsia.cn
+0.0.0.0 whsrdsweq.com
 0.0.0.0 whsseqpcs.top
 0.0.0.0 whugesto.net
 0.0.0.0 whughesh.com
@@ -45639,6 +45657,7 @@
 0.0.0.0 xfifdpdkprxwp.xyz
 0.0.0.0 xfileload.com
 0.0.0.0 xfkkvjabbogciwl.top
+0.0.0.0 xflz.xyz
 0.0.0.0 xfnkds.com
 0.0.0.0 xfreeservice.com
 0.0.0.0 xfuckbook.com
@@ -45908,6 +45927,7 @@
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
 0.0.0.0 xoalt.com
 0.0.0.0 xoassxowovsrk.com
+0.0.0.0 xocs.ren
 0.0.0.0 xoflgafl.com
 0.0.0.0 xofys.biz
 0.0.0.0 xogepg.com
@@ -47053,6 +47073,7 @@
 0.0.0.0 zdwsh.tech
 0.0.0.0 zdyldoijanx.com
 0.0.0.0 zdzk0371.cn
+0.0.0.0 zdzy.shop
 0.0.0.0 zeads.com
 0.0.0.0 zealousfield.com
 0.0.0.0 zeasis.com
