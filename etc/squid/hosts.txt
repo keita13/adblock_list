@@ -10731,6 +10731,7 @@
 0.0.0.0 chengaib.net
 0.0.0.0 chengdahdf.cn
 0.0.0.0 chengduyiren.cn
+0.0.0.0 chenghe.store
 0.0.0.0 chengjunjie.top
 0.0.0.0 chengzhonghuxin.com
 0.0.0.0 chengzilte.top
@@ -13840,6 +13841,7 @@
 0.0.0.0 dddomainccc.com
 0.0.0.0 dddtv.xyz
 0.0.0.0 dddyun.com
+0.0.0.0 ddeyi.cn
 0.0.0.0 ddg1277.com
 0.0.0.0 ddgjjj.com
 0.0.0.0 ddhtek.com
@@ -15504,6 +15506,7 @@
 0.0.0.0 easyads28.info
 0.0.0.0 easyads28.mobi
 0.0.0.0 easyads29.info
+0.0.0.0 easyads29.pro
 0.0.0.0 easybrochurecinnamon.com
 0.0.0.0 easycounter.com
 0.0.0.0 easydistrustuldistrustul.com
@@ -17331,6 +17334,7 @@
 0.0.0.0 fifthborder.com
 0.0.0.0 fiftyunderstood.com
 0.0.0.0 fifwin.com
+0.0.0.0 fighsfg.cn
 0.0.0.0 figuredprovocative.com
 0.0.0.0 fikri-ayo.com
 0.0.0.0 fiksu.com
@@ -20080,6 +20084,7 @@
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 haoweb.top
 0.0.0.0 haoxxwang.com
+0.0.0.0 haoyongdm.com
 0.0.0.0 haoyundm.com
 0.0.0.0 haoyundmn.com
 0.0.0.0 haoyundmtaotao.com
@@ -27542,6 +27547,7 @@
 0.0.0.0 mkt941.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
+0.0.0.0 mkwndnfyqjxrw.com
 0.0.0.0 ml-attr.com
 0.0.0.0 ml0z14azlflr.com
 0.0.0.0 ml314.com
@@ -28321,6 +28327,7 @@
 0.0.0.0 my.electricbalance.com
 0.0.0.0 my.golosplus.ru
 0.0.0.0 my.shymilftube.com
+0.0.0.0 my2.life
 0.0.0.0 myad.vn
 0.0.0.0 myad24.de
 0.0.0.0 myadcash.com
@@ -30770,6 +30777,7 @@
 0.0.0.0 oxybe.com
 0.0.0.0 oxydend2r5umarb8oreum.com
 0.0.0.0 oxyphilsebkha.com
+0.0.0.0 oxzwsxs.cn
 0.0.0.0 oy240.cn
 0.0.0.0 oycslia.xyz
 0.0.0.0 oycslib.xyz
@@ -33707,6 +33715,7 @@
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmmiyyxuceyt.xyz
 0.0.0.0 qmname.com
+0.0.0.0 qmpartner.vip
 0.0.0.0 qmrbqjdxut.xyz
 0.0.0.0 qmripebxljdey.com
 0.0.0.0 qmrtubg.cn
@@ -34258,6 +34267,7 @@
 0.0.0.0 rcurn.com
 0.0.0.0 rcvlink.com
 0.0.0.0 rcvlinks.com
+0.0.0.0 rcxocdfgvur.com
 0.0.0.0 rcyl-uni.com
 0.0.0.0 rd.alice.it
 0.0.0.0 rd926.cn
@@ -35956,6 +35966,7 @@
 0.0.0.0 sankoup.com
 0.0.0.0 sanme2.taisantech.com
 0.0.0.0 sanmenxia.info
+0.0.0.0 sanqian.press
 0.0.0.0 sanqianxingxuan.icu
 0.0.0.0 santonpardal.com
 0.0.0.0 sanwukeji.xyz
@@ -36446,6 +36457,7 @@
 0.0.0.0 selfbiological.com
 0.0.0.0 selfcampaign.com
 0.0.0.0 selfevidentpotsfertility.com
+0.0.0.0 selfishmourninhabitants.com
 0.0.0.0 selfishsea.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 selflessaboriginessweetness.com
@@ -40152,6 +40164,7 @@
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.swe.quicinc.com
@@ -40466,6 +40479,7 @@
 0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
 0.0.0.0 thinkabletrick.com
+0.0.0.0 thinkcode.cc
 0.0.0.0 thinkphp.pro
 0.0.0.0 thinktot.com
 0.0.0.0 thiptumuce.com
@@ -42301,6 +42315,7 @@
 0.0.0.0 tuezse.cn
 0.0.0.0 tufsjnk.cn
 0.0.0.0 tuftingkuan.com
+0.0.0.0 tufute.cn
 0.0.0.0 tugnote.com
 0.0.0.0 tuifish.com
 0.0.0.0 tuigang1999.com
@@ -42752,6 +42767,7 @@
 0.0.0.0 uloprjcy.xyz
 0.0.0.0 ulosmuynstes.ml
 0.0.0.0 ulourgaz.net
+0.0.0.0 ulqihfr.cn
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultimowraxle.com
 0.0.0.0 ultraadserver.com
@@ -45607,6 +45623,7 @@
 0.0.0.0 wurtoosy.com
 0.0.0.0 wussucko.com
 0.0.0.0 wusths.com
+0.0.0.0 wutaixian.shop
 0.0.0.0 wutaszsuib.com
 0.0.0.0 wutipupi.xyz
 0.0.0.0 wuueqejuratzdz.com
