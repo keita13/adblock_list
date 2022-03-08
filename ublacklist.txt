@@ -4137,6 +4137,7 @@
 *://*.ladabmhatch.ru/*
 *://*.lahaciendarestaurante.cl/*
 *://*.laptrinhx.com/*
+*://*.learntutorials.net/*
 *://*.lecoccinelle-eventi.it/*
 *://*.legkovopros.ru/*
 *://*.lejournaldec.cl/*
