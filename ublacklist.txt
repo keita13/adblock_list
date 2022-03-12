@@ -68,6 +68,7 @@
 *://*.betarenovables.cl/*
 *://*.beyoganow.it/*
 *://*.bleepcoder.com/*
+*://*.blingin.in/*
 *://*.blog.artwolf.in/*
 *://*.blueweld.ru/*
 *://*.bmxklubben.dk/*
@@ -4144,6 +4145,7 @@
 *://*.lev33.ru/*
 *://*.line.ru/*
 *://*.linkfang.org/*
+*://*.litigationtoday.com/*
 *://*.living-sun.com/*
 *://*.losangelesudec.cl/*
 *://*.lucagisticiimpianti.it/*
@@ -5937,6 +5939,7 @@
 *://*.voidcc.com/*
 *://*.web-dev-qa.com/*
 *://*.webdevqa.jp.net/*
+*://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://*.wenyanet.com/*
 *://*.while-do.com/*
 *://*.wikiarabi.org/*
