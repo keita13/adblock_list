@@ -55,6 +55,7 @@
 *://*.athabasca-foto.com/*
 *://*.attac.cl/*
 *://*.augmentum-plumbi.it/*
+*://*.australianopen2015live.com/*
 *://*.avviso22018.siciliafse1420.it/*
 *://*.baksi.xyz/*
 *://*.baltpr.ru/*
@@ -79,6 +80,7 @@
 *://*.bruschatkachelny.ru/*
 *://*.buginfo.tech/*
 *://*.bugsdb.com/*
+*://*.bullforyou.com/*
 *://*.cadcentroartedanza.it/*
 *://*.calcal.net/*
 *://*.caltapippo.it/*
@@ -153,16 +155,19 @@
 *://*.docway.net/*
 *://*.domvgorah.ru/*
 *://*.dovov.com/*
+*://*.drunkentengu.com/*
 *://*.ducom.cl/*
 *://*.dudakids.ru/*
 *://*.ecomedincanto.it/*
 *://*.edilemazzocco.it/*
 *://*.education.ru/*
+*://*.edupro.id/*
 *://*.edureka.co/*
 *://*.elcarpincho.cl/*
 *://*.electrician.ru/*
 *://*.elfishgene.com/*
 *://*.escueladedeportes.cl/*
+*://*.escworking.com/*
 *://*.esmalte.ru/*
 *://*.estateinmontagna.it/*
 *://*.esuteru.com/*
@@ -211,6 +216,7 @@
 *://*.hi.qaru.tech/*
 *://*.hidratate.cl/*
 *://*.higoldceramichecaltagirone.it/*
+*://*.honeysta.net/*
 *://*.hospitalantofagasta.cl/*
 *://*.hu.qaru.tech/*
 *://*.huati365.com/*
@@ -4123,6 +4129,7 @@
 *://*.japan2.wiki/*
 *://*.javaer101.com/*
 *://*.jb51.cc/*
+*://*.jike.in/*
 *://*.jin115.com/*
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
@@ -4147,6 +4154,7 @@
 *://*.linkfang.org/*
 *://*.litigationtoday.com/*
 *://*.living-sun.com/*
+*://*.localwebsystems.com/*
 *://*.losangelesudec.cl/*
 *://*.lucagisticiimpianti.it/*
 *://*.lvn.cl/*
@@ -5907,6 +5915,7 @@
 *://*.teambikevalconca.it/*
 *://*.tech-ja.netlify.app/*
 *://*.techfeed.net/*
+*://*.thedailydad.org/*
 *://*.thercb.org/*
 *://*.theredhair.it/*
 *://*.thinbug.com/*
@@ -5915,6 +5924,7 @@
 *://*.timeglobal.cn/*
 *://*.titanwolf.org/*
 *://*.tlcpv.org/*
+*://*.tousu.in/*
 *://*.trandt3.ru/*
 *://*.try2explore.com/*
 *://*.tutorialguruji.com/*
