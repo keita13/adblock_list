@@ -127,6 +127,7 @@
 *://*.consorziorebaude.it/*
 *://*.constructorweb.cl/*
 *://*.cooparcadia.it/*
+*://*.coorsfortworth.com/*
 *://*.coredump.biz/*
 *://*.cortinaslincort.cl/*
 *://*.cortinovisrl.it/*
