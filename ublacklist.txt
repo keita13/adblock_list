@@ -4119,6 +4119,7 @@
 *://*.it-swarm.zm/*
 *://*.it-swarm.zu/*
 *://*.it-swarm.zw/*
+*://*.it.wenda123.org/*
 *://*.italianfooding.it/*
 *://*.itbloger.tistory.com/*
 *://*.iteramos.com/*
@@ -4563,6 +4564,7 @@
 *://*.qa-stack.zw/*
 *://*.qa.1r1g.com/*
 *://*.qa.codeflow.site/*
+*://*.qa.icopy.site/*
 *://*.qapicks.com/*
 *://*.qaru.site/*
 *://*.qastack.aa/*
