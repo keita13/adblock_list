@@ -185,6 +185,7 @@
 *://*.fiscalformula.it/*
 *://*.fixes.pub/*
 *://*.fkdent.ru/*
+*://*.fogsbane.dev/*
 *://*.fooobar.com/*
 *://*.forumedia.ru/*
 *://*.francogaliano.it/*
