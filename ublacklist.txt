@@ -69,6 +69,7 @@
 *://*.betarenovables.cl/*
 *://*.beyoganow.it/*
 *://*.bleepcoder.com/*
+*://*.bleepcoder.jp/*
 *://*.blingin.in/*
 *://*.blog.artwolf.in/*
 *://*.blueweld.ru/*
@@ -4137,6 +4138,7 @@
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
 *://*.jpcodeqa.com/*
+*://*.jpdebug.com/*
 *://*.jumpevolution.ru/*
 *://*.kaifa99.com/*
 *://*.kejisen.com/*

@@ -519,6 +519,7 @@
 0.0.0.0 292812.com
 0.0.0.0 293870.com
 0.0.0.0 297772.com
+0.0.0.0 2999.store
 0.0.0.0 29ae58661b9c7178.com
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 29wjns.com
@@ -759,6 +760,7 @@
 0.0.0.0 3lucosy.com
 0.0.0.0 3mfm7jef91.ru
 0.0.0.0 3mtr.ru
+0.0.0.0 3myad.com
 0.0.0.0 3ng6p6m0.de
 0.0.0.0 3o9s.short.gy
 0.0.0.0 3p-geo.yahoo.com
@@ -8374,6 +8376,7 @@
 0.0.0.0 best.infoiswhatwedo.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bestadlinks.ru
+0.0.0.0 bestadload.com
 0.0.0.0 bestadmax.com
 0.0.0.0 bestaryua.com
 0.0.0.0 bestbestgirlz.in.net
@@ -14170,6 +14173,7 @@
 0.0.0.0 detruckshtick.casa
 0.0.0.0 deturbcordies.com
 0.0.0.0 detwzgl8cvciv.cloudfront.net
+0.0.0.0 deulderby.com
 0.0.0.0 deuted.com
 0.0.0.0 dev.appboy.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
@@ -16578,7 +16582,6 @@
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-eu.freshsuccess.com
-0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
@@ -16623,6 +16626,7 @@
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.virtusize.jp
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventsapi.grocerkey.com
@@ -19101,6 +19105,7 @@
 0.0.0.0 gldlwt.com
 0.0.0.0 gleamingtrade.com
 0.0.0.0 gleaminist.info
+0.0.0.0 glebypraiss.com
 0.0.0.0 gleebsex.net
 0.0.0.0 gleechie.net
 0.0.0.0 gleedaik.net
@@ -20346,8 +20351,10 @@
 0.0.0.0 he3mero6calli4s.com
 0.0.0.0 he7ll.com
 0.0.0.0 heaamajo.one
+0.0.0.0 head-clickfusion.com
 0.0.0.0 headbidder.net
 0.0.0.0 headedtamhemp.com
+0.0.0.0 headerbidding.services
 0.0.0.0 headerbiddr.net
 0.0.0.0 headerlift.com
 0.0.0.0 headlinemoment.com
@@ -21150,7 +21157,6 @@
 0.0.0.0 hscpbysqsepnyw.com
 0.0.0.0 hscta.net
 0.0.0.0 hsdianqi.vip
-0.0.0.0 hsdn.org
 0.0.0.0 hsh51nvkrv.com
 0.0.0.0 hskj.net
 0.0.0.0 hslpvxrqpg.com
@@ -23269,6 +23275,7 @@
 0.0.0.0 jlvqhftliz.com
 0.0.0.0 jlwljym.com
 0.0.0.0 jlwsw.top
+0.0.0.0 jlxsgk.com
 0.0.0.0 jlxzt.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jlyayxz.cn
@@ -26048,6 +26055,7 @@
 0.0.0.0 lqsw3.top
 0.0.0.0 lqunionsoft.top
 0.0.0.0 lqw.me
+0.0.0.0 lr-in.com
 0.0.0.0 lr-ingest.io
 0.0.0.0 lr96.top
 0.0.0.0 lraa.xiaoniutui.com
@@ -27631,6 +27639,7 @@
 0.0.0.0 mjkha.top
 0.0.0.0 mjlpqbklxgt.com
 0.0.0.0 mjlsiopjesbn.com
+0.0.0.0 mjnakecyospspgf.com
 0.0.0.0 mjnxku.com
 0.0.0.0 mjpiqb.cn
 0.0.0.0 mjsyqwpqnjbgua.com
@@ -36331,7 +36340,6 @@
 0.0.0.0 scriptall.ml
 0.0.0.0 scriptall.tk
 0.0.0.0 scriptcc.cc
-0.0.0.0 scripte-monster.de
 0.0.0.0 scriptil.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.static-od.com
@@ -37640,6 +37648,7 @@
 0.0.0.0 smilitygorb.club
 0.0.0.0 smimarket.com
 0.0.0.0 sminewsnet.ru
+0.0.0.0 smised.com
 0.0.0.0 smitionsory.co
 0.0.0.0 smjdkmvhar.com
 0.0.0.0 smljmp.com
@@ -40287,10 +40296,12 @@
 0.0.0.0 telegramspun.com
 0.0.0.0 telemetric.dk
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.art19.com
+0.0.0.0 telemetry.battle.net
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
@@ -41137,6 +41148,7 @@
 0.0.0.0 top.eomy.net
 0.0.0.0 top.gamesby.net
 0.0.0.0 top.gigmir.net
+0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
 0.0.0.0 top.lv
 0.0.0.0 top.mail.ru
@@ -41527,7 +41539,6 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
-0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.somewrite.jp
 0.0.0.0 track.spacepush.ru
@@ -42422,6 +42433,7 @@
 0.0.0.0 ttevkibicgcetv.com
 0.0.0.0 ttffhe.top
 0.0.0.0 ttgmjfgldgv9ed10.com
+0.0.0.0 ttlxieoguhtrs.com
 0.0.0.0 ttmaim.com
 0.0.0.0 ttmetrics.jcpenney.com
 0.0.0.0 ttnrd.com
@@ -44605,6 +44617,7 @@
 0.0.0.0 wakanmounds.cam
 0.0.0.0 wakapita.com
 0.0.0.0 wakefulcook.com
+0.0.0.0 wakiupswacken.com
 0.0.0.0 walasearch.com
 0.0.0.0 walkinghonoured.com
 0.0.0.0 wallastopiary.com
@@ -45783,6 +45796,7 @@
 0.0.0.0 wulian.in
 0.0.0.0 wuliao.chzsport.cn
 0.0.0.0 wuliao.juqingba.cn
+0.0.0.0 wulongqiyi.com
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
 0.0.0.0 wunteetoco.com
@@ -45859,6 +45873,7 @@
 0.0.0.0 www.milawka.com
 0.0.0.0 www.net.kg
 0.0.0.0 www.p.de
+0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.rakuten-contect-japan-servicc.com
 0.0.0.0 www.trading24.io
 0.0.0.0 www0.xyz
@@ -46861,6 +46876,7 @@
 0.0.0.0 yhig.info
 0.0.0.0 yhjzg.cn
 0.0.0.0 yhkiain.cn
+0.0.0.0 yhkt.online
 0.0.0.0 yhmceakev.com
 0.0.0.0 yhsmk.com
 0.0.0.0 yi.ximizi.com
@@ -47065,6 +47081,7 @@
 0.0.0.0 yongyaoxiong.cn
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yonsandileer.com
+0.0.0.0 yonxatuor.com
 0.0.0.0 yoobest.cn
 0.0.0.0 yoochoose.net
 0.0.0.0 yookcasula.com
