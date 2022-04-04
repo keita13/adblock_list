@@ -43,6 +43,7 @@
 *://*.apollohairdesign.it/*
 *://*.appartamentilignanoviacarinzia.it/*
 *://*.argidro.ru/*
+*://*.arip-photo.org/*
 *://*.aristidecaruso.it/*
 *://*.arnosportservice.it/*
 *://*.array.cyou/*
@@ -4129,6 +4130,7 @@
 *://*.itread01.com/*
 *://*.izakayayoko.cl/*
 *://*.izziswift.com/*
+*://*.jablogs.com/*
 *://*.janghan.net/*
 *://*.japan2.wiki/*
 *://*.javaer101.com/*
