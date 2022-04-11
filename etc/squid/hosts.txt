@@ -726,6 +726,7 @@
 0.0.0.0 38taobao.com
 0.0.0.0 3932161.xyz
 0.0.0.0 395e27cfc83ea88f.com
+0.0.0.0 396f4a512a.com
 0.0.0.0 397773.com
 0.0.0.0 39785fe3f1.com
 0.0.0.0 399a240ee2.com
@@ -1518,6 +1519,7 @@
 0.0.0.0 9aaeea3094d8.com
 0.0.0.0 9ad16721d9d5c56.com
 0.0.0.0 9ads.mobi
+0.0.0.0 9af7e8a8cc.com
 0.0.0.0 9b0v.cn
 0.0.0.0 9c1g.cn
 0.0.0.0 9c1k.cn
@@ -2372,6 +2374,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.madvertise.de
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.mediaf.media
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mediba.jp
 0.0.0.0 ad.megapeer.ru
@@ -6164,6 +6167,7 @@
 0.0.0.0 aniruyt.ru
 0.0.0.0 aniview.com
 0.0.0.0 anizedglittledisco.info
+0.0.0.0 ankexper.fun
 0.0.0.0 ankingwit.one
 0.0.0.0 ankunding.biz
 0.0.0.0 anlcld.com
@@ -7979,6 +7983,7 @@
 0.0.0.0 bb2022.info
 0.0.0.0 bb4cf48126aab4.com
 0.0.0.0 bbaahc.com
+0.0.0.0 bbaannrr11.com
 0.0.0.0 bbbazlp.cn
 0.0.0.0 bbbx.xyz
 0.0.0.0 bbcdn.go.evolutionmedia.bbelements.co
@@ -10889,6 +10894,7 @@
 0.0.0.0 chinyeatoy.com
 0.0.0.0 chioneflake.com
 0.0.0.0 chipleader.com
+0.0.0.0 chipmanksmochus.com
 0.0.0.0 chipsleapt.com
 0.0.0.0 chipsuziby.com
 0.0.0.0 chiptionics.co
@@ -11424,7 +11430,6 @@
 0.0.0.0 clksite.com
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clktrk.display.io
-0.0.0.0 cllctr.roistat.com
 0.0.0.0 clldirectasianew.club
 0.0.0.0 clmawdd9chhcaii.ru
 0.0.0.0 clmbtech.com
@@ -11453,7 +11458,6 @@
 0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
-0.0.0.0 cloud.roistat.com
 0.0.0.0 cloud.setupad.com
 0.0.0.0 cloudaaaa.com
 0.0.0.0 cloudapp-s.store
@@ -11835,7 +11839,6 @@
 0.0.0.0 collector.puhutv.com
 0.0.0.0 collector.retailcrm.pro
 0.0.0.0 collector.rn.de
-0.0.0.0 collector.roistat.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.shopstream.co
 0.0.0.0 collector.shorte.st
@@ -14723,6 +14726,7 @@
 0.0.0.0 djz9es32qen64.cloudfront.net
 0.0.0.0 djzictsencwkf.com
 0.0.0.0 djzwrfi.cn
+0.0.0.0 dk2323dk.xyz
 0.0.0.0 dk2mvwe4uw0z3.cloudfront.net
 0.0.0.0 dk45agakx3yfl.cloudfront.net
 0.0.0.0 dk4ywix.com
@@ -15467,6 +15471,7 @@
 0.0.0.0 dyh1wzegu1j6z.cloudfront.net
 0.0.0.0 dyingdesignscharming.com
 0.0.0.0 dyino.com
+0.0.0.0 dylenura.xyz
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dynaads.net
 0.0.0.0 dynad.net
@@ -21357,6 +21362,7 @@
 0.0.0.0 hsdianqi.vip
 0.0.0.0 hsh51nvkrv.com
 0.0.0.0 hskj.net
+0.0.0.0 hsleadflows.net
 0.0.0.0 hslpvxrqpg.com
 0.0.0.0 hslyqs.com
 0.0.0.0 hsn.uqhv.net
@@ -23986,6 +23992,7 @@
 0.0.0.0 jyzce.cn
 0.0.0.0 jyzcv.cn
 0.0.0.0 jzcool.top
+0.0.0.0 jzdgn.cn
 0.0.0.0 jzdianlan.cn
 0.0.0.0 jzhxzsgs.com
 0.0.0.0 jzhzm30o49gv.com
@@ -24422,6 +24429,7 @@
 0.0.0.0 kkafbqhaas.xyz
 0.0.0.0 kkbb.top
 0.0.0.0 kkcaicai.com
+0.0.0.0 kkjiaofei.com
 0.0.0.0 kkkiski4u.com
 0.0.0.0 kkmacsqsbf.info
 0.0.0.0 kkpqhqu.cn
@@ -25630,6 +25638,7 @@
 0.0.0.0 liuwangmin.top
 0.0.0.0 liuwenyan.xyz
 0.0.0.0 liuyansha.vip
+0.0.0.0 liuziqiu.cn
 0.0.0.0 liuzishen.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.cxo.name
@@ -28254,6 +28263,7 @@
 0.0.0.0 monsy.com
 0.0.0.0 montafp.top
 0.0.0.0 montangop.top
+0.0.0.0 montelena-rcv.gmarket.co.kr
 0.0.0.0 monthlyindirectelsewhere.com
 0.0.0.0 montikolti.com
 0.0.0.0 montkpl.top
@@ -30284,6 +30294,7 @@
 0.0.0.0 octopusads.net
 0.0.0.0 octopuspop.com
 0.0.0.0 octozoon.org
+0.0.0.0 ocubafyv.xyz
 0.0.0.0 oczkgx.com
 0.0.0.0 ocznxv.cn
 0.0.0.0 oda.markitondemand.com
@@ -32612,6 +32623,7 @@
 0.0.0.0 pokazuha.pp.ua
 0.0.0.0 pokcykb.cn
 0.0.0.0 poke88.com
+0.0.0.0 pokeryun.site
 0.0.0.0 poketraff.com
 0.0.0.0 pokingintake.com
 0.0.0.0 pokitom.com
@@ -33757,6 +33769,7 @@
 0.0.0.0 pushnews.org
 0.0.0.0 pushnice.com
 0.0.0.0 pushno.com
+0.0.0.0 pushnott.com
 0.0.0.0 pushokey.com
 0.0.0.0 pusholympus.com
 0.0.0.0 pushosub.com
@@ -35743,6 +35756,7 @@
 0.0.0.0 roirocket.com
 0.0.0.0 roiservice.com
 0.0.0.0 roispy.com
+0.0.0.0 roistat.com
 0.0.0.0 roitesting.com
 0.0.0.0 rok.com.com
 0.0.0.0 rokitokijoki.com
@@ -39989,6 +40003,7 @@
 0.0.0.0 sxehny.cn
 0.0.0.0 sxgbwlkjkj.xyz
 0.0.0.0 sxhjty.cn
+0.0.0.0 sxjcnm.com
 0.0.0.0 sxjxhg.com
 0.0.0.0 sxljldh.top
 0.0.0.0 sxmcwlw.com
@@ -41839,6 +41854,7 @@
 0.0.0.0 track-re01.com
 0.0.0.0 track-server-100.com
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 track-tracingkit394853.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 track-web.net
 0.0.0.0 track.*.roku.com
@@ -44809,6 +44825,7 @@
 0.0.0.0 vqfqo.us
 0.0.0.0 vqlrwgj.cn
 0.0.0.0 vqnqrs53.com
+0.0.0.0 vqnqrs54.com
 0.0.0.0 vqr3jeu1qi41.com
 0.0.0.0 vr4011.com
 0.0.0.0 vr4021.com
@@ -45068,6 +45085,7 @@
 0.0.0.0 wallstrads.com
 0.0.0.0 walmeric.com
 0.0.0.0 wamnetwork.com
+0.0.0.0 wancai.shop
 0.0.0.0 wanchencloth.cn
 0.0.0.0 wanderbj.top
 0.0.0.0 wangbo.group
@@ -48124,6 +48142,7 @@
 0.0.0.0 zgxieshou.com
 0.0.0.0 zgxrht.com
 0.0.0.0 zgyemy.com
+0.0.0.0 zgyhw.mobi
 0.0.0.0 zgyso.cn
 0.0.0.0 zgystsd.com
 0.0.0.0 zgzrmh.mobi
