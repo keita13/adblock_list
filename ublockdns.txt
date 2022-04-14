@@ -1,4 +1,4 @@
-!20220414-03
+!20220415-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -6068,6 +6068,7 @@
 ||analytics.zapps.vn^
 ||analytics.zeekit.co^
 ||analytics.ziftsolutions.com^
+||analytics.zim.vn^
 ||analytics00.meride.tv^
 ||analytics2.awsli.com.br^
 ||analytics2.tvreport.co.kr^
@@ -13403,6 +13404,7 @@
 ||d2kadvyeq051an.cloudfront.net^
 ||d2kd9y1bp4zc6.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
+||d2khpmub947xov.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
 ||d2kmrmwhq7wkvs.cloudfront.net^
@@ -14426,6 +14428,7 @@
 ||dhdgkj.com^
 ||dhejr.cn^
 ||dhhixhjeroqljtl.xyz^
+||dhhpm.cn^
 ||dhilyjdw.com^
 ||dhipc.cn^
 ||dhjrjqgclb.com^
@@ -15415,6 +15418,7 @@
 ||durationmedia.net^
 ||durationscuffle.com^
 ||durazopa.com^
+||duriet.com^
 ||duringsiam.com^
 ||duritt.com^
 ||durocount.com^
@@ -17584,6 +17588,7 @@
 ||fhlong2000.xyz^
 ||fhlwetaynptikef.xyz^
 ||fhnhkt.cn^
+||fhnmzqw.cn^
 ||fhnsjshsirs.com^
 ||fhnsjshsirs.top^
 ||fhsmtrnsfnt.com^
@@ -18551,6 +18556,7 @@
 ||g-statistic.com^
 ||g-stats.openhost.es^
 ||g.3lian.com^
+||g.analytics.versa-ai.com^
 ||g.delivery.net^
 ||g.gegeyingshi.com^
 ||g.hsw.cn^
@@ -18866,6 +18872,7 @@
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gdyjs.com^
+||gdzmqquwkuzw.com^
 ||gdzxsoft.cn^
 ||gear5.me^
 ||gearnews.info^
@@ -18888,6 +18895,7 @@
 ||geflan.com^
 ||gegmanu.info^
 ||geili.co^
+||geili201911.ink^
 ||geilid.com^
 ||geishascoset.com^
 ||geistm.com^
@@ -19277,6 +19285,7 @@
 ||gjc.gjirafa.com^
 ||gjohvhf.cn^
 ||gjqhufkamcoc.com^
+||gjr.ink^
 ||gjslm.com^
 ||gjtrack.uc.cn^
 ||gjw5qbyn93b8.com^
@@ -22010,6 +22019,7 @@
 ||ihfxao.com^
 ||ihhii.xyz^
 ||ihhscjskwht.com^
+||ihjection.site^
 ||ihjtrncfoha.com^
 ||ihogaetw.com^
 ||iholot.ru^
@@ -22350,6 +22360,7 @@
 ||indefinitelypeevishrussian.com^
 ||indemandads.com^
 ||independentendure.com^
+||independentqualitysandwich.com^
 ||index-markets.digital^
 ||index.ru^
 ||indexexchange.com^
@@ -23086,6 +23097,7 @@
 ||iwtserve.com^
 ||iwucoz.cn^
 ||iwwl.vip^
+||iwxgdcnpshrdw.com^
 ||iwxmchcatfb.com^
 ||iwxzizcw.com^
 ||iwyphlxfuufeos.com^
@@ -23418,6 +23430,7 @@
 ||jiaofulin.cn^
 ||jiaoyiwang.fun^
 ||jiasheng-china.cn^
+||jiatu.co^
 ||jiawen88.com^
 ||jiayi2019.top^
 ||jiayiss.com^
@@ -24752,7 +24765,9 @@
 ||kthwaalso.xyz^
 ||ktionz.com^
 ||ktkjmp.com^
+||ktokto.mobi^
 ||ktoviet.com^
+||ktovn.com^
 ||ktrackdata.com^
 ||kttarmufti.com^
 ||ktu.sv2.biz^
@@ -25811,6 +25826,7 @@
 ||llesisnxrg.com^
 ||llgerege.com^
 ||llguandongyan.com^
+||llhhbb.top^
 ||llhrardbu.com^
 ||llii.club^
 ||llladiez.click^
@@ -27811,6 +27827,7 @@
 ||mightstrikingfled.com^
 ||mightwhiskers.com^
 ||mightyhulsjdk.com^
+||mightylottrembling.com^
 ||mightyspiders.com^
 ||mignished-sility.com^
 ||mignoops.net^
@@ -30161,6 +30178,7 @@
 ||nxcxithvcoeh.com^
 ||nxdfg.xyz^
 ||nxkycx.com^
+||nxqdqtvirwj.com^
 ||nxrhs.com^
 ||nxrxt.com^
 ||nxstx.top^
@@ -30402,6 +30420,7 @@
 ||odnobi.ru^
 ||odoscope.cloud^
 ||odoscope.com^
+||odourprop.com^
 ||odovydyp.xyz^
 ||odpdpzlvgufq.com^
 ||odrftytjmozxsfwnlw.bid^
@@ -31622,6 +31641,7 @@
 ||parth2enerocis9tsust2ricus7pidata.com^
 ||parthanonstatue.com^
 ||parthetwo.ru^
+||particularantler.com^
 ||particularaudience.com^
 ||partiesrelyfoliage.com^
 ||partner-ads.com^
@@ -34061,6 +34081,7 @@
 ||qadabra.com^
 ||qadserve.com^
 ||qadservice.com^
+||qaecoqxajnamiea.com^
 ||qagdczc.cn^
 ||qagyb.cn^
 ||qajypx.com^
@@ -34093,6 +34114,7 @@
 ||qc.designervn.net^
 ||qc.japo.vn^
 ||qc.kqbd88.com^
+||qc.mhsolution.vn^
 ||qc.violet.vn^
 ||qccoccocmedia.vn^
 ||qcdnxq.com^
@@ -37972,6 +37994,7 @@
 ||slimads.vn^
 ||slimelump.com^
 ||slimgipnoz.ru^
+||slimhousewifesubtle.com^
 ||slimopinion.com^
 ||slimspots.com^
 ||slimtrade.com^
@@ -37988,6 +38011,7 @@
 ||slipperysack.com^
 ||slivz.com^
 ||sllsbgjfamxckn.com^
+||slm.dantri.com.vn^
 ||sloeri.com^
 ||sloganmiser.com^
 ||slogantrend.de^
@@ -38486,6 +38510,8 @@
 ||sp-click2.jp^
 ||sp.app.com^
 ||sp.argusleader.com^
+||sp.aviasales.com^
+||sp.aviasales.ru^
 ||sp.azcentral.com^
 ||sp.battlecreekenquirer.com^
 ||sp.baxterbulletin.com^
@@ -38603,6 +38629,7 @@
 ||spaceleadster.com^
 ||spacenine.biz^
 ||spacepools.org^
+||spade.twitch.tv^
 ||spadelack.com^
 ||spaderonium.com^
 ||spads.me^
@@ -38803,6 +38830,7 @@
 ||spotmx.com^
 ||spotofspawn.com^
 ||spotrails.com^
+||spots.ru^
 ||spotscenered.info^
 ||spotsetcpar.com^
 ||spotstring.com^
@@ -39245,6 +39273,7 @@
 ||statistiche.it^
 ||statistiche.ws^
 ||statistichegratis.net^
+||statistics-vov2.vov.vn^
 ||statistics.11880.com^
 ||statistics.aldi-international.com^
 ||statistics.crowdynews.com^
@@ -39682,7 +39711,6 @@
 ||streakattempt.com^
 ||stream-all.com^
 ||stream-home.ru^
-||stream.spongead.com^
 ||stream.useriq.com^
 ||streamate.com^
 ||streambeam.io^
@@ -43432,6 +43460,7 @@
 ||ujieva.com^
 ||ujljbwnr.com^
 ||ujlvongqbjouubp.xyz^
+||ujocytgjobim.com^
 ||ujoongeilaej.info^
 ||ukatoe.com^
 ||ukbanners.com^
@@ -44001,6 +44030,7 @@
 ||uwsxz.com^
 ||uwuyn.us^
 ||uwwaml.com^
+||uxnjhedmsdfh.com^
 ||uxpolqk.cn^
 ||uxrpkgh.cn^
 ||uxszams.cn^
@@ -44791,6 +44821,7 @@
 ||vn88.club^
 ||vn88.com^
 ||vnacdnryl.com^
+||vnadssb.com^
 ||vnaujncaeoygdw.com^
 ||vnd188.app^
 ||vnd247.vn^
@@ -45617,6 +45648,7 @@
 ||weinin99.cn^
 ||weipapa.top^
 ||weiweitop.top^
+||weix.xyz^
 ||weixinhuoyuan.com^
 ||weixisiwang.com^
 ||weiyajz.cn^
@@ -45948,6 +45980,7 @@
 ||windscreenimplacable.com^
 ||windscreenregimepros.com^
 ||windsplay.com^
+||windteam.xyz^
 ||windzq.com^
 ||winfreeprize.online^
 ||wingads.com^
@@ -46808,6 +46841,7 @@
 ||xiaopinwo.com^
 ||xiaoshuoyun.cn^
 ||xiaotaowangluo.com^
+||xiaotong.pink^
 ||xiaoxiangmovie.com^
 ||xiaoxiaoyd.cn^
 ||xiaoyaunbao.club^
@@ -46937,6 +46971,7 @@
 ||xlounge.ru^
 ||xlow.xyz^
 ||xlviiirdr.com^
+||xlviirdr.com^
 ||xlwjgtscqzmd.com^
 ||xm9178.com^
 ||xmangoculture.com^
@@ -48065,6 +48100,7 @@
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||za-ads.de^
 ||za.baomoi.com^
+||za.zapps.vn^
 ||za.zdn.vn^
 ||zabanit.xyz^
 ||zacao.wang^
