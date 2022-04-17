@@ -1,4 +1,4 @@
-!20220417-03
+!20220418-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -1054,6 +1054,7 @@
 ||606d891745.com^
 ||606w.cn^
 ||60ads.com^
+||60d4631eb3.com^
 ||614514.com^
 ||615b68cc9c8528e.com^
 ||61739011039d41a.com^
@@ -1190,6 +1191,7 @@
 ||73cm.com^
 ||746fyw2v.com^
 ||74adf02407.com^
+||74b1447c32.com^
 ||750industries.com^
 ||7527v.cn^
 ||75bb9a4031.com^
@@ -1630,6 +1632,7 @@
 ||a.exosrv.com^
 ||a.fobos.tv^
 ||a.gerasopa.com^
+||a.getflowbox.com^
 ||a.hbf23.cn^
 ||a.huocheba.com^
 ||a.icdol.com^
@@ -5574,6 +5577,7 @@
 ||alternativeprofitablegate.com^
 ||alterupholdcinema.com^
 ||altitude-arena.com^
+||altmetric.com^
 ||altogethergreedy.com^
 ||altopd.com^
 ||altowriestwispy.com^
@@ -7271,6 +7275,7 @@
 ||awmserve.com^
 ||awnxcexsy.xyz^
 ||awokedoubtless.com^
+||awpcrpu.com^
 ||awprt.com^
 ||awptjmp.com^
 ||awptlpu.com^
@@ -11124,6 +11129,7 @@
 ||cjtsnykfedv.top^
 ||cjvdfw.com^
 ||cjwyvwbxpbo.com^
+||cjy200107152004.ltd^
 ||ck-cdn.com^
 ||ck.connatix.com^
 ||ck.ncclick.co.kr^
@@ -14570,6 +14576,7 @@
 ||dilvehoammp.com^
 ||dimedontisar.cam^
 ||dimensionhatefulstricken.com^
+||dimensions.ai^
 ||dimeromaean.com^
 ||dimessing-parker.com^
 ||dimestore.com^
@@ -15178,6 +15185,7 @@
 ||dozubatan.com^
 ||dp1fzft1fdb84.cloudfront.net^
 ||dp25.kr^
+||dp64mxip2za0c.cloudfront.net^
 ||dpallyihgtgu.com^
 ||dpbolvw.net^
 ||dpbyc.com^
@@ -15249,6 +15257,7 @@
 ||dreampartners.ru^
 ||dreamrecord.cn^
 ||dreamsaukn.co^
+||dreamsky.xin^
 ||dreamteaser.ru^
 ||dreamware.com.cn^
 ||dreimer.ru^
@@ -15396,6 +15405,7 @@
 ||dualmarket.info^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||duamilsyr.com^
+||duansiwei.top^
 ||duanyu1106.cn^
 ||dubheteat.com^
 ||dubodufy.com^
@@ -17115,6 +17125,7 @@
 ||ezpush.me^
 ||ezqmrd9tl9.cn^
 ||ezrvmxshalr.com^
+||ezstat.ru^
 ||ezula.com^
 ||ezvbegy1wtxv.ru^
 ||ezytrack.com^
@@ -18402,6 +18413,7 @@
 ||ftrack.ru^
 ||ftrnum.club^
 ||ftte.fun^
+||ftte.xyz^
 ||fttwin.icu^
 ||ftv-publicite.fr^
 ||ftvqvv.cn^
@@ -25983,6 +25995,7 @@
 ||localytics.com^
 ||locatedunderwear.com^
 ||locationsreverenceaid.com^
+||lockdowncautionmentally.com^
 ||locked4.com^
 ||lockerdome.com^
 ||lockerdomecdn.com^
@@ -35012,6 +35025,7 @@
 ||realist.gen.tr^
 ||realizerecess.com^
 ||realizevacation.com^
+||reallyfreegeoip.org^
 ||realm.hearst3pcc.com^
 ||realmatch.com^
 ||realmedia-a800.d4p.net^
@@ -36942,6 +36956,7 @@
 ||scvxgm.cn^
 ||scw.systems^
 ||scw0.com^
+||sd-tagging.azurefd.net^
 ||sd5doozry8.com^
 ||sda.seesaa.jp^
 ||sda.tamdiem247.com^
@@ -36985,6 +37000,7 @@
 ||sdrive.skoda-auto.com^
 ||sdskj.club^
 ||sdsttt.com^
+||sdtagging.azureedge.net^
 ||sduptpppm.com^
 ||sdurhnd.com^
 ||sdv-m.ru^
@@ -37898,6 +37914,7 @@
 ||site-submit.com.ua^
 ||site24x7rum.com^
 ||site24x7rum.eu^
+||sitealyse.de^
 ||siteanaliz.org^
 ||siteapps.com^
 ||sitebakup.com^
@@ -38356,7 +38373,6 @@
 ||snowplow.swm.digital^
 ||snowsignal.com^
 ||snqckaxayeo.com^
-||snrbox.com^
 ||sntjim.com^
 ||snugglethesheep.com^
 ||snuoen.com^
@@ -39406,6 +39422,7 @@
 ||stats-stats.in.net^
 ||stats.123c.vn^
 ||stats.abbi.io^
+||stats.administrarweb.es^
 ||stats.aplus.com^
 ||stats.articlesbase.com^
 ||stats.asp24.pl^
@@ -41604,6 +41621,7 @@
 ||tkshyp.com^
 ||tktracker.aotter.net^
 ||tkurpqyoct.com^
+||tkx.mp.lura.live^
 ||tkxiavegstgq.com^
 ||tl.tradetracker.net^
 ||tl2go.com^
@@ -47176,6 +47194,7 @@
 ||xqigou.top^
 ||xqiyi.top^
 ||xqkzsifxgv.com^
+||xqprjjcgk.com^
 ||xqtzp.cn^
 ||xqwkjf.top^
 ||xqxlaymd.xyz^
@@ -48015,6 +48034,7 @@
 ||ytb2017.club^
 ||ytbnm.cn^
 ||ytcard.cn^
+||ytcsugxsud.com^
 ||ytgfsvcwtradg.xyz^
 ||ytieylhxjlectp.com^
 ||ytimgg.com^

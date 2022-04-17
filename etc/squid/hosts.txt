@@ -1053,6 +1053,7 @@
 0.0.0.0 606d891745.com
 0.0.0.0 606w.cn
 0.0.0.0 60ads.com
+0.0.0.0 60d4631eb3.com
 0.0.0.0 614514.com
 0.0.0.0 615b68cc9c8528e.com
 0.0.0.0 61739011039d41a.com
@@ -1189,6 +1190,7 @@
 0.0.0.0 73cm.com
 0.0.0.0 746fyw2v.com
 0.0.0.0 74adf02407.com
+0.0.0.0 74b1447c32.com
 0.0.0.0 750industries.com
 0.0.0.0 7527v.cn
 0.0.0.0 75bb9a4031.com
@@ -1629,6 +1631,7 @@
 0.0.0.0 a.exosrv.com
 0.0.0.0 a.fobos.tv
 0.0.0.0 a.gerasopa.com
+0.0.0.0 a.getflowbox.com
 0.0.0.0 a.hbf23.cn
 0.0.0.0 a.huocheba.com
 0.0.0.0 a.icdol.com
@@ -5573,6 +5576,7 @@
 0.0.0.0 alternativeprofitablegate.com
 0.0.0.0 alterupholdcinema.com
 0.0.0.0 altitude-arena.com
+0.0.0.0 altmetric.com
 0.0.0.0 altogethergreedy.com
 0.0.0.0 altopd.com
 0.0.0.0 altowriestwispy.com
@@ -7270,6 +7274,7 @@
 0.0.0.0 awmserve.com
 0.0.0.0 awnxcexsy.xyz
 0.0.0.0 awokedoubtless.com
+0.0.0.0 awpcrpu.com
 0.0.0.0 awprt.com
 0.0.0.0 awptjmp.com
 0.0.0.0 awptlpu.com
@@ -11123,6 +11128,7 @@
 0.0.0.0 cjtsnykfedv.top
 0.0.0.0 cjvdfw.com
 0.0.0.0 cjwyvwbxpbo.com
+0.0.0.0 cjy200107152004.ltd
 0.0.0.0 ck-cdn.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 ck.ncclick.co.kr
@@ -14569,6 +14575,7 @@
 0.0.0.0 dilvehoammp.com
 0.0.0.0 dimedontisar.cam
 0.0.0.0 dimensionhatefulstricken.com
+0.0.0.0 dimensions.ai
 0.0.0.0 dimeromaean.com
 0.0.0.0 dimessing-parker.com
 0.0.0.0 dimestore.com
@@ -15177,6 +15184,7 @@
 0.0.0.0 dozubatan.com
 0.0.0.0 dp1fzft1fdb84.cloudfront.net
 0.0.0.0 dp25.kr
+0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dpallyihgtgu.com
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpbyc.com
@@ -15248,6 +15256,7 @@
 0.0.0.0 dreampartners.ru
 0.0.0.0 dreamrecord.cn
 0.0.0.0 dreamsaukn.co
+0.0.0.0 dreamsky.xin
 0.0.0.0 dreamteaser.ru
 0.0.0.0 dreamware.com.cn
 0.0.0.0 dreimer.ru
@@ -15395,6 +15404,7 @@
 0.0.0.0 dualmarket.info
 0.0.0.0 dualstack.adbert-web-lbs-*.elb.amazonaws.com
 0.0.0.0 duamilsyr.com
+0.0.0.0 duansiwei.top
 0.0.0.0 duanyu1106.cn
 0.0.0.0 dubheteat.com
 0.0.0.0 dubodufy.com
@@ -17114,6 +17124,7 @@
 0.0.0.0 ezpush.me
 0.0.0.0 ezqmrd9tl9.cn
 0.0.0.0 ezrvmxshalr.com
+0.0.0.0 ezstat.ru
 0.0.0.0 ezula.com
 0.0.0.0 ezvbegy1wtxv.ru
 0.0.0.0 ezytrack.com
@@ -18401,6 +18412,7 @@
 0.0.0.0 ftrack.ru
 0.0.0.0 ftrnum.club
 0.0.0.0 ftte.fun
+0.0.0.0 ftte.xyz
 0.0.0.0 fttwin.icu
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 ftvqvv.cn
@@ -25982,6 +25994,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 locatedunderwear.com
 0.0.0.0 locationsreverenceaid.com
+0.0.0.0 lockdowncautionmentally.com
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
 0.0.0.0 lockerdomecdn.com
@@ -35011,6 +35024,7 @@
 0.0.0.0 realist.gen.tr
 0.0.0.0 realizerecess.com
 0.0.0.0 realizevacation.com
+0.0.0.0 reallyfreegeoip.org
 0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 realmatch.com
 0.0.0.0 realmedia-a800.d4p.net
@@ -36941,6 +36955,7 @@
 0.0.0.0 scvxgm.cn
 0.0.0.0 scw.systems
 0.0.0.0 scw0.com
+0.0.0.0 sd-tagging.azurefd.net
 0.0.0.0 sd5doozry8.com
 0.0.0.0 sda.seesaa.jp
 0.0.0.0 sda.tamdiem247.com
@@ -36984,6 +36999,7 @@
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdskj.club
 0.0.0.0 sdsttt.com
+0.0.0.0 sdtagging.azureedge.net
 0.0.0.0 sduptpppm.com
 0.0.0.0 sdurhnd.com
 0.0.0.0 sdv-m.ru
@@ -37897,6 +37913,7 @@
 0.0.0.0 site-submit.com.ua
 0.0.0.0 site24x7rum.com
 0.0.0.0 site24x7rum.eu
+0.0.0.0 sitealyse.de
 0.0.0.0 siteanaliz.org
 0.0.0.0 siteapps.com
 0.0.0.0 sitebakup.com
@@ -38355,7 +38372,6 @@
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowsignal.com
 0.0.0.0 snqckaxayeo.com
-0.0.0.0 snrbox.com
 0.0.0.0 sntjim.com
 0.0.0.0 snugglethesheep.com
 0.0.0.0 snuoen.com
@@ -39405,6 +39421,7 @@
 0.0.0.0 stats-stats.in.net
 0.0.0.0 stats.123c.vn
 0.0.0.0 stats.abbi.io
+0.0.0.0 stats.administrarweb.es
 0.0.0.0 stats.aplus.com
 0.0.0.0 stats.articlesbase.com
 0.0.0.0 stats.asp24.pl
@@ -41603,6 +41620,7 @@
 0.0.0.0 tkshyp.com
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tkurpqyoct.com
+0.0.0.0 tkx.mp.lura.live
 0.0.0.0 tkxiavegstgq.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tl2go.com
@@ -47175,6 +47193,7 @@
 0.0.0.0 xqigou.top
 0.0.0.0 xqiyi.top
 0.0.0.0 xqkzsifxgv.com
+0.0.0.0 xqprjjcgk.com
 0.0.0.0 xqtzp.cn
 0.0.0.0 xqwkjf.top
 0.0.0.0 xqxlaymd.xyz
@@ -48014,6 +48033,7 @@
 0.0.0.0 ytb2017.club
 0.0.0.0 ytbnm.cn
 0.0.0.0 ytcard.cn
+0.0.0.0 ytcsugxsud.com
 0.0.0.0 ytgfsvcwtradg.xyz
 0.0.0.0 ytieylhxjlectp.com
 0.0.0.0 ytimgg.com
