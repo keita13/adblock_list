@@ -4172,6 +4172,7 @@
 *://*.linkfang.org/*
 *://*.litigationtoday.com/*
 *://*.living-sun.com/*
+*://*.localcoder.org/*
 *://*.localwebsystems.com/*
 *://*.losangelesudec.cl/*
 *://*.lucagisticiimpianti.it/*
@@ -6304,6 +6305,7 @@
 *://*.wikituscany.com/*
 *://*.wikiwand.com/*
 *://*.winskin.ru/*
+*://*.wujigu.com/*
 *://*.www.366service.com/*
 *://*.www.it-swarm-ja.tech/*
 *://*.www.it-swarm.dev/*
