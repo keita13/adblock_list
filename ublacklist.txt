@@ -6259,6 +6259,7 @@
 *://*.t.codebug.vip/*
 *://*.tappezzeriafusco.it/*
 *://*.teambikevalconca.it/*
+*://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
 *://*.techfeed.net/*
 *://*.thedailydad.org/*
