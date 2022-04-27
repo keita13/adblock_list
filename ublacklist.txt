@@ -84,6 +84,7 @@
 *://*.buginfo.tech/*
 *://*.bugsdb.com/*
 *://*.bullforyou.com/*
+*://*.cache.one/*
 *://*.cadcentroartedanza.it/*
 *://*.calcal.net/*
 *://*.caltapippo.it/*
@@ -129,6 +130,7 @@
 *://*.colegiobalmaceda.cl/*
 *://*.comedydouga.com/*
 *://*.conceptfoam.ru/*
+*://*.console.sbs/*
 *://*.consorziorebaude.it/*
 *://*.constructorweb.cl/*
 *://*.cooparcadia.it/*
