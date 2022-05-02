@@ -6527,6 +6527,7 @@
 0.0.0.0 app.roximity.com
 0.0.0.0 app.saygames.io
 0.0.0.0 app.sbz.workers.dev
+0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 app.titsx.com
 0.0.0.0 appad.click
 0.0.0.0 appad02.mbsp.jp
@@ -19655,6 +19656,7 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rank.de
 0.0.0.0 go-rillatrack.com
+0.0.0.0 go-top.xyz
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.bebi.com
 0.0.0.0 go.bestmobiworld.com
@@ -20213,7 +20215,6 @@
 0.0.0.0 gssprt.jp
 0.0.0.0 gssxb.com
 0.0.0.0 gstat.orange.fr
-0.0.0.0 gstatic.com
 0.0.0.0 gstaticx.com
 0.0.0.0 gstats.cn
 0.0.0.0 gsvyjunccsw.com
@@ -21376,6 +21377,7 @@
 0.0.0.0 homeyloanedmes.work
 0.0.0.0 homfen.me
 0.0.0.0 homicidearousedhand.com
+0.0.0.0 homomqmfbomoy.com
 0.0.0.0 homrus.net
 0.0.0.0 homuradu.com
 0.0.0.0 hondasamulla.com
@@ -25048,6 +25050,7 @@
 0.0.0.0 kuhnisister.ru
 0.0.0.0 kuhou.com
 0.0.0.0 kujrsivgg.com
+0.0.0.0 kukanlm-lubu1.com
 0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kukulm.com
 0.0.0.0 kukury2hf8nd09.com
@@ -25086,6 +25089,7 @@
 0.0.0.0 kuzeyinyeri.site
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 kvcd7w375h.ru
+0.0.0.0 kvcvonlakaigxwq.com
 0.0.0.0 kvidcq.com
 0.0.0.0 kvilhypwtelaos.xyz
 0.0.0.0 kvkoqywl.com
@@ -44041,6 +44045,7 @@
 0.0.0.0 unscrewing.ru
 0.0.0.0 unseamlocrian.com
 0.0.0.0 unseen2020.com
+0.0.0.0 unseenreport.com
 0.0.0.0 unshiftryr.com
 0.0.0.0 unskilledanna.com
 0.0.0.0 unspeakablepurebeings.com
@@ -46808,6 +46813,7 @@
 0.0.0.0 wuwkfque.xyz
 0.0.0.0 wuxiann.top
 0.0.0.0 wuxiap.xyz
+0.0.0.0 wuxie419.xyz
 0.0.0.0 wuxiqiangheng.com
 0.0.0.0 wuygmdi.cn
 0.0.0.0 wuyizhqrappxeq.com
