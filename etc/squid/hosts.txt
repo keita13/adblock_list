@@ -5734,6 +5734,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 ana.mediable.info
 0.0.0.0 ana2.tatsumi-sys.jp
+0.0.0.0 anabcd.xyz
 0.0.0.0 analights.com
 0.0.0.0 analitica.webrpp.com
 0.0.0.0 analitits.com
@@ -9918,6 +9919,7 @@
 0.0.0.0 c02o3mpych.com
 0.0.0.0 c0594.com
 0.0.0.0 c09.xyz
+0.0.0.0 c0c.biz
 0.0.0.0 c0c.xyz
 0.0.0.0 c0z.xyz
 0.0.0.0 c1.4qx.net
@@ -11263,7 +11265,6 @@
 0.0.0.0 clickinc.com
 0.0.0.0 clickintext.com
 0.0.0.0 clickintext.net
-0.0.0.0 clickiocdn.com
 0.0.0.0 clickkingdom.net
 0.0.0.0 clicklink.jp
 0.0.0.0 clickmagick.com
@@ -12994,6 +12995,7 @@
 0.0.0.0 cyih0e43aty7.com
 0.0.0.0 cyjaruvndimgaa.com
 0.0.0.0 cykynethe.com
+0.0.0.0 cyl3h68.cn
 0.0.0.0 cylize.com
 0.0.0.0 cylwwyy.xyz
 0.0.0.0 cymaisefacsim.com
@@ -14816,6 +14818,7 @@
 0.0.0.0 dmdi.pl
 0.0.0.0 dmeq7blex6x1u.cloudfront.net
 0.0.0.0 dmfhqzo.cn
+0.0.0.0 dmfjeu.xyz
 0.0.0.0 dmg0877nfcvqj.cloudfront.net
 0.0.0.0 dmkdtkad2jyb9.cloudfront.net
 0.0.0.0 dmlkicqupnjfryv.com
@@ -16497,6 +16500,7 @@
 0.0.0.0 esomniture.com
 0.0.0.0 esou.me
 0.0.0.0 esp-12f.xyz
+0.0.0.0 esputnik.com
 0.0.0.0 esqfctbqf.com
 0.0.0.0 essayads.com
 0.0.0.0 essaycoupons.com
@@ -17174,6 +17178,7 @@
 0.0.0.0 fannonglairin.com
 0.0.0.0 fanpingbi*.gaokao.com
 0.0.0.0 fanplayr.com
+0.0.0.0 fanst.club
 0.0.0.0 fantasticsmash.com
 0.0.0.0 fanumi.com
 0.0.0.0 fanwoyang.com
@@ -19913,7 +19918,6 @@
 0.0.0.0 gtmdev.jabra.
 0.0.0.0 gtmjs.com
 0.0.0.0 gtop.ro
-0.0.0.0 gtop100.com
 0.0.0.0 gtopstats.com
 0.0.0.0 gtrd.xyz
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -20053,6 +20057,7 @@
 0.0.0.0 gxtytj.com
 0.0.0.0 gxxcbj.com
 0.0.0.0 gxymlqcnu.com
+0.0.0.0 gxzxiww.com
 0.0.0.0 gybyxsy1588.com
 0.0.0.0 gyccdnydir.com
 0.0.0.0 gycy2.com
@@ -24645,6 +24650,7 @@
 0.0.0.0 kuhou.com
 0.0.0.0 kujrsivgg.com
 0.0.0.0 kukanlm-lubu1.com
+0.0.0.0 kukanlm-my1.com
 0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kukulm.com
 0.0.0.0 kukury2hf8nd09.com
@@ -28033,6 +28039,7 @@
 0.0.0.0 mobpowertech.com
 0.0.0.0 mobpushup.com
 0.0.0.0 mobreach.com
+0.0.0.0 mobrkbb.com
 0.0.0.0 mobshark.net
 0.0.0.0 mobstrks.com
 0.0.0.0 mobtop.az
@@ -31754,6 +31761,7 @@
 0.0.0.0 pf34zdjoeycr.com
 0.0.0.0 pfcdnc.com
 0.0.0.0 pffw8mgd.com
+0.0.0.0 pfiparts.com
 0.0.0.0 pfklopud.xyz
 0.0.0.0 pflexads.com
 0.0.0.0 pflhnpu.cn
@@ -32634,7 +32642,6 @@
 0.0.0.0 postback.info
 0.0.0.0 postback.iqm.com
 0.0.0.0 postbacks.net
-0.0.0.0 postclickmarketing.com
 0.0.0.0 poster.weather.com.cn
 0.0.0.0 postitial.com
 0.0.0.0 postlnk.com
@@ -35955,6 +35962,7 @@
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.beop.io
 0.0.0.0 s.clickability.com
+0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktex.ru
 0.0.0.0 s.cntqk.com
 0.0.0.0 s.cntqk.vn
@@ -39460,6 +39468,7 @@
 0.0.0.0 summaryflamen.com
 0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
+0.0.0.0 summerxzp.xyz
 0.0.0.0 sumo.com
 0.0.0.0 sumokoin.com
 0.0.0.0 sumome.com
@@ -39493,6 +39502,7 @@
 0.0.0.0 sunvin.vin
 0.0.0.0 sunwardamoraic.com
 0.0.0.0 sunyftlaoiiy.com
+0.0.0.0 sunyujia.top
 0.0.0.0 suocloud.com
 0.0.0.0 suoksm.cn
 0.0.0.0 suoooi.cn
@@ -41779,7 +41789,6 @@
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.edupia.vn
-0.0.0.0 tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.fado.vn
 0.0.0.0 tracker.financialcontent.com
@@ -44712,6 +44721,8 @@
 0.0.0.0 w8sg6.xyz
 0.0.0.0 wa-track.com
 0.0.0.0 wa.and.co.uk
+0.0.0.0 wa.gmx.
+0.0.0.0 wa.mail.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa.web.de
 0.0.0.0 wa4y.com
@@ -47014,6 +47025,7 @@
 0.0.0.0 ygtt.mobi
 0.0.0.0 ygtx.mobi
 0.0.0.0 ygudtbdnhkhlmkd.xyz
+0.0.0.0 yguo.xyz
 0.0.0.0 yguuoibdsscki.com
 0.0.0.0 ygyl.xyz
 0.0.0.0 ygzkedoxwhqlzp.com
