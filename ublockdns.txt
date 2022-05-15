@@ -1,4 +1,4 @@
-!20220515-03
+!20220516-03
 ||00-gov.cn^
 ||0001.best^
 ||000123456789.online^
@@ -866,6 +866,7 @@
 ||4info.com^
 ||4jiqzr.ru^
 ||4jnzhl0d0.com^
+||4kddyfd.cn^
 ||4kfv18.cn^
 ||4kmovies.online^
 ||4kyu.cn^
@@ -2540,7 +2541,6 @@
 ||ad2goal.com^
 ||ad2links.com^
 ||ad2up.com^
-||ad3.cross-a.net^
 ||ad3.iinfo.cz^
 ||ad3.pamedia.com.au^
 ||ad3.rambler.ru^
@@ -6142,6 +6142,7 @@
 ||andase.com^
 ||andbeyond.media^
 ||andersenit.dk^
+||andhub.jp^
 ||andibringto.biz^
 ||andinterpers.com^
 ||andlache.com^
@@ -12666,6 +12667,7 @@
 ||crookedcareers.com^
 ||croresh.com^
 ||crorop.com^
+||cross-a.net^
 ||crossboardmobile.com^
 ||crossed.wang^
 ||crosspartners.net^
@@ -14339,6 +14341,7 @@
 ||dexplatform.com^
 ||dexpredict.com^
 ||dexuanyu.top^
+||deya.ink^
 ||deyidesign.com^
 ||df-srv.de^
 ||df.mmo001.info^
@@ -20155,6 +20158,7 @@
 ||habtcng.cn^
 ||habyc.com^
 ||hackelevensol.com^
+||hackeraa.xyz^
 ||hackesie.net^
 ||hadarone.com^
 ||haderilovas.com^
@@ -21076,6 +21080,7 @@
 ||hoohavoa.com^
 ||hooify.com^
 ||hookeroblong.com^
+||hooliganmedia.com^
 ||hoolyfy.com^
 ||hoood.info^
 ||hoophaub.com^
@@ -21389,6 +21394,7 @@
 ||huixingcheng.cn^
 ||huiyef.cn^
 ||huiyutz.cn^
+||huizai.top^
 ||huizeyoupin.com^
 ||hulai0323166.space^
 ||hulauf.cn^
@@ -22941,6 +22947,7 @@
 ||ixmlusc.cn^
 ||ixnow.xyz^
 ||ixnp.com^
+||ixnrmco.com^
 ||ixqfughrynmfh.com^
 ||ixtyted.ru^
 ||iyes.youku.com^
@@ -23009,6 +23016,7 @@
 ||jacketzerobelieved.com^
 ||jacklm1.com^
 ||jacklm2.com^
+||jacksonyee.club^
 ||jacquelinelaura.com^
 ||jadcenter.com^
 ||jadedjoke.com^
@@ -24894,6 +24902,7 @@
 ||lanternpossibly.com^
 ||lantocha.ru^
 ||lantuyj.com^
+||lanyue.ink^
 ||lanzuankeji.cn^
 ||laobaigushi.com^
 ||laobei.top^
@@ -28599,7 +28608,6 @@
 ||mwquick.com^
 ||mwstats.net^
 ||mwtraf.mobi^
-||mx.loubiqu.com^
 ||mx03.phorm.com^
 ||mx98.xyz^
 ||mxapis.com^
@@ -32744,6 +32752,7 @@
 ||ppwxgpr.cn^
 ||ppxbsbluutiwc.xyz^
 ||ppxldikxksuo.com^
+||ppyibei.com^
 ||pqorwmmlkf.com^
 ||pqrtd9hhtu9x.info^
 ||pqsjb.cn^
@@ -45651,6 +45660,7 @@
 ||wmspw.com^
 ||wmzona.com^
 ||wn052ucd.online^
+||wn68din.cn^
 ||wnbeiskivkkmpy.xyz^
 ||wnbssfaitzgt.com^
 ||wnccxcgvkuoitmy.com^
