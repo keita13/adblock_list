@@ -4038,6 +4038,7 @@
 *://*.davidg.cl/*
 *://*.de-vraag.com/*
 *://*.debugcn.com/*
+*://*.debugko.com/*
 *://*.delavaio.com/*
 *://*.deluxesport.cl/*
 *://*.deluxtrade.ru/*
