@@ -4054,6 +4054,7 @@
 *://*.docow.com/*
 *://*.docway.net/*
 *://*.dokry.com/*
+*://*.dokumen.tips/*
 *://*.domvgorah.ru/*
 *://*.dovov.com/*
 *://*.drunkentengu.com/*
