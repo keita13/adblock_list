@@ -1558,6 +1558,7 @@
 0.0.0.0 996f3d.cn
 0.0.0.0 9990.spqsd.com
 0.0.0.0 9997494f4d4b694d4f6702.online
+0.0.0.0 999live.net
 0.0.0.0 99click.com
 0.0.0.0 99counters.com
 0.0.0.0 99dc6ef64c.com
@@ -1879,6 +1880,7 @@
 0.0.0.0 aaaf.jp
 0.0.0.0 aaan.xyz
 0.0.0.0 aaaw.xyz
+0.0.0.0 aabelle.com
 0.0.0.0 aabmxezph.com
 0.0.0.0 aaddcount.com
 0.0.0.0 aaddzz.com
@@ -4929,6 +4931,7 @@
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aff-track.net
+0.0.0.0 aff.atp.vn
 0.0.0.0 aff.biz
 0.0.0.0 aff.bstatic.com
 0.0.0.0 aff.camplace.com
@@ -5634,6 +5637,7 @@
 0.0.0.0 alternativecpmgate.com
 0.0.0.0 alternativeprofitablegate.com
 0.0.0.0 alterupholdcinema.com
+0.0.0.0 althef.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 altogethergreedy.com
 0.0.0.0 altopd.com
@@ -8347,6 +8351,7 @@
 0.0.0.0 befuglago.live
 0.0.0.0 beginadvisor.com
 0.0.0.0 beginnerdole.com
+0.0.0.0 beginnerpancake.com
 0.0.0.0 beginstory.biz
 0.0.0.0 begintrain.com
 0.0.0.0 beglorena.com
@@ -10158,6 +10163,7 @@
 0.0.0.0 cammpaign.com
 0.0.0.0 camonster.com
 0.0.0.0 campaign.bharatmatrimony.com
+0.0.0.0 campaign.gitiho.com
 0.0.0.0 campaign.nmobs.com
 0.0.0.0 campaigncog.com
 0.0.0.0 campaignlook.com
@@ -16154,6 +16160,7 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 eivbjsegbino.com
 0.0.0.0 eiyhjkqued.com
+0.0.0.0 eiyxjls.cn
 0.0.0.0 ejd3q.life
 0.0.0.0 ejdbebdeghajgdicadc.ru
 0.0.0.0 ejdkqclkzq.com
@@ -19118,7 +19125,6 @@
 0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geotargetly.co
 0.0.0.0 geotraff.com
-0.0.0.0 geotrust.com
 0.0.0.0 geovideo.name
 0.0.0.0 geovisite.com
 0.0.0.0 geovisite.ovh
@@ -19173,6 +19179,7 @@
 0.0.0.0 getfreebl.com
 0.0.0.0 getgamers.eu
 0.0.0.0 gethit.ru
+0.0.0.0 getibih.cn
 0.0.0.0 getiluda.com
 0.0.0.0 getinclinarss.xyz
 0.0.0.0 getintent.com
@@ -20359,6 +20366,7 @@
 0.0.0.0 h4kdxs.com
 0.0.0.0 h5.wannaplay.cn
 0.0.0.0 h559.stamfordadvocate.com
+0.0.0.0 h5634t.site
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h5v.eu
 0.0.0.0 h6295.com
@@ -20797,6 +20805,7 @@
 0.0.0.0 helvetinus.com
 0.0.0.0 hematalmicast.com
 0.0.0.0 hemicalcov.com
+0.0.0.0 hemkwnz.cn
 0.0.0.0 hemnes.win
 0.0.0.0 hempunevenfeminist.com
 0.0.0.0 hemquotedchamber.com
@@ -21670,6 +21679,7 @@
 0.0.0.0 huojukk.com
 0.0.0.0 huojutt.com
 0.0.0.0 huosai.net.cn
+0.0.0.0 huoyun.site
 0.0.0.0 hupneyv.cn
 0.0.0.0 huppahshoras.com
 0.0.0.0 hurapepy.com
@@ -23438,6 +23448,7 @@
 0.0.0.0 jennyunfit.com
 0.0.0.0 jenonaw.com
 0.0.0.0 jeopardyloo.com
+0.0.0.0 jeoway.com
 0.0.0.0 jeperdee.net
 0.0.0.0 jeperm.com
 0.0.0.0 jeqixokniyny.com
@@ -24924,6 +24935,7 @@
 0.0.0.0 kubet79.me
 0.0.0.0 kubet8.us
 0.0.0.0 kubet86.com
+0.0.0.0 kubet88.fun
 0.0.0.0 kubet9.com
 0.0.0.0 kubet9.net
 0.0.0.0 kubiadserv.icu
@@ -25036,6 +25048,7 @@
 0.0.0.0 kyxnz.cn
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 kzfwvqylo.com
+0.0.0.0 kzhtgnv.cn
 0.0.0.0 kzjs4rtk.com
 0.0.0.0 kzqjwdxxussshe.net
 0.0.0.0 kzvhgpqvmle.com
@@ -25900,6 +25913,7 @@
 0.0.0.0 liveme-sensors-collect2-*.amazonaws.com
 0.0.0.0 livemz.com
 0.0.0.0 liventernet.ml
+0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 livepartners.it
 0.0.0.0 liverail.com
 0.0.0.0 liveredwilton.com
@@ -26106,6 +26120,7 @@
 0.0.0.0 loftiernucule.com
 0.0.0.0 loftsbaacad.com
 0.0.0.0 log*-misc-lf.amemv.com
+0.0.0.0 log*.aliyuncs.com
 0.0.0.0 log*.happymod.com
 0.0.0.0 log*.interactive-circle.jp
 0.0.0.0 log-*.previewnetworks.com
@@ -26126,7 +26141,6 @@
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 log.adap.tv
 0.0.0.0 log.ajunews.com
-0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
@@ -26320,6 +26334,7 @@
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 logging.je-apps.com
+0.0.0.0 logging.kinhtedothi.vn
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loggingservices.tribune.com
@@ -35638,6 +35653,7 @@
 0.0.0.0 rhtgyvbv.com
 0.0.0.0 rhubarbsnagtip.com
 0.0.0.0 rhudsplm.com
+0.0.0.0 rhufmpa.cn
 0.0.0.0 rhvdsplm.com
 0.0.0.0 rhvfma2exjudfv.ru
 0.0.0.0 rhxdsplm.com
@@ -36730,6 +36746,7 @@
 0.0.0.0 sbldw.cn
 0.0.0.0 sblftg.com
 0.0.0.0 sbmrwzkwshit.com
+0.0.0.0 sbotop246.com
 0.0.0.0 sbpb1.chuiyue.com
 0.0.0.0 sbpb1.qulishi.com
 0.0.0.0 sbqsftz.cn
@@ -37181,6 +37198,7 @@
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry.dantri.com.vn
 0.0.0.0 sentry.mediacdn.vn
+0.0.0.0 sentry.sendo.vn
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 senxiaopang.top
 0.0.0.0 seo-master.net
@@ -38969,7 +38987,6 @@
 0.0.0.0 sqvp.online
 0.0.0.0 sqyueda.com
 0.0.0.0 sqyx.top
-0.0.0.0 sr.studiostack.com
 0.0.0.0 sra.moresophy.net
 0.0.0.0 sravniali.ru
 0.0.0.0 srcip.com
@@ -39783,6 +39800,7 @@
 0.0.0.0 stubantiquarianjury.com
 0.0.0.0 stucystymy.com
 0.0.0.0 studabsently.com
+0.0.0.0 studiostack.com
 0.0.0.0 studytest.icu
 0.0.0.0 stuffedprofessional.com
 0.0.0.0 stuffpotencydisciple.com
@@ -40000,6 +40018,7 @@
 0.0.0.0 supply.upjers.com
 0.0.0.0 supplyglossailment.com
 0.0.0.0 support.streamjav.top
+0.0.0.0 support.tenten.vn
 0.0.0.0 supportivedistrustuldistrustulmaturity.com
 0.0.0.0 supportiveimpassableevasion.com
 0.0.0.0 supportmetrics.apple.com
@@ -40229,6 +40248,7 @@
 0.0.0.0 syndicate.payloadz.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.jsadapi.com
+0.0.0.0 syndication.realsrv.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 syndicpop.com
 0.0.0.0 syndocassyth.com
@@ -40502,6 +40522,7 @@
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 taggify.net
+0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
 0.0.0.0 taggyad.jp
 0.0.0.0 taghaugh.com
 0.0.0.0 tagjunction.com
@@ -41044,6 +41065,7 @@
 0.0.0.0 texvfclbsed.com
 0.0.0.0 tf-con.com
 0.0.0.0 tf.360.cn
+0.0.0.0 tf111.xyz
 0.0.0.0 tf2www.com
 0.0.0.0 tf639.top
 0.0.0.0 tf88luck.com
@@ -41277,6 +41299,7 @@
 0.0.0.0 thongedoptions.com
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
+0.0.0.0 thongke.bookingcare.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke.tcdulichtphcm.vn
 0.0.0.0 thongke.vui.vn
@@ -45173,6 +45196,7 @@
 0.0.0.0 vymhnxjyj.com
 0.0.0.0 vyocqq.com
 0.0.0.0 vyphytovu.pro
+0.0.0.0 vyrhxfi.cn
 0.0.0.0 vystakugry.pro
 0.0.0.0 vytxocb.cn
 0.0.0.0 vyule.com
@@ -46195,6 +46219,7 @@
 0.0.0.0 wohchuuemjs.com
 0.0.0.0 wojiabaoye.com
 0.0.0.0 wojv.club
+0.0.0.0 woka.cc
 0.0.0.0 wokawot.com
 0.0.0.0 wokekk.com
 0.0.0.0 wokfirsax.com

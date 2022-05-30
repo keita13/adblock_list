@@ -4131,6 +4131,7 @@
 *://*.ichi.pro/*
 *://*.idearteacademy.cl/*
 *://*.ifaj-congress.org/*
+*://*.igiftidea.com/*
 *://*.igras.ru/*
 *://*.ikioi2ch.net/*
 *://*.ikioi5ch.net/*
@@ -9730,6 +9731,7 @@
 *://*.obmxklubben.dk/*
 *://*.officinacordero.it/*
 *://*.officinemalessandria.it/*
+*://*.ogeek.cn/*
 *://*.ojit.com/*
 *://*.oleificiolama.it/*
 *://*.olgakuts.ru/*
