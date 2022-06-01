@@ -9770,6 +9770,7 @@
 *://*.python.engineering/*
 *://*.python2.net/*
 *://*.python5.com/*
+*://*.pythonfixing.com/*
 *://*.pythonq.com/*
 *://*.qa-help.ru/*
 *://*.qa-stack.aa/*
@@ -11748,6 +11749,7 @@
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.soinside.com/*
+*://*.solvusoft.com/*
 *://*.spb.ru/*
 *://*.sportfiske.org/*
 *://*.sqlite.in/*
