@@ -4102,6 +4102,7 @@
 *://*.geeks-world.imtqy.com/*
 *://*.generacodice.com/*
 *://*.generaindustrial.cl/*
+*://*.getridbug.com/*
 *://*.ghcc.net/*
 *://*.github-dotcom.gateway.web.tr/*
 *://*.githubhelp.com/*
@@ -4139,10 +4140,12 @@
 *://*.ilmioprovino.it/*
 *://*.includestdio.com/*
 *://*.instatigers.it/*
+*://*.intellipaat.com/*
 *://*.ipgirl.com/*
 *://*.irapido.it/*
 *://*.isolution.pro/*
 *://*.issue.life/*
+*://*.issueantenna.com/*
 *://*.issuecloser-aa.com/*
 *://*.issuecloser-aa.dev/*
 *://*.issuecloser-aa.net/*
@@ -9645,6 +9648,7 @@
 *://*.it-swarm.zu/*
 *://*.it-swarm.zw/*
 *://*.it.wenda123.org/*
+*://*.it1352.com/*
 *://*.italianfooding.it/*
 *://*.itbloger.tistory.com/*
 *://*.iteramos.com/*
@@ -9675,6 +9679,7 @@
 *://*.ladabmhatch.ru/*
 *://*.lahaciendarestaurante.cl/*
 *://*.laptrinhx.com/*
+*://*.learnfk.com/*
 *://*.learntutorials.net/*
 *://*.lecoccinelle-eventi.it/*
 *://*.legkovopros.ru/*
@@ -9697,6 +9702,7 @@
 *://*.manejateporlavida.cl/*
 *://*.maniabilitate.it/*
 *://*.mattiaambrami.it/*
+*://*.mediatagtw.com/*
 *://*.megaferias.cl/*
 *://*.melayukini.net/*
 *://*.metagame.cl/*
@@ -9744,8 +9750,10 @@
 *://*.ospedaliprivatiforli.it/*
 *://*.ostack.cn/*
 *://*.overcoder.net/*
+*://*.overstack.in/*
 *://*.panaindustrial.com/*
 *://*.parchisalentointour.it/*
+*://*.peaku.co/*
 *://*.perm.ru/*
 *://*.point808.com/*
 *://*.pomu.cl/*
@@ -11725,6 +11733,7 @@
 *://*.rail.cl/*
 *://*.railstoolkit.com/*
 *://*.removemalware-jp.com/*
+*://*.repoarchive.com/*
 *://*.rezort.ru/*
 *://*.ril.it/*
 *://*.riptutorial.com/*
