@@ -4077,6 +4077,7 @@
 *://*.euromar2012.org/*
 *://*.eventi.it/*
 *://*.exceptionshub.com/*
+*://*.exchangetuts.com/*
 *://*.exnovoband.it/*
 *://*.extutorial.com/*
 *://*.farmaciazarla.it/*
@@ -9755,6 +9756,7 @@
 *://*.panaindustrial.com/*
 *://*.parchisalentointour.it/*
 *://*.peaku.co/*
+*://*.pengembangan-web-mp-pd.com/*
 *://*.perm.ru/*
 *://*.point808.com/*
 *://*.pomu.cl/*
@@ -11825,6 +11827,7 @@
 *://*.vitadamoglie.it/*
 *://*.vl.ru/*
 *://*.voidcc.com/*
+*://*.wake-up-neo.com/*
 *://*.web-dev-qa-db-ja.com/*
 *://*.web-dev-qa.com/*
 *://*.web-gaebal-jilmun-dabbyeon-db.com/*
