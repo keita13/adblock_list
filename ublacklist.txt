@@ -11789,6 +11789,7 @@
 *://*.switch-case.ru/*
 *://*.sysadminde.com/*
 *://*.t.codebug.vip/*
+*://*.tagsqa.com/*
 *://*.tappezzeriafusco.it/*
 *://*.teambikevalconca.it/*
 *://*.tech-in-japan.github.io/*
