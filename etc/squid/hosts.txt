@@ -1122,6 +1122,7 @@
 0.0.0.0 666625.xyz
 0.0.0.0 666627.xyz
 0.0.0.0 666632.xyz
+0.0.0.0 666637.xyz
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
@@ -1638,6 +1639,7 @@
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a-stat.appmifile.com
 0.0.0.0 a-static.com
+0.0.0.0 a.10tianqi.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.4aqq.com
@@ -5966,6 +5968,7 @@
 0.0.0.0 analytics.fs-bdash.com
 0.0.0.0 analytics.fsoft.com.vn
 0.0.0.0 analytics.gameforge.de
+0.0.0.0 analytics.gate.co.id
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
@@ -6138,6 +6141,7 @@
 0.0.0.0 analytics.tribeca.vidavee.com
 0.0.0.0 analytics.tripoto.com
 0.0.0.0 analytics.tver.jp
+0.0.0.0 analytics.unand.ac.id
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
 0.0.0.0 analytics.upworthy.com
@@ -9689,6 +9693,7 @@
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bt.phorm.com
 0.0.0.0 bt1.patexplorer.com
+0.0.0.0 btaawy.cn
 0.0.0.0 btagmedia.com
 0.0.0.0 btbuckets.com
 0.0.0.0 btcadtop.com
@@ -12261,6 +12266,7 @@
 0.0.0.0 contextrtb.com
 0.0.0.0 contextuads.com
 0.0.0.0 contextweb.com
+0.0.0.0 contiamo.com
 0.0.0.0 contineljs.com
 0.0.0.0 continue.com
 0.0.0.0 continuedhostilityequipped.com
@@ -14959,6 +14965,7 @@
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dkus30wj6f84p.cloudfront.net
 0.0.0.0 dkvuey.xyz
+0.0.0.0 dkxobcs.cn
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dl-rms.com
 0.0.0.0 dl.crazyporn.xxx
@@ -16029,6 +16036,7 @@
 0.0.0.0 edetzmh.cn
 0.0.0.0 edfuyyweyz.com
 0.0.0.0 edgar2al2larngpoer.com
+0.0.0.0 edgdiihijhgcggjhacg.ru
 0.0.0.0 edge.bredg.com
 0.0.0.0 edgead.woomedya.com
 0.0.0.0 edgeads.org
@@ -16812,6 +16820,7 @@
 0.0.0.0 ettalhap.com
 0.0.0.0 ettilt.com
 0.0.0.0 etwxjufiijhk.com
+0.0.0.0 etxggi.cn
 0.0.0.0 etxjbxs.top
 0.0.0.0 etyper.com
 0.0.0.0 eu-ad.sam4m.com
@@ -17250,6 +17259,7 @@
 0.0.0.0 f.zgbmw.com.cn
 0.0.0.0 f00f00.bar
 0.0.0.0 f01ed651eca.com
+0.0.0.0 f05.xyz
 0.0.0.0 f1.06ps.com
 0.0.0.0 f1.ichong123.com
 0.0.0.0 f1.pig66.com
@@ -19277,6 +19287,7 @@
 0.0.0.0 gfpplflrif.com
 0.0.0.0 gfstrck.com
 0.0.0.0 gft2.de
+0.0.0.0 gfvip06af.com
 0.0.0.0 gfwiygrvi.xyz
 0.0.0.0 gfxa.sheetmusicplus.com
 0.0.0.0 gg.0598yu.com
@@ -19737,6 +19748,7 @@
 0.0.0.0 goldenwind.icu
 0.0.0.0 goldfishnightclubpatronize.com
 0.0.0.0 goldnfn.com
+0.0.0.0 goldnfu.com
 0.0.0.0 goldoffer.online
 0.0.0.0 goldstats.com
 0.0.0.0 goldsurf24h.pl
@@ -20663,6 +20675,7 @@
 0.0.0.0 hbsjqogt.xyz
 0.0.0.0 hbssjd.cn
 0.0.0.0 hbttcc.com
+0.0.0.0 hbtyk.top
 0.0.0.0 hbtzzlcxfijk.com
 0.0.0.0 hbunmokcwopj.com
 0.0.0.0 hbuweb.net
@@ -22144,6 +22157,7 @@
 0.0.0.0 iiiuuu.top
 0.0.0.0 iipbuas.cn
 0.0.0.0 iiprpq1bsedg.com
+0.0.0.0 iirpvchv.cn
 0.0.0.0 iiueuenutuhaf.com
 0.0.0.0 iiutq.xyz
 0.0.0.0 iivt.com
@@ -25698,6 +25712,7 @@
 0.0.0.0 linezing.com
 0.0.0.0 lingerstored.com
 0.0.0.0 linghangshouji.com
+0.0.0.0 lingke03.top
 0.0.0.0 linglingccc.xyz
 0.0.0.0 lingospot.com
 0.0.0.0 lingqinga.cn
@@ -26548,6 +26563,7 @@
 0.0.0.0 ltcraft.ru
 0.0.0.0 ltdjifang.xyz
 0.0.0.0 ltdxdwjsf.com
+0.0.0.0 ltht.tech
 0.0.0.0 lthwsj.com
 0.0.0.0 lthzd.cn
 0.0.0.0 lturerpartm.com
@@ -32308,6 +32324,7 @@
 0.0.0.0 piwik.*.vn
 0.0.0.0 piwik.fc2.com
 0.0.0.0 piwik.matrix.ua
+0.0.0.0 piwik.onlinecasino321.com
 0.0.0.0 piwik.org
 0.0.0.0 piwik.pro
 0.0.0.0 piwik2.fc2.com
@@ -33888,6 +33905,7 @@
 0.0.0.0 pwigekcyr.com
 0.0.0.0 pwjmzqx.cn
 0.0.0.0 pwjwgrtznpl.com
+0.0.0.0 pwkrakanmet.met.gov.my
 0.0.0.0 pwkvdk.com
 0.0.0.0 pwmctl.com
 0.0.0.0 pwnz.org
@@ -34565,6 +34583,7 @@
 0.0.0.0 radiusproceedings.com
 0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.realadmin.pl
+0.0.0.0 radull.com
 0.0.0.0 radust.com
 0.0.0.0 radxcomm.com
 0.0.0.0 raeqqe.cn
@@ -34572,6 +34591,7 @@
 0.0.0.0 raftcomposuremeals.com
 0.0.0.0 rag3ca7t5amubr8eedffin.com
 0.0.0.0 ragapa.com
+0.0.0.0 rageagainstthesoap.com
 0.0.0.0 raglogripsa.com
 0.0.0.0 raigebro.xyz
 0.0.0.0 raigluce.net
@@ -37881,6 +37901,7 @@
 0.0.0.0 slimelump.com
 0.0.0.0 slimgipnoz.ru
 0.0.0.0 slimhousewifesubtle.com
+0.0.0.0 slimindy.top
 0.0.0.0 slimopinion.com
 0.0.0.0 slimspots.com
 0.0.0.0 slimtrade.com
@@ -39215,6 +39236,7 @@
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.cnevids.com
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.coursepad.com
 0.0.0.0 stats.curds.io
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.datawrapper.de
@@ -40340,6 +40362,7 @@
 0.0.0.0 tag.surpha.jp
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tag.vlitag.com
+0.0.0.0 tag.winister.app
 0.0.0.0 tag4arm.com
 0.0.0.0 tagbom.com
 0.0.0.0 tagbucket.cc
@@ -45442,6 +45465,7 @@
 0.0.0.0 webstats.com
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.one
+0.0.0.0 webstats.pixcell.ch
 0.0.0.0 webstats.sapo.pt
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webstats4u.com
@@ -47031,6 +47055,7 @@
 0.0.0.0 xviperonec.com
 0.0.0.0 xvlcbwlgpy.com
 0.0.0.0 xvmvvh.zcrqsfq.biz
+0.0.0.0 xvnitu.com
 0.0.0.0 xvqdfwy.cn
 0.0.0.0 xvwebllndr.com
 0.0.0.0 xvxxbrzhjunco.com
@@ -47595,6 +47620,7 @@
 0.0.0.0 yootui19999.com
 0.0.0.0 yoptaejrj2kkf8nj09.com
 0.0.0.0 yoqpnkhl.com
+0.0.0.0 yoqrbof.cn
 0.0.0.0 yorage.com
 0.0.0.0 yoredi.com
 0.0.0.0 yoretxpczr.com
