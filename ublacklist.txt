@@ -82,6 +82,7 @@
 *://*.bojonerentacar.ru/*
 *://*.bomode.it/*
 *://*.bootpanic.com/*
+*://*.br.atsit.in/*
 *://*.brigantipaolo.it/*
 *://*.brn.cl/*
 *://*.bruschatkachelny.ru/*
