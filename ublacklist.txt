@@ -11780,6 +11780,7 @@
 *://*.stackscn.com/*
 *://*.steakrecords.com/*
 *://*.strana.ru/*
+*://*.string.quest/*
 *://*.studiocoppolasarzana.it/*
 *://*.style.ru/*
 *://*.sub-nicoapple.ssl-lolipop.jp/*
