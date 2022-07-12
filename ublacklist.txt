@@ -39,6 +39,7 @@
 *://*.aliance.ru/*
 *://*.altema.jp/*
 *://*.andreafagioni.it/*
+*://*.androidbugfix.com/*
 *://*.annuncitelelavoro.it/*
 *://*.answer-id.com/*
 *://*.answerlib.com/*
@@ -55,6 +56,8 @@
 *://*.article.docway.net/*
 *://*.artigianatoveneto.it/*
 *://*.asisettoresoftair.i/*
+*://*.ask-dev.ru/*
+*://*.askcodez.com/*
 *://*.askdev.info/*
 *://*.athabasca-foto.com/*
 *://*.attac.cl/*
@@ -4081,6 +4084,7 @@
 *://*.exchangetuts.com/*
 *://*.exnovoband.it/*
 *://*.extutorial.com/*
+*://*.faqcode4u.com/*
 *://*.farmaciazarla.it/*
 *://*.fattoriaascaniocruciani.it/*
 *://*.ferrum42kem.ru/*
@@ -4132,6 +4136,7 @@
 *://*.hu.qaru.tech/*
 *://*.huati365.com/*
 *://*.hub.fastgit.org/*
+*://*.iacademyplus.com/*
 *://*.ichi.pro/*
 *://*.icode.best/*
 *://*.idearteacademy.cl/*
@@ -9658,6 +9663,7 @@
 *://*.itecnote.com/*
 *://*.iteramos.com/*
 *://*.itnews.org/*
+*://*.itranslater.com/*
 *://*.itread01.com/*
 *://*.izakayayoko.cl/*
 *://*.izziswift.com/*
@@ -9669,6 +9675,7 @@
 *://*.jb51.cc/*
 *://*.jike.in/*
 *://*.jin115.com/*
+*://*.jonic.cn/*
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
 *://*.jpcodeqa.com/*
@@ -10112,6 +10119,7 @@
 *://*.qa-stack.zu/*
 *://*.qa-stack.zw/*
 *://*.qa.1r1g.com/*
+*://*.qa.55276.net/*
 *://*.qa.codeflow.site/*
 *://*.qa.icopy.site/*
 *://*.qapicks.com/*
@@ -11861,5 +11869,6 @@
 *://*.yo.zgserver.com/*
 *://*.younggeeks.in/*
 *://*.yurestaurant.it/*
+*://*.zainale.net/*
 *://*.zhouni.net/*
 *://*.zweryfikowac.pl/*
