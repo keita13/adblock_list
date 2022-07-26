@@ -11741,6 +11741,7 @@
 *://*.qastack.zw/*
 *://*.qathai.com/*
 *://*.qedev.com/*
+*://*.qna.habr.com/*
 *://*.quabr.com/*
 *://*.quarentenet.cl/*
 *://*.quares.ru/*
