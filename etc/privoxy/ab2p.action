@@ -2,7 +2,7 @@
 #----- source -----
 #Title: 280blocker adblock filter
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-#Last modified: 31 Jul 2022 18:30 UTC
+#Last modified: 01 Aug 2022 18:30 UTC
 #Expires: 72 hours
 #Homepage: https://280blocker.net
 #----- source -----
@@ -20,15 +20,15 @@
 #----- source -----
 #Title: 亀フィルタ（ウイルスサイトブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-#Last modified: 22 Apr 2022 22:47 UTC
-#Expires: 72 hours (expired)
+#Last modified: 01 Aug 2022 18:30 UTC
+#Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 #----- source -----
 #Title: ことりフィルタ（SNSボタンブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-#Last modified: 22 Apr 2022 22:47 UTC
-#Expires: 72 hours (expired)
+#Last modified: 01 Aug 2022 18:30 UTC
+#Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
 #----- source -----
@@ -97,6 +97,361 @@
 {+add-header{DNT: 1} \
 }
 TAG:^ab2p-block-dnt$
+# ||www.news24.jp/sp/image/common/btn_ (kotori_filter.txt: 210)
+.www.news24.jp/sp/image/common/btn_
+# ||www.gizmodo.jp/assets/sp/img/p-post_share (kotori_filter.txt: 209)
+.www.gizmodo.jp/assets/sp/img/p-post_share
+# ||wired.jp/wp-content/themes/wired3/common/img/line-send.png| (kotori_filter.txt: 208)
+.wired.jp/wp-content/themes/wired3/common/img/line-send\.png$
+# ||wired.jp/wp-content/themes/wired3/common/images/fb-share.png| (kotori_filter.txt: 207)
+.wired.jp/wp-content/themes/wired3/common/images/fb-share\.png$
+# ||secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn.png| (kotori_filter.txt: 206)
+.secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn\.png$
+# ||s4.reutersmedia.net/resources_v3/js/win-sharetools.js| (kotori_filter.txt: 205)
+.s4.reutersmedia.net/resources_v3/js/win-sharetools\.js$
+# ||parts.blog.livedoor.jp/img/usr/cmn/btn_add_line.png| (kotori_filter.txt: 204)
+.parts.blog.livedoor.jp/img/usr/cmn/btn_add_line\.png$
+# ||parts.blog.livedoor.jp/img/lite2/item/social_buttons (kotori_filter.txt: 203)
+.parts.blog.livedoor.jp/img/lite2/item/social_buttons
+# ||news.nicovideo.jp/assets/icon_sns- (kotori_filter.txt: 202)
+.news.nicovideo.jp/assets/icon_sns-
+# ||public-api.wordpress.com/connect/?googleplus-sign-in$subdocument (kotori_filter.txt: 197)
+.public-api.wordpress.com/connect/\?googleplus-sign-in
+# ||s2.reutersmedia.net/resources_v2/js/rcom-social-share.js| (kotori_filter.txt: 194)
+.s2.reutersmedia.net/resources_v2/js/rcom-social-share\.js$
+# ||5chmm.jp/img/t_mini-b.png| (kotori_filter.txt: 191)
+.5chmm.jp/img/t_mini-b\.png$
+# ||www.yomiuri.co.jp/assets/js/sns-share- (kotori_filter.txt: 188)
+.www.yomiuri.co.jp/assets/js/sns-share-
+# ||www.nhk.or.jp/common/sns/img/ (kotori_filter.txt: 185)
+.www.nhk.or.jp/common/sns/img/
+# ||scdn.line-apps.com/n/line_add_friends/btn/ja.png| (kotori_filter.txt: 183)
+.scdn.line-apps.com/n/line_add_friends/btn/ja\.png$
+# ||i.share.gree.jp/img/share/button/btn_logo_16.png| (kotori_filter.txt: 180)
+.i.share.gree.jp/img/share/button/btn_logo_16\.png$
+# ||platform.tumblr.com/v1/share (kotori_filter.txt: 177)
+.platform.tumblr.com/v1/share
+# ||b.st-hatena.com/images/v4/public/entry-button/button-only (kotori_filter.txt: 174)
+.b.st-hatena.com/images/v4/public/entry-button/button-only
+# ||b.st-hatena.com/images/entry-button/button-only (kotori_filter.txt: 172)
+.b.st-hatena.com/images/entry-button/button-only
+# ||b.hatena.ne.jp/images/entry-button/button-only (kotori_filter.txt: 170)
+.b.hatena.ne.jp/images/entry-button/button-only
+# ||apis.google.com/se/0/_/+1/sharebutton? (kotori_filter.txt: 167)
+.apis.google.com/se/0/_/\+1/sharebutton\?
+# ||analytics.twitter.com/i/adsct? (kotori_filter.txt: 157)
+.analytics.twitter.com/i/adsct\?
+# ||connect.facebook.net/en_US/sdk.js (kotori_filter.txt: 148)
+.connect.facebook.net/en_US/sdk\.js
+# ||widgets.getpocket.com/v1/button? (kotori_filter.txt: 133)
+.widgets.getpocket.com/v1/button\?
+# ||widgets.getpocket.com/v1/j/btn.js?v=1 (kotori_filter.txt: 132)
+.widgets.getpocket.com/v1/j/btn\.js\?v=1
+# ||platform.twitter.com/widgets/follow_button. (kotori_filter.txt: 131)
+.platform.twitter.com/widgets/follow_button\.
+# ||platform.twitter.com/js/button. (kotori_filter.txt: 130)
+.platform.twitter.com/js/button\.
+# ||jsoon.digitiminimi.com/twitter/count.json? (kotori_filter.txt: 129)
+.jsoon.digitiminimi.com/twitter/count\.json\?
+# ||parts.lineblog.me/img/usr/lineblog/common/sns_buttons.png (kotori_filter.txt: 122)
+.parts.lineblog.me/img/usr/lineblog/common/sns_buttons\.png
+# ||s.yimg.jp/images/weather/promo/ (kotori_filter.txt: 116)
+.s.yimg.jp/images/weather/promo/
+# ||s.yimg.jp/images/weather/top_module/twitter_top.png (kotori_filter.txt: 114)
+.s.yimg.jp/images/weather/top_module/twitter_top\.png
+# ||s.yimg.jp/images/weather/top_module/facebook_top.png (kotori_filter.txt: 113)
+.s.yimg.jp/images/weather/top_module/facebook_top\.png
+# ||i.yimg.jp/lib/news/socialModule/ (kotori_filter.txt: 99)
+.i.yimg.jp/lib/news/socialModule/
+# ||stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1.2.0.css (kotori_filter.txt: 96)
+.stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1\.2\.0\.css
+# ||stat100.ameba.jp/ameblo/pc/js/iineButton-1.1.0.js (kotori_filter.txt: 95)
+.stat100.ameba.jp/ameblo/pc/js/iineButton-1\.1\.0\.js
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 77)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||b.hatena.ne.jp/entry.count?url= (kotori_filter.txt: 75)
+.b.hatena.ne.jp/entry\.count\?url=
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 73)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||syndication.twitter.com/i/jot (kotori_filter.txt: 58)
+.syndication.twitter.com/i/jot
+# ||api.b.st-hatena.com/entry.count (kotori_filter.txt: 49)
+.api.b.st-hatena.com/entry\.count
+# ||badge.facebook.com/badge/ (kotori_filter.txt: 48)
+.badge.facebook.com/badge/
+# ||graph.facebook.com/?callback=jQuery (kotori_filter.txt: 47)
+.graph.facebook.com/\?callback=jQuery
+# ||graph.facebook.com/?ids= (kotori_filter.txt: 44)
+.graph.facebook.com/\?ids=
+# ||graph.facebook.com/?callback=jsonp (kotori_filter.txt: 43)
+.graph.facebook.com/\?callback=jsonp
+# ||connect.facebook.net/ja_JP/all.js (kotori_filter.txt: 41)
+.connect.facebook.net/ja_JP/all\.js
+# ||www.facebook.com/tr/?id= (kotori_filter.txt: 32)
+.www.facebook.com/tr/\?id=
+# ||connect.facebook.net/ja_JP/sdk.js (kotori_filter.txt: 31)
+.connect.facebook.net/ja_JP/sdk\.js
+# ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
+.connect.facebook.net/en_US/fbevents\.js
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+.your.case.id.for.this.reason.is.pp.rangdeindia.jp
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+.umedaumeda.ec-net.jp
+# ||tobacco.jp^ (kame_filter.txt: 360)
+.tobacco.jp
+# ||tga.co.jp^ (kame_filter.txt: 359)
+.tga.co.jp
+# ||smcw-member.jp^ (kame_filter.txt: 358)
+.smcw-member.jp
+# ||rentskinow.jp^ (kame_filter.txt: 357)
+.rentskinow.jp
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+.pluscolorn.sub.jp
+# ||plaso.jp^ (kame_filter.txt: 355)
+.plaso.jp
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+.payment.on.your.account.rangdeindia.jp
+# ||oneby1.jp^ (kame_filter.txt: 353)
+.oneby1.jp
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+.nozomimiyazaki.main.jp
+# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+.kashimayunohana.jp
+# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+.kamabokoworks.jp
+# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+.jwa-niigata.jp
+# ||jk-bic.jp^ (kame_filter.txt: 348)
+.jk-bic.jp
+# ||irumakg.jp^ (kame_filter.txt: 347)
+.irumakg.jp
+# ||g-r.co.jp^ (kame_filter.txt: 346)
+.g-r.co.jp
+# ||grangrace.jp^ (kame_filter.txt: 345)
+.grangrace.jp
+# ||gaspa-web.jp^ (kame_filter.txt: 344)
+.gaspa-web.jp
+# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+.butter-delimmo.jp
+# ||aasc.or.jp^ (kame_filter.txt: 341)
+.aasc.or.jp
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+.210237148191.cidr.jtidc.jp
+# ||niconicochannel.info^ (kame_filter.txt: 324)
+.niconicochannel.info
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+.eroeroxhamster8.pw
+# ||ero-japan.net^ (kame_filter.txt: 322)
+.ero-japan.net
+# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+.i.imgur.tru.io
+# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+.kabutyer.ownip.net
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+.news27u.youdontcare.com/newsplus/
+# ||xephaoma.com^ (kame_filter.txt: 300)
+.xephaoma.com
+# ||miffy.me^ (kame_filter.txt: 298)
+.miffy.me
+# ||gl-search.com^ (kame_filter.txt: 292)
+.gl-search.com
+# ||fznews.xyz^ (kame_filter.txt: 286)
+.fznews.xyz
+# ||2ch.today^ (kame_filter.txt: 284)
+.2ch.today
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+.milky.geocities.jp/fkdsjlaginea/
+# ||showmyhomes.com/ (kame_filter.txt: 279)
+.showmyhomes.com
+# ||newtab.club^ (kame_filter.txt: 277)
+.newtab.club
+# ||imgur.com. (kame_filter.txt: 272)
+.imgur.com.
+# ||my.to^ (kame_filter.txt: 270)
+.my.to
+# ||rude.li^ (kame_filter.txt: 267)
+.rude.li
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+.exioer5.missouriprobate.biz
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+.fc2.com/p/F0Nll5V-\?\.gif
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+.www.bityet.us/s7b47si\.jpg
+# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+.goo.gl/En6m3D 
+# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+.qsnews.ndra.biz
+# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+.derx.stanciu.biz
+# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+.edax.getamonkey.com
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+.livebby.b2.valueserver.jp
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
+/^https?:\/\/[a-z0-9-]{38,}\.fun\/
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
+/^https?:\/\/[a-z0-9]{38,}\.co\/
+# ||freecaptcha.top^ (kame_filter.txt: 241)
+.freecaptcha.top
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+.masmurkambojacoy.furved.com
+# ||eqaw.cn^ (kame_filter.txt: 236)
+.eqaw.cn
+# ||getflexsafe.io^ (kame_filter.txt: 233)
+.getflexsafe.io
+# ||1redirb.com^ (kame_filter.txt: 230)
+.1redirb.com
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+.terratopi.roflclub.asia
+# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+.clk.rtpdn14.com
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+.katie.v4.omgtnc.com
+# ||fmvs.jp^ (kame_filter.txt: 224)
+.fmvs.jp
+# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+.rakuten.card080.shop
+# ||meruli.rest^ (kame_filter.txt: 218)
+.meruli.rest
+# ||1.ne02.biz^ (kame_filter.txt: 214)
+.1.ne02.biz
+# ||acc.pp.ua^ (kame_filter.txt: 213)
+.acc.pp.ua
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+.alderbridge.studio42sound.com
+# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+.system-update-new-2022.com
+# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+.system-update-new-2021.com
+# ||freegogpcgames.com^ (kame_filter.txt: 209)
+.freegogpcgames.com
+# ||amazon.co.jp. (kame_filter.txt: 206)
+.amazon.co.jp.
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+.amazon.co.jp.chuyipay.net
+# ||yodyson.com^ (kame_filter.txt: 202)
+.yodyson.com
+# .duckdns.org (kame_filter.txt: 198)
+/(*PRUNE).*?\.duckdns\.org
+.duckdns.org*.
+# ||fres-news.com^ (kame_filter.txt: 194)
+.fres-news.com
+# ||0pen.page^ (kame_filter.txt: 192)
+.0pen.page
+# ||0n.click^ (kame_filter.txt: 191)
+.0n.click
+# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+.best.prizedeal512.info
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+.realcenter-mobileapps2.com
+# ||213.136.91.194^ (kame_filter.txt: 188)
+.213.136.91.194
+# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+.ssigkandnelo.tk
+# ||infolinks.com^ (kame_filter.txt: 184)
+.infolinks.com
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+.d141wsrw9m4as6.cloudfront.net
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+.dc5k8fg5ioc8s.cloudfront.net
+# ||herepackagine.info^ (kame_filter.txt: 181)
+.herepackagine.info
+# ||www.audazweb.com^ (kame_filter.txt: 178)
+.www.audazweb.com
+# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+.ktechguardiansrn.site
+# ||discount.s3blog.org^ (kame_filter.txt: 172)
+.discount.s3blog.org
+# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+.sarah.runtnc.net
+# ||goneoutnow.site^$document (kame_filter.txt: 168)
+.goneoutnow.site
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+.direct.redtrafficsample.site/redirect
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+.www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+.jp.today-prizes.club/todays-winner
+# ||buildathome.info^ (kame_filter.txt: 160)
+.buildathome.info
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+.www.uniblue.com/cm/marimedia-rm/speedupmypc/
+# ||onlineaway.net^ (kame_filter.txt: 158)
+.onlineaway.net
+# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+.ja.reimageplus.com
+# ||hk-life.net^ (kame_filter.txt: 153)
+.hk-life.net
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+.www.imaginetechservices.xyz
+# ||sanjayrout.com^ (kame_filter.txt: 147)
+.sanjayrout.com
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+.d1cy6bsvhksfmz.cloudfront.net
+# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+.www.faragegraphics.com
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+.d2gpqw290yvvmv.cloudfront.net
+# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+.7hdfilm.xyz
+# ||trustednotice.news^ (kame_filter.txt: 135)
+.trustednotice.news
+# ||winsupporthelp.club (kame_filter.txt: 131)
+.winsupporthelp.club*.
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+.xpics.us/images/786507813333_koinokisetu\.jpg
+# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+.yowwinnerprize.com
+# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+.nine-our-prize54.loan
+# ||www.pc.error (kame_filter.txt: 113)
+.www.pc.error*.
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+.khoikhoi-2news.xyz
+# ||pb7m.nl^ (kame_filter.txt: 109)
+.pb7m.nl
+# ||xtreeem.com^ (kame_filter.txt: 105)
+.xtreeem.com
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+.www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+.www.noao.edu/image_gallery/images/d7/cygloop\.jpg
+# ||piet2eix3l.com^ (kame_filter.txt: 94)
+.piet2eix3l.com
+# ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
+.mercari.sdfugdf.org
+# ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
+.orico.tgjhfgj.org
+# ||spacecloudstore.com/away.php (kame_filter.txt: 86)
+.spacecloudstore.com/away\.php
+# ||real-prizes-here.life^ (kame_filter.txt: 85)
+.real-prizes-here.life
+# ||recode.pw/ad (kame_filter.txt: 84)
+.recode.pw/ad
+# ||saison.dgfsghdf.com^ (kame_filter.txt: 83)
+.saison.dgfsghdf.com
+# ||smbc-card.dndlg.me^ (kame_filter.txt: 82)
+.smbc-card.dndlg.me
+# ||paypaygwfgg.xyz^ (kame_filter.txt: 81)
+.paypaygwfgg.xyz
+# ||aeon.tokyo^ (kame_filter.txt: 80)
+.aeon.tokyo
+# ||smbc-cardhrhrt.website^ (kame_filter.txt: 79)
+.smbc-cardhrhrt.website
+# ||.appIe^ (kame_filter.txt: 71)
+.appIe
+# ||linewg.cn^ (kame_filter.txt: 69)
+.linewg.cn
+# ||www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com^ (kame_filter.txt: 64)
+.www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com
+# ||blog.livedoor.jp/ringotomomin/ (kame_filter.txt: 60)
+.blog.livedoor.jp/ringotomomin/
+# ||com-w.win^ (kame_filter.txt: 24)
+.com-w.win
+# ||gu-ru.net^ (kame_filter.txt: 22)
+.gu-ru.net
 # ||zucks.net^ (280blocker_adblock.txt: 5413)
 .zucks.net
 # ||ziyu.net^ (280blocker_adblock.txt: 5412)
@@ -4012,6 +4367,14 @@ o333o.com
 #ab2p-block-dnt-R4
 {+client-header-tagger{ab2p-block-dnt-R4} \
 }
+# /iineButton-$domain=ameblo.jp (kotori_filter.txt: 89)
+/(?:(*PRUNE).*?/)?iineButton-
+# /btn_share_twitter_ico.png$domain=ameblo.jp (kotori_filter.txt: 55)
+/(?:(*PRUNE).*?/)?btn_share_twitter_ico\.png
+
+#ab2p-block-dnt-R5
+{+client-header-tagger{ab2p-block-dnt-R5} \
+}
 # ||awigglespouter.cam^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 349)
 .awigglespouter.cam
 # ||upgulpinon.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 347)
@@ -4031,16 +4394,16 @@ o333o.com
 # ||youngsterbusinessman.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 339)
 .youngsterbusinessman.com
 
-#ab2p-block-dnt-R5
-{+client-header-tagger{ab2p-block-dnt-R5} \
+#ab2p-block-dnt-R6
+{+client-header-tagger{ab2p-block-dnt-R6} \
 }
 # ||wu.deckerexuvium.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 348)
 .wu.deckerexuvium.com
 # ||outsliggooa.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 345)
 .outsliggooa.com
 
-#ab2p-block-dnt-R6
-{+client-header-tagger{ab2p-block-dnt-R6} \
+#ab2p-block-dnt-R7
+{+client-header-tagger{ab2p-block-dnt-R7} \
 }
 # ||stagepopkek.com^$domain=asiangaysex.net (280blocker_adblock.txt: 655)
 .stagepopkek.com
@@ -4049,8 +4412,8 @@ o333o.com
 # ||cdn2.popcash.net^$domain=asiangaysex.net (280blocker_adblock.txt: 461)
 .cdn2.popcash.net
 
-#ab2p-block-dnt-R7
-{+client-header-tagger{ab2p-block-dnt-R7} \
+#ab2p-block-dnt-R8
+{+client-header-tagger{ab2p-block-dnt-R8} \
 }
 # ||play.hdvideosnet.com^$domain=avgle.net (280blocker_adblock.txt: 353)
 .play.hdvideosnet.com
@@ -4059,85 +4422,85 @@ o333o.com
 # ||residenceseeingstanding.com^$domain=avgle.net (280blocker_adblock.txt: 350)
 .residenceseeingstanding.com
 
-#ab2p-block-dnt-R8
-{+client-header-tagger{ab2p-block-dnt-R8} \
+#ab2p-block-dnt-R9
+{+client-header-tagger{ab2p-block-dnt-R9} \
 }
 # ||d3al52d8cojds7.cloudfront.net$domain=b9good.com (280blocker_adblock.txt: 2707)
 .d3al52d8cojds7.cloudfront.net*.
 
-#ab2p-block-dnt-R9
-{+client-header-tagger{ab2p-block-dnt-R9} \
+#ab2p-block-dnt-R10
+{+client-header-tagger{ab2p-block-dnt-R10} \
 }
 # ||yqmxfz.com^$domain=barscaffolding.co.uk (280blocker_adblock.txt: 126)
 .yqmxfz.com
 
-#ab2p-block-dnt-R10
-{+client-header-tagger{ab2p-block-dnt-R10} \
+#ab2p-block-dnt-R11
+{+client-header-tagger{ab2p-block-dnt-R11} \
 }
 # ||www.chintai.net/redirect/orix/$domain=chintai.net (280blocker_adblock.txt: 2472)
 .www.chintai.net/redirect/orix/
 
-#ab2p-block-dnt-R11
-{+client-header-tagger{ab2p-block-dnt-R11} \
+#ab2p-block-dnt-R12
+{+client-header-tagger{ab2p-block-dnt-R12} \
 }
 # ||player.daznservices.com$domain=chunichi.co.jp|soccerdigestweb.com (280blocker_adblock.txt: 1448)
 .player.daznservices.com*.
 
-#ab2p-block-dnt-R12
-{+client-header-tagger{ab2p-block-dnt-R12} \
+#ab2p-block-dnt-R13
+{+client-header-tagger{ab2p-block-dnt-R13} \
 }
 # ||abc.comick.top/api^$domain=comick.top (280blocker_adblock.txt: 265)
 .abc.comick.top/api[^\w%.-]
 
-#ab2p-block-dnt-R13
-{+client-header-tagger{ab2p-block-dnt-R13} \
+#ab2p-block-dnt-R14
+{+client-header-tagger{ab2p-block-dnt-R14} \
 }
 # banner$domain=coolboys.jp (280blocker_adblock.txt: 4782)
 /(*PRUNE).*?banner
 .*banner*.
 
-#ab2p-block-dnt-R14
-{+client-header-tagger{ab2p-block-dnt-R14} \
+#ab2p-block-dnt-R15
+{+client-header-tagger{ab2p-block-dnt-R15} \
 }
 # ||apis.google.com$domain=earthyworld.com (280blocker_adblock.txt: 4516)
 .apis.google.com*.
 # ||facebook.net$domain=earthyworld.com (280blocker_adblock.txt: 4515)
 .facebook.net*.
 
-#ab2p-block-dnt-R15
-{+client-header-tagger{ab2p-block-dnt-R15} \
+#ab2p-block-dnt-R16
+{+client-header-tagger{ab2p-block-dnt-R16} \
 }
 # /js/Overlay.$domain=fc2.com (280blocker_adblock.txt: 4204)
 /(?:(*PRUNE).*?/)?js/Overlay\.
 
-#ab2p-block-dnt-R16
-{+client-header-tagger{ab2p-block-dnt-R16} \
+#ab2p-block-dnt-R17
+{+client-header-tagger{ab2p-block-dnt-R17} \
 }
 # ||player.performgroup.com$domain=full-count.jp|mainichi.jp (280blocker_adblock.txt: 2478)
 .player.performgroup.com*.
 
-#ab2p-block-dnt-R17
-{+client-header-tagger{ab2p-block-dnt-R17} \
+#ab2p-block-dnt-R18
+{+client-header-tagger{ab2p-block-dnt-R18} \
 }
 # ||player.performgroup.com$domain=full-count.jp|the-ans.jp|mainichi.jp (280blocker_adblock.txt: 2477)
 .player.performgroup.com*.
 
-#ab2p-block-dnt-R18
-{+client-header-tagger{ab2p-block-dnt-R18} \
+#ab2p-block-dnt-R19
+{+client-header-tagger{ab2p-block-dnt-R19} \
 }
 # =adunit$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1063)
 /(*PRUNE).*?=adunit
 # =adhost$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1062)
 /(*PRUNE).*?=adhost
 
-#ab2p-block-dnt-R19
-{+client-header-tagger{ab2p-block-dnt-R19} \
+#ab2p-block-dnt-R20
+{+client-header-tagger{ab2p-block-dnt-R20} \
 }
 # /changead.php$domain=hdouga.com (280blocker_adblock.txt: 4255)
 /(?:(*PRUNE).*?/)?changead\.php
 
-#ab2p-block-dnt-R20
-{+client-header-tagger{ab2p-block-dnt-R20} \
+#ab2p-block-dnt-R21
+{+client-header-tagger{ab2p-block-dnt-R21} \
 }
 # ||hdzog.com/qmbqqxxyvj^$domain=hdzog.com (280blocker_adblock.txt: 411)
 .hdzog.com/qmbqqxxyvj[^\w%.-]
@@ -4150,40 +4513,40 @@ o333o.com
 # ||6edccc1190.com^$domain=hdzog.com (280blocker_adblock.txt: 326)
 .6edccc1190.com
 
-#ab2p-block-dnt-R21
-{+client-header-tagger{ab2p-block-dnt-R21} \
+#ab2p-block-dnt-R22
+{+client-header-tagger{ab2p-block-dnt-R22} \
 }
 # ||clickadilla.com^$domain=vjav.com|hdzog.com (280blocker_adblock.txt: 579)
 .clickadilla.com
 
-#ab2p-block-dnt-R22
-{+client-header-tagger{ab2p-block-dnt-R22} \
+#ab2p-block-dnt-R23
+{+client-header-tagger{ab2p-block-dnt-R23} \
 }
 # ||fyglovilo.pro^$domain=hitomi.la (280blocker_adblock.txt: 232)
 .fyglovilo.pro
 # ||syndication.exoclick.com^$domain=hitomi.la (280blocker_adblock.txt: 231)
 .syndication.exoclick.com
 
-#ab2p-block-dnt-R23
-{+client-header-tagger{ab2p-block-dnt-R23} \
+#ab2p-block-dnt-R24
+{+client-header-tagger{ab2p-block-dnt-R24} \
 }
 # ||d2j042cj1421wi.cloudfront.net^$domain=idolsblog.tv (280blocker_adblock.txt: 125)
 .d2j042cj1421wi.cloudfront.net
 
-#ab2p-block-dnt-R24
-{+client-header-tagger{ab2p-block-dnt-R24} \
+#ab2p-block-dnt-R25
+{+client-header-tagger{ab2p-block-dnt-R25} \
 }
 # ||f3udfa7nfguhni.com^$domain=javsaga.ninja (280blocker_adblock.txt: 358)
 .f3udfa7nfguhni.com
 
-#ab2p-block-dnt-R25
-{+client-header-tagger{ab2p-block-dnt-R25} \
+#ab2p-block-dnt-R26
+{+client-header-tagger{ab2p-block-dnt-R26} \
 }
 # ||hugfromoctopus.com^$domain=javsaga.ninja|raw.senmanga.com (280blocker_adblock.txt: 422)
 .hugfromoctopus.com
 
-#ab2p-block-dnt-R26
-{+client-header-tagger{ab2p-block-dnt-R26} \
+#ab2p-block-dnt-R27
+{+client-header-tagger{ab2p-block-dnt-R27} \
 }
 # ||kawakitanet.com/soccerbbs/j/bbsbaner01.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4825)
 .kawakitanet.com/soccerbbs/j/bbsbaner01\.gif
@@ -4192,20 +4555,20 @@ o333o.com
 # ||kawakitanet.com/soccerbbs/j/image.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4823)
 .kawakitanet.com/soccerbbs/j/image\.gif
 
-#ab2p-block-dnt-R27
-{+client-header-tagger{ab2p-block-dnt-R27} \
+#ab2p-block-dnt-R28
+{+client-header-tagger{ab2p-block-dnt-R28} \
 }
 # ||doptr.pw^$domain=kazanesh.ru (280blocker_adblock.txt: 403)
 .doptr.pw
 
-#ab2p-block-dnt-R28
-{+client-header-tagger{ab2p-block-dnt-R28} \
+#ab2p-block-dnt-R29
+{+client-header-tagger{ab2p-block-dnt-R29} \
 }
 # ||dn.turacousequent.com^$domain=klmag.net (280blocker_adblock.txt: 337)
 .dn.turacousequent.com
 
-#ab2p-block-dnt-R29
-{+client-header-tagger{ab2p-block-dnt-R29} \
+#ab2p-block-dnt-R30
+{+client-header-tagger{ab2p-block-dnt-R30} \
 }
 # ||kl.trombegoitcho.com^$domain=klmanga.net (280blocker_adblock.txt: 406)
 .kl.trombegoitcho.com
@@ -4218,8 +4581,8 @@ o333o.com
 # ||3a1be44ca9.com^$domain=klmanga.net (280blocker_adblock.txt: 324)
 .3a1be44ca9.com
 
-#ab2p-block-dnt-R30
-{+client-header-tagger{ab2p-block-dnt-R30} \
+#ab2p-block-dnt-R31
+{+client-header-tagger{ab2p-block-dnt-R31} \
 }
 # ||laulup.com^$domain=kmansin03.com (280blocker_adblock.txt: 420)
 .laulup.com
@@ -4248,38 +4611,38 @@ o333o.com
 # ||stinue.com^$domain=kmansin03.com (280blocker_adblock.txt: 229)
 .stinue.com
 
-#ab2p-block-dnt-R31
-{+client-header-tagger{ab2p-block-dnt-R31} \
+#ab2p-block-dnt-R32
+{+client-header-tagger{ab2p-block-dnt-R32} \
 }
 # ||js.xemkqxs.com^$domain=manga1001.top (280blocker_adblock.txt: 408)
 .js.xemkqxs.com
 
-#ab2p-block-dnt-R32
-{+client-header-tagger{ab2p-block-dnt-R32} \
+#ab2p-block-dnt-R33
+{+client-header-tagger{ab2p-block-dnt-R33} \
 }
 # ||js.wpshsdk.com^$domain=vjav.com|manga1002.site|txxx.com (280blocker_adblock.txt: 582)
 .js.wpshsdk.com
 
-#ab2p-block-dnt-R33
-{+client-header-tagger{ab2p-block-dnt-R33} \
+#ab2p-block-dnt-R34
+{+client-header-tagger{ab2p-block-dnt-R34} \
 }
 # ||quokkacheeks.com^$domain=mangagohan.me (280blocker_adblock.txt: 338)
 .quokkacheeks.com
 
-#ab2p-block-dnt-R34
-{+client-header-tagger{ab2p-block-dnt-R34} \
+#ab2p-block-dnt-R35
+{+client-header-tagger{ab2p-block-dnt-R35} \
 }
 # ||mickeysdim.com^$domain=mangameta.com (280blocker_adblock.txt: 329)
 .mickeysdim.com
 
-#ab2p-block-dnt-R35
-{+client-header-tagger{ab2p-block-dnt-R35} \
+#ab2p-block-dnt-R36
+{+client-header-tagger{ab2p-block-dnt-R36} \
 }
 # ||jsc.adskeeper.com^$domain=mangaraw.co (280blocker_adblock.txt: 354)
 .jsc.adskeeper.com
 
-#ab2p-block-dnt-R36
-{+client-header-tagger{ab2p-block-dnt-R36} \
+#ab2p-block-dnt-R37
+{+client-header-tagger{ab2p-block-dnt-R37} \
 }
 # ||oaphoace.net^$domain=mangaraw.lol (280blocker_adblock.txt: 282)
 .oaphoace.net
@@ -4290,60 +4653,60 @@ o333o.com
 # ||zikroarg.com^$domain=mangaraw.lol (280blocker_adblock.txt: 275)
 .zikroarg.com
 
-#ab2p-block-dnt-R37
-{+client-header-tagger{ab2p-block-dnt-R37} \
+#ab2p-block-dnt-R38
+{+client-header-tagger{ab2p-block-dnt-R38} \
 }
 # ||tempest.services.disqus.com^$domain=mangas-raw.com (280blocker_adblock.txt: 357)
 .tempest.services.disqus.com
 # ||fardingsoiling.com^$domain=mangas-raw.com (280blocker_adblock.txt: 356)
 .fardingsoiling.com
 
-#ab2p-block-dnt-R38
-{+client-header-tagger{ab2p-block-dnt-R38} \
+#ab2p-block-dnt-R39
+{+client-header-tagger{ab2p-block-dnt-R39} \
 }
 # ||fiercedental.com^$domain=master124.ru|sun-spain.ru (280blocker_adblock.txt: 270)
 .fiercedental.com
 
-#ab2p-block-dnt-R39
-{+client-header-tagger{ab2p-block-dnt-R39} \
+#ab2p-block-dnt-R40
+{+client-header-tagger{ab2p-block-dnt-R40} \
 }
 # /popups.js$domain=mecanique-auto83.com (280blocker_adblock.txt: 4862)
 /(?:(*PRUNE).*?/)?popups\.js
 
-#ab2p-block-dnt-R40
-{+client-header-tagger{ab2p-block-dnt-R40} \
+#ab2p-block-dnt-R41
+{+client-header-tagger{ab2p-block-dnt-R41} \
 }
 # ||assistedadultrib.com^$domain=micmicidol.com (280blocker_adblock.txt: 233)
 .assistedadultrib.com
 
-#ab2p-block-dnt-R41
-{+client-header-tagger{ab2p-block-dnt-R41} \
+#ab2p-block-dnt-R42
+{+client-header-tagger{ab2p-block-dnt-R42} \
 }
 # ||puturebraving.com^$domain=mikaraw.com (280blocker_adblock.txt: 638)
 .puturebraving.com
 # ||zeromanga.net/api/ad^$domain=mikaraw.com (280blocker_adblock.txt: 266)
 .zeromanga.net/api/ad[^\w%.-]
 
-#ab2p-block-dnt-R42
-{+client-header-tagger{ab2p-block-dnt-R42} \
+#ab2p-block-dnt-R43
+{+client-header-tagger{ab2p-block-dnt-R43} \
 }
 # ||api.flipdesk.jp$domain=my-best.com (280blocker_adblock.txt: 2456)
 .api.flipdesk.jp*.
 
-#ab2p-block-dnt-R43
-{+client-header-tagger{ab2p-block-dnt-R43} \
+#ab2p-block-dnt-R44
+{+client-header-tagger{ab2p-block-dnt-R44} \
 }
 # ||discoveryplus.popin.cc$domain=nifty.com (280blocker_adblock.txt: 3166)
 .discoveryplus.popin.cc*.
 
-#ab2p-block-dnt-R44
-{+client-header-tagger{ab2p-block-dnt-R44} \
+#ab2p-block-dnt-R45
+{+client-header-tagger{ab2p-block-dnt-R45} \
 }
 # ||nogizaka-46bunno1.blog.jp/pic14.html$domain=nogizaka-46bunno1.blog.jp (280blocker_adblock.txt: 2741)
 .nogizaka-46bunno1.blog.jp/pic14\.html
 
-#ab2p-block-dnt-R45
-{+client-header-tagger{ab2p-block-dnt-R45} \
+#ab2p-block-dnt-R46
+{+client-header-tagger{ab2p-block-dnt-R46} \
 }
 # ||brazenwholly.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 280)
 .brazenwholly.com
@@ -4352,26 +4715,26 @@ o333o.com
 # ||ads.senmanga.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 278)
 .ads.senmanga.com
 
-#ab2p-block-dnt-R46
-{+client-header-tagger{ab2p-block-dnt-R46} \
+#ab2p-block-dnt-R47
+{+client-header-tagger{ab2p-block-dnt-R47} \
 }
 # ||st.chatango.com^$domain=rawkuma.com (280blocker_adblock.txt: 421)
 .st.chatango.com
 
-#ab2p-block-dnt-R47
-{+client-header-tagger{ab2p-block-dnt-R47} \
+#ab2p-block-dnt-R48
+{+client-header-tagger{ab2p-block-dnt-R48} \
 }
 # ||q777.sfchronicle.com/plugin/plugin^$domain=sfchronicle.com (280blocker_adblock.txt: 328)
 .q777.sfchronicle.com/plugin/plugin[^\w%.-]
 
-#ab2p-block-dnt-R48
-{+client-header-tagger{ab2p-block-dnt-R48} \
+#ab2p-block-dnt-R49
+{+client-header-tagger{ab2p-block-dnt-R49} \
 }
 # ||buy-ap.piano.io$domain=snrec.jp (280blocker_adblock.txt: 1013)
 .buy-ap.piano.io*.
 
-#ab2p-block-dnt-R49
-{+client-header-tagger{ab2p-block-dnt-R49} \
+#ab2p-block-dnt-R50
+{+client-header-tagger{ab2p-block-dnt-R50} \
 }
 # ||rrmon.adsbtrk.com^$domain=tktube.com (280blocker_adblock.txt: 269)
 .rrmon.adsbtrk.com
@@ -4380,26 +4743,26 @@ o333o.com
 # ||go6shde9nj2itle.com^$domain=tktube.com (280blocker_adblock.txt: 267)
 .go6shde9nj2itle.com
 
-#ab2p-block-dnt-R50
-{+client-header-tagger{ab2p-block-dnt-R50} \
+#ab2p-block-dnt-R51
+{+client-header-tagger{ab2p-block-dnt-R51} \
 }
 # ||choptacache.com^$domain=uraaka-joshi.com (280blocker_adblock.txt: 127)
 .choptacache.com
 
-#ab2p-block-dnt-R51
-{+client-header-tagger{ab2p-block-dnt-R51} \
+#ab2p-block-dnt-R52
+{+client-header-tagger{ab2p-block-dnt-R52} \
 }
 # ||static.fc2.com/video/js_smartphone_new/out^$domain=video.fc2.com (280blocker_adblock.txt: 281)
 .static.fc2.com/video/js_smartphone_new/out[^\w%.-]
 
-#ab2p-block-dnt-R52
-{+client-header-tagger{ab2p-block-dnt-R52} \
+#ab2p-block-dnt-R53
+{+client-header-tagger{ab2p-block-dnt-R53} \
 }
 # ||addresseepaper.com^$domain=vidstream.pro (280blocker_adblock.txt: 264)
 .addresseepaper.com
 
-#ab2p-block-dnt-R53
-{+client-header-tagger{ab2p-block-dnt-R53} \
+#ab2p-block-dnt-R54
+{+client-header-tagger{ab2p-block-dnt-R54} \
 }
 # ||bqnqrr53.com^$domain=vjav.com (280blocker_adblock.txt: 584)
 .bqnqrr53.com
@@ -4408,8 +4771,8 @@ o333o.com
 # ||vxxx.com^$domain=vjav.com (280blocker_adblock.txt: 580)
 .vxxx.com
 
-#ab2p-block-dnt-R54
-{+client-header-tagger{ab2p-block-dnt-R54} \
+#ab2p-block-dnt-R55
+{+client-header-tagger{ab2p-block-dnt-R55} \
 }
 # ||oversowcholam.com^$domain=weloma.art (280blocker_adblock.txt: 416)
 .oversowcholam.com
@@ -4418,14 +4781,14 @@ o333o.com
 # ||adncdnend.azureedge.net^$domain=weloma.art (280blocker_adblock.txt: 414)
 .adncdnend.azureedge.net
 
-#ab2p-block-dnt-R55
-{+client-header-tagger{ab2p-block-dnt-R55} \
+#ab2p-block-dnt-R56
+{+client-header-tagger{ab2p-block-dnt-R56} \
 }
 # ||nasrolaugers.com^$domain=welovemanga.one (280blocker_adblock.txt: 417)
 .nasrolaugers.com
 
-#ab2p-block-dnt-R56
-{+client-header-tagger{ab2p-block-dnt-R56} \
+#ab2p-block-dnt-R57
+{+client-header-tagger{ab2p-block-dnt-R57} \
 }
 # ||upzerons.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 274)
 .upzerons.com
@@ -4436,223 +4799,229 @@ o333o.com
 # ||interstitial-08.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 271)
 .interstitial-08.com
 
-#ab2p-block-dnt-R57
-{+client-header-tagger{ab2p-block-dnt-R57} \
+#ab2p-block-dnt-R58
+{+client-header-tagger{ab2p-block-dnt-R58} \
 }
 # BannerLoader$domain=wikipedia.org (280blocker_adblock.txt: 4865)
 /(*PRUNE).*?BannerLoader
 .*BannerLoader*.
 
-#ab2p-block-dnt-R58
-{+client-header-tagger{ab2p-block-dnt-R58} \
+#ab2p-block-dnt-R59
+{+client-header-tagger{ab2p-block-dnt-R59} \
 }
 # ||cdnjs.cloudflare.com$domain=xbooks.to (280blocker_adblock.txt: 3015)
 .cdnjs.cloudflare.com*.
 
-#ab2p-block-dnt-Rn59
-{+client-header-tagger{ab2p-block-dnt-Rn59} \
+#ab2p-block-dnt-R60
+{+client-header-tagger{ab2p-block-dnt-R60} \
 }
-# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
-.adingo.jp
-
-#ab2p-block-dnt-Rn60
-{+client-header-tagger{ab2p-block-dnt-Rn60} \
-}
-# ||googleadservices.com^$third-party,domain=~google.com|~google.co.jp|~forbes.com|~mydocomo.com|~onlineshop.smt.docomo.ne.jp|~ralphlauren.co.jp|~109cinemas.net|~square-enix.com (280blocker_adblock.txt: 2320)
-.googleadservices.com
+# ||platform.twitter.com/jot.html$domain=yahoo.co.jp (kotori_filter.txt: 105)
+.platform.twitter.com/jot\.html
 
 #ab2p-block-dnt-Rn61
 {+client-header-tagger{ab2p-block-dnt-Rn61} \
 }
-# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
-.img.550909.com/banner/
+# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
+.adingo.jp
 
 #ab2p-block-dnt-Rn62
 {+client-header-tagger{ab2p-block-dnt-Rn62} \
 }
-# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
-.pagead2.googlesyndication.com*.
+# ||googleadservices.com^$third-party,domain=~google.com|~google.co.jp|~forbes.com|~mydocomo.com|~onlineshop.smt.docomo.ne.jp|~ralphlauren.co.jp|~109cinemas.net|~square-enix.com (280blocker_adblock.txt: 2320)
+.googleadservices.com
 
 #ab2p-block-dnt-Rn63
 {+client-header-tagger{ab2p-block-dnt-Rn63} \
 }
-# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
-ad.
+# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
+.img.550909.com/banner/
 
 #ab2p-block-dnt-Rn64
 {+client-header-tagger{ab2p-block-dnt-Rn64} \
 }
-# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
-ad.
+# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
+.pagead2.googlesyndication.com*.
 
 #ab2p-block-dnt-Rn65
 {+client-header-tagger{ab2p-block-dnt-Rn65} \
 }
-# ||afl.rakuten.co.jp^$third-party,domain=~afl.rakuten.co.jp|~kakaku.com (280blocker_adblock.txt: 4256)
-.afl.rakuten.co.jp
+# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
+ad.
 
 #ab2p-block-dnt-Rn66
 {+client-header-tagger{ab2p-block-dnt-Rn66} \
 }
-# ||doubleclick.net^$domain=~cosme.net|~amazon.co.jp|~onlineshop.smt.docomo.ne.jp|~mydocomo.com|~ralphlauren.co.jp|~atwiki.jp|~bookoffonline.co.jp|~natgeo.nikkeibp.co.jp|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~blogk.com|~tabkul.com (280blocker_adblock.txt: 2318)
-.doubleclick.net
+# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
+ad.
 
 #ab2p-block-dnt-Rn67
 {+client-header-tagger{ab2p-block-dnt-Rn67} \
+}
+# ||afl.rakuten.co.jp^$third-party,domain=~afl.rakuten.co.jp|~kakaku.com (280blocker_adblock.txt: 4256)
+.afl.rakuten.co.jp
+
+#ab2p-block-dnt-Rn68
+{+client-header-tagger{ab2p-block-dnt-Rn68} \
+}
+# ||doubleclick.net^$domain=~cosme.net|~amazon.co.jp|~onlineshop.smt.docomo.ne.jp|~mydocomo.com|~ralphlauren.co.jp|~atwiki.jp|~bookoffonline.co.jp|~natgeo.nikkeibp.co.jp|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~blogk.com|~tabkul.com (280blocker_adblock.txt: 2318)
+.doubleclick.net
+
+#ab2p-block-dnt-Rn69
+{+client-header-tagger{ab2p-block-dnt-Rn69} \
 }
 # |https://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3382)
 ads.
 # |http://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3381)
 ads.
 
-#ab2p-block-dnt-Rn68
-{+client-header-tagger{ab2p-block-dnt-Rn68} \
+#ab2p-block-dnt-Rn70
+{+client-header-tagger{ab2p-block-dnt-Rn70} \
 }
 # ||as.ebis.ne.jp/resolv.php$domain=~auone.jp (280blocker_adblock.txt: 3997)
 .as.ebis.ne.jp/resolv\.php
 
-#ab2p-block-dnt-Rn69
-{+client-header-tagger{ab2p-block-dnt-Rn69} \
+#ab2p-block-dnt-Rn71
+{+client-header-tagger{ab2p-block-dnt-Rn71} \
 }
 # ||exosrv.com$domain=~avgle.com|~manga1000.com (280blocker_adblock.txt: 3394)
 .exosrv.com*.
 
-#ab2p-block-dnt-Rn70
-{+client-header-tagger{ab2p-block-dnt-Rn70} \
+#ab2p-block-dnt-Rn72
+{+client-header-tagger{ab2p-block-dnt-Rn72} \
 }
 # ||media.line.naver.jp^$third-party,domain=~naver.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1445)
 .media.line.naver.jp
 
-#ab2p-block-dnt-Rn71
-{+client-header-tagger{ab2p-block-dnt-Rn71} \
+#ab2p-block-dnt-Rn73
+{+client-header-tagger{ab2p-block-dnt-Rn73} \
 }
 # ||media.line.me/js/line-button.js$domain=~tokyo-gas.co.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1446)
 .media.line.me/js/line-button\.js
 
-#ab2p-block-dnt-Rn72
-{+client-header-tagger{ab2p-block-dnt-Rn72} \
+#ab2p-block-dnt-Rn74
+{+client-header-tagger{ab2p-block-dnt-Rn74} \
 }
 # ||img.bbchat.tv/images/bannar/$domain=~bbchat.tv (280blocker_adblock.txt: 2569)
 .img.bbchat.tv/images/bannar/
 
-#ab2p-block-dnt-Rn73
-{+client-header-tagger{ab2p-block-dnt-Rn73} \
+#ab2p-block-dnt-Rn75
+{+client-header-tagger{ab2p-block-dnt-Rn75} \
 }
 # ||blogmura.com^$third-party,domain=~blogmura.com (280blocker_adblock.txt: 4947)
 .blogmura.com
 
-#ab2p-block-dnt-Rn74
-{+client-header-tagger{ab2p-block-dnt-Rn74} \
+#ab2p-block-dnt-Rn76
+{+client-header-tagger{ab2p-block-dnt-Rn76} \
 }
 # ||adtechus.com^$third-party,domain=~casabrutus.com (280blocker_adblock.txt: 3455)
 .adtechus.com
 
-#ab2p-block-dnt-Rn75
-{+client-header-tagger{ab2p-block-dnt-Rn75} \
+#ab2p-block-dnt-Rn77
+{+client-header-tagger{ab2p-block-dnt-Rn77} \
 }
 # ||apis.google.com/js/plusone.js$domain=~google.com|~google.co.jp|~studio-mario.jp|~kitamura.jp|~charingress.tokyo (280blocker_adblock.txt: 4883)
 .apis.google.com/js/plusone\.js
 
-#ab2p-block-dnt-Rn76
-{+client-header-tagger{ab2p-block-dnt-Rn76} \
+#ab2p-block-dnt-Rn78
+{+client-header-tagger{ab2p-block-dnt-Rn78} \
 }
 # ||mediad2.jp^$domain=~dropbooks.tv|~xbooks.to (280blocker_adblock.txt: 3062)
 .mediad2.jp
 
-#ab2p-block-dnt-Rn77
-{+client-header-tagger{ab2p-block-dnt-Rn77} \
+#ab2p-block-dnt-Rn79
+{+client-header-tagger{ab2p-block-dnt-Rn79} \
 }
 # ||microad.net^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4731)
 .microad.net
 # ||microad.jp^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4730)
 .microad.jp
 
-#ab2p-block-dnt-Rn78
-{+client-header-tagger{ab2p-block-dnt-Rn78} \
+#ab2p-block-dnt-Rn80
+{+client-header-tagger{ab2p-block-dnt-Rn80} \
 }
 # ||aka-uae-dl.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1924)
 .aka-uae-dl.uliza.jp*.
 # ||ad-api-v01.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1923)
 .ad-api-v01.uliza.jp*.
 
-#ab2p-block-dnt-Rn79
-{+client-header-tagger{ab2p-block-dnt-Rn79} \
+#ab2p-block-dnt-Rn81
+{+client-header-tagger{ab2p-block-dnt-Rn81} \
 }
 # ||s3.feedly.com/img/follows/$domain=~feedly.com (280blocker_adblock.txt: 4888)
 .s3.feedly.com/img/follows/
 
-#ab2p-block-dnt-Rn80
-{+client-header-tagger{ab2p-block-dnt-Rn80} \
+#ab2p-block-dnt-Rn82
+{+client-header-tagger{ab2p-block-dnt-Rn82} \
 }
 # ||mathtag.com^$domain=~forbes.com (280blocker_adblock.txt: 4963)
 .mathtag.com
 
-#ab2p-block-dnt-Rn81
-{+client-header-tagger{ab2p-block-dnt-Rn81} \
+#ab2p-block-dnt-Rn83
+{+client-header-tagger{ab2p-block-dnt-Rn83} \
 }
 # ||feed.mikle.com$domain=~l-lal.space|~funato.us (280blocker_adblock.txt: 1922)
 .feed.mikle.com*.
 
-#ab2p-block-dnt-Rn82
-{+client-header-tagger{ab2p-block-dnt-Rn82} \
+#ab2p-block-dnt-Rn84
+{+client-header-tagger{ab2p-block-dnt-Rn84} \
 }
 # ||linksynergy.com^$third-party,domain=~gamespark.jp|~inside-games.jp (280blocker_adblock.txt: 362)
 .linksynergy.com
 
-#ab2p-block-dnt-Rn83
-{+client-header-tagger{ab2p-block-dnt-Rn83} \
+#ab2p-block-dnt-Rn85
+{+client-header-tagger{ab2p-block-dnt-Rn85} \
 }
 # ||outbrain.com^$domain=~news.livedoor.com|~gendai.ismedia.jp (280blocker_adblock.txt: 3099)
 .outbrain.com
 
-#ab2p-block-dnt-Rn84
-{+client-header-tagger{ab2p-block-dnt-Rn84} \
+#ab2p-block-dnt-Rn86
+{+client-header-tagger{ab2p-block-dnt-Rn86} \
 }
 # ||gendama.jp^$third-party,domain=~gendama.jp (280blocker_adblock.txt: 4948)
 .gendama.jp
 
-#ab2p-block-dnt-Rn85
-{+client-header-tagger{ab2p-block-dnt-Rn85} \
+#ab2p-block-dnt-Rn87
+{+client-header-tagger{ab2p-block-dnt-Rn87} \
 }
 # ||in.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2621)
 .in.treasuredata.com
 # ||cdn.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2620)
 .cdn.treasuredata.com
 
-#ab2p-block-dnt-Rn86
-{+client-header-tagger{ab2p-block-dnt-Rn86} \
+#ab2p-block-dnt-Rn88
+{+client-header-tagger{ab2p-block-dnt-Rn88} \
 }
 # ||plusone.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4957)
 .plusone.google.com
 # ||plus.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4956)
 .plus.google.com
 
-#ab2p-block-dnt-Rn87
-{+client-header-tagger{ab2p-block-dnt-Rn87} \
+#ab2p-block-dnt-Rn89
+{+client-header-tagger{ab2p-block-dnt-Rn89} \
 }
 # ||share.gree.jp^$third-party,domain=~gree.jp (280blocker_adblock.txt: 4958)
 .share.gree.jp
 
-#ab2p-block-dnt-Rn88
-{+client-header-tagger{ab2p-block-dnt-Rn88} \
+#ab2p-block-dnt-Rn90
+{+client-header-tagger{ab2p-block-dnt-Rn90} \
 }
 # ||ads.pubmatic.com$domain=~hackintosh.zone (280blocker_adblock.txt: 4363)
 .ads.pubmatic.com*.
 
-#ab2p-block-dnt-Rn89
-{+client-header-tagger{ab2p-block-dnt-Rn89} \
+#ab2p-block-dnt-Rn91
+{+client-header-tagger{ab2p-block-dnt-Rn91} \
 }
 # ||hapitas.jp^$third-party,domain=~hapitas.jp (280blocker_adblock.txt: 4949)
 .hapitas.jp
 
-#ab2p-block-dnt-Rn90
-{+client-header-tagger{ab2p-block-dnt-Rn90} \
+#ab2p-block-dnt-Rn92
+{+client-header-tagger{ab2p-block-dnt-Rn92} \
 }
 # ||img.happymail.co.jp/img/pc_l/$domain=~happymail.co.jp (280blocker_adblock.txt: 2598)
 .img.happymail.co.jp/img/pc_l/
 
-#ab2p-block-dnt-Rn91
-{+client-header-tagger{ab2p-block-dnt-Rn91} \
+#ab2p-block-dnt-Rn93
+{+client-header-tagger{ab2p-block-dnt-Rn93} \
 }
 # ||b.st-hatena.com/js/bookmark_button.js$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4186)
 .b.st-hatena.com/js/bookmark_button\.js
@@ -4661,44 +5030,44 @@ ads.
 # ||b.st-hatena.com/images/entry-button/button$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4184)
 .b.st-hatena.com/images/entry-button/button
 
-#ab2p-block-dnt-Rn92
-{+client-header-tagger{ab2p-block-dnt-Rn92} \
+#ab2p-block-dnt-Rn94
+{+client-header-tagger{ab2p-block-dnt-Rn94} \
 }
 # ||popcash.net$domain=~hoshinoromi.org (280blocker_adblock.txt: 2967)
 .popcash.net*.
 
-#ab2p-block-dnt-Rn93
-{+client-header-tagger{ab2p-block-dnt-Rn93} \
+#ab2p-block-dnt-Rn95
+{+client-header-tagger{ab2p-block-dnt-Rn95} \
 }
 # ||i.ntere.st^$third-party,domain=~i.ntere.st (280blocker_adblock.txt: 4950)
 .i.ntere.st
 
-#ab2p-block-dnt-Rn94
-{+client-header-tagger{ab2p-block-dnt-Rn94} \
+#ab2p-block-dnt-Rn96
+{+client-header-tagger{ab2p-block-dnt-Rn96} \
 }
 # ||instagramfollowbutton.com^$third-party,domain=~instagram.com (280blocker_adblock.txt: 4952)
 .instagramfollowbutton.com
 
-#ab2p-block-dnt-Rn95
-{+client-header-tagger{ab2p-block-dnt-Rn95} \
+#ab2p-block-dnt-Rn97
+{+client-header-tagger{ab2p-block-dnt-Rn97} \
 }
 # ||instapaper.com^$third-party,domain=~instapaper.com (280blocker_adblock.txt: 4953)
 .instapaper.com
 
-#ab2p-block-dnt-Rn96
-{+client-header-tagger{ab2p-block-dnt-Rn96} \
+#ab2p-block-dnt-Rn98
+{+client-header-tagger{ab2p-block-dnt-Rn98} \
 }
 # ||ad.jp.ap.valuecommerce.com^$third-party,domain=~itmedia.co.jp (280blocker_adblock.txt: 5009)
 .ad.jp.ap.valuecommerce.com
 
-#ab2p-block-dnt-Rn97
-{+client-header-tagger{ab2p-block-dnt-Rn97} \
+#ab2p-block-dnt-Rn99
+{+client-header-tagger{ab2p-block-dnt-Rn99} \
 }
 # ||cxense.com^$domain=~mainichi.jp|~itmedia.co.jp (280blocker_adblock.txt: 4018)
 .cxense.com
 
-#ab2p-block-dnt-Rn98
-{+client-header-tagger{ab2p-block-dnt-Rn98} \
+#ab2p-block-dnt-Rn100
+{+client-header-tagger{ab2p-block-dnt-Rn100} \
 }
 # ||nend.net^$domain=~kanajo.com (280blocker_adblock.txt: 5286)
 .nend.net
@@ -4707,70 +5076,76 @@ ads.
 # ||adm.shinobi.jp^$domain=~kanajo.com (280blocker_adblock.txt: 5045)
 .adm.shinobi.jp
 
-#ab2p-block-dnt-Rn99
-{+client-header-tagger{ab2p-block-dnt-Rn99} \
+#ab2p-block-dnt-Rn101
+{+client-header-tagger{ab2p-block-dnt-Rn101} \
 }
 # ||coremetrics.com^$domain=~konamistyle.jp|~konami.com|~konami.jp|~konami.net (280blocker_adblock.txt: 4961)
 .coremetrics.com
 
-#ab2p-block-dnt-Rn100
-{+client-header-tagger{ab2p-block-dnt-Rn100} \
-}
-# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
-.s.yimg.jp/bdv/yahoo
-
-#ab2p-block-dnt-Rn101
-{+client-header-tagger{ab2p-block-dnt-Rn101} \
-}
-# ||mixi.jp^$third-party,domain=~mixi.jp (280blocker_adblock.txt: 4954)
-.mixi.jp
-
 #ab2p-block-dnt-Rn102
 {+client-header-tagger{ab2p-block-dnt-Rn102} \
 }
-# ||moppy.jp^$third-party,domain=~moppy.jp (280blocker_adblock.txt: 4955)
-.moppy.jp
+# ||line.me^$domain=~line.me (kotori_filter.txt: 91)
+.line.me
 
 #ab2p-block-dnt-Rn103
 {+client-header-tagger{ab2p-block-dnt-Rn103} \
 }
-# ||i.popincdn.com$domain=~nikkan-gendai.com (280blocker_adblock.txt: 2399)
-.i.popincdn.com*.
+# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
+.s.yimg.jp/bdv/yahoo
 
 #ab2p-block-dnt-Rn104
 {+client-header-tagger{ab2p-block-dnt-Rn104} \
+}
+# ||mixi.jp^$third-party,domain=~mixi.jp (280blocker_adblock.txt: 4954)
+.mixi.jp
+
+#ab2p-block-dnt-Rn105
+{+client-header-tagger{ab2p-block-dnt-Rn105} \
+}
+# ||moppy.jp^$third-party,domain=~moppy.jp (280blocker_adblock.txt: 4955)
+.moppy.jp
+
+#ab2p-block-dnt-Rn106
+{+client-header-tagger{ab2p-block-dnt-Rn106} \
+}
+# ||i.popincdn.com$domain=~nikkan-gendai.com (280blocker_adblock.txt: 2399)
+.i.popincdn.com*.
+
+#ab2p-block-dnt-Rn107
+{+client-header-tagger{ab2p-block-dnt-Rn107} \
 }
 # ||doga.cm$domain=~ponta.jp (280blocker_adblock.txt: 4781)
 .doga.cm*.
 # ||mtburn.com^$third-party,domain=~ponta.jp (280blocker_adblock.txt: 3303)
 .mtburn.com
 
-#ab2p-block-dnt-Rn105
-{+client-header-tagger{ab2p-block-dnt-Rn105} \
+#ab2p-block-dnt-Rn108
+{+client-header-tagger{ab2p-block-dnt-Rn108} \
 }
 # ||logly.co.jp^$third-party,domain=~qiita.com (280blocker_adblock.txt: 5257)
 .logly.co.jp
 
-#ab2p-block-dnt-Rn106
-{+client-header-tagger{ab2p-block-dnt-Rn106} \
+#ab2p-block-dnt-Rn109
+{+client-header-tagger{ab2p-block-dnt-Rn109} \
 }
 # ||shop-list.com^$third-party,domain=~shop-list.com (280blocker_adblock.txt: 4959)
 .shop-list.com
 
-#ab2p-block-dnt-Rn107
-{+client-header-tagger{ab2p-block-dnt-Rn107} \
+#ab2p-block-dnt-Rn110
+{+client-header-tagger{ab2p-block-dnt-Rn110} \
 }
 # ||impact-ad.jp^$third-party,domain=~tjapan.jp (280blocker_adblock.txt: 3458)
 .impact-ad.jp
 
-#ab2p-block-dnt-Rn108
-{+client-header-tagger{ab2p-block-dnt-Rn108} \
+#ab2p-block-dnt-Rn111
+{+client-header-tagger{ab2p-block-dnt-Rn111} \
 }
 # ||adplan-ds.com^$domain=~tsite.jp (280blocker_adblock.txt: 4017)
 .adplan-ds.com
 
-#ab2p-block-dnt-Rn109
-{+client-header-tagger{ab2p-block-dnt-Rn109} \
+#ab2p-block-dnt-Rn112
+{+client-header-tagger{ab2p-block-dnt-Rn112} \
 }
 # ||platform.tumblr.com/v2/follow_button$domain=~tumblr.com (280blocker_adblock.txt: 4887)
 .platform.tumblr.com/v2/follow_button
@@ -4779,32 +5154,38 @@ ads.
 # ||assets.tumblr.com/share-button.js$domain=~tumblr.com (280blocker_adblock.txt: 4884)
 .assets.tumblr.com/share-button\.js
 
-#ab2p-block-dnt-Rn110
-{+client-header-tagger{ab2p-block-dnt-Rn110} \
+#ab2p-block-dnt-Rn113
+{+client-header-tagger{ab2p-block-dnt-Rn113} \
 }
 # /dfp.js$domain=~wired.jp (280blocker_adblock.txt: 4038)
 /(?:(*PRUNE).*?/)?dfp\.js
 
-#ab2p-block-dnt-Rn111
-{+client-header-tagger{ab2p-block-dnt-Rn111} \
+#ab2p-block-dnt-Rn114
+{+client-header-tagger{ab2p-block-dnt-Rn114} \
 }
 # ||with2.net^$third-party,domain=~with2.net (280blocker_adblock.txt: 4960)
 .with2.net
 
-#ab2p-block-dnt-Rn112
-{+client-header-tagger{ab2p-block-dnt-Rn112} \
+#ab2p-block-dnt-Rn115
+{+client-header-tagger{ab2p-block-dnt-Rn115} \
 }
 # ||scorecardresearch.com^$domain=~wsj.com|~yahoo.co.jp (280blocker_adblock.txt: 4791)
 .scorecardresearch.com
 
-#ab2p-block-dnt-Rn113
-{+client-header-tagger{ab2p-block-dnt-Rn113} \
+#ab2p-block-dnt-Rn116
+{+client-header-tagger{ab2p-block-dnt-Rn116} \
+}
+# ||www.amazon.co.jp.$domain=~www.amazon.co.jp (kame_filter.txt: 77)
+.www.amazon.co.jp.
+
+#ab2p-block-dnt-Rn117
+{+client-header-tagger{ab2p-block-dnt-Rn117} \
 }
 # ||popin.cc/searchbox$domain=~www.nifty.com (280blocker_adblock.txt: 3058)
 .popin.cc/searchbox
 
-#ab2p-block-dnt-Rn114
-{+client-header-tagger{ab2p-block-dnt-Rn114} \
+#ab2p-block-dnt-Rn118
+{+client-header-tagger{ab2p-block-dnt-Rn118} \
 }
 # ||2mdn.info^$domain=~yahoo.co.jp (280blocker_adblock.txt: 4966)
 .2mdn.info
@@ -4825,6 +5206,361 @@ ads.
 { \
 }
 TAG:^ab2p-block-elem$
+# ||www.news24.jp/sp/image/common/btn_ (kotori_filter.txt: 210)
+.www.news24.jp/sp/image/common/btn_
+# ||www.gizmodo.jp/assets/sp/img/p-post_share (kotori_filter.txt: 209)
+.www.gizmodo.jp/assets/sp/img/p-post_share
+# ||wired.jp/wp-content/themes/wired3/common/img/line-send.png| (kotori_filter.txt: 208)
+.wired.jp/wp-content/themes/wired3/common/img/line-send\.png$
+# ||wired.jp/wp-content/themes/wired3/common/images/fb-share.png| (kotori_filter.txt: 207)
+.wired.jp/wp-content/themes/wired3/common/images/fb-share\.png$
+# ||secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn.png| (kotori_filter.txt: 206)
+.secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn\.png$
+# ||s4.reutersmedia.net/resources_v3/js/win-sharetools.js| (kotori_filter.txt: 205)
+.s4.reutersmedia.net/resources_v3/js/win-sharetools\.js$
+# ||parts.blog.livedoor.jp/img/usr/cmn/btn_add_line.png| (kotori_filter.txt: 204)
+.parts.blog.livedoor.jp/img/usr/cmn/btn_add_line\.png$
+# ||parts.blog.livedoor.jp/img/lite2/item/social_buttons (kotori_filter.txt: 203)
+.parts.blog.livedoor.jp/img/lite2/item/social_buttons
+# ||news.nicovideo.jp/assets/icon_sns- (kotori_filter.txt: 202)
+.news.nicovideo.jp/assets/icon_sns-
+# ||public-api.wordpress.com/connect/?googleplus-sign-in$subdocument (kotori_filter.txt: 197)
+.public-api.wordpress.com/connect/\?googleplus-sign-in
+# ||s2.reutersmedia.net/resources_v2/js/rcom-social-share.js| (kotori_filter.txt: 194)
+.s2.reutersmedia.net/resources_v2/js/rcom-social-share\.js$
+# ||5chmm.jp/img/t_mini-b.png| (kotori_filter.txt: 191)
+.5chmm.jp/img/t_mini-b\.png$
+# ||www.yomiuri.co.jp/assets/js/sns-share- (kotori_filter.txt: 188)
+.www.yomiuri.co.jp/assets/js/sns-share-
+# ||www.nhk.or.jp/common/sns/img/ (kotori_filter.txt: 185)
+.www.nhk.or.jp/common/sns/img/
+# ||scdn.line-apps.com/n/line_add_friends/btn/ja.png| (kotori_filter.txt: 183)
+.scdn.line-apps.com/n/line_add_friends/btn/ja\.png$
+# ||i.share.gree.jp/img/share/button/btn_logo_16.png| (kotori_filter.txt: 180)
+.i.share.gree.jp/img/share/button/btn_logo_16\.png$
+# ||platform.tumblr.com/v1/share (kotori_filter.txt: 177)
+.platform.tumblr.com/v1/share
+# ||b.st-hatena.com/images/v4/public/entry-button/button-only (kotori_filter.txt: 174)
+.b.st-hatena.com/images/v4/public/entry-button/button-only
+# ||b.st-hatena.com/images/entry-button/button-only (kotori_filter.txt: 172)
+.b.st-hatena.com/images/entry-button/button-only
+# ||b.hatena.ne.jp/images/entry-button/button-only (kotori_filter.txt: 170)
+.b.hatena.ne.jp/images/entry-button/button-only
+# ||apis.google.com/se/0/_/+1/sharebutton? (kotori_filter.txt: 167)
+.apis.google.com/se/0/_/\+1/sharebutton\?
+# ||analytics.twitter.com/i/adsct? (kotori_filter.txt: 157)
+.analytics.twitter.com/i/adsct\?
+# ||connect.facebook.net/en_US/sdk.js (kotori_filter.txt: 148)
+.connect.facebook.net/en_US/sdk\.js
+# ||widgets.getpocket.com/v1/button? (kotori_filter.txt: 133)
+.widgets.getpocket.com/v1/button\?
+# ||widgets.getpocket.com/v1/j/btn.js?v=1 (kotori_filter.txt: 132)
+.widgets.getpocket.com/v1/j/btn\.js\?v=1
+# ||platform.twitter.com/widgets/follow_button. (kotori_filter.txt: 131)
+.platform.twitter.com/widgets/follow_button\.
+# ||platform.twitter.com/js/button. (kotori_filter.txt: 130)
+.platform.twitter.com/js/button\.
+# ||jsoon.digitiminimi.com/twitter/count.json? (kotori_filter.txt: 129)
+.jsoon.digitiminimi.com/twitter/count\.json\?
+# ||parts.lineblog.me/img/usr/lineblog/common/sns_buttons.png (kotori_filter.txt: 122)
+.parts.lineblog.me/img/usr/lineblog/common/sns_buttons\.png
+# ||s.yimg.jp/images/weather/promo/ (kotori_filter.txt: 116)
+.s.yimg.jp/images/weather/promo/
+# ||s.yimg.jp/images/weather/top_module/twitter_top.png (kotori_filter.txt: 114)
+.s.yimg.jp/images/weather/top_module/twitter_top\.png
+# ||s.yimg.jp/images/weather/top_module/facebook_top.png (kotori_filter.txt: 113)
+.s.yimg.jp/images/weather/top_module/facebook_top\.png
+# ||i.yimg.jp/lib/news/socialModule/ (kotori_filter.txt: 99)
+.i.yimg.jp/lib/news/socialModule/
+# ||stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1.2.0.css (kotori_filter.txt: 96)
+.stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1\.2\.0\.css
+# ||stat100.ameba.jp/ameblo/pc/js/iineButton-1.1.0.js (kotori_filter.txt: 95)
+.stat100.ameba.jp/ameblo/pc/js/iineButton-1\.1\.0\.js
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 77)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||b.hatena.ne.jp/entry.count?url= (kotori_filter.txt: 75)
+.b.hatena.ne.jp/entry\.count\?url=
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 73)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||syndication.twitter.com/i/jot (kotori_filter.txt: 58)
+.syndication.twitter.com/i/jot
+# ||api.b.st-hatena.com/entry.count (kotori_filter.txt: 49)
+.api.b.st-hatena.com/entry\.count
+# ||badge.facebook.com/badge/ (kotori_filter.txt: 48)
+.badge.facebook.com/badge/
+# ||graph.facebook.com/?callback=jQuery (kotori_filter.txt: 47)
+.graph.facebook.com/\?callback=jQuery
+# ||graph.facebook.com/?ids= (kotori_filter.txt: 44)
+.graph.facebook.com/\?ids=
+# ||graph.facebook.com/?callback=jsonp (kotori_filter.txt: 43)
+.graph.facebook.com/\?callback=jsonp
+# ||connect.facebook.net/ja_JP/all.js (kotori_filter.txt: 41)
+.connect.facebook.net/ja_JP/all\.js
+# ||www.facebook.com/tr/?id= (kotori_filter.txt: 32)
+.www.facebook.com/tr/\?id=
+# ||connect.facebook.net/ja_JP/sdk.js (kotori_filter.txt: 31)
+.connect.facebook.net/ja_JP/sdk\.js
+# ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
+.connect.facebook.net/en_US/fbevents\.js
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+.your.case.id.for.this.reason.is.pp.rangdeindia.jp
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+.umedaumeda.ec-net.jp
+# ||tobacco.jp^ (kame_filter.txt: 360)
+.tobacco.jp
+# ||tga.co.jp^ (kame_filter.txt: 359)
+.tga.co.jp
+# ||smcw-member.jp^ (kame_filter.txt: 358)
+.smcw-member.jp
+# ||rentskinow.jp^ (kame_filter.txt: 357)
+.rentskinow.jp
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+.pluscolorn.sub.jp
+# ||plaso.jp^ (kame_filter.txt: 355)
+.plaso.jp
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+.payment.on.your.account.rangdeindia.jp
+# ||oneby1.jp^ (kame_filter.txt: 353)
+.oneby1.jp
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+.nozomimiyazaki.main.jp
+# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+.kashimayunohana.jp
+# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+.kamabokoworks.jp
+# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+.jwa-niigata.jp
+# ||jk-bic.jp^ (kame_filter.txt: 348)
+.jk-bic.jp
+# ||irumakg.jp^ (kame_filter.txt: 347)
+.irumakg.jp
+# ||g-r.co.jp^ (kame_filter.txt: 346)
+.g-r.co.jp
+# ||grangrace.jp^ (kame_filter.txt: 345)
+.grangrace.jp
+# ||gaspa-web.jp^ (kame_filter.txt: 344)
+.gaspa-web.jp
+# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+.butter-delimmo.jp
+# ||aasc.or.jp^ (kame_filter.txt: 341)
+.aasc.or.jp
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+.210237148191.cidr.jtidc.jp
+# ||niconicochannel.info^ (kame_filter.txt: 324)
+.niconicochannel.info
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+.eroeroxhamster8.pw
+# ||ero-japan.net^ (kame_filter.txt: 322)
+.ero-japan.net
+# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+.i.imgur.tru.io
+# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+.kabutyer.ownip.net
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+.news27u.youdontcare.com/newsplus/
+# ||xephaoma.com^ (kame_filter.txt: 300)
+.xephaoma.com
+# ||miffy.me^ (kame_filter.txt: 298)
+.miffy.me
+# ||gl-search.com^ (kame_filter.txt: 292)
+.gl-search.com
+# ||fznews.xyz^ (kame_filter.txt: 286)
+.fznews.xyz
+# ||2ch.today^ (kame_filter.txt: 284)
+.2ch.today
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+.milky.geocities.jp/fkdsjlaginea/
+# ||showmyhomes.com/ (kame_filter.txt: 279)
+.showmyhomes.com
+# ||newtab.club^ (kame_filter.txt: 277)
+.newtab.club
+# ||imgur.com. (kame_filter.txt: 272)
+.imgur.com.
+# ||my.to^ (kame_filter.txt: 270)
+.my.to
+# ||rude.li^ (kame_filter.txt: 267)
+.rude.li
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+.exioer5.missouriprobate.biz
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+.fc2.com/p/F0Nll5V-\?\.gif
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+.www.bityet.us/s7b47si\.jpg
+# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+.goo.gl/En6m3D 
+# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+.qsnews.ndra.biz
+# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+.derx.stanciu.biz
+# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+.edax.getamonkey.com
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+.livebby.b2.valueserver.jp
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
+/^https?:\/\/[a-z0-9-]{38,}\.fun\/
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
+/^https?:\/\/[a-z0-9]{38,}\.co\/
+# ||freecaptcha.top^ (kame_filter.txt: 241)
+.freecaptcha.top
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+.masmurkambojacoy.furved.com
+# ||eqaw.cn^ (kame_filter.txt: 236)
+.eqaw.cn
+# ||getflexsafe.io^ (kame_filter.txt: 233)
+.getflexsafe.io
+# ||1redirb.com^ (kame_filter.txt: 230)
+.1redirb.com
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+.terratopi.roflclub.asia
+# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+.clk.rtpdn14.com
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+.katie.v4.omgtnc.com
+# ||fmvs.jp^ (kame_filter.txt: 224)
+.fmvs.jp
+# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+.rakuten.card080.shop
+# ||meruli.rest^ (kame_filter.txt: 218)
+.meruli.rest
+# ||1.ne02.biz^ (kame_filter.txt: 214)
+.1.ne02.biz
+# ||acc.pp.ua^ (kame_filter.txt: 213)
+.acc.pp.ua
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+.alderbridge.studio42sound.com
+# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+.system-update-new-2022.com
+# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+.system-update-new-2021.com
+# ||freegogpcgames.com^ (kame_filter.txt: 209)
+.freegogpcgames.com
+# ||amazon.co.jp. (kame_filter.txt: 206)
+.amazon.co.jp.
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+.amazon.co.jp.chuyipay.net
+# ||yodyson.com^ (kame_filter.txt: 202)
+.yodyson.com
+# .duckdns.org (kame_filter.txt: 198)
+/(*PRUNE).*?\.duckdns\.org
+.duckdns.org*.
+# ||fres-news.com^ (kame_filter.txt: 194)
+.fres-news.com
+# ||0pen.page^ (kame_filter.txt: 192)
+.0pen.page
+# ||0n.click^ (kame_filter.txt: 191)
+.0n.click
+# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+.best.prizedeal512.info
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+.realcenter-mobileapps2.com
+# ||213.136.91.194^ (kame_filter.txt: 188)
+.213.136.91.194
+# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+.ssigkandnelo.tk
+# ||infolinks.com^ (kame_filter.txt: 184)
+.infolinks.com
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+.d141wsrw9m4as6.cloudfront.net
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+.dc5k8fg5ioc8s.cloudfront.net
+# ||herepackagine.info^ (kame_filter.txt: 181)
+.herepackagine.info
+# ||www.audazweb.com^ (kame_filter.txt: 178)
+.www.audazweb.com
+# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+.ktechguardiansrn.site
+# ||discount.s3blog.org^ (kame_filter.txt: 172)
+.discount.s3blog.org
+# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+.sarah.runtnc.net
+# ||goneoutnow.site^$document (kame_filter.txt: 168)
+.goneoutnow.site
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+.direct.redtrafficsample.site/redirect
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+.www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+.jp.today-prizes.club/todays-winner
+# ||buildathome.info^ (kame_filter.txt: 160)
+.buildathome.info
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+.www.uniblue.com/cm/marimedia-rm/speedupmypc/
+# ||onlineaway.net^ (kame_filter.txt: 158)
+.onlineaway.net
+# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+.ja.reimageplus.com
+# ||hk-life.net^ (kame_filter.txt: 153)
+.hk-life.net
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+.www.imaginetechservices.xyz
+# ||sanjayrout.com^ (kame_filter.txt: 147)
+.sanjayrout.com
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+.d1cy6bsvhksfmz.cloudfront.net
+# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+.www.faragegraphics.com
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+.d2gpqw290yvvmv.cloudfront.net
+# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+.7hdfilm.xyz
+# ||trustednotice.news^ (kame_filter.txt: 135)
+.trustednotice.news
+# ||winsupporthelp.club (kame_filter.txt: 131)
+.winsupporthelp.club*.
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+.xpics.us/images/786507813333_koinokisetu\.jpg
+# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+.yowwinnerprize.com
+# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+.nine-our-prize54.loan
+# ||www.pc.error (kame_filter.txt: 113)
+.www.pc.error*.
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+.khoikhoi-2news.xyz
+# ||pb7m.nl^ (kame_filter.txt: 109)
+.pb7m.nl
+# ||xtreeem.com^ (kame_filter.txt: 105)
+.xtreeem.com
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+.www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+.www.noao.edu/image_gallery/images/d7/cygloop\.jpg
+# ||piet2eix3l.com^ (kame_filter.txt: 94)
+.piet2eix3l.com
+# ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
+.mercari.sdfugdf.org
+# ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
+.orico.tgjhfgj.org
+# ||spacecloudstore.com/away.php (kame_filter.txt: 86)
+.spacecloudstore.com/away\.php
+# ||real-prizes-here.life^ (kame_filter.txt: 85)
+.real-prizes-here.life
+# ||recode.pw/ad (kame_filter.txt: 84)
+.recode.pw/ad
+# ||saison.dgfsghdf.com^ (kame_filter.txt: 83)
+.saison.dgfsghdf.com
+# ||smbc-card.dndlg.me^ (kame_filter.txt: 82)
+.smbc-card.dndlg.me
+# ||paypaygwfgg.xyz^ (kame_filter.txt: 81)
+.paypaygwfgg.xyz
+# ||aeon.tokyo^ (kame_filter.txt: 80)
+.aeon.tokyo
+# ||smbc-cardhrhrt.website^ (kame_filter.txt: 79)
+.smbc-cardhrhrt.website
+# ||.appIe^ (kame_filter.txt: 71)
+.appIe
+# ||linewg.cn^ (kame_filter.txt: 69)
+.linewg.cn
+# ||www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com^ (kame_filter.txt: 64)
+.www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com
+# ||blog.livedoor.jp/ringotomomin/ (kame_filter.txt: 60)
+.blog.livedoor.jp/ringotomomin/
+# ||com-w.win^ (kame_filter.txt: 24)
+.com-w.win
+# ||gu-ru.net^ (kame_filter.txt: 22)
+.gu-ru.net
 # ||zucks.net^ (280blocker_adblock.txt: 5413)
 .zucks.net
 # ||ziyu.net^ (280blocker_adblock.txt: 5412)
@@ -8740,6 +9476,14 @@ o333o.com
 #ab2p-block-elem-R4
 {+client-header-tagger{ab2p-block-elem-R4} \
 }
+# /iineButton-$domain=ameblo.jp (kotori_filter.txt: 89)
+/(?:(*PRUNE).*?/)?iineButton-
+# /btn_share_twitter_ico.png$domain=ameblo.jp (kotori_filter.txt: 55)
+/(?:(*PRUNE).*?/)?btn_share_twitter_ico\.png
+
+#ab2p-block-elem-R5
+{+client-header-tagger{ab2p-block-elem-R5} \
+}
 # ||awigglespouter.cam^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 349)
 .awigglespouter.cam
 # ||upgulpinon.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 347)
@@ -8759,16 +9503,16 @@ o333o.com
 # ||youngsterbusinessman.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 339)
 .youngsterbusinessman.com
 
-#ab2p-block-elem-R5
-{+client-header-tagger{ab2p-block-elem-R5} \
+#ab2p-block-elem-R6
+{+client-header-tagger{ab2p-block-elem-R6} \
 }
 # ||wu.deckerexuvium.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 348)
 .wu.deckerexuvium.com
 # ||outsliggooa.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 345)
 .outsliggooa.com
 
-#ab2p-block-elem-R6
-{+client-header-tagger{ab2p-block-elem-R6} \
+#ab2p-block-elem-R7
+{+client-header-tagger{ab2p-block-elem-R7} \
 }
 # ||stagepopkek.com^$domain=asiangaysex.net (280blocker_adblock.txt: 655)
 .stagepopkek.com
@@ -8777,8 +9521,8 @@ o333o.com
 # ||cdn2.popcash.net^$domain=asiangaysex.net (280blocker_adblock.txt: 461)
 .cdn2.popcash.net
 
-#ab2p-block-elem-R7
-{+client-header-tagger{ab2p-block-elem-R7} \
+#ab2p-block-elem-R8
+{+client-header-tagger{ab2p-block-elem-R8} \
 }
 # ||play.hdvideosnet.com^$domain=avgle.net (280blocker_adblock.txt: 353)
 .play.hdvideosnet.com
@@ -8787,85 +9531,85 @@ o333o.com
 # ||residenceseeingstanding.com^$domain=avgle.net (280blocker_adblock.txt: 350)
 .residenceseeingstanding.com
 
-#ab2p-block-elem-R8
-{+client-header-tagger{ab2p-block-elem-R8} \
+#ab2p-block-elem-R9
+{+client-header-tagger{ab2p-block-elem-R9} \
 }
 # ||d3al52d8cojds7.cloudfront.net$domain=b9good.com (280blocker_adblock.txt: 2707)
 .d3al52d8cojds7.cloudfront.net*.
 
-#ab2p-block-elem-R9
-{+client-header-tagger{ab2p-block-elem-R9} \
+#ab2p-block-elem-R10
+{+client-header-tagger{ab2p-block-elem-R10} \
 }
 # ||yqmxfz.com^$domain=barscaffolding.co.uk (280blocker_adblock.txt: 126)
 .yqmxfz.com
 
-#ab2p-block-elem-R10
-{+client-header-tagger{ab2p-block-elem-R10} \
+#ab2p-block-elem-R11
+{+client-header-tagger{ab2p-block-elem-R11} \
 }
 # ||www.chintai.net/redirect/orix/$domain=chintai.net (280blocker_adblock.txt: 2472)
 .www.chintai.net/redirect/orix/
 
-#ab2p-block-elem-R11
-{+client-header-tagger{ab2p-block-elem-R11} \
+#ab2p-block-elem-R12
+{+client-header-tagger{ab2p-block-elem-R12} \
 }
 # ||player.daznservices.com$domain=chunichi.co.jp|soccerdigestweb.com (280blocker_adblock.txt: 1448)
 .player.daznservices.com*.
 
-#ab2p-block-elem-R12
-{+client-header-tagger{ab2p-block-elem-R12} \
+#ab2p-block-elem-R13
+{+client-header-tagger{ab2p-block-elem-R13} \
 }
 # ||abc.comick.top/api^$domain=comick.top (280blocker_adblock.txt: 265)
 .abc.comick.top/api[^\w%.-]
 
-#ab2p-block-elem-R13
-{+client-header-tagger{ab2p-block-elem-R13} \
+#ab2p-block-elem-R14
+{+client-header-tagger{ab2p-block-elem-R14} \
 }
 # banner$domain=coolboys.jp (280blocker_adblock.txt: 4782)
 /(*PRUNE).*?banner
 .*banner*.
 
-#ab2p-block-elem-R14
-{+client-header-tagger{ab2p-block-elem-R14} \
+#ab2p-block-elem-R15
+{+client-header-tagger{ab2p-block-elem-R15} \
 }
 # ||apis.google.com$domain=earthyworld.com (280blocker_adblock.txt: 4516)
 .apis.google.com*.
 # ||facebook.net$domain=earthyworld.com (280blocker_adblock.txt: 4515)
 .facebook.net*.
 
-#ab2p-block-elem-R15
-{+client-header-tagger{ab2p-block-elem-R15} \
+#ab2p-block-elem-R16
+{+client-header-tagger{ab2p-block-elem-R16} \
 }
 # /js/Overlay.$domain=fc2.com (280blocker_adblock.txt: 4204)
 /(?:(*PRUNE).*?/)?js/Overlay\.
 
-#ab2p-block-elem-R16
-{+client-header-tagger{ab2p-block-elem-R16} \
+#ab2p-block-elem-R17
+{+client-header-tagger{ab2p-block-elem-R17} \
 }
 # ||player.performgroup.com$domain=full-count.jp|mainichi.jp (280blocker_adblock.txt: 2478)
 .player.performgroup.com*.
 
-#ab2p-block-elem-R17
-{+client-header-tagger{ab2p-block-elem-R17} \
+#ab2p-block-elem-R18
+{+client-header-tagger{ab2p-block-elem-R18} \
 }
 # ||player.performgroup.com$domain=full-count.jp|the-ans.jp|mainichi.jp (280blocker_adblock.txt: 2477)
 .player.performgroup.com*.
 
-#ab2p-block-elem-R18
-{+client-header-tagger{ab2p-block-elem-R18} \
+#ab2p-block-elem-R19
+{+client-header-tagger{ab2p-block-elem-R19} \
 }
 # =adunit$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1063)
 /(*PRUNE).*?=adunit
 # =adhost$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1062)
 /(*PRUNE).*?=adhost
 
-#ab2p-block-elem-R19
-{+client-header-tagger{ab2p-block-elem-R19} \
+#ab2p-block-elem-R20
+{+client-header-tagger{ab2p-block-elem-R20} \
 }
 # /changead.php$domain=hdouga.com (280blocker_adblock.txt: 4255)
 /(?:(*PRUNE).*?/)?changead\.php
 
-#ab2p-block-elem-R20
-{+client-header-tagger{ab2p-block-elem-R20} \
+#ab2p-block-elem-R21
+{+client-header-tagger{ab2p-block-elem-R21} \
 }
 # ||hdzog.com/qmbqqxxyvj^$domain=hdzog.com (280blocker_adblock.txt: 411)
 .hdzog.com/qmbqqxxyvj[^\w%.-]
@@ -8878,40 +9622,40 @@ o333o.com
 # ||6edccc1190.com^$domain=hdzog.com (280blocker_adblock.txt: 326)
 .6edccc1190.com
 
-#ab2p-block-elem-R21
-{+client-header-tagger{ab2p-block-elem-R21} \
+#ab2p-block-elem-R22
+{+client-header-tagger{ab2p-block-elem-R22} \
 }
 # ||clickadilla.com^$domain=vjav.com|hdzog.com (280blocker_adblock.txt: 579)
 .clickadilla.com
 
-#ab2p-block-elem-R22
-{+client-header-tagger{ab2p-block-elem-R22} \
+#ab2p-block-elem-R23
+{+client-header-tagger{ab2p-block-elem-R23} \
 }
 # ||fyglovilo.pro^$domain=hitomi.la (280blocker_adblock.txt: 232)
 .fyglovilo.pro
 # ||syndication.exoclick.com^$domain=hitomi.la (280blocker_adblock.txt: 231)
 .syndication.exoclick.com
 
-#ab2p-block-elem-R23
-{+client-header-tagger{ab2p-block-elem-R23} \
+#ab2p-block-elem-R24
+{+client-header-tagger{ab2p-block-elem-R24} \
 }
 # ||d2j042cj1421wi.cloudfront.net^$domain=idolsblog.tv (280blocker_adblock.txt: 125)
 .d2j042cj1421wi.cloudfront.net
 
-#ab2p-block-elem-R24
-{+client-header-tagger{ab2p-block-elem-R24} \
+#ab2p-block-elem-R25
+{+client-header-tagger{ab2p-block-elem-R25} \
 }
 # ||f3udfa7nfguhni.com^$domain=javsaga.ninja (280blocker_adblock.txt: 358)
 .f3udfa7nfguhni.com
 
-#ab2p-block-elem-R25
-{+client-header-tagger{ab2p-block-elem-R25} \
+#ab2p-block-elem-R26
+{+client-header-tagger{ab2p-block-elem-R26} \
 }
 # ||hugfromoctopus.com^$domain=javsaga.ninja|raw.senmanga.com (280blocker_adblock.txt: 422)
 .hugfromoctopus.com
 
-#ab2p-block-elem-R26
-{+client-header-tagger{ab2p-block-elem-R26} \
+#ab2p-block-elem-R27
+{+client-header-tagger{ab2p-block-elem-R27} \
 }
 # ||kawakitanet.com/soccerbbs/j/bbsbaner01.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4825)
 .kawakitanet.com/soccerbbs/j/bbsbaner01\.gif
@@ -8920,20 +9664,20 @@ o333o.com
 # ||kawakitanet.com/soccerbbs/j/image.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4823)
 .kawakitanet.com/soccerbbs/j/image\.gif
 
-#ab2p-block-elem-R27
-{+client-header-tagger{ab2p-block-elem-R27} \
+#ab2p-block-elem-R28
+{+client-header-tagger{ab2p-block-elem-R28} \
 }
 # ||doptr.pw^$domain=kazanesh.ru (280blocker_adblock.txt: 403)
 .doptr.pw
 
-#ab2p-block-elem-R28
-{+client-header-tagger{ab2p-block-elem-R28} \
+#ab2p-block-elem-R29
+{+client-header-tagger{ab2p-block-elem-R29} \
 }
 # ||dn.turacousequent.com^$domain=klmag.net (280blocker_adblock.txt: 337)
 .dn.turacousequent.com
 
-#ab2p-block-elem-R29
-{+client-header-tagger{ab2p-block-elem-R29} \
+#ab2p-block-elem-R30
+{+client-header-tagger{ab2p-block-elem-R30} \
 }
 # ||kl.trombegoitcho.com^$domain=klmanga.net (280blocker_adblock.txt: 406)
 .kl.trombegoitcho.com
@@ -8946,8 +9690,8 @@ o333o.com
 # ||3a1be44ca9.com^$domain=klmanga.net (280blocker_adblock.txt: 324)
 .3a1be44ca9.com
 
-#ab2p-block-elem-R30
-{+client-header-tagger{ab2p-block-elem-R30} \
+#ab2p-block-elem-R31
+{+client-header-tagger{ab2p-block-elem-R31} \
 }
 # ||laulup.com^$domain=kmansin03.com (280blocker_adblock.txt: 420)
 .laulup.com
@@ -8976,38 +9720,38 @@ o333o.com
 # ||stinue.com^$domain=kmansin03.com (280blocker_adblock.txt: 229)
 .stinue.com
 
-#ab2p-block-elem-R31
-{+client-header-tagger{ab2p-block-elem-R31} \
+#ab2p-block-elem-R32
+{+client-header-tagger{ab2p-block-elem-R32} \
 }
 # ||js.xemkqxs.com^$domain=manga1001.top (280blocker_adblock.txt: 408)
 .js.xemkqxs.com
 
-#ab2p-block-elem-R32
-{+client-header-tagger{ab2p-block-elem-R32} \
+#ab2p-block-elem-R33
+{+client-header-tagger{ab2p-block-elem-R33} \
 }
 # ||js.wpshsdk.com^$domain=vjav.com|manga1002.site|txxx.com (280blocker_adblock.txt: 582)
 .js.wpshsdk.com
 
-#ab2p-block-elem-R33
-{+client-header-tagger{ab2p-block-elem-R33} \
+#ab2p-block-elem-R34
+{+client-header-tagger{ab2p-block-elem-R34} \
 }
 # ||quokkacheeks.com^$domain=mangagohan.me (280blocker_adblock.txt: 338)
 .quokkacheeks.com
 
-#ab2p-block-elem-R34
-{+client-header-tagger{ab2p-block-elem-R34} \
+#ab2p-block-elem-R35
+{+client-header-tagger{ab2p-block-elem-R35} \
 }
 # ||mickeysdim.com^$domain=mangameta.com (280blocker_adblock.txt: 329)
 .mickeysdim.com
 
-#ab2p-block-elem-R35
-{+client-header-tagger{ab2p-block-elem-R35} \
+#ab2p-block-elem-R36
+{+client-header-tagger{ab2p-block-elem-R36} \
 }
 # ||jsc.adskeeper.com^$domain=mangaraw.co (280blocker_adblock.txt: 354)
 .jsc.adskeeper.com
 
-#ab2p-block-elem-R36
-{+client-header-tagger{ab2p-block-elem-R36} \
+#ab2p-block-elem-R37
+{+client-header-tagger{ab2p-block-elem-R37} \
 }
 # ||oaphoace.net^$domain=mangaraw.lol (280blocker_adblock.txt: 282)
 .oaphoace.net
@@ -9018,60 +9762,60 @@ o333o.com
 # ||zikroarg.com^$domain=mangaraw.lol (280blocker_adblock.txt: 275)
 .zikroarg.com
 
-#ab2p-block-elem-R37
-{+client-header-tagger{ab2p-block-elem-R37} \
+#ab2p-block-elem-R38
+{+client-header-tagger{ab2p-block-elem-R38} \
 }
 # ||tempest.services.disqus.com^$domain=mangas-raw.com (280blocker_adblock.txt: 357)
 .tempest.services.disqus.com
 # ||fardingsoiling.com^$domain=mangas-raw.com (280blocker_adblock.txt: 356)
 .fardingsoiling.com
 
-#ab2p-block-elem-R38
-{+client-header-tagger{ab2p-block-elem-R38} \
+#ab2p-block-elem-R39
+{+client-header-tagger{ab2p-block-elem-R39} \
 }
 # ||fiercedental.com^$domain=master124.ru|sun-spain.ru (280blocker_adblock.txt: 270)
 .fiercedental.com
 
-#ab2p-block-elem-R39
-{+client-header-tagger{ab2p-block-elem-R39} \
+#ab2p-block-elem-R40
+{+client-header-tagger{ab2p-block-elem-R40} \
 }
 # /popups.js$domain=mecanique-auto83.com (280blocker_adblock.txt: 4862)
 /(?:(*PRUNE).*?/)?popups\.js
 
-#ab2p-block-elem-R40
-{+client-header-tagger{ab2p-block-elem-R40} \
+#ab2p-block-elem-R41
+{+client-header-tagger{ab2p-block-elem-R41} \
 }
 # ||assistedadultrib.com^$domain=micmicidol.com (280blocker_adblock.txt: 233)
 .assistedadultrib.com
 
-#ab2p-block-elem-R41
-{+client-header-tagger{ab2p-block-elem-R41} \
+#ab2p-block-elem-R42
+{+client-header-tagger{ab2p-block-elem-R42} \
 }
 # ||puturebraving.com^$domain=mikaraw.com (280blocker_adblock.txt: 638)
 .puturebraving.com
 # ||zeromanga.net/api/ad^$domain=mikaraw.com (280blocker_adblock.txt: 266)
 .zeromanga.net/api/ad[^\w%.-]
 
-#ab2p-block-elem-R42
-{+client-header-tagger{ab2p-block-elem-R42} \
+#ab2p-block-elem-R43
+{+client-header-tagger{ab2p-block-elem-R43} \
 }
 # ||api.flipdesk.jp$domain=my-best.com (280blocker_adblock.txt: 2456)
 .api.flipdesk.jp*.
 
-#ab2p-block-elem-R43
-{+client-header-tagger{ab2p-block-elem-R43} \
+#ab2p-block-elem-R44
+{+client-header-tagger{ab2p-block-elem-R44} \
 }
 # ||discoveryplus.popin.cc$domain=nifty.com (280blocker_adblock.txt: 3166)
 .discoveryplus.popin.cc*.
 
-#ab2p-block-elem-R44
-{+client-header-tagger{ab2p-block-elem-R44} \
+#ab2p-block-elem-R45
+{+client-header-tagger{ab2p-block-elem-R45} \
 }
 # ||nogizaka-46bunno1.blog.jp/pic14.html$domain=nogizaka-46bunno1.blog.jp (280blocker_adblock.txt: 2741)
 .nogizaka-46bunno1.blog.jp/pic14\.html
 
-#ab2p-block-elem-R45
-{+client-header-tagger{ab2p-block-elem-R45} \
+#ab2p-block-elem-R46
+{+client-header-tagger{ab2p-block-elem-R46} \
 }
 # ||brazenwholly.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 280)
 .brazenwholly.com
@@ -9080,26 +9824,26 @@ o333o.com
 # ||ads.senmanga.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 278)
 .ads.senmanga.com
 
-#ab2p-block-elem-R46
-{+client-header-tagger{ab2p-block-elem-R46} \
+#ab2p-block-elem-R47
+{+client-header-tagger{ab2p-block-elem-R47} \
 }
 # ||st.chatango.com^$domain=rawkuma.com (280blocker_adblock.txt: 421)
 .st.chatango.com
 
-#ab2p-block-elem-R47
-{+client-header-tagger{ab2p-block-elem-R47} \
+#ab2p-block-elem-R48
+{+client-header-tagger{ab2p-block-elem-R48} \
 }
 # ||q777.sfchronicle.com/plugin/plugin^$domain=sfchronicle.com (280blocker_adblock.txt: 328)
 .q777.sfchronicle.com/plugin/plugin[^\w%.-]
 
-#ab2p-block-elem-R48
-{+client-header-tagger{ab2p-block-elem-R48} \
+#ab2p-block-elem-R49
+{+client-header-tagger{ab2p-block-elem-R49} \
 }
 # ||buy-ap.piano.io$domain=snrec.jp (280blocker_adblock.txt: 1013)
 .buy-ap.piano.io*.
 
-#ab2p-block-elem-R49
-{+client-header-tagger{ab2p-block-elem-R49} \
+#ab2p-block-elem-R50
+{+client-header-tagger{ab2p-block-elem-R50} \
 }
 # ||rrmon.adsbtrk.com^$domain=tktube.com (280blocker_adblock.txt: 269)
 .rrmon.adsbtrk.com
@@ -9108,26 +9852,26 @@ o333o.com
 # ||go6shde9nj2itle.com^$domain=tktube.com (280blocker_adblock.txt: 267)
 .go6shde9nj2itle.com
 
-#ab2p-block-elem-R50
-{+client-header-tagger{ab2p-block-elem-R50} \
+#ab2p-block-elem-R51
+{+client-header-tagger{ab2p-block-elem-R51} \
 }
 # ||choptacache.com^$domain=uraaka-joshi.com (280blocker_adblock.txt: 127)
 .choptacache.com
 
-#ab2p-block-elem-R51
-{+client-header-tagger{ab2p-block-elem-R51} \
+#ab2p-block-elem-R52
+{+client-header-tagger{ab2p-block-elem-R52} \
 }
 # ||static.fc2.com/video/js_smartphone_new/out^$domain=video.fc2.com (280blocker_adblock.txt: 281)
 .static.fc2.com/video/js_smartphone_new/out[^\w%.-]
 
-#ab2p-block-elem-R52
-{+client-header-tagger{ab2p-block-elem-R52} \
+#ab2p-block-elem-R53
+{+client-header-tagger{ab2p-block-elem-R53} \
 }
 # ||addresseepaper.com^$domain=vidstream.pro (280blocker_adblock.txt: 264)
 .addresseepaper.com
 
-#ab2p-block-elem-R53
-{+client-header-tagger{ab2p-block-elem-R53} \
+#ab2p-block-elem-R54
+{+client-header-tagger{ab2p-block-elem-R54} \
 }
 # ||bqnqrr53.com^$domain=vjav.com (280blocker_adblock.txt: 584)
 .bqnqrr53.com
@@ -9136,8 +9880,8 @@ o333o.com
 # ||vxxx.com^$domain=vjav.com (280blocker_adblock.txt: 580)
 .vxxx.com
 
-#ab2p-block-elem-R54
-{+client-header-tagger{ab2p-block-elem-R54} \
+#ab2p-block-elem-R55
+{+client-header-tagger{ab2p-block-elem-R55} \
 }
 # ||oversowcholam.com^$domain=weloma.art (280blocker_adblock.txt: 416)
 .oversowcholam.com
@@ -9146,14 +9890,14 @@ o333o.com
 # ||adncdnend.azureedge.net^$domain=weloma.art (280blocker_adblock.txt: 414)
 .adncdnend.azureedge.net
 
-#ab2p-block-elem-R55
-{+client-header-tagger{ab2p-block-elem-R55} \
+#ab2p-block-elem-R56
+{+client-header-tagger{ab2p-block-elem-R56} \
 }
 # ||nasrolaugers.com^$domain=welovemanga.one (280blocker_adblock.txt: 417)
 .nasrolaugers.com
 
-#ab2p-block-elem-R56
-{+client-header-tagger{ab2p-block-elem-R56} \
+#ab2p-block-elem-R57
+{+client-header-tagger{ab2p-block-elem-R57} \
 }
 # ||upzerons.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 274)
 .upzerons.com
@@ -9164,223 +9908,229 @@ o333o.com
 # ||interstitial-08.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 271)
 .interstitial-08.com
 
-#ab2p-block-elem-R57
-{+client-header-tagger{ab2p-block-elem-R57} \
+#ab2p-block-elem-R58
+{+client-header-tagger{ab2p-block-elem-R58} \
 }
 # BannerLoader$domain=wikipedia.org (280blocker_adblock.txt: 4865)
 /(*PRUNE).*?BannerLoader
 .*BannerLoader*.
 
-#ab2p-block-elem-R58
-{+client-header-tagger{ab2p-block-elem-R58} \
+#ab2p-block-elem-R59
+{+client-header-tagger{ab2p-block-elem-R59} \
 }
 # ||cdnjs.cloudflare.com$domain=xbooks.to (280blocker_adblock.txt: 3015)
 .cdnjs.cloudflare.com*.
 
-#ab2p-block-elem-Rn59
-{+client-header-tagger{ab2p-block-elem-Rn59} \
+#ab2p-block-elem-R60
+{+client-header-tagger{ab2p-block-elem-R60} \
 }
-# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
-.adingo.jp
-
-#ab2p-block-elem-Rn60
-{+client-header-tagger{ab2p-block-elem-Rn60} \
-}
-# ||googleadservices.com^$third-party,domain=~google.com|~google.co.jp|~forbes.com|~mydocomo.com|~onlineshop.smt.docomo.ne.jp|~ralphlauren.co.jp|~109cinemas.net|~square-enix.com (280blocker_adblock.txt: 2320)
-.googleadservices.com
+# ||platform.twitter.com/jot.html$domain=yahoo.co.jp (kotori_filter.txt: 105)
+.platform.twitter.com/jot\.html
 
 #ab2p-block-elem-Rn61
 {+client-header-tagger{ab2p-block-elem-Rn61} \
 }
-# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
-.img.550909.com/banner/
+# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
+.adingo.jp
 
 #ab2p-block-elem-Rn62
 {+client-header-tagger{ab2p-block-elem-Rn62} \
 }
-# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
-.pagead2.googlesyndication.com*.
+# ||googleadservices.com^$third-party,domain=~google.com|~google.co.jp|~forbes.com|~mydocomo.com|~onlineshop.smt.docomo.ne.jp|~ralphlauren.co.jp|~109cinemas.net|~square-enix.com (280blocker_adblock.txt: 2320)
+.googleadservices.com
 
 #ab2p-block-elem-Rn63
 {+client-header-tagger{ab2p-block-elem-Rn63} \
 }
-# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
-ad.
+# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
+.img.550909.com/banner/
 
 #ab2p-block-elem-Rn64
 {+client-header-tagger{ab2p-block-elem-Rn64} \
 }
-# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
-ad.
+# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
+.pagead2.googlesyndication.com*.
 
 #ab2p-block-elem-Rn65
 {+client-header-tagger{ab2p-block-elem-Rn65} \
 }
-# ||afl.rakuten.co.jp^$third-party,domain=~afl.rakuten.co.jp|~kakaku.com (280blocker_adblock.txt: 4256)
-.afl.rakuten.co.jp
+# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
+ad.
 
 #ab2p-block-elem-Rn66
 {+client-header-tagger{ab2p-block-elem-Rn66} \
 }
-# ||doubleclick.net^$domain=~cosme.net|~amazon.co.jp|~onlineshop.smt.docomo.ne.jp|~mydocomo.com|~ralphlauren.co.jp|~atwiki.jp|~bookoffonline.co.jp|~natgeo.nikkeibp.co.jp|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~blogk.com|~tabkul.com (280blocker_adblock.txt: 2318)
-.doubleclick.net
+# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
+ad.
 
 #ab2p-block-elem-Rn67
 {+client-header-tagger{ab2p-block-elem-Rn67} \
+}
+# ||afl.rakuten.co.jp^$third-party,domain=~afl.rakuten.co.jp|~kakaku.com (280blocker_adblock.txt: 4256)
+.afl.rakuten.co.jp
+
+#ab2p-block-elem-Rn68
+{+client-header-tagger{ab2p-block-elem-Rn68} \
+}
+# ||doubleclick.net^$domain=~cosme.net|~amazon.co.jp|~onlineshop.smt.docomo.ne.jp|~mydocomo.com|~ralphlauren.co.jp|~atwiki.jp|~bookoffonline.co.jp|~natgeo.nikkeibp.co.jp|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~blogk.com|~tabkul.com (280blocker_adblock.txt: 2318)
+.doubleclick.net
+
+#ab2p-block-elem-Rn69
+{+client-header-tagger{ab2p-block-elem-Rn69} \
 }
 # |https://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3382)
 ads.
 # |http://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3381)
 ads.
 
-#ab2p-block-elem-Rn68
-{+client-header-tagger{ab2p-block-elem-Rn68} \
+#ab2p-block-elem-Rn70
+{+client-header-tagger{ab2p-block-elem-Rn70} \
 }
 # ||as.ebis.ne.jp/resolv.php$domain=~auone.jp (280blocker_adblock.txt: 3997)
 .as.ebis.ne.jp/resolv\.php
 
-#ab2p-block-elem-Rn69
-{+client-header-tagger{ab2p-block-elem-Rn69} \
+#ab2p-block-elem-Rn71
+{+client-header-tagger{ab2p-block-elem-Rn71} \
 }
 # ||exosrv.com$domain=~avgle.com|~manga1000.com (280blocker_adblock.txt: 3394)
 .exosrv.com*.
 
-#ab2p-block-elem-Rn70
-{+client-header-tagger{ab2p-block-elem-Rn70} \
+#ab2p-block-elem-Rn72
+{+client-header-tagger{ab2p-block-elem-Rn72} \
 }
 # ||media.line.naver.jp^$third-party,domain=~naver.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1445)
 .media.line.naver.jp
 
-#ab2p-block-elem-Rn71
-{+client-header-tagger{ab2p-block-elem-Rn71} \
+#ab2p-block-elem-Rn73
+{+client-header-tagger{ab2p-block-elem-Rn73} \
 }
 # ||media.line.me/js/line-button.js$domain=~tokyo-gas.co.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1446)
 .media.line.me/js/line-button\.js
 
-#ab2p-block-elem-Rn72
-{+client-header-tagger{ab2p-block-elem-Rn72} \
+#ab2p-block-elem-Rn74
+{+client-header-tagger{ab2p-block-elem-Rn74} \
 }
 # ||img.bbchat.tv/images/bannar/$domain=~bbchat.tv (280blocker_adblock.txt: 2569)
 .img.bbchat.tv/images/bannar/
 
-#ab2p-block-elem-Rn73
-{+client-header-tagger{ab2p-block-elem-Rn73} \
+#ab2p-block-elem-Rn75
+{+client-header-tagger{ab2p-block-elem-Rn75} \
 }
 # ||blogmura.com^$third-party,domain=~blogmura.com (280blocker_adblock.txt: 4947)
 .blogmura.com
 
-#ab2p-block-elem-Rn74
-{+client-header-tagger{ab2p-block-elem-Rn74} \
+#ab2p-block-elem-Rn76
+{+client-header-tagger{ab2p-block-elem-Rn76} \
 }
 # ||adtechus.com^$third-party,domain=~casabrutus.com (280blocker_adblock.txt: 3455)
 .adtechus.com
 
-#ab2p-block-elem-Rn75
-{+client-header-tagger{ab2p-block-elem-Rn75} \
+#ab2p-block-elem-Rn77
+{+client-header-tagger{ab2p-block-elem-Rn77} \
 }
 # ||apis.google.com/js/plusone.js$domain=~google.com|~google.co.jp|~studio-mario.jp|~kitamura.jp|~charingress.tokyo (280blocker_adblock.txt: 4883)
 .apis.google.com/js/plusone\.js
 
-#ab2p-block-elem-Rn76
-{+client-header-tagger{ab2p-block-elem-Rn76} \
+#ab2p-block-elem-Rn78
+{+client-header-tagger{ab2p-block-elem-Rn78} \
 }
 # ||mediad2.jp^$domain=~dropbooks.tv|~xbooks.to (280blocker_adblock.txt: 3062)
 .mediad2.jp
 
-#ab2p-block-elem-Rn77
-{+client-header-tagger{ab2p-block-elem-Rn77} \
+#ab2p-block-elem-Rn79
+{+client-header-tagger{ab2p-block-elem-Rn79} \
 }
 # ||microad.net^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4731)
 .microad.net
 # ||microad.jp^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4730)
 .microad.jp
 
-#ab2p-block-elem-Rn78
-{+client-header-tagger{ab2p-block-elem-Rn78} \
+#ab2p-block-elem-Rn80
+{+client-header-tagger{ab2p-block-elem-Rn80} \
 }
 # ||aka-uae-dl.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1924)
 .aka-uae-dl.uliza.jp*.
 # ||ad-api-v01.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1923)
 .ad-api-v01.uliza.jp*.
 
-#ab2p-block-elem-Rn79
-{+client-header-tagger{ab2p-block-elem-Rn79} \
+#ab2p-block-elem-Rn81
+{+client-header-tagger{ab2p-block-elem-Rn81} \
 }
 # ||s3.feedly.com/img/follows/$domain=~feedly.com (280blocker_adblock.txt: 4888)
 .s3.feedly.com/img/follows/
 
-#ab2p-block-elem-Rn80
-{+client-header-tagger{ab2p-block-elem-Rn80} \
+#ab2p-block-elem-Rn82
+{+client-header-tagger{ab2p-block-elem-Rn82} \
 }
 # ||mathtag.com^$domain=~forbes.com (280blocker_adblock.txt: 4963)
 .mathtag.com
 
-#ab2p-block-elem-Rn81
-{+client-header-tagger{ab2p-block-elem-Rn81} \
+#ab2p-block-elem-Rn83
+{+client-header-tagger{ab2p-block-elem-Rn83} \
 }
 # ||feed.mikle.com$domain=~l-lal.space|~funato.us (280blocker_adblock.txt: 1922)
 .feed.mikle.com*.
 
-#ab2p-block-elem-Rn82
-{+client-header-tagger{ab2p-block-elem-Rn82} \
+#ab2p-block-elem-Rn84
+{+client-header-tagger{ab2p-block-elem-Rn84} \
 }
 # ||linksynergy.com^$third-party,domain=~gamespark.jp|~inside-games.jp (280blocker_adblock.txt: 362)
 .linksynergy.com
 
-#ab2p-block-elem-Rn83
-{+client-header-tagger{ab2p-block-elem-Rn83} \
+#ab2p-block-elem-Rn85
+{+client-header-tagger{ab2p-block-elem-Rn85} \
 }
 # ||outbrain.com^$domain=~news.livedoor.com|~gendai.ismedia.jp (280blocker_adblock.txt: 3099)
 .outbrain.com
 
-#ab2p-block-elem-Rn84
-{+client-header-tagger{ab2p-block-elem-Rn84} \
+#ab2p-block-elem-Rn86
+{+client-header-tagger{ab2p-block-elem-Rn86} \
 }
 # ||gendama.jp^$third-party,domain=~gendama.jp (280blocker_adblock.txt: 4948)
 .gendama.jp
 
-#ab2p-block-elem-Rn85
-{+client-header-tagger{ab2p-block-elem-Rn85} \
+#ab2p-block-elem-Rn87
+{+client-header-tagger{ab2p-block-elem-Rn87} \
 }
 # ||in.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2621)
 .in.treasuredata.com
 # ||cdn.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2620)
 .cdn.treasuredata.com
 
-#ab2p-block-elem-Rn86
-{+client-header-tagger{ab2p-block-elem-Rn86} \
+#ab2p-block-elem-Rn88
+{+client-header-tagger{ab2p-block-elem-Rn88} \
 }
 # ||plusone.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4957)
 .plusone.google.com
 # ||plus.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4956)
 .plus.google.com
 
-#ab2p-block-elem-Rn87
-{+client-header-tagger{ab2p-block-elem-Rn87} \
+#ab2p-block-elem-Rn89
+{+client-header-tagger{ab2p-block-elem-Rn89} \
 }
 # ||share.gree.jp^$third-party,domain=~gree.jp (280blocker_adblock.txt: 4958)
 .share.gree.jp
 
-#ab2p-block-elem-Rn88
-{+client-header-tagger{ab2p-block-elem-Rn88} \
+#ab2p-block-elem-Rn90
+{+client-header-tagger{ab2p-block-elem-Rn90} \
 }
 # ||ads.pubmatic.com$domain=~hackintosh.zone (280blocker_adblock.txt: 4363)
 .ads.pubmatic.com*.
 
-#ab2p-block-elem-Rn89
-{+client-header-tagger{ab2p-block-elem-Rn89} \
+#ab2p-block-elem-Rn91
+{+client-header-tagger{ab2p-block-elem-Rn91} \
 }
 # ||hapitas.jp^$third-party,domain=~hapitas.jp (280blocker_adblock.txt: 4949)
 .hapitas.jp
 
-#ab2p-block-elem-Rn90
-{+client-header-tagger{ab2p-block-elem-Rn90} \
+#ab2p-block-elem-Rn92
+{+client-header-tagger{ab2p-block-elem-Rn92} \
 }
 # ||img.happymail.co.jp/img/pc_l/$domain=~happymail.co.jp (280blocker_adblock.txt: 2598)
 .img.happymail.co.jp/img/pc_l/
 
-#ab2p-block-elem-Rn91
-{+client-header-tagger{ab2p-block-elem-Rn91} \
+#ab2p-block-elem-Rn93
+{+client-header-tagger{ab2p-block-elem-Rn93} \
 }
 # ||b.st-hatena.com/js/bookmark_button.js$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4186)
 .b.st-hatena.com/js/bookmark_button\.js
@@ -9389,44 +10139,44 @@ ads.
 # ||b.st-hatena.com/images/entry-button/button$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4184)
 .b.st-hatena.com/images/entry-button/button
 
-#ab2p-block-elem-Rn92
-{+client-header-tagger{ab2p-block-elem-Rn92} \
+#ab2p-block-elem-Rn94
+{+client-header-tagger{ab2p-block-elem-Rn94} \
 }
 # ||popcash.net$domain=~hoshinoromi.org (280blocker_adblock.txt: 2967)
 .popcash.net*.
 
-#ab2p-block-elem-Rn93
-{+client-header-tagger{ab2p-block-elem-Rn93} \
+#ab2p-block-elem-Rn95
+{+client-header-tagger{ab2p-block-elem-Rn95} \
 }
 # ||i.ntere.st^$third-party,domain=~i.ntere.st (280blocker_adblock.txt: 4950)
 .i.ntere.st
 
-#ab2p-block-elem-Rn94
-{+client-header-tagger{ab2p-block-elem-Rn94} \
+#ab2p-block-elem-Rn96
+{+client-header-tagger{ab2p-block-elem-Rn96} \
 }
 # ||instagramfollowbutton.com^$third-party,domain=~instagram.com (280blocker_adblock.txt: 4952)
 .instagramfollowbutton.com
 
-#ab2p-block-elem-Rn95
-{+client-header-tagger{ab2p-block-elem-Rn95} \
+#ab2p-block-elem-Rn97
+{+client-header-tagger{ab2p-block-elem-Rn97} \
 }
 # ||instapaper.com^$third-party,domain=~instapaper.com (280blocker_adblock.txt: 4953)
 .instapaper.com
 
-#ab2p-block-elem-Rn96
-{+client-header-tagger{ab2p-block-elem-Rn96} \
+#ab2p-block-elem-Rn98
+{+client-header-tagger{ab2p-block-elem-Rn98} \
 }
 # ||ad.jp.ap.valuecommerce.com^$third-party,domain=~itmedia.co.jp (280blocker_adblock.txt: 5009)
 .ad.jp.ap.valuecommerce.com
 
-#ab2p-block-elem-Rn97
-{+client-header-tagger{ab2p-block-elem-Rn97} \
+#ab2p-block-elem-Rn99
+{+client-header-tagger{ab2p-block-elem-Rn99} \
 }
 # ||cxense.com^$domain=~mainichi.jp|~itmedia.co.jp (280blocker_adblock.txt: 4018)
 .cxense.com
 
-#ab2p-block-elem-Rn98
-{+client-header-tagger{ab2p-block-elem-Rn98} \
+#ab2p-block-elem-Rn100
+{+client-header-tagger{ab2p-block-elem-Rn100} \
 }
 # ||nend.net^$domain=~kanajo.com (280blocker_adblock.txt: 5286)
 .nend.net
@@ -9435,70 +10185,76 @@ ads.
 # ||adm.shinobi.jp^$domain=~kanajo.com (280blocker_adblock.txt: 5045)
 .adm.shinobi.jp
 
-#ab2p-block-elem-Rn99
-{+client-header-tagger{ab2p-block-elem-Rn99} \
+#ab2p-block-elem-Rn101
+{+client-header-tagger{ab2p-block-elem-Rn101} \
 }
 # ||coremetrics.com^$domain=~konamistyle.jp|~konami.com|~konami.jp|~konami.net (280blocker_adblock.txt: 4961)
 .coremetrics.com
 
-#ab2p-block-elem-Rn100
-{+client-header-tagger{ab2p-block-elem-Rn100} \
-}
-# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
-.s.yimg.jp/bdv/yahoo
-
-#ab2p-block-elem-Rn101
-{+client-header-tagger{ab2p-block-elem-Rn101} \
-}
-# ||mixi.jp^$third-party,domain=~mixi.jp (280blocker_adblock.txt: 4954)
-.mixi.jp
-
 #ab2p-block-elem-Rn102
 {+client-header-tagger{ab2p-block-elem-Rn102} \
 }
-# ||moppy.jp^$third-party,domain=~moppy.jp (280blocker_adblock.txt: 4955)
-.moppy.jp
+# ||line.me^$domain=~line.me (kotori_filter.txt: 91)
+.line.me
 
 #ab2p-block-elem-Rn103
 {+client-header-tagger{ab2p-block-elem-Rn103} \
 }
-# ||i.popincdn.com$domain=~nikkan-gendai.com (280blocker_adblock.txt: 2399)
-.i.popincdn.com*.
+# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
+.s.yimg.jp/bdv/yahoo
 
 #ab2p-block-elem-Rn104
 {+client-header-tagger{ab2p-block-elem-Rn104} \
+}
+# ||mixi.jp^$third-party,domain=~mixi.jp (280blocker_adblock.txt: 4954)
+.mixi.jp
+
+#ab2p-block-elem-Rn105
+{+client-header-tagger{ab2p-block-elem-Rn105} \
+}
+# ||moppy.jp^$third-party,domain=~moppy.jp (280blocker_adblock.txt: 4955)
+.moppy.jp
+
+#ab2p-block-elem-Rn106
+{+client-header-tagger{ab2p-block-elem-Rn106} \
+}
+# ||i.popincdn.com$domain=~nikkan-gendai.com (280blocker_adblock.txt: 2399)
+.i.popincdn.com*.
+
+#ab2p-block-elem-Rn107
+{+client-header-tagger{ab2p-block-elem-Rn107} \
 }
 # ||doga.cm$domain=~ponta.jp (280blocker_adblock.txt: 4781)
 .doga.cm*.
 # ||mtburn.com^$third-party,domain=~ponta.jp (280blocker_adblock.txt: 3303)
 .mtburn.com
 
-#ab2p-block-elem-Rn105
-{+client-header-tagger{ab2p-block-elem-Rn105} \
+#ab2p-block-elem-Rn108
+{+client-header-tagger{ab2p-block-elem-Rn108} \
 }
 # ||logly.co.jp^$third-party,domain=~qiita.com (280blocker_adblock.txt: 5257)
 .logly.co.jp
 
-#ab2p-block-elem-Rn106
-{+client-header-tagger{ab2p-block-elem-Rn106} \
+#ab2p-block-elem-Rn109
+{+client-header-tagger{ab2p-block-elem-Rn109} \
 }
 # ||shop-list.com^$third-party,domain=~shop-list.com (280blocker_adblock.txt: 4959)
 .shop-list.com
 
-#ab2p-block-elem-Rn107
-{+client-header-tagger{ab2p-block-elem-Rn107} \
+#ab2p-block-elem-Rn110
+{+client-header-tagger{ab2p-block-elem-Rn110} \
 }
 # ||impact-ad.jp^$third-party,domain=~tjapan.jp (280blocker_adblock.txt: 3458)
 .impact-ad.jp
 
-#ab2p-block-elem-Rn108
-{+client-header-tagger{ab2p-block-elem-Rn108} \
+#ab2p-block-elem-Rn111
+{+client-header-tagger{ab2p-block-elem-Rn111} \
 }
 # ||adplan-ds.com^$domain=~tsite.jp (280blocker_adblock.txt: 4017)
 .adplan-ds.com
 
-#ab2p-block-elem-Rn109
-{+client-header-tagger{ab2p-block-elem-Rn109} \
+#ab2p-block-elem-Rn112
+{+client-header-tagger{ab2p-block-elem-Rn112} \
 }
 # ||platform.tumblr.com/v2/follow_button$domain=~tumblr.com (280blocker_adblock.txt: 4887)
 .platform.tumblr.com/v2/follow_button
@@ -9507,32 +10263,38 @@ ads.
 # ||assets.tumblr.com/share-button.js$domain=~tumblr.com (280blocker_adblock.txt: 4884)
 .assets.tumblr.com/share-button\.js
 
-#ab2p-block-elem-Rn110
-{+client-header-tagger{ab2p-block-elem-Rn110} \
+#ab2p-block-elem-Rn113
+{+client-header-tagger{ab2p-block-elem-Rn113} \
 }
 # /dfp.js$domain=~wired.jp (280blocker_adblock.txt: 4038)
 /(?:(*PRUNE).*?/)?dfp\.js
 
-#ab2p-block-elem-Rn111
-{+client-header-tagger{ab2p-block-elem-Rn111} \
+#ab2p-block-elem-Rn114
+{+client-header-tagger{ab2p-block-elem-Rn114} \
 }
 # ||with2.net^$third-party,domain=~with2.net (280blocker_adblock.txt: 4960)
 .with2.net
 
-#ab2p-block-elem-Rn112
-{+client-header-tagger{ab2p-block-elem-Rn112} \
+#ab2p-block-elem-Rn115
+{+client-header-tagger{ab2p-block-elem-Rn115} \
 }
 # ||scorecardresearch.com^$domain=~wsj.com|~yahoo.co.jp (280blocker_adblock.txt: 4791)
 .scorecardresearch.com
 
-#ab2p-block-elem-Rn113
-{+client-header-tagger{ab2p-block-elem-Rn113} \
+#ab2p-block-elem-Rn116
+{+client-header-tagger{ab2p-block-elem-Rn116} \
+}
+# ||www.amazon.co.jp.$domain=~www.amazon.co.jp (kame_filter.txt: 77)
+.www.amazon.co.jp.
+
+#ab2p-block-elem-Rn117
+{+client-header-tagger{ab2p-block-elem-Rn117} \
 }
 # ||popin.cc/searchbox$domain=~www.nifty.com (280blocker_adblock.txt: 3058)
 .popin.cc/searchbox
 
-#ab2p-block-elem-Rn114
-{+client-header-tagger{ab2p-block-elem-Rn114} \
+#ab2p-block-elem-Rn118
+{+client-header-tagger{ab2p-block-elem-Rn118} \
 }
 # ||2mdn.info^$domain=~yahoo.co.jp (280blocker_adblock.txt: 4966)
 .2mdn.info
@@ -9554,6 +10316,349 @@ ads.
 +server-header-tagger{ab2p-block-s} \
 }
 TAG:^ab2p-block-request$
+# ||www.news24.jp/sp/image/common/btn_ (kotori_filter.txt: 210)
+.www.news24.jp/sp/image/common/btn_
+# ||www.gizmodo.jp/assets/sp/img/p-post_share (kotori_filter.txt: 209)
+.www.gizmodo.jp/assets/sp/img/p-post_share
+# ||wired.jp/wp-content/themes/wired3/common/img/line-send.png| (kotori_filter.txt: 208)
+.wired.jp/wp-content/themes/wired3/common/img/line-send\.png$
+# ||wired.jp/wp-content/themes/wired3/common/images/fb-share.png| (kotori_filter.txt: 207)
+.wired.jp/wp-content/themes/wired3/common/images/fb-share\.png$
+# ||secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn.png| (kotori_filter.txt: 206)
+.secure-dcdn.cdn.nimg.jp/nicochannel/spchfront/img/lib/line_btn\.png$
+# ||s4.reutersmedia.net/resources_v3/js/win-sharetools.js| (kotori_filter.txt: 205)
+.s4.reutersmedia.net/resources_v3/js/win-sharetools\.js$
+# ||parts.blog.livedoor.jp/img/usr/cmn/btn_add_line.png| (kotori_filter.txt: 204)
+.parts.blog.livedoor.jp/img/usr/cmn/btn_add_line\.png$
+# ||parts.blog.livedoor.jp/img/lite2/item/social_buttons (kotori_filter.txt: 203)
+.parts.blog.livedoor.jp/img/lite2/item/social_buttons
+# ||news.nicovideo.jp/assets/icon_sns- (kotori_filter.txt: 202)
+.news.nicovideo.jp/assets/icon_sns-
+# ||s2.reutersmedia.net/resources_v2/js/rcom-social-share.js| (kotori_filter.txt: 194)
+.s2.reutersmedia.net/resources_v2/js/rcom-social-share\.js$
+# ||5chmm.jp/img/t_mini-b.png| (kotori_filter.txt: 191)
+.5chmm.jp/img/t_mini-b\.png$
+# ||www.yomiuri.co.jp/assets/js/sns-share- (kotori_filter.txt: 188)
+.www.yomiuri.co.jp/assets/js/sns-share-
+# ||www.nhk.or.jp/common/sns/img/ (kotori_filter.txt: 185)
+.www.nhk.or.jp/common/sns/img/
+# ||scdn.line-apps.com/n/line_add_friends/btn/ja.png| (kotori_filter.txt: 183)
+.scdn.line-apps.com/n/line_add_friends/btn/ja\.png$
+# ||i.share.gree.jp/img/share/button/btn_logo_16.png| (kotori_filter.txt: 180)
+.i.share.gree.jp/img/share/button/btn_logo_16\.png$
+# ||platform.tumblr.com/v1/share (kotori_filter.txt: 177)
+.platform.tumblr.com/v1/share
+# ||b.st-hatena.com/images/v4/public/entry-button/button-only (kotori_filter.txt: 174)
+.b.st-hatena.com/images/v4/public/entry-button/button-only
+# ||b.st-hatena.com/images/entry-button/button-only (kotori_filter.txt: 172)
+.b.st-hatena.com/images/entry-button/button-only
+# ||b.hatena.ne.jp/images/entry-button/button-only (kotori_filter.txt: 170)
+.b.hatena.ne.jp/images/entry-button/button-only
+# ||apis.google.com/se/0/_/+1/sharebutton? (kotori_filter.txt: 167)
+.apis.google.com/se/0/_/\+1/sharebutton\?
+# ||analytics.twitter.com/i/adsct? (kotori_filter.txt: 157)
+.analytics.twitter.com/i/adsct\?
+# ||connect.facebook.net/en_US/sdk.js (kotori_filter.txt: 148)
+.connect.facebook.net/en_US/sdk\.js
+# ||widgets.getpocket.com/v1/button? (kotori_filter.txt: 133)
+.widgets.getpocket.com/v1/button\?
+# ||widgets.getpocket.com/v1/j/btn.js?v=1 (kotori_filter.txt: 132)
+.widgets.getpocket.com/v1/j/btn\.js\?v=1
+# ||platform.twitter.com/widgets/follow_button. (kotori_filter.txt: 131)
+.platform.twitter.com/widgets/follow_button\.
+# ||platform.twitter.com/js/button. (kotori_filter.txt: 130)
+.platform.twitter.com/js/button\.
+# ||jsoon.digitiminimi.com/twitter/count.json? (kotori_filter.txt: 129)
+.jsoon.digitiminimi.com/twitter/count\.json\?
+# ||parts.lineblog.me/img/usr/lineblog/common/sns_buttons.png (kotori_filter.txt: 122)
+.parts.lineblog.me/img/usr/lineblog/common/sns_buttons\.png
+# ||s.yimg.jp/images/weather/promo/ (kotori_filter.txt: 116)
+.s.yimg.jp/images/weather/promo/
+# ||s.yimg.jp/images/weather/top_module/twitter_top.png (kotori_filter.txt: 114)
+.s.yimg.jp/images/weather/top_module/twitter_top\.png
+# ||s.yimg.jp/images/weather/top_module/facebook_top.png (kotori_filter.txt: 113)
+.s.yimg.jp/images/weather/top_module/facebook_top\.png
+# ||i.yimg.jp/lib/news/socialModule/ (kotori_filter.txt: 99)
+.i.yimg.jp/lib/news/socialModule/
+# ||stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1.2.0.css (kotori_filter.txt: 96)
+.stat100.ameba.jp/ameblo/pc/css/uranus/iineButton-1\.2\.0\.css
+# ||stat100.ameba.jp/ameblo/pc/js/iineButton-1.1.0.js (kotori_filter.txt: 95)
+.stat100.ameba.jp/ameblo/pc/js/iineButton-1\.1\.0\.js
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 77)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||b.hatena.ne.jp/entry.count?url= (kotori_filter.txt: 75)
+.b.hatena.ne.jp/entry\.count\?url=
+# ||b.st-hatena.com/js/bookmark_button.js (kotori_filter.txt: 73)
+.b.st-hatena.com/js/bookmark_button\.js
+# ||syndication.twitter.com/i/jot (kotori_filter.txt: 58)
+.syndication.twitter.com/i/jot
+# ||api.b.st-hatena.com/entry.count (kotori_filter.txt: 49)
+.api.b.st-hatena.com/entry\.count
+# ||badge.facebook.com/badge/ (kotori_filter.txt: 48)
+.badge.facebook.com/badge/
+# ||graph.facebook.com/?callback=jQuery (kotori_filter.txt: 47)
+.graph.facebook.com/\?callback=jQuery
+# ||graph.facebook.com/?ids= (kotori_filter.txt: 44)
+.graph.facebook.com/\?ids=
+# ||graph.facebook.com/?callback=jsonp (kotori_filter.txt: 43)
+.graph.facebook.com/\?callback=jsonp
+# ||connect.facebook.net/ja_JP/all.js (kotori_filter.txt: 41)
+.connect.facebook.net/ja_JP/all\.js
+# ||www.facebook.com/tr/?id= (kotori_filter.txt: 32)
+.www.facebook.com/tr/\?id=
+# ||connect.facebook.net/ja_JP/sdk.js (kotori_filter.txt: 31)
+.connect.facebook.net/ja_JP/sdk\.js
+# ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
+.connect.facebook.net/en_US/fbevents\.js
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+.your.case.id.for.this.reason.is.pp.rangdeindia.jp
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+.umedaumeda.ec-net.jp
+# ||tobacco.jp^ (kame_filter.txt: 360)
+.tobacco.jp
+# ||tga.co.jp^ (kame_filter.txt: 359)
+.tga.co.jp
+# ||smcw-member.jp^ (kame_filter.txt: 358)
+.smcw-member.jp
+# ||rentskinow.jp^ (kame_filter.txt: 357)
+.rentskinow.jp
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+.pluscolorn.sub.jp
+# ||plaso.jp^ (kame_filter.txt: 355)
+.plaso.jp
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+.payment.on.your.account.rangdeindia.jp
+# ||oneby1.jp^ (kame_filter.txt: 353)
+.oneby1.jp
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+.nozomimiyazaki.main.jp
+# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+.kashimayunohana.jp
+# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+.kamabokoworks.jp
+# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+.jwa-niigata.jp
+# ||jk-bic.jp^ (kame_filter.txt: 348)
+.jk-bic.jp
+# ||irumakg.jp^ (kame_filter.txt: 347)
+.irumakg.jp
+# ||g-r.co.jp^ (kame_filter.txt: 346)
+.g-r.co.jp
+# ||grangrace.jp^ (kame_filter.txt: 345)
+.grangrace.jp
+# ||gaspa-web.jp^ (kame_filter.txt: 344)
+.gaspa-web.jp
+# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+.butter-delimmo.jp
+# ||aasc.or.jp^ (kame_filter.txt: 341)
+.aasc.or.jp
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+.210237148191.cidr.jtidc.jp
+# ||niconicochannel.info^ (kame_filter.txt: 324)
+.niconicochannel.info
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+.eroeroxhamster8.pw
+# ||ero-japan.net^ (kame_filter.txt: 322)
+.ero-japan.net
+# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+.i.imgur.tru.io
+# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+.kabutyer.ownip.net
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+.news27u.youdontcare.com/newsplus/
+# ||xephaoma.com^ (kame_filter.txt: 300)
+.xephaoma.com
+# ||miffy.me^ (kame_filter.txt: 298)
+.miffy.me
+# ||gl-search.com^ (kame_filter.txt: 292)
+.gl-search.com
+# ||fznews.xyz^ (kame_filter.txt: 286)
+.fznews.xyz
+# ||2ch.today^ (kame_filter.txt: 284)
+.2ch.today
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+.milky.geocities.jp/fkdsjlaginea/
+# ||showmyhomes.com/ (kame_filter.txt: 279)
+.showmyhomes.com
+# ||newtab.club^ (kame_filter.txt: 277)
+.newtab.club
+# ||imgur.com. (kame_filter.txt: 272)
+.imgur.com.
+# ||my.to^ (kame_filter.txt: 270)
+.my.to
+# ||rude.li^ (kame_filter.txt: 267)
+.rude.li
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+.exioer5.missouriprobate.biz
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+.fc2.com/p/F0Nll5V-\?\.gif
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+.www.bityet.us/s7b47si\.jpg
+# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+.goo.gl/En6m3D 
+# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+.qsnews.ndra.biz
+# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+.derx.stanciu.biz
+# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+.edax.getamonkey.com
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+.livebby.b2.valueserver.jp
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
+/^https?:\/\/[a-z0-9-]{38,}\.fun\/
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+/(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
+/^https?:\/\/[a-z0-9]{38,}\.co\/
+# ||freecaptcha.top^ (kame_filter.txt: 241)
+.freecaptcha.top
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+.masmurkambojacoy.furved.com
+# ||eqaw.cn^ (kame_filter.txt: 236)
+.eqaw.cn
+# ||getflexsafe.io^ (kame_filter.txt: 233)
+.getflexsafe.io
+# ||1redirb.com^ (kame_filter.txt: 230)
+.1redirb.com
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+.terratopi.roflclub.asia
+# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+.clk.rtpdn14.com
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+.katie.v4.omgtnc.com
+# ||fmvs.jp^ (kame_filter.txt: 224)
+.fmvs.jp
+# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+.rakuten.card080.shop
+# ||meruli.rest^ (kame_filter.txt: 218)
+.meruli.rest
+# ||1.ne02.biz^ (kame_filter.txt: 214)
+.1.ne02.biz
+# ||acc.pp.ua^ (kame_filter.txt: 213)
+.acc.pp.ua
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+.alderbridge.studio42sound.com
+# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+.system-update-new-2022.com
+# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+.system-update-new-2021.com
+# ||freegogpcgames.com^ (kame_filter.txt: 209)
+.freegogpcgames.com
+# ||amazon.co.jp. (kame_filter.txt: 206)
+.amazon.co.jp.
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+.amazon.co.jp.chuyipay.net
+# ||yodyson.com^ (kame_filter.txt: 202)
+.yodyson.com
+# .duckdns.org (kame_filter.txt: 198)
+/(*PRUNE).*?\.duckdns\.org
+.duckdns.org*.
+# ||fres-news.com^ (kame_filter.txt: 194)
+.fres-news.com
+# ||0pen.page^ (kame_filter.txt: 192)
+.0pen.page
+# ||0n.click^ (kame_filter.txt: 191)
+.0n.click
+# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+.best.prizedeal512.info
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+.realcenter-mobileapps2.com
+# ||213.136.91.194^ (kame_filter.txt: 188)
+.213.136.91.194
+# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+.ssigkandnelo.tk
+# ||infolinks.com^ (kame_filter.txt: 184)
+.infolinks.com
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+.d141wsrw9m4as6.cloudfront.net
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+.dc5k8fg5ioc8s.cloudfront.net
+# ||herepackagine.info^ (kame_filter.txt: 181)
+.herepackagine.info
+# ||www.audazweb.com^ (kame_filter.txt: 178)
+.www.audazweb.com
+# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+.ktechguardiansrn.site
+# ||discount.s3blog.org^ (kame_filter.txt: 172)
+.discount.s3blog.org
+# ||buildathome.info^ (kame_filter.txt: 160)
+.buildathome.info
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+.www.uniblue.com/cm/marimedia-rm/speedupmypc/
+# ||onlineaway.net^ (kame_filter.txt: 158)
+.onlineaway.net
+# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+.ja.reimageplus.com
+# ||hk-life.net^ (kame_filter.txt: 153)
+.hk-life.net
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+.www.imaginetechservices.xyz
+# ||sanjayrout.com^ (kame_filter.txt: 147)
+.sanjayrout.com
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+.d1cy6bsvhksfmz.cloudfront.net
+# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+.www.faragegraphics.com
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+.d2gpqw290yvvmv.cloudfront.net
+# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+.7hdfilm.xyz
+# ||trustednotice.news^ (kame_filter.txt: 135)
+.trustednotice.news
+# ||winsupporthelp.club (kame_filter.txt: 131)
+.winsupporthelp.club*.
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+.xpics.us/images/786507813333_koinokisetu\.jpg
+# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+.yowwinnerprize.com
+# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+.nine-our-prize54.loan
+# ||www.pc.error (kame_filter.txt: 113)
+.www.pc.error*.
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+.khoikhoi-2news.xyz
+# ||pb7m.nl^ (kame_filter.txt: 109)
+.pb7m.nl
+# ||xtreeem.com^ (kame_filter.txt: 105)
+.xtreeem.com
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+.www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+.www.noao.edu/image_gallery/images/d7/cygloop\.jpg
+# ||piet2eix3l.com^ (kame_filter.txt: 94)
+.piet2eix3l.com
+# ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
+.mercari.sdfugdf.org
+# ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
+.orico.tgjhfgj.org
+# ||spacecloudstore.com/away.php (kame_filter.txt: 86)
+.spacecloudstore.com/away\.php
+# ||real-prizes-here.life^ (kame_filter.txt: 85)
+.real-prizes-here.life
+# ||recode.pw/ad (kame_filter.txt: 84)
+.recode.pw/ad
+# ||saison.dgfsghdf.com^ (kame_filter.txt: 83)
+.saison.dgfsghdf.com
+# ||smbc-card.dndlg.me^ (kame_filter.txt: 82)
+.smbc-card.dndlg.me
+# ||paypaygwfgg.xyz^ (kame_filter.txt: 81)
+.paypaygwfgg.xyz
+# ||aeon.tokyo^ (kame_filter.txt: 80)
+.aeon.tokyo
+# ||smbc-cardhrhrt.website^ (kame_filter.txt: 79)
+.smbc-cardhrhrt.website
+# ||.appIe^ (kame_filter.txt: 71)
+.appIe
+# ||linewg.cn^ (kame_filter.txt: 69)
+.linewg.cn
+# ||www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com^ (kame_filter.txt: 64)
+.www.support.microsoft21013ajpmschf8356.com.s3-website-ap-northeast-1.amazonaws.com
+# ||blog.livedoor.jp/ringotomomin/ (kame_filter.txt: 60)
+.blog.livedoor.jp/ringotomomin/
+# ||com-w.win^ (kame_filter.txt: 24)
+.com-w.win
+# ||gu-ru.net^ (kame_filter.txt: 22)
+.gu-ru.net
 # ||zucks.net^ (280blocker_adblock.txt: 5413)
 .zucks.net
 # ||ziyu.net^ (280blocker_adblock.txt: 5412)
@@ -13312,6 +14417,21 @@ o333o.com
 # ||clicks.affstrack.com^ (280blocker_adblock.txt: 55)
 .clicks.affstrack.com
 
+#ab2p-block-request-Ahm-Chm
+{+client-header-tagger{ab2p-block-request-Ahm} \
+ +server-header-tagger{ab2p-block-request-Chm} \
+}
+# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+.sarah.runtnc.net
+# ||goneoutnow.site^$document (kame_filter.txt: 168)
+.goneoutnow.site
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+.direct.redtrafficsample.site/redirect
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+.www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+.jp.today-prizes.club/todays-winner
+
 #ab2p-block-request-Ai-Ci
 {+client-header-tagger{ab2p-block-request-Ai} \
  +server-header-tagger{ab2p-block-request-Ci} \
@@ -13336,144 +14456,144 @@ o333o.com
 }
 TAG:^ab2p-block-request-Anhm-Cnhm$
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn115t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn115t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn119t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn119t} \
 }
 # ||googleadservices.com^$third-party,domain=~google.com|~google.co.jp|~forbes.com|~mydocomo.com|~onlineshop.smt.docomo.ne.jp|~ralphlauren.co.jp|~109cinemas.net|~square-enix.com (280blocker_adblock.txt: 2320)
 .googleadservices.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn116t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn116t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn120t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn120t} \
 }
 # ||afl.rakuten.co.jp^$third-party,domain=~afl.rakuten.co.jp|~kakaku.com (280blocker_adblock.txt: 4256)
 .afl.rakuten.co.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn117t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn117t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn121t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn121t} \
 }
 # ||media.line.naver.jp^$third-party,domain=~naver.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1445)
 .media.line.naver.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn118t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn118t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn122t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn122t} \
 }
 # ||blogmura.com^$third-party,domain=~blogmura.com (280blocker_adblock.txt: 4947)
 .blogmura.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn119t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn119t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn123t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn123t} \
 }
 # ||adtechus.com^$third-party,domain=~casabrutus.com (280blocker_adblock.txt: 3455)
 .adtechus.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn120t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn120t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn124t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn124t} \
 }
 # ||microad.net^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4731)
 .microad.net
 # ||microad.jp^$third-party,domain=~softbank.jp|~sbg.jp|~e-gift.co (280blocker_adblock.txt: 4730)
 .microad.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn121t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn121t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn125t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn125t} \
 }
 # ||linksynergy.com^$third-party,domain=~gamespark.jp|~inside-games.jp (280blocker_adblock.txt: 362)
 .linksynergy.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn122t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn122t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn126t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn126t} \
 }
 # ||gendama.jp^$third-party,domain=~gendama.jp (280blocker_adblock.txt: 4948)
 .gendama.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn123t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn123t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn127t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn127t} \
 }
 # ||plusone.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4957)
 .plusone.google.com
 # ||plus.google.com^$third-party,domain=~google.com|~google.co.jp (280blocker_adblock.txt: 4956)
 .plus.google.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn124t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn124t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn128t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn128t} \
 }
 # ||share.gree.jp^$third-party,domain=~gree.jp (280blocker_adblock.txt: 4958)
 .share.gree.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn125t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn125t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn129t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn129t} \
 }
 # ||hapitas.jp^$third-party,domain=~hapitas.jp (280blocker_adblock.txt: 4949)
 .hapitas.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn126t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn126t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn130t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn130t} \
 }
 # ||i.ntere.st^$third-party,domain=~i.ntere.st (280blocker_adblock.txt: 4950)
 .i.ntere.st
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn127t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn127t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn131t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn131t} \
 }
 # ||instagramfollowbutton.com^$third-party,domain=~instagram.com (280blocker_adblock.txt: 4952)
 .instagramfollowbutton.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn128t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn128t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn132t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn132t} \
 }
 # ||instapaper.com^$third-party,domain=~instapaper.com (280blocker_adblock.txt: 4953)
 .instapaper.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn129t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn129t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn133t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn133t} \
 }
 # ||ad.jp.ap.valuecommerce.com^$third-party,domain=~itmedia.co.jp (280blocker_adblock.txt: 5009)
 .ad.jp.ap.valuecommerce.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn130t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn130t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn134t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn134t} \
 }
 # ||mixi.jp^$third-party,domain=~mixi.jp (280blocker_adblock.txt: 4954)
 .mixi.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn131t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn131t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn135t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn135t} \
 }
 # ||moppy.jp^$third-party,domain=~moppy.jp (280blocker_adblock.txt: 4955)
 .moppy.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn132t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn132t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn136t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn136t} \
 }
 # ||mtburn.com^$third-party,domain=~ponta.jp (280blocker_adblock.txt: 3303)
 .mtburn.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn133t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn133t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn137t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn137t} \
 }
 # ||logly.co.jp^$third-party,domain=~qiita.com (280blocker_adblock.txt: 5257)
 .logly.co.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn134t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn134t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn138t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn138t} \
 }
 # ||shop-list.com^$third-party,domain=~shop-list.com (280blocker_adblock.txt: 4959)
 .shop-list.com
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn135t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn135t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn139t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn139t} \
 }
 # ||impact-ad.jp^$third-party,domain=~tjapan.jp (280blocker_adblock.txt: 3458)
 .impact-ad.jp
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn136t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn136t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn140t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn140t} \
 }
 # ||with2.net^$third-party,domain=~with2.net (280blocker_adblock.txt: 4960)
 .with2.net
 
-#ab2p-block-request-Anhm-Cnhm-when-Rn137t
-{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn137t} \
+#ab2p-block-request-Anhm-Cnhm-when-Rn141t
+{+client-header-tagger{ab2p-block-request-Anhm-Cnhm-when-Rn141t} \
 }
 # ||im.c.yimg.jp^$third-party,domain=~yahoo.co.jp (280blocker_adblock.txt: 4951)
 .im.c.yimg.jp
@@ -13631,6 +14751,14 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 #ab2p-block-request-R4
 {+client-header-tagger{ab2p-block-request-R4} \
 }
+# /iineButton-$domain=ameblo.jp (kotori_filter.txt: 89)
+/(?:(*PRUNE).*?/)?iineButton-
+# /btn_share_twitter_ico.png$domain=ameblo.jp (kotori_filter.txt: 55)
+/(?:(*PRUNE).*?/)?btn_share_twitter_ico\.png
+
+#ab2p-block-request-R5
+{+client-header-tagger{ab2p-block-request-R5} \
+}
 # ||awigglespouter.cam^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 349)
 .awigglespouter.cam
 # ||upgulpinon.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 347)
@@ -13650,16 +14778,16 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||youngsterbusinessman.com^$domain=javmix.tv|asianclub.tv (280blocker_adblock.txt: 339)
 .youngsterbusinessman.com
 
-#ab2p-block-request-R5
-{+client-header-tagger{ab2p-block-request-R5} \
+#ab2p-block-request-R6
+{+client-header-tagger{ab2p-block-request-R6} \
 }
 # ||wu.deckerexuvium.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 348)
 .wu.deckerexuvium.com
 # ||outsliggooa.com^$domain=javmix.tv|sbvideo.net|asianclub.tv (280blocker_adblock.txt: 345)
 .outsliggooa.com
 
-#ab2p-block-request-R6
-{+client-header-tagger{ab2p-block-request-R6} \
+#ab2p-block-request-R7
+{+client-header-tagger{ab2p-block-request-R7} \
 }
 # ||stagepopkek.com^$domain=asiangaysex.net (280blocker_adblock.txt: 655)
 .stagepopkek.com
@@ -13668,8 +14796,8 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||cdn2.popcash.net^$domain=asiangaysex.net (280blocker_adblock.txt: 461)
 .cdn2.popcash.net
 
-#ab2p-block-request-R7
-{+client-header-tagger{ab2p-block-request-R7} \
+#ab2p-block-request-R8
+{+client-header-tagger{ab2p-block-request-R8} \
 }
 # ||play.hdvideosnet.com^$domain=avgle.net (280blocker_adblock.txt: 353)
 .play.hdvideosnet.com
@@ -13678,85 +14806,85 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||residenceseeingstanding.com^$domain=avgle.net (280blocker_adblock.txt: 350)
 .residenceseeingstanding.com
 
-#ab2p-block-request-R8
-{+client-header-tagger{ab2p-block-request-R8} \
+#ab2p-block-request-R9
+{+client-header-tagger{ab2p-block-request-R9} \
 }
 # ||d3al52d8cojds7.cloudfront.net$domain=b9good.com (280blocker_adblock.txt: 2707)
 .d3al52d8cojds7.cloudfront.net*.
 
-#ab2p-block-request-R9
-{+client-header-tagger{ab2p-block-request-R9} \
+#ab2p-block-request-R10
+{+client-header-tagger{ab2p-block-request-R10} \
 }
 # ||yqmxfz.com^$domain=barscaffolding.co.uk (280blocker_adblock.txt: 126)
 .yqmxfz.com
 
-#ab2p-block-request-R10
-{+client-header-tagger{ab2p-block-request-R10} \
+#ab2p-block-request-R11
+{+client-header-tagger{ab2p-block-request-R11} \
 }
 # ||www.chintai.net/redirect/orix/$domain=chintai.net (280blocker_adblock.txt: 2472)
 .www.chintai.net/redirect/orix/
 
-#ab2p-block-request-R11
-{+client-header-tagger{ab2p-block-request-R11} \
+#ab2p-block-request-R12
+{+client-header-tagger{ab2p-block-request-R12} \
 }
 # ||player.daznservices.com$domain=chunichi.co.jp|soccerdigestweb.com (280blocker_adblock.txt: 1448)
 .player.daznservices.com*.
 
-#ab2p-block-request-R12
-{+client-header-tagger{ab2p-block-request-R12} \
+#ab2p-block-request-R13
+{+client-header-tagger{ab2p-block-request-R13} \
 }
 # ||abc.comick.top/api^$domain=comick.top (280blocker_adblock.txt: 265)
 .abc.comick.top/api[^\w%.-]
 
-#ab2p-block-request-R13
-{+client-header-tagger{ab2p-block-request-R13} \
+#ab2p-block-request-R14
+{+client-header-tagger{ab2p-block-request-R14} \
 }
 # banner$domain=coolboys.jp (280blocker_adblock.txt: 4782)
 /(*PRUNE).*?banner
 .*banner*.
 
-#ab2p-block-request-R14
-{+client-header-tagger{ab2p-block-request-R14} \
+#ab2p-block-request-R15
+{+client-header-tagger{ab2p-block-request-R15} \
 }
 # ||apis.google.com$domain=earthyworld.com (280blocker_adblock.txt: 4516)
 .apis.google.com*.
 # ||facebook.net$domain=earthyworld.com (280blocker_adblock.txt: 4515)
 .facebook.net*.
 
-#ab2p-block-request-R15
-{+client-header-tagger{ab2p-block-request-R15} \
+#ab2p-block-request-R16
+{+client-header-tagger{ab2p-block-request-R16} \
 }
 # /js/Overlay.$domain=fc2.com (280blocker_adblock.txt: 4204)
 /(?:(*PRUNE).*?/)?js/Overlay\.
 
-#ab2p-block-request-R16
-{+client-header-tagger{ab2p-block-request-R16} \
+#ab2p-block-request-R17
+{+client-header-tagger{ab2p-block-request-R17} \
 }
 # ||player.performgroup.com$domain=full-count.jp|mainichi.jp (280blocker_adblock.txt: 2478)
 .player.performgroup.com*.
 
-#ab2p-block-request-R17
-{+client-header-tagger{ab2p-block-request-R17} \
+#ab2p-block-request-R18
+{+client-header-tagger{ab2p-block-request-R18} \
 }
 # ||player.performgroup.com$domain=full-count.jp|the-ans.jp|mainichi.jp (280blocker_adblock.txt: 2477)
 .player.performgroup.com*.
 
-#ab2p-block-request-R18
-{+client-header-tagger{ab2p-block-request-R18} \
+#ab2p-block-request-R19
+{+client-header-tagger{ab2p-block-request-R19} \
 }
 # =adunit$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1063)
 /(*PRUNE).*?=adunit
 # =adhost$domain=youtube.com|googlevideo.com (280blocker_adblock.txt: 1062)
 /(*PRUNE).*?=adhost
 
-#ab2p-block-request-R19
-{+client-header-tagger{ab2p-block-request-R19} \
+#ab2p-block-request-R20
+{+client-header-tagger{ab2p-block-request-R20} \
 }
 # /changead.php$domain=hdouga.com (280blocker_adblock.txt: 4255)
 /(?:(*PRUNE).*?/)?changead\.php
 
-#ab2p-block-request-R20
-{+client-header-tagger{ab2p-block-request-R20} \
+#ab2p-block-request-R21
+{+client-header-tagger{ab2p-block-request-R21} \
 }
 # ||hdzog.com/qmbqqxxyvj^$domain=hdzog.com (280blocker_adblock.txt: 411)
 .hdzog.com/qmbqqxxyvj[^\w%.-]
@@ -13769,40 +14897,40 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||6edccc1190.com^$domain=hdzog.com (280blocker_adblock.txt: 326)
 .6edccc1190.com
 
-#ab2p-block-request-R21
-{+client-header-tagger{ab2p-block-request-R21} \
+#ab2p-block-request-R22
+{+client-header-tagger{ab2p-block-request-R22} \
 }
 # ||clickadilla.com^$domain=vjav.com|hdzog.com (280blocker_adblock.txt: 579)
 .clickadilla.com
 
-#ab2p-block-request-R22
-{+client-header-tagger{ab2p-block-request-R22} \
+#ab2p-block-request-R23
+{+client-header-tagger{ab2p-block-request-R23} \
 }
 # ||fyglovilo.pro^$domain=hitomi.la (280blocker_adblock.txt: 232)
 .fyglovilo.pro
 # ||syndication.exoclick.com^$domain=hitomi.la (280blocker_adblock.txt: 231)
 .syndication.exoclick.com
 
-#ab2p-block-request-R23
-{+client-header-tagger{ab2p-block-request-R23} \
+#ab2p-block-request-R24
+{+client-header-tagger{ab2p-block-request-R24} \
 }
 # ||d2j042cj1421wi.cloudfront.net^$domain=idolsblog.tv (280blocker_adblock.txt: 125)
 .d2j042cj1421wi.cloudfront.net
 
-#ab2p-block-request-R24
-{+client-header-tagger{ab2p-block-request-R24} \
+#ab2p-block-request-R25
+{+client-header-tagger{ab2p-block-request-R25} \
 }
 # ||f3udfa7nfguhni.com^$domain=javsaga.ninja (280blocker_adblock.txt: 358)
 .f3udfa7nfguhni.com
 
-#ab2p-block-request-R25
-{+client-header-tagger{ab2p-block-request-R25} \
+#ab2p-block-request-R26
+{+client-header-tagger{ab2p-block-request-R26} \
 }
 # ||hugfromoctopus.com^$domain=javsaga.ninja|raw.senmanga.com (280blocker_adblock.txt: 422)
 .hugfromoctopus.com
 
-#ab2p-block-request-R26
-{+client-header-tagger{ab2p-block-request-R26} \
+#ab2p-block-request-R27
+{+client-header-tagger{ab2p-block-request-R27} \
 }
 # ||kawakitanet.com/soccerbbs/j/bbsbaner01.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4825)
 .kawakitanet.com/soccerbbs/j/bbsbaner01\.gif
@@ -13811,20 +14939,20 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||kawakitanet.com/soccerbbs/j/image.gif$domain=kawakitanet.com (280blocker_adblock.txt: 4823)
 .kawakitanet.com/soccerbbs/j/image\.gif
 
-#ab2p-block-request-R27
-{+client-header-tagger{ab2p-block-request-R27} \
+#ab2p-block-request-R28
+{+client-header-tagger{ab2p-block-request-R28} \
 }
 # ||doptr.pw^$domain=kazanesh.ru (280blocker_adblock.txt: 403)
 .doptr.pw
 
-#ab2p-block-request-R28
-{+client-header-tagger{ab2p-block-request-R28} \
+#ab2p-block-request-R29
+{+client-header-tagger{ab2p-block-request-R29} \
 }
 # ||dn.turacousequent.com^$domain=klmag.net (280blocker_adblock.txt: 337)
 .dn.turacousequent.com
 
-#ab2p-block-request-R29
-{+client-header-tagger{ab2p-block-request-R29} \
+#ab2p-block-request-R30
+{+client-header-tagger{ab2p-block-request-R30} \
 }
 # ||kl.trombegoitcho.com^$domain=klmanga.net (280blocker_adblock.txt: 406)
 .kl.trombegoitcho.com
@@ -13837,8 +14965,8 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||3a1be44ca9.com^$domain=klmanga.net (280blocker_adblock.txt: 324)
 .3a1be44ca9.com
 
-#ab2p-block-request-R30
-{+client-header-tagger{ab2p-block-request-R30} \
+#ab2p-block-request-R31
+{+client-header-tagger{ab2p-block-request-R31} \
 }
 # ||laulup.com^$domain=kmansin03.com (280blocker_adblock.txt: 420)
 .laulup.com
@@ -13867,38 +14995,38 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||stinue.com^$domain=kmansin03.com (280blocker_adblock.txt: 229)
 .stinue.com
 
-#ab2p-block-request-R31
-{+client-header-tagger{ab2p-block-request-R31} \
+#ab2p-block-request-R32
+{+client-header-tagger{ab2p-block-request-R32} \
 }
 # ||js.xemkqxs.com^$domain=manga1001.top (280blocker_adblock.txt: 408)
 .js.xemkqxs.com
 
-#ab2p-block-request-R32
-{+client-header-tagger{ab2p-block-request-R32} \
+#ab2p-block-request-R33
+{+client-header-tagger{ab2p-block-request-R33} \
 }
 # ||js.wpshsdk.com^$domain=vjav.com|manga1002.site|txxx.com (280blocker_adblock.txt: 582)
 .js.wpshsdk.com
 
-#ab2p-block-request-R33
-{+client-header-tagger{ab2p-block-request-R33} \
+#ab2p-block-request-R34
+{+client-header-tagger{ab2p-block-request-R34} \
 }
 # ||quokkacheeks.com^$domain=mangagohan.me (280blocker_adblock.txt: 338)
 .quokkacheeks.com
 
-#ab2p-block-request-R34
-{+client-header-tagger{ab2p-block-request-R34} \
+#ab2p-block-request-R35
+{+client-header-tagger{ab2p-block-request-R35} \
 }
 # ||mickeysdim.com^$domain=mangameta.com (280blocker_adblock.txt: 329)
 .mickeysdim.com
 
-#ab2p-block-request-R35
-{+client-header-tagger{ab2p-block-request-R35} \
+#ab2p-block-request-R36
+{+client-header-tagger{ab2p-block-request-R36} \
 }
 # ||jsc.adskeeper.com^$domain=mangaraw.co (280blocker_adblock.txt: 354)
 .jsc.adskeeper.com
 
-#ab2p-block-request-R36
-{+client-header-tagger{ab2p-block-request-R36} \
+#ab2p-block-request-R37
+{+client-header-tagger{ab2p-block-request-R37} \
 }
 # ||oaphoace.net^$domain=mangaraw.lol (280blocker_adblock.txt: 282)
 .oaphoace.net
@@ -13909,60 +15037,60 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||zikroarg.com^$domain=mangaraw.lol (280blocker_adblock.txt: 275)
 .zikroarg.com
 
-#ab2p-block-request-R37
-{+client-header-tagger{ab2p-block-request-R37} \
+#ab2p-block-request-R38
+{+client-header-tagger{ab2p-block-request-R38} \
 }
 # ||tempest.services.disqus.com^$domain=mangas-raw.com (280blocker_adblock.txt: 357)
 .tempest.services.disqus.com
 # ||fardingsoiling.com^$domain=mangas-raw.com (280blocker_adblock.txt: 356)
 .fardingsoiling.com
 
-#ab2p-block-request-R38
-{+client-header-tagger{ab2p-block-request-R38} \
+#ab2p-block-request-R39
+{+client-header-tagger{ab2p-block-request-R39} \
 }
 # ||fiercedental.com^$domain=master124.ru|sun-spain.ru (280blocker_adblock.txt: 270)
 .fiercedental.com
 
-#ab2p-block-request-R39
-{+client-header-tagger{ab2p-block-request-R39} \
+#ab2p-block-request-R40
+{+client-header-tagger{ab2p-block-request-R40} \
 }
 # /popups.js$domain=mecanique-auto83.com (280blocker_adblock.txt: 4862)
 /(?:(*PRUNE).*?/)?popups\.js
 
-#ab2p-block-request-R40
-{+client-header-tagger{ab2p-block-request-R40} \
+#ab2p-block-request-R41
+{+client-header-tagger{ab2p-block-request-R41} \
 }
 # ||assistedadultrib.com^$domain=micmicidol.com (280blocker_adblock.txt: 233)
 .assistedadultrib.com
 
-#ab2p-block-request-R41
-{+client-header-tagger{ab2p-block-request-R41} \
+#ab2p-block-request-R42
+{+client-header-tagger{ab2p-block-request-R42} \
 }
 # ||puturebraving.com^$domain=mikaraw.com (280blocker_adblock.txt: 638)
 .puturebraving.com
 # ||zeromanga.net/api/ad^$domain=mikaraw.com (280blocker_adblock.txt: 266)
 .zeromanga.net/api/ad[^\w%.-]
 
-#ab2p-block-request-R42
-{+client-header-tagger{ab2p-block-request-R42} \
+#ab2p-block-request-R43
+{+client-header-tagger{ab2p-block-request-R43} \
 }
 # ||api.flipdesk.jp$domain=my-best.com (280blocker_adblock.txt: 2456)
 .api.flipdesk.jp*.
 
-#ab2p-block-request-R43
-{+client-header-tagger{ab2p-block-request-R43} \
+#ab2p-block-request-R44
+{+client-header-tagger{ab2p-block-request-R44} \
 }
 # ||discoveryplus.popin.cc$domain=nifty.com (280blocker_adblock.txt: 3166)
 .discoveryplus.popin.cc*.
 
-#ab2p-block-request-R44
-{+client-header-tagger{ab2p-block-request-R44} \
+#ab2p-block-request-R45
+{+client-header-tagger{ab2p-block-request-R45} \
 }
 # ||nogizaka-46bunno1.blog.jp/pic14.html$domain=nogizaka-46bunno1.blog.jp (280blocker_adblock.txt: 2741)
 .nogizaka-46bunno1.blog.jp/pic14\.html
 
-#ab2p-block-request-R45
-{+client-header-tagger{ab2p-block-request-R45} \
+#ab2p-block-request-R46
+{+client-header-tagger{ab2p-block-request-R46} \
 }
 # ||brazenwholly.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 280)
 .brazenwholly.com
@@ -13971,26 +15099,26 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||ads.senmanga.com^$domain=raw.senmanga.com (280blocker_adblock.txt: 278)
 .ads.senmanga.com
 
-#ab2p-block-request-R46
-{+client-header-tagger{ab2p-block-request-R46} \
+#ab2p-block-request-R47
+{+client-header-tagger{ab2p-block-request-R47} \
 }
 # ||st.chatango.com^$domain=rawkuma.com (280blocker_adblock.txt: 421)
 .st.chatango.com
 
-#ab2p-block-request-R47
-{+client-header-tagger{ab2p-block-request-R47} \
+#ab2p-block-request-R48
+{+client-header-tagger{ab2p-block-request-R48} \
 }
 # ||q777.sfchronicle.com/plugin/plugin^$domain=sfchronicle.com (280blocker_adblock.txt: 328)
 .q777.sfchronicle.com/plugin/plugin[^\w%.-]
 
-#ab2p-block-request-R48
-{+client-header-tagger{ab2p-block-request-R48} \
+#ab2p-block-request-R49
+{+client-header-tagger{ab2p-block-request-R49} \
 }
 # ||buy-ap.piano.io$domain=snrec.jp (280blocker_adblock.txt: 1013)
 .buy-ap.piano.io*.
 
-#ab2p-block-request-R49
-{+client-header-tagger{ab2p-block-request-R49} \
+#ab2p-block-request-R50
+{+client-header-tagger{ab2p-block-request-R50} \
 }
 # ||rrmon.adsbtrk.com^$domain=tktube.com (280blocker_adblock.txt: 269)
 .rrmon.adsbtrk.com
@@ -13999,26 +15127,26 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||go6shde9nj2itle.com^$domain=tktube.com (280blocker_adblock.txt: 267)
 .go6shde9nj2itle.com
 
-#ab2p-block-request-R50
-{+client-header-tagger{ab2p-block-request-R50} \
+#ab2p-block-request-R51
+{+client-header-tagger{ab2p-block-request-R51} \
 }
 # ||choptacache.com^$domain=uraaka-joshi.com (280blocker_adblock.txt: 127)
 .choptacache.com
 
-#ab2p-block-request-R51
-{+client-header-tagger{ab2p-block-request-R51} \
+#ab2p-block-request-R52
+{+client-header-tagger{ab2p-block-request-R52} \
 }
 # ||static.fc2.com/video/js_smartphone_new/out^$domain=video.fc2.com (280blocker_adblock.txt: 281)
 .static.fc2.com/video/js_smartphone_new/out[^\w%.-]
 
-#ab2p-block-request-R52
-{+client-header-tagger{ab2p-block-request-R52} \
+#ab2p-block-request-R53
+{+client-header-tagger{ab2p-block-request-R53} \
 }
 # ||addresseepaper.com^$domain=vidstream.pro (280blocker_adblock.txt: 264)
 .addresseepaper.com
 
-#ab2p-block-request-R53
-{+client-header-tagger{ab2p-block-request-R53} \
+#ab2p-block-request-R54
+{+client-header-tagger{ab2p-block-request-R54} \
 }
 # ||bqnqrr53.com^$domain=vjav.com (280blocker_adblock.txt: 584)
 .bqnqrr53.com
@@ -14027,8 +15155,8 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||vxxx.com^$domain=vjav.com (280blocker_adblock.txt: 580)
 .vxxx.com
 
-#ab2p-block-request-R54
-{+client-header-tagger{ab2p-block-request-R54} \
+#ab2p-block-request-R55
+{+client-header-tagger{ab2p-block-request-R55} \
 }
 # ||oversowcholam.com^$domain=weloma.art (280blocker_adblock.txt: 416)
 .oversowcholam.com
@@ -14037,14 +15165,14 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||adncdnend.azureedge.net^$domain=weloma.art (280blocker_adblock.txt: 414)
 .adncdnend.azureedge.net
 
-#ab2p-block-request-R55
-{+client-header-tagger{ab2p-block-request-R55} \
+#ab2p-block-request-R56
+{+client-header-tagger{ab2p-block-request-R56} \
 }
 # ||nasrolaugers.com^$domain=welovemanga.one (280blocker_adblock.txt: 417)
 .nasrolaugers.com
 
-#ab2p-block-request-R56
-{+client-header-tagger{ab2p-block-request-R56} \
+#ab2p-block-request-R57
+{+client-header-tagger{ab2p-block-request-R57} \
 }
 # ||upzerons.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 274)
 .upzerons.com
@@ -14055,153 +15183,159 @@ TAG:^ab2p-block-request-Anhm-Cnhm$
 # ||interstitial-08.com^$domain=wiki.ja-jp.nina.az (280blocker_adblock.txt: 271)
 .interstitial-08.com
 
-#ab2p-block-request-R57
-{+client-header-tagger{ab2p-block-request-R57} \
+#ab2p-block-request-R58
+{+client-header-tagger{ab2p-block-request-R58} \
 }
 # BannerLoader$domain=wikipedia.org (280blocker_adblock.txt: 4865)
 /(*PRUNE).*?BannerLoader
 .*BannerLoader*.
 
-#ab2p-block-request-R58
-{+client-header-tagger{ab2p-block-request-R58} \
+#ab2p-block-request-R59
+{+client-header-tagger{ab2p-block-request-R59} \
 }
 # ||cdnjs.cloudflare.com$domain=xbooks.to (280blocker_adblock.txt: 3015)
 .cdnjs.cloudflare.com*.
 
-#ab2p-block-request-Rn59
-{+client-header-tagger{ab2p-block-request-Rn59} \
+#ab2p-block-request-R60
+{+client-header-tagger{ab2p-block-request-R60} \
 }
-# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
-.adingo.jp
+# ||platform.twitter.com/jot.html$domain=yahoo.co.jp (kotori_filter.txt: 105)
+.platform.twitter.com/jot\.html
 
 #ab2p-block-request-Rn61
 {+client-header-tagger{ab2p-block-request-Rn61} \
 }
-# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
-.img.550909.com/banner/
-
-#ab2p-block-request-Rn62
-{+client-header-tagger{ab2p-block-request-Rn62} \
-}
-# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
-.pagead2.googlesyndication.com*.
+# ||adingo.jp^$domain=~109cinemas.net (280blocker_adblock.txt: 5037)
+.adingo.jp
 
 #ab2p-block-request-Rn63
 {+client-header-tagger{ab2p-block-request-Rn63} \
 }
-# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
-ad.
+# ||img.550909.com/banner/$domain=~550909.com (280blocker_adblock.txt: 2596)
+.img.550909.com/banner/
 
 #ab2p-block-request-Rn64
 {+client-header-tagger{ab2p-block-request-Rn64} \
 }
-# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
+# ||pagead2.googlesyndication.com$domain=~kanajo.com|~oz3gamer.blog.fc2.com|~monnsutogatya.com|~ferrarilamborghininews.com|~antiblock.org|~sakano.wp-x.jp|~gametter.com|~kikra.jp|~thisav.com|~togeko.net|~doujin-free.com|~valuetrust.net|~surveyenquete.net|~8wayrun.com|~aeoncinema.com|~battlecats-db.com|~earthyworld.com|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~9ketsuki.info|~yalujailbreak.net|~monst.today|~coron.tech|~dqmsl-search.net|~gadgetdamage.blog.fc2.com|~mirm.jp|~jp-horse-breaking.blogspot.com|~itby.net|~netbystander.blog|~crefan.jp|~youpouch.com|~blogk.com|~tabkul.com|~fp2-siken.com|~kakomonn.com (280blocker_adblock.txt: 3530)
+.pagead2.googlesyndication.com*.
+
+#ab2p-block-request-Rn65
+{+client-header-tagger{ab2p-block-request-Rn65} \
+}
+# |https://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp|~itmedia.co.jp|~blogk.com|~tabkul.com (280blocker_adblock.txt: 3337)
 ad.
 
 #ab2p-block-request-Rn66
 {+client-header-tagger{ab2p-block-request-Rn66} \
 }
+# |http://ad.$domain=~ameba.jp|~ametopi.jp|~ameblo.jp|~google.com|~google.co.jp|~yahoo.co.jp|~impress.co.jp|~kanajo.com|~mamastar.jp|~jankara.net|~abema.tv|~ponta.jp|~mobadme.jp|~dpoint.jp|~tsite.jp (280blocker_adblock.txt: 3336)
+ad.
+
+#ab2p-block-request-Rn68
+{+client-header-tagger{ab2p-block-request-Rn68} \
+}
 # ||doubleclick.net^$domain=~cosme.net|~amazon.co.jp|~onlineshop.smt.docomo.ne.jp|~mydocomo.com|~ralphlauren.co.jp|~atwiki.jp|~bookoffonline.co.jp|~natgeo.nikkeibp.co.jp|~db-siken.com|~pm-siken.com|~sg-siken.com|~sc-siken.com|~nw-siken.com|~itpassportsiken.com|~fe-siken.com|~ap-siken.com|~blogk.com|~tabkul.com (280blocker_adblock.txt: 2318)
 .doubleclick.net
 
-#ab2p-block-request-Rn67
-{+client-header-tagger{ab2p-block-request-Rn67} \
+#ab2p-block-request-Rn69
+{+client-header-tagger{ab2p-block-request-Rn69} \
 }
 # |https://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3382)
 ads.
 # |http://ads.$domain=~nicovideo.jp|~amazon.co.jp|~avgle.com|~weddingpark.net (280blocker_adblock.txt: 3381)
 ads.
 
-#ab2p-block-request-Rn68
-{+client-header-tagger{ab2p-block-request-Rn68} \
+#ab2p-block-request-Rn70
+{+client-header-tagger{ab2p-block-request-Rn70} \
 }
 # ||as.ebis.ne.jp/resolv.php$domain=~auone.jp (280blocker_adblock.txt: 3997)
 .as.ebis.ne.jp/resolv\.php
 
-#ab2p-block-request-Rn69
-{+client-header-tagger{ab2p-block-request-Rn69} \
+#ab2p-block-request-Rn71
+{+client-header-tagger{ab2p-block-request-Rn71} \
 }
 # ||exosrv.com$domain=~avgle.com|~manga1000.com (280blocker_adblock.txt: 3394)
 .exosrv.com*.
 
-#ab2p-block-request-Rn71
-{+client-header-tagger{ab2p-block-request-Rn71} \
+#ab2p-block-request-Rn73
+{+client-header-tagger{ab2p-block-request-Rn73} \
 }
 # ||media.line.me/js/line-button.js$domain=~tokyo-gas.co.jp|~tsukuba.ac.jp|~bando.lg.jp|~www.flowerpark.or.jp|~ibaraki.jp (280blocker_adblock.txt: 1446)
 .media.line.me/js/line-button\.js
 
-#ab2p-block-request-Rn72
-{+client-header-tagger{ab2p-block-request-Rn72} \
+#ab2p-block-request-Rn74
+{+client-header-tagger{ab2p-block-request-Rn74} \
 }
 # ||img.bbchat.tv/images/bannar/$domain=~bbchat.tv (280blocker_adblock.txt: 2569)
 .img.bbchat.tv/images/bannar/
 
-#ab2p-block-request-Rn75
-{+client-header-tagger{ab2p-block-request-Rn75} \
+#ab2p-block-request-Rn77
+{+client-header-tagger{ab2p-block-request-Rn77} \
 }
 # ||apis.google.com/js/plusone.js$domain=~google.com|~google.co.jp|~studio-mario.jp|~kitamura.jp|~charingress.tokyo (280blocker_adblock.txt: 4883)
 .apis.google.com/js/plusone\.js
 
-#ab2p-block-request-Rn76
-{+client-header-tagger{ab2p-block-request-Rn76} \
+#ab2p-block-request-Rn78
+{+client-header-tagger{ab2p-block-request-Rn78} \
 }
 # ||mediad2.jp^$domain=~dropbooks.tv|~xbooks.to (280blocker_adblock.txt: 3062)
 .mediad2.jp
 
-#ab2p-block-request-Rn78
-{+client-header-tagger{ab2p-block-request-Rn78} \
+#ab2p-block-request-Rn80
+{+client-header-tagger{ab2p-block-request-Rn80} \
 }
 # ||aka-uae-dl.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1924)
 .aka-uae-dl.uliza.jp*.
 # ||ad-api-v01.uliza.jp$domain=~excite.co.jp|~tv.golfnetwork.co.jp (280blocker_adblock.txt: 1923)
 .ad-api-v01.uliza.jp*.
 
-#ab2p-block-request-Rn79
-{+client-header-tagger{ab2p-block-request-Rn79} \
+#ab2p-block-request-Rn81
+{+client-header-tagger{ab2p-block-request-Rn81} \
 }
 # ||s3.feedly.com/img/follows/$domain=~feedly.com (280blocker_adblock.txt: 4888)
 .s3.feedly.com/img/follows/
 
-#ab2p-block-request-Rn80
-{+client-header-tagger{ab2p-block-request-Rn80} \
+#ab2p-block-request-Rn82
+{+client-header-tagger{ab2p-block-request-Rn82} \
 }
 # ||mathtag.com^$domain=~forbes.com (280blocker_adblock.txt: 4963)
 .mathtag.com
 
-#ab2p-block-request-Rn81
-{+client-header-tagger{ab2p-block-request-Rn81} \
+#ab2p-block-request-Rn83
+{+client-header-tagger{ab2p-block-request-Rn83} \
 }
 # ||feed.mikle.com$domain=~l-lal.space|~funato.us (280blocker_adblock.txt: 1922)
 .feed.mikle.com*.
 
-#ab2p-block-request-Rn83
-{+client-header-tagger{ab2p-block-request-Rn83} \
+#ab2p-block-request-Rn85
+{+client-header-tagger{ab2p-block-request-Rn85} \
 }
 # ||outbrain.com^$domain=~news.livedoor.com|~gendai.ismedia.jp (280blocker_adblock.txt: 3099)
 .outbrain.com
 
-#ab2p-block-request-Rn85
-{+client-header-tagger{ab2p-block-request-Rn85} \
+#ab2p-block-request-Rn87
+{+client-header-tagger{ab2p-block-request-Rn87} \
 }
 # ||in.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2621)
 .in.treasuredata.com
 # ||cdn.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com (280blocker_adblock.txt: 2620)
 .cdn.treasuredata.com
 
-#ab2p-block-request-Rn88
-{+client-header-tagger{ab2p-block-request-Rn88} \
+#ab2p-block-request-Rn90
+{+client-header-tagger{ab2p-block-request-Rn90} \
 }
 # ||ads.pubmatic.com$domain=~hackintosh.zone (280blocker_adblock.txt: 4363)
 .ads.pubmatic.com*.
 
-#ab2p-block-request-Rn90
-{+client-header-tagger{ab2p-block-request-Rn90} \
+#ab2p-block-request-Rn92
+{+client-header-tagger{ab2p-block-request-Rn92} \
 }
 # ||img.happymail.co.jp/img/pc_l/$domain=~happymail.co.jp (280blocker_adblock.txt: 2598)
 .img.happymail.co.jp/img/pc_l/
 
-#ab2p-block-request-Rn91
-{+client-header-tagger{ab2p-block-request-Rn91} \
+#ab2p-block-request-Rn93
+{+client-header-tagger{ab2p-block-request-Rn93} \
 }
 # ||b.st-hatena.com/js/bookmark_button.js$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4186)
 .b.st-hatena.com/js/bookmark_button\.js
@@ -14210,20 +15344,20 @@ ads.
 # ||b.st-hatena.com/images/entry-button/button$domain=~hatenablog.com|~hatenablog.jp|~hateblo.jp|~hatena.ne.jp|~hatenadiary.com|~hatenadiary.jp (280blocker_adblock.txt: 4184)
 .b.st-hatena.com/images/entry-button/button
 
-#ab2p-block-request-Rn92
-{+client-header-tagger{ab2p-block-request-Rn92} \
+#ab2p-block-request-Rn94
+{+client-header-tagger{ab2p-block-request-Rn94} \
 }
 # ||popcash.net$domain=~hoshinoromi.org (280blocker_adblock.txt: 2967)
 .popcash.net*.
 
-#ab2p-block-request-Rn97
-{+client-header-tagger{ab2p-block-request-Rn97} \
+#ab2p-block-request-Rn99
+{+client-header-tagger{ab2p-block-request-Rn99} \
 }
 # ||cxense.com^$domain=~mainichi.jp|~itmedia.co.jp (280blocker_adblock.txt: 4018)
 .cxense.com
 
-#ab2p-block-request-Rn98
-{+client-header-tagger{ab2p-block-request-Rn98} \
+#ab2p-block-request-Rn100
+{+client-header-tagger{ab2p-block-request-Rn100} \
 }
 # ||nend.net^$domain=~kanajo.com (280blocker_adblock.txt: 5286)
 .nend.net
@@ -14232,38 +15366,44 @@ ads.
 # ||adm.shinobi.jp^$domain=~kanajo.com (280blocker_adblock.txt: 5045)
 .adm.shinobi.jp
 
-#ab2p-block-request-Rn99
-{+client-header-tagger{ab2p-block-request-Rn99} \
+#ab2p-block-request-Rn101
+{+client-header-tagger{ab2p-block-request-Rn101} \
 }
 # ||coremetrics.com^$domain=~konamistyle.jp|~konami.com|~konami.jp|~konami.net (280blocker_adblock.txt: 4961)
 .coremetrics.com
 
-#ab2p-block-request-Rn100
-{+client-header-tagger{ab2p-block-request-Rn100} \
+#ab2p-block-request-Rn102
+{+client-header-tagger{ab2p-block-request-Rn102} \
 }
-# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
-.s.yimg.jp/bdv/yahoo
+# ||line.me^$domain=~line.me (kotori_filter.txt: 91)
+.line.me
 
 #ab2p-block-request-Rn103
 {+client-header-tagger{ab2p-block-request-Rn103} \
 }
+# ||s.yimg.jp/bdv/yahoo$domain=~mail.yahoo.co.jp (280blocker_adblock.txt: 1943)
+.s.yimg.jp/bdv/yahoo
+
+#ab2p-block-request-Rn106
+{+client-header-tagger{ab2p-block-request-Rn106} \
+}
 # ||i.popincdn.com$domain=~nikkan-gendai.com (280blocker_adblock.txt: 2399)
 .i.popincdn.com*.
 
-#ab2p-block-request-Rn104
-{+client-header-tagger{ab2p-block-request-Rn104} \
+#ab2p-block-request-Rn107
+{+client-header-tagger{ab2p-block-request-Rn107} \
 }
 # ||doga.cm$domain=~ponta.jp (280blocker_adblock.txt: 4781)
 .doga.cm*.
 
-#ab2p-block-request-Rn108
-{+client-header-tagger{ab2p-block-request-Rn108} \
+#ab2p-block-request-Rn111
+{+client-header-tagger{ab2p-block-request-Rn111} \
 }
 # ||adplan-ds.com^$domain=~tsite.jp (280blocker_adblock.txt: 4017)
 .adplan-ds.com
 
-#ab2p-block-request-Rn109
-{+client-header-tagger{ab2p-block-request-Rn109} \
+#ab2p-block-request-Rn112
+{+client-header-tagger{ab2p-block-request-Rn112} \
 }
 # ||platform.tumblr.com/v2/follow_button$domain=~tumblr.com (280blocker_adblock.txt: 4887)
 .platform.tumblr.com/v2/follow_button
@@ -14272,26 +15412,32 @@ ads.
 # ||assets.tumblr.com/share-button.js$domain=~tumblr.com (280blocker_adblock.txt: 4884)
 .assets.tumblr.com/share-button\.js
 
-#ab2p-block-request-Rn110
-{+client-header-tagger{ab2p-block-request-Rn110} \
+#ab2p-block-request-Rn113
+{+client-header-tagger{ab2p-block-request-Rn113} \
 }
 # /dfp.js$domain=~wired.jp (280blocker_adblock.txt: 4038)
 /(?:(*PRUNE).*?/)?dfp\.js
 
-#ab2p-block-request-Rn112
-{+client-header-tagger{ab2p-block-request-Rn112} \
+#ab2p-block-request-Rn115
+{+client-header-tagger{ab2p-block-request-Rn115} \
 }
 # ||scorecardresearch.com^$domain=~wsj.com|~yahoo.co.jp (280blocker_adblock.txt: 4791)
 .scorecardresearch.com
 
-#ab2p-block-request-Rn113
-{+client-header-tagger{ab2p-block-request-Rn113} \
+#ab2p-block-request-Rn116
+{+client-header-tagger{ab2p-block-request-Rn116} \
+}
+# ||www.amazon.co.jp.$domain=~www.amazon.co.jp (kame_filter.txt: 77)
+.www.amazon.co.jp.
+
+#ab2p-block-request-Rn117
+{+client-header-tagger{ab2p-block-request-Rn117} \
 }
 # ||popin.cc/searchbox$domain=~www.nifty.com (280blocker_adblock.txt: 3058)
 .popin.cc/searchbox
 
-#ab2p-block-request-Rn114
-{+client-header-tagger{ab2p-block-request-Rn114} \
+#ab2p-block-request-Rn118
+{+client-header-tagger{ab2p-block-request-Rn118} \
 }
 # ||2mdn.info^$domain=~yahoo.co.jp (280blocker_adblock.txt: 4966)
 .2mdn.info
@@ -14305,3 +15451,77 @@ ads.
 .s0.2mdn.net
 # ||im.ov.yahoo.co.jp$domain=~yahoo.co.jp (280blocker_adblock.txt: 3587)
 .im.ov.yahoo.co.jp*.
+
+#ab2p-block-xframe
+{+server-header-filter{ab2p-xframe-filter} \
+}
+# ||public-api.wordpress.com/connect/?googleplus-sign-in$subdocument (kotori_filter.txt: 197)
+.public-api.wordpress.com/connect/\?googleplus-sign-in
+
+#ab2p-unblock-dnt
+{ \
+}
+TAG:^ab2p-unblock-dnt$
+# @@||www.amazon.co.jp.edgekey.net^ (kame_filter.txt: 78)
+.www.amazon.co.jp.edgekey.net
+
+#ab2p-unblock-dnt-R142
+{+client-header-tagger{ab2p-unblock-dnt-R142} \
+}
+# @@||www.google-analytics.com^$domain=hatelabo.jp (kotori_filter.txt: 80)
+.www.google-analytics.com
+# @@||googletagmanager.com/gtm.js$script,domain=hatelabo.jp (kotori_filter.txt: 79)
+.googletagmanager.com/gtm\.js
+# @@||b.st-hatena.com/js/bookmark_button.js$domain=hatelabo.jp (kotori_filter.txt: 78)
+.b.st-hatena.com/js/bookmark_button\.js
+
+#ab2p-unblock-elem
+{-filter{ab2p-elemhide-filter} \
+}
+TAG:^ab2p-unblock-elem$
+# @@||www.amazon.co.jp.edgekey.net^ (kame_filter.txt: 78)
+.www.amazon.co.jp.edgekey.net
+
+#ab2p-unblock-elem-R142
+{+client-header-tagger{ab2p-unblock-elem-R142} \
+}
+# @@||www.google-analytics.com^$domain=hatelabo.jp (kotori_filter.txt: 80)
+.www.google-analytics.com
+# @@||googletagmanager.com/gtm.js$script,domain=hatelabo.jp (kotori_filter.txt: 79)
+.googletagmanager.com/gtm\.js
+# @@||b.st-hatena.com/js/bookmark_button.js$domain=hatelabo.jp (kotori_filter.txt: 78)
+.b.st-hatena.com/js/bookmark_button\.js
+
+#ab2p-unblock-request
+{-block \
+-server-header-tagger{ab2p-block-s} \
++server-header-tagger{ab2p-unblock-d} \
++server-header-tagger{ab2p-unblock-s} \
++client-header-tagger{ab2b-unblock-u} \
+}
+TAG:^ab2p-unblock-request$
+# @@||www.amazon.co.jp.edgekey.net^ (kame_filter.txt: 78)
+.www.amazon.co.jp.edgekey.net
+
+#ab2p-unblock-request-Aj-Cj
+{-block \
+ +client-header-tagger{ab2p-unblock-request-Aj} \
+ +server-header-tagger{ab2p-unblock-request-Cj} \
+}
+TAG:^ab2p-unblock-request-Aj-Cj$
+
+#ab2p-unblock-request-Aj-Cj-when-R142
+{-block \
+ +client-header-tagger{ab2p-unblock-request-Aj-Cj-when-R142} \
+}
+# @@||googletagmanager.com/gtm.js$script,domain=hatelabo.jp (kotori_filter.txt: 79)
+.googletagmanager.com/gtm\.js
+
+#ab2p-unblock-request-R142
+{-block \
+ +client-header-tagger{ab2p-unblock-request-R142} \
+}
+# @@||www.google-analytics.com^$domain=hatelabo.jp (kotori_filter.txt: 80)
+.www.google-analytics.com
+# @@||b.st-hatena.com/js/bookmark_button.js$domain=hatelabo.jp (kotori_filter.txt: 78)
+.b.st-hatena.com/js/bookmark_button\.js
