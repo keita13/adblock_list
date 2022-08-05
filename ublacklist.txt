@@ -11808,6 +11808,7 @@
 *://*.studiocoppolasarzana.it/*
 *://*.style.ru/*
 *://*.sub-nicoapple.ssl-lolipop.jp/*
+*://*.super-unix.com/*
 *://*.superduperartscamp.com/*
 *://*.sushi.ru/*
 *://*.suttonedfoundation.org/*
