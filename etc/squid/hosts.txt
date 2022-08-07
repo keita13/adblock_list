@@ -286,7 +286,6 @@
 0.0.0.0 1680go.com
 0.0.0.0 1686607364.rsc.cdn77.org
 0.0.0.0 168kbet.com
-0.0.0.0 168logger.com
 0.0.0.0 168xiazai.com
 0.0.0.0 168zwm.com
 0.0.0.0 16k6.com
@@ -1040,6 +1039,7 @@
 0.0.0.0 5faad595f4.com
 0.0.0.0 5fcc5e7d92.com
 0.0.0.0 5glyqw.com
+0.0.0.0 5gustis.xyz
 0.0.0.0 5h3oyhv838.com
 0.0.0.0 5ibanma.com
 0.0.0.0 5idoy8p7.live
@@ -1162,6 +1162,7 @@
 0.0.0.0 666745.xyz
 0.0.0.0 666746.xyz
 0.0.0.0 666747.xyz
+0.0.0.0 666748.xyz
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
@@ -4954,6 +4955,7 @@
 0.0.0.0 aegis.qq.com
 0.0.0.0 aeheymuatansp.xyz
 0.0.0.0 aehjtauekqjtvc.com
+0.0.0.0 aeimmmj.cn
 0.0.0.0 aelick.com
 0.0.0.0 aellod.com
 0.0.0.0 aelphotog.pro
@@ -5444,6 +5446,7 @@
 0.0.0.0 aj2393.online
 0.0.0.0 aj2397.online
 0.0.0.0 aj2430.online
+0.0.0.0 aj2495.online
 0.0.0.0 aja-recommend.com
 0.0.0.0 ajaralarm.com
 0.0.0.0 ajaxbig.ru
@@ -5465,6 +5468,7 @@
 0.0.0.0 ajur.info
 0.0.0.0 ajwssds.com
 0.0.0.0 ajx130.online
+0.0.0.0 ajxukah.cn
 0.0.0.0 ajxx98.online
 0.0.0.0 ajxylqiwtabiya.com
 0.0.0.0 ajzs.xyz
@@ -6035,7 +6039,6 @@
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.fatmedia.io
 0.0.0.0 analytics.favcy.com
-0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.femalefirst.co.uk
 0.0.0.0 analytics.firespring.com
 0.0.0.0 analytics.fontanka.ru
@@ -18253,6 +18256,7 @@
 0.0.0.0 flare-analytics.com
 0.0.0.0 flash-counter.com
 0.0.0.0 flashadengine.com
+0.0.0.0 flashb.id
 0.0.0.0 flashclicks.com
 0.0.0.0 flashinginvolvementmatches.com
 0.0.0.0 flashnetic.com
@@ -18966,6 +18970,7 @@
 0.0.0.0 fxc.ink
 0.0.0.0 fxcast.com
 0.0.0.0 fxdepo.com
+0.0.0.0 fxdwdwv.cn
 0.0.0.0 fxfhjs.com
 0.0.0.0 fxhfxhf.cc
 0.0.0.0 fxhpaoxqyajvmdg.
@@ -19586,6 +19591,7 @@
 0.0.0.0 getterobes.cam
 0.0.0.0 gettine.com
 0.0.0.0 gettingusingpoison.com
+0.0.0.0 gettopple.com
 0.0.0.0 gettopup.com
 0.0.0.0 gettraff.com
 0.0.0.0 gettraffnews.com
@@ -20160,6 +20166,7 @@
 0.0.0.0 gonextpage.ru
 0.0.0.0 gongshangwang.top
 0.0.0.0 gongshu168.cn
+0.0.0.0 gongwuyuan.name
 0.0.0.0 gongxifc.com
 0.0.0.0 goo-access-analytics.appspot.com
 0.0.0.0 gooblesdd.com
@@ -21599,6 +21606,7 @@
 0.0.0.0 hledoziequt.com
 0.0.0.0 hlgglm.com
 0.0.0.0 hlhulu.com
+0.0.0.0 hljcq.xyz
 0.0.0.0 hljhufengling.cn
 0.0.0.0 hljyjm.cn
 0.0.0.0 hllpiaaxwdv.com
@@ -22483,6 +22491,7 @@
 0.0.0.0 idownloadgalore.com
 0.0.0.0 idpojar.ru
 0.0.0.0 idqhmtgeskkkwr.com
+0.0.0.0 idreamed.com
 0.0.0.0 idreammedia.com
 0.0.0.0 idspatchi.com
 0.0.0.0 idswinpole.casa
@@ -23587,6 +23596,7 @@
 0.0.0.0 itxinrou.com
 0.0.0.0 iubzka.online
 0.0.0.0 iulftx.com
+0.0.0.0 iuliglsh.space
 0.0.0.0 iupgxu.com
 0.0.0.0 iupot.com
 0.0.0.0 iupqelechcmj.com
@@ -24986,6 +24996,7 @@
 0.0.0.0 kingbet86.com
 0.0.0.0 kingbet86.info
 0.0.0.0 kingfun247.net
+0.0.0.0 kingleo.hk
 0.0.0.0 kingpolo.com.cn
 0.0.0.0 kingwam.com
 0.0.0.0 kingwitheaa.lol
@@ -27374,6 +27385,7 @@
 0.0.0.0 ma2gs3wne3gfej70osium.com
 0.0.0.0 ma716.cn
 0.0.0.0 maad.maru.jp
+0.0.0.0 maaijun.top
 0.0.0.0 maalabaala.com
 0.0.0.0 maaled.com
 0.0.0.0 maas-*.phunware.com
@@ -27916,6 +27928,7 @@
 0.0.0.0 mdpszsqzs.com
 0.0.0.0 mdqgwa.cn
 0.0.0.0 mds.nipa.co.th
+0.0.0.0 mdsop.com
 0.0.0.0 mdszz.com
 0.0.0.0 mdvkn.com
 0.0.0.0 mdwphtohwt.com
@@ -33843,6 +33856,7 @@
 0.0.0.0 prime-hunage.com
 0.0.0.0 prime-hunter.com
 0.0.0.0 prime-vpnet.com
+0.0.0.0 prime.rambler.ru
 0.0.0.0 primead.jp
 0.0.0.0 primebc1.website
 0.0.0.0 primechoice.ru
@@ -34715,6 +34729,7 @@
 0.0.0.0 qctt24h.24h.com.vn
 0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 qcvf.ifeng.com
+0.0.0.0 qcyunnan.cn
 0.0.0.0 qd.x4399.com
 0.0.0.0 qd3u5eeuos.com
 0.0.0.0 qd3zn.xyz
@@ -34816,6 +34831,7 @@
 0.0.0.0 qicqn.cn
 0.0.0.0 qiditrade.com
 0.0.0.0 qienews.cn
+0.0.0.0 qiezijs.cc
 0.0.0.0 qifake.com
 0.0.0.0 qiji1.jdwx.info
 0.0.0.0 qijiandian.xyz
@@ -34824,6 +34840,7 @@
 0.0.0.0 qilashou.com
 0.0.0.0 qilinwh.cn
 0.0.0.0 qilungroup.cn
+0.0.0.0 qinger.name
 0.0.0.0 qingjiedi.com
 0.0.0.0 qingrektmkt.com
 0.0.0.0 qingtian.love
@@ -38285,6 +38302,7 @@
 0.0.0.0 shvhse.com
 0.0.0.0 shweflix.com
 0.0.0.0 shweiwen.cn
+0.0.0.0 shxsh1.top
 0.0.0.0 shyama-jay.com
 0.0.0.0 shygkl.com
 0.0.0.0 shyheglasy.com
@@ -39656,7 +39674,6 @@
 0.0.0.0 ssp.igaw.io
 0.0.0.0 ssp.kdnet.net
 0.0.0.0 ssp.mediation.trnox.com
-0.0.0.0 ssp.njxzwh.com
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 ssp.zf313.com
 0.0.0.0 ssp.zryydi.com
@@ -41045,6 +41062,7 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.webjavaskript.net
 0.0.0.0 t.wizards.com
+0.0.0.0 t.xoom.com
 0.0.0.0 t.xtubetv.net
 0.0.0.0 t.yesware.com
 0.0.0.0 t.yzwr588.com
@@ -41055,6 +41073,7 @@
 0.0.0.0 t1.612.com
 0.0.0.0 t1.clipkit.com
 0.0.0.0 t1.extreme-dm.com
+0.0.0.0 t1.trex.media
 0.0.0.0 t1g2.cn
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
@@ -41575,6 +41594,7 @@
 0.0.0.0 telemetryverification.net
 0.0.0.0 telephoneinclination.com
 0.0.0.0 teleriumads-*.netdna-ssl.com
+0.0.0.0 teletarget.ru
 0.0.0.0 televeniesuc.pro
 0.0.0.0 teliad.com
 0.0.0.0 telize.com
@@ -42281,7 +42301,6 @@
 0.0.0.0 tmtrck.com
 0.0.0.0 tmvtp.com
 0.0.0.0 tmz.vo.llnwd.net
-0.0.0.0 tn.flashb.id
 0.0.0.0 tn05.ru
 0.0.0.0 tnarzc.com
 0.0.0.0 tnative.ru
@@ -44013,6 +44032,7 @@
 0.0.0.0 u0065.com
 0.0.0.0 u0067.com
 0.0.0.0 u0071.com
+0.0.0.0 u0075.com
 0.0.0.0 u0081.com
 0.0.0.0 u0083.com
 0.0.0.0 u0r9.cn
@@ -45810,6 +45830,7 @@
 0.0.0.0 vtracker.net
 0.0.0.0 vtracy.de
 0.0.0.0 vtrtl.de
+0.0.0.0 vtuctez.cn
 0.0.0.0 vua1004.club
 0.0.0.0 vua1005.club
 0.0.0.0 vuabai9.com
@@ -45833,6 +45854,7 @@
 0.0.0.0 vuksoude.net
 0.0.0.0 vulcan-bit.com
 0.0.0.0 vulgartaivert.website
+0.0.0.0 vuliglsf.space
 0.0.0.0 vulturechinamaternity.com
 0.0.0.0 vungle.com
 0.0.0.0 vupload.duowan.com
@@ -47210,6 +47232,7 @@
 0.0.0.0 wunderloop.net
 0.0.0.0 wunteetoco.com
 0.0.0.0 wurfl.io
+0.0.0.0 wurnbx.xyz
 0.0.0.0 wurtoosy.com
 0.0.0.0 wussucko.com
 0.0.0.0 wusths.com
@@ -47596,6 +47619,7 @@
 0.0.0.0 xiaomilingjing.com
 0.0.0.0 xiaomilw.top
 0.0.0.0 xiaonengdou.vip
+0.0.0.0 xiaoniaofei.com
 0.0.0.0 xiaoniu166.wang
 0.0.0.0 xiaopinwo.com
 0.0.0.0 xiaoshuoyun.cn
@@ -47856,6 +47880,7 @@
 0.0.0.0 xsell.6waves.com
 0.0.0.0 xshijie.xyz
 0.0.0.0 xshop3.ru
+0.0.0.0 xsjh002.xyz
 0.0.0.0 xsjyun.cn
 0.0.0.0 xsrs.com
 0.0.0.0 xsrypte.cn
@@ -48023,6 +48048,7 @@
 0.0.0.0 xytom.com
 0.0.0.0 xyuwxpupdr.com
 0.0.0.0 xywdvhd.com
+0.0.0.0 xywy.name
 0.0.0.0 xyxhtyy.cn
 0.0.0.0 xyy9.xyz
 0.0.0.0 xyyfysnipeqngb.xyz
@@ -48971,6 +48997,7 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zddxlih.com
 0.0.0.0 zdenochary.com
+0.0.0.0 zdhfff.xyz
 0.0.0.0 zdhm.cn
 0.0.0.0 zdicbpujzjps.com
 0.0.0.0 zdlogs.sphereup.com

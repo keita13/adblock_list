@@ -2,7 +2,7 @@
 #----- source -----
 #Title: 280blocker adblock filter
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-#Last modified: 06 Aug 2022 18:30 UTC
+#Last modified: 07 Aug 2022 18:30 UTC
 #Expires: 72 hours
 #Homepage: https://280blocker.net
 #----- source -----
@@ -20,14 +20,14 @@
 #----- source -----
 #Title: 亀フィルタ（ウイルスサイトブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-#Last modified: 06 Aug 2022 18:30 UTC
+#Last modified: 07 Aug 2022 18:30 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 #----- source -----
 #Title: ことりフィルタ（SNSボタンブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-#Last modified: 06 Aug 2022 18:30 UTC
+#Last modified: 07 Aug 2022 18:30 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
@@ -193,233 +193,235 @@ TAG:^ab2p-block-dnt$
 .connect.facebook.net/ja_JP/sdk\.js
 # ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
 .connect.facebook.net/en_US/fbevents\.js
-# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 365)
 .your.case.id.for.this.reason.is.pp.rangdeindia.jp
-# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 362)
 .umedaumeda.ec-net.jp
-# ||tobacco.jp^ (kame_filter.txt: 360)
+# ||tobacco.jp^ (kame_filter.txt: 361)
 .tobacco.jp
-# ||tga.co.jp^ (kame_filter.txt: 359)
+# ||tga.co.jp^ (kame_filter.txt: 360)
 .tga.co.jp
-# ||smcw-member.jp^ (kame_filter.txt: 358)
+# ||smcw-member.jp^ (kame_filter.txt: 359)
 .smcw-member.jp
-# ||rentskinow.jp^ (kame_filter.txt: 357)
+# ||rentskinow.jp^ (kame_filter.txt: 358)
 .rentskinow.jp
-# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 357)
 .pluscolorn.sub.jp
-# ||plaso.jp^ (kame_filter.txt: 355)
+# ||plaso.jp^ (kame_filter.txt: 356)
 .plaso.jp
-# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 355)
 .payment.on.your.account.rangdeindia.jp
-# ||oneby1.jp^ (kame_filter.txt: 353)
+# ||oneby1.jp^ (kame_filter.txt: 354)
 .oneby1.jp
-# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 353)
 .nozomimiyazaki.main.jp
-# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+# ||kashimayunohana.jp^ (kame_filter.txt: 352)
 .kashimayunohana.jp
-# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+# ||kamabokoworks.jp^ (kame_filter.txt: 351)
 .kamabokoworks.jp
-# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+# ||jwa-niigata.jp^ (kame_filter.txt: 350)
 .jwa-niigata.jp
-# ||jk-bic.jp^ (kame_filter.txt: 348)
+# ||jk-bic.jp^ (kame_filter.txt: 349)
 .jk-bic.jp
-# ||irumakg.jp^ (kame_filter.txt: 347)
+# ||irumakg.jp^ (kame_filter.txt: 348)
 .irumakg.jp
-# ||g-r.co.jp^ (kame_filter.txt: 346)
+# ||g-r.co.jp^ (kame_filter.txt: 347)
 .g-r.co.jp
-# ||grangrace.jp^ (kame_filter.txt: 345)
+# ||grangrace.jp^ (kame_filter.txt: 346)
 .grangrace.jp
-# ||gaspa-web.jp^ (kame_filter.txt: 344)
+# ||gaspa-web.jp^ (kame_filter.txt: 345)
 .gaspa-web.jp
-# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+# ||butter-delimmo.jp^ (kame_filter.txt: 343)
 .butter-delimmo.jp
-# ||aasc.or.jp^ (kame_filter.txt: 341)
+# ||aasc.or.jp^ (kame_filter.txt: 342)
 .aasc.or.jp
-# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 341)
 .210237148191.cidr.jtidc.jp
-# ||niconicochannel.info^ (kame_filter.txt: 324)
+# ||niconicochannel.info^ (kame_filter.txt: 325)
 .niconicochannel.info
-# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 324)
 .eroeroxhamster8.pw
-# ||ero-japan.net^ (kame_filter.txt: 322)
+# ||ero-japan.net^ (kame_filter.txt: 323)
 .ero-japan.net
-# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+# ||i.imgur.tru.io^ (kame_filter.txt: 318)
 .i.imgur.tru.io
-# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+# ||kabutyer.ownip.net^ (kame_filter.txt: 316)
 .kabutyer.ownip.net
-# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 314)
 .news27u.youdontcare.com/newsplus/
-# ||xephaoma.com^ (kame_filter.txt: 300)
+# ||xephaoma.com^ (kame_filter.txt: 301)
 .xephaoma.com
-# ||miffy.me^ (kame_filter.txt: 298)
+# ||miffy.me^ (kame_filter.txt: 299)
 .miffy.me
-# ||gl-search.com^ (kame_filter.txt: 292)
+# ||gl-search.com^ (kame_filter.txt: 293)
 .gl-search.com
-# ||fznews.xyz^ (kame_filter.txt: 286)
+# ||fznews.xyz^ (kame_filter.txt: 287)
 .fznews.xyz
-# ||2ch.today^ (kame_filter.txt: 284)
+# ||2ch.today^ (kame_filter.txt: 285)
 .2ch.today
-# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 282)
 .milky.geocities.jp/fkdsjlaginea/
-# ||showmyhomes.com/ (kame_filter.txt: 279)
+# ||showmyhomes.com/ (kame_filter.txt: 280)
 .showmyhomes.com
-# ||newtab.club^ (kame_filter.txt: 277)
+# ||newtab.club^ (kame_filter.txt: 278)
 .newtab.club
-# ||imgur.com. (kame_filter.txt: 272)
+# ||imgur.com. (kame_filter.txt: 273)
 .imgur.com.
-# ||my.to^ (kame_filter.txt: 270)
+# ||my.to^ (kame_filter.txt: 271)
 .my.to
-# ||rude.li^ (kame_filter.txt: 267)
+# ||rude.li^ (kame_filter.txt: 268)
 .rude.li
-# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 266)
 .exioer5.missouriprobate.biz
-# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 265)
 .fc2.com/p/F0Nll5V-\?\.gif
-# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 264)
 .www.bityet.us/s7b47si\.jpg
-# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+# ||goo.gl/En6m3D  (kame_filter.txt: 263)
 .goo.gl/En6m3D 
-# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+# ||qsnews.ndra.biz^ (kame_filter.txt: 262)
 .qsnews.ndra.biz
-# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+# ||derx.stanciu.biz^ (kame_filter.txt: 261)
 .derx.stanciu.biz
-# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+# ||edax.getamonkey.com^ (kame_filter.txt: 260)
 .edax.getamonkey.com
-# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 259)
 .livebby.b2.valueserver.jp
-# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 254)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
 /^https?:\/\/[a-z0-9-]{38,}\.fun\/
-# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 253)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
 /^https?:\/\/[a-z0-9]{38,}\.co\/
-# ||freecaptcha.top^ (kame_filter.txt: 241)
+# ||freecaptcha.top^ (kame_filter.txt: 242)
 .freecaptcha.top
-# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 238)
 .masmurkambojacoy.furved.com
-# ||eqaw.cn^ (kame_filter.txt: 236)
+# ||eqaw.cn^ (kame_filter.txt: 237)
 .eqaw.cn
-# ||getflexsafe.io^ (kame_filter.txt: 233)
+# ||getflexsafe.io^ (kame_filter.txt: 234)
 .getflexsafe.io
-# ||1redirb.com^ (kame_filter.txt: 230)
+# ||1redirb.com^ (kame_filter.txt: 231)
 .1redirb.com
-# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 230)
 .terratopi.roflclub.asia
-# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+# ||clk.rtpdn14.com^ (kame_filter.txt: 227)
 .clk.rtpdn14.com
-# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 226)
 .katie.v4.omgtnc.com
-# ||fmvs.jp^ (kame_filter.txt: 224)
+# ||fmvs.jp^ (kame_filter.txt: 225)
 .fmvs.jp
-# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+# ||rakuten.card080.shop^ (kame_filter.txt: 222)
 .rakuten.card080.shop
-# ||meruli.rest^ (kame_filter.txt: 218)
+# ||meruli.rest^ (kame_filter.txt: 219)
 .meruli.rest
-# ||1.ne02.biz^ (kame_filter.txt: 214)
+# ||1.ne02.biz^ (kame_filter.txt: 215)
 .1.ne02.biz
-# ||acc.pp.ua^ (kame_filter.txt: 213)
+# ||acc.pp.ua^ (kame_filter.txt: 214)
 .acc.pp.ua
-# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 213)
 .alderbridge.studio42sound.com
-# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+# ||system-update-new-2022.com^ (kame_filter.txt: 212)
 .system-update-new-2022.com
-# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+# ||system-update-new-2021.com^ (kame_filter.txt: 211)
 .system-update-new-2021.com
-# ||freegogpcgames.com^ (kame_filter.txt: 209)
+# ||freegogpcgames.com^ (kame_filter.txt: 210)
 .freegogpcgames.com
-# ||amazon.co.jp. (kame_filter.txt: 206)
+# ||amazon.co.jp. (kame_filter.txt: 207)
 .amazon.co.jp.
-# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 206)
 .amazon.co.jp.chuyipay.net
-# ||yodyson.com^ (kame_filter.txt: 202)
+# ||yodyson.com^ (kame_filter.txt: 203)
 .yodyson.com
-# .duckdns.org (kame_filter.txt: 198)
+# .duckdns.org (kame_filter.txt: 199)
 /(*PRUNE).*?\.duckdns\.org
 .duckdns.org*.
-# ||fres-news.com^ (kame_filter.txt: 194)
+# ||fres-news.com^ (kame_filter.txt: 195)
 .fres-news.com
-# ||0pen.page^ (kame_filter.txt: 192)
+# ||0pen.page^ (kame_filter.txt: 193)
 .0pen.page
-# ||0n.click^ (kame_filter.txt: 191)
+# ||0n.click^ (kame_filter.txt: 192)
 .0n.click
-# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+# ||best.prizedeal512.info^ (kame_filter.txt: 191)
 .best.prizedeal512.info
-# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 190)
 .realcenter-mobileapps2.com
-# ||213.136.91.194^ (kame_filter.txt: 188)
+# ||213.136.91.194^ (kame_filter.txt: 189)
 .213.136.91.194
-# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+# ||ssigkandnelo.tk^ (kame_filter.txt: 188)
 .ssigkandnelo.tk
-# ||infolinks.com^ (kame_filter.txt: 184)
+# ||infolinks.com^ (kame_filter.txt: 185)
 .infolinks.com
-# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 184)
 .d141wsrw9m4as6.cloudfront.net
-# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 183)
 .dc5k8fg5ioc8s.cloudfront.net
-# ||herepackagine.info^ (kame_filter.txt: 181)
+# ||herepackagine.info^ (kame_filter.txt: 182)
 .herepackagine.info
-# ||www.audazweb.com^ (kame_filter.txt: 178)
+# ||www.audazweb.com^ (kame_filter.txt: 179)
 .www.audazweb.com
-# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+# ||ktechguardiansrn.site^ (kame_filter.txt: 176)
 .ktechguardiansrn.site
-# ||discount.s3blog.org^ (kame_filter.txt: 172)
+# ||discount.s3blog.org^ (kame_filter.txt: 173)
 .discount.s3blog.org
-# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+# ||sarah.runtnc.net^$document (kame_filter.txt: 170)
 .sarah.runtnc.net
-# ||goneoutnow.site^$document (kame_filter.txt: 168)
+# ||goneoutnow.site^$document (kame_filter.txt: 169)
 .goneoutnow.site
-# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 168)
 .direct.redtrafficsample.site/redirect
-# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 167)
 .www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
-# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 166)
 .jp.today-prizes.club/todays-winner
-# ||buildathome.info^ (kame_filter.txt: 160)
+# ||buildathome.info^ (kame_filter.txt: 161)
 .buildathome.info
-# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 160)
 .www.uniblue.com/cm/marimedia-rm/speedupmypc/
-# ||onlineaway.net^ (kame_filter.txt: 158)
+# ||onlineaway.net^ (kame_filter.txt: 159)
 .onlineaway.net
-# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+# ||ja.reimageplus.com^ (kame_filter.txt: 158)
 .ja.reimageplus.com
-# ||hk-life.net^ (kame_filter.txt: 153)
+# ||hk-life.net^ (kame_filter.txt: 154)
 .hk-life.net
-# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 151)
 .www.imaginetechservices.xyz
-# ||sanjayrout.com^ (kame_filter.txt: 147)
+# ||sanjayrout.com^ (kame_filter.txt: 148)
 .sanjayrout.com
-# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 147)
 .d1cy6bsvhksfmz.cloudfront.net
-# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+# ||www.faragegraphics.com^ (kame_filter.txt: 146)
 .www.faragegraphics.com
-# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 145)
 .d2gpqw290yvvmv.cloudfront.net
-# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+# ||7hdfilm.xyz^ (kame_filter.txt: 142)
 .7hdfilm.xyz
-# ||trustednotice.news^ (kame_filter.txt: 135)
+# ||trustednotice.news^ (kame_filter.txt: 136)
 .trustednotice.news
-# ||winsupporthelp.club (kame_filter.txt: 131)
+# ||winsupporthelp.club (kame_filter.txt: 132)
 .winsupporthelp.club*.
-# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 129)
 .xpics.us/images/786507813333_koinokisetu\.jpg
-# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+# ||yowwinnerprize.com^ (kame_filter.txt: 124)
 .yowwinnerprize.com
-# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+# ||nine-our-prize54.loan^ (kame_filter.txt: 119)
 .nine-our-prize54.loan
-# ||www.pc.error (kame_filter.txt: 113)
+# ||www.pc.error (kame_filter.txt: 114)
 .www.pc.error*.
-# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 111)
 .khoikhoi-2news.xyz
-# ||pb7m.nl^ (kame_filter.txt: 109)
+# ||pb7m.nl^ (kame_filter.txt: 110)
 .pb7m.nl
-# ||xtreeem.com^ (kame_filter.txt: 105)
+# ||xtreeem.com^ (kame_filter.txt: 106)
 .xtreeem.com
-# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 101)
 .www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
-# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 98)
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
-# ||piet2eix3l.com^ (kame_filter.txt: 94)
+# ||piet2eix3l.com^ (kame_filter.txt: 95)
 .piet2eix3l.com
+# ||qiu4069avkj.rest^ (kame_filter.txt: 89)
+.qiu4069avkj.rest
 # ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
 .mercari.sdfugdf.org
 # ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
@@ -5302,233 +5304,235 @@ TAG:^ab2p-block-elem$
 .connect.facebook.net/ja_JP/sdk\.js
 # ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
 .connect.facebook.net/en_US/fbevents\.js
-# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 365)
 .your.case.id.for.this.reason.is.pp.rangdeindia.jp
-# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 362)
 .umedaumeda.ec-net.jp
-# ||tobacco.jp^ (kame_filter.txt: 360)
+# ||tobacco.jp^ (kame_filter.txt: 361)
 .tobacco.jp
-# ||tga.co.jp^ (kame_filter.txt: 359)
+# ||tga.co.jp^ (kame_filter.txt: 360)
 .tga.co.jp
-# ||smcw-member.jp^ (kame_filter.txt: 358)
+# ||smcw-member.jp^ (kame_filter.txt: 359)
 .smcw-member.jp
-# ||rentskinow.jp^ (kame_filter.txt: 357)
+# ||rentskinow.jp^ (kame_filter.txt: 358)
 .rentskinow.jp
-# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 357)
 .pluscolorn.sub.jp
-# ||plaso.jp^ (kame_filter.txt: 355)
+# ||plaso.jp^ (kame_filter.txt: 356)
 .plaso.jp
-# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 355)
 .payment.on.your.account.rangdeindia.jp
-# ||oneby1.jp^ (kame_filter.txt: 353)
+# ||oneby1.jp^ (kame_filter.txt: 354)
 .oneby1.jp
-# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 353)
 .nozomimiyazaki.main.jp
-# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+# ||kashimayunohana.jp^ (kame_filter.txt: 352)
 .kashimayunohana.jp
-# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+# ||kamabokoworks.jp^ (kame_filter.txt: 351)
 .kamabokoworks.jp
-# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+# ||jwa-niigata.jp^ (kame_filter.txt: 350)
 .jwa-niigata.jp
-# ||jk-bic.jp^ (kame_filter.txt: 348)
+# ||jk-bic.jp^ (kame_filter.txt: 349)
 .jk-bic.jp
-# ||irumakg.jp^ (kame_filter.txt: 347)
+# ||irumakg.jp^ (kame_filter.txt: 348)
 .irumakg.jp
-# ||g-r.co.jp^ (kame_filter.txt: 346)
+# ||g-r.co.jp^ (kame_filter.txt: 347)
 .g-r.co.jp
-# ||grangrace.jp^ (kame_filter.txt: 345)
+# ||grangrace.jp^ (kame_filter.txt: 346)
 .grangrace.jp
-# ||gaspa-web.jp^ (kame_filter.txt: 344)
+# ||gaspa-web.jp^ (kame_filter.txt: 345)
 .gaspa-web.jp
-# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+# ||butter-delimmo.jp^ (kame_filter.txt: 343)
 .butter-delimmo.jp
-# ||aasc.or.jp^ (kame_filter.txt: 341)
+# ||aasc.or.jp^ (kame_filter.txt: 342)
 .aasc.or.jp
-# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 341)
 .210237148191.cidr.jtidc.jp
-# ||niconicochannel.info^ (kame_filter.txt: 324)
+# ||niconicochannel.info^ (kame_filter.txt: 325)
 .niconicochannel.info
-# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 324)
 .eroeroxhamster8.pw
-# ||ero-japan.net^ (kame_filter.txt: 322)
+# ||ero-japan.net^ (kame_filter.txt: 323)
 .ero-japan.net
-# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+# ||i.imgur.tru.io^ (kame_filter.txt: 318)
 .i.imgur.tru.io
-# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+# ||kabutyer.ownip.net^ (kame_filter.txt: 316)
 .kabutyer.ownip.net
-# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 314)
 .news27u.youdontcare.com/newsplus/
-# ||xephaoma.com^ (kame_filter.txt: 300)
+# ||xephaoma.com^ (kame_filter.txt: 301)
 .xephaoma.com
-# ||miffy.me^ (kame_filter.txt: 298)
+# ||miffy.me^ (kame_filter.txt: 299)
 .miffy.me
-# ||gl-search.com^ (kame_filter.txt: 292)
+# ||gl-search.com^ (kame_filter.txt: 293)
 .gl-search.com
-# ||fznews.xyz^ (kame_filter.txt: 286)
+# ||fznews.xyz^ (kame_filter.txt: 287)
 .fznews.xyz
-# ||2ch.today^ (kame_filter.txt: 284)
+# ||2ch.today^ (kame_filter.txt: 285)
 .2ch.today
-# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 282)
 .milky.geocities.jp/fkdsjlaginea/
-# ||showmyhomes.com/ (kame_filter.txt: 279)
+# ||showmyhomes.com/ (kame_filter.txt: 280)
 .showmyhomes.com
-# ||newtab.club^ (kame_filter.txt: 277)
+# ||newtab.club^ (kame_filter.txt: 278)
 .newtab.club
-# ||imgur.com. (kame_filter.txt: 272)
+# ||imgur.com. (kame_filter.txt: 273)
 .imgur.com.
-# ||my.to^ (kame_filter.txt: 270)
+# ||my.to^ (kame_filter.txt: 271)
 .my.to
-# ||rude.li^ (kame_filter.txt: 267)
+# ||rude.li^ (kame_filter.txt: 268)
 .rude.li
-# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 266)
 .exioer5.missouriprobate.biz
-# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 265)
 .fc2.com/p/F0Nll5V-\?\.gif
-# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 264)
 .www.bityet.us/s7b47si\.jpg
-# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+# ||goo.gl/En6m3D  (kame_filter.txt: 263)
 .goo.gl/En6m3D 
-# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+# ||qsnews.ndra.biz^ (kame_filter.txt: 262)
 .qsnews.ndra.biz
-# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+# ||derx.stanciu.biz^ (kame_filter.txt: 261)
 .derx.stanciu.biz
-# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+# ||edax.getamonkey.com^ (kame_filter.txt: 260)
 .edax.getamonkey.com
-# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 259)
 .livebby.b2.valueserver.jp
-# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 254)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
 /^https?:\/\/[a-z0-9-]{38,}\.fun\/
-# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 253)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
 /^https?:\/\/[a-z0-9]{38,}\.co\/
-# ||freecaptcha.top^ (kame_filter.txt: 241)
+# ||freecaptcha.top^ (kame_filter.txt: 242)
 .freecaptcha.top
-# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 238)
 .masmurkambojacoy.furved.com
-# ||eqaw.cn^ (kame_filter.txt: 236)
+# ||eqaw.cn^ (kame_filter.txt: 237)
 .eqaw.cn
-# ||getflexsafe.io^ (kame_filter.txt: 233)
+# ||getflexsafe.io^ (kame_filter.txt: 234)
 .getflexsafe.io
-# ||1redirb.com^ (kame_filter.txt: 230)
+# ||1redirb.com^ (kame_filter.txt: 231)
 .1redirb.com
-# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 230)
 .terratopi.roflclub.asia
-# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+# ||clk.rtpdn14.com^ (kame_filter.txt: 227)
 .clk.rtpdn14.com
-# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 226)
 .katie.v4.omgtnc.com
-# ||fmvs.jp^ (kame_filter.txt: 224)
+# ||fmvs.jp^ (kame_filter.txt: 225)
 .fmvs.jp
-# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+# ||rakuten.card080.shop^ (kame_filter.txt: 222)
 .rakuten.card080.shop
-# ||meruli.rest^ (kame_filter.txt: 218)
+# ||meruli.rest^ (kame_filter.txt: 219)
 .meruli.rest
-# ||1.ne02.biz^ (kame_filter.txt: 214)
+# ||1.ne02.biz^ (kame_filter.txt: 215)
 .1.ne02.biz
-# ||acc.pp.ua^ (kame_filter.txt: 213)
+# ||acc.pp.ua^ (kame_filter.txt: 214)
 .acc.pp.ua
-# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 213)
 .alderbridge.studio42sound.com
-# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+# ||system-update-new-2022.com^ (kame_filter.txt: 212)
 .system-update-new-2022.com
-# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+# ||system-update-new-2021.com^ (kame_filter.txt: 211)
 .system-update-new-2021.com
-# ||freegogpcgames.com^ (kame_filter.txt: 209)
+# ||freegogpcgames.com^ (kame_filter.txt: 210)
 .freegogpcgames.com
-# ||amazon.co.jp. (kame_filter.txt: 206)
+# ||amazon.co.jp. (kame_filter.txt: 207)
 .amazon.co.jp.
-# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 206)
 .amazon.co.jp.chuyipay.net
-# ||yodyson.com^ (kame_filter.txt: 202)
+# ||yodyson.com^ (kame_filter.txt: 203)
 .yodyson.com
-# .duckdns.org (kame_filter.txt: 198)
+# .duckdns.org (kame_filter.txt: 199)
 /(*PRUNE).*?\.duckdns\.org
 .duckdns.org*.
-# ||fres-news.com^ (kame_filter.txt: 194)
+# ||fres-news.com^ (kame_filter.txt: 195)
 .fres-news.com
-# ||0pen.page^ (kame_filter.txt: 192)
+# ||0pen.page^ (kame_filter.txt: 193)
 .0pen.page
-# ||0n.click^ (kame_filter.txt: 191)
+# ||0n.click^ (kame_filter.txt: 192)
 .0n.click
-# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+# ||best.prizedeal512.info^ (kame_filter.txt: 191)
 .best.prizedeal512.info
-# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 190)
 .realcenter-mobileapps2.com
-# ||213.136.91.194^ (kame_filter.txt: 188)
+# ||213.136.91.194^ (kame_filter.txt: 189)
 .213.136.91.194
-# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+# ||ssigkandnelo.tk^ (kame_filter.txt: 188)
 .ssigkandnelo.tk
-# ||infolinks.com^ (kame_filter.txt: 184)
+# ||infolinks.com^ (kame_filter.txt: 185)
 .infolinks.com
-# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 184)
 .d141wsrw9m4as6.cloudfront.net
-# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 183)
 .dc5k8fg5ioc8s.cloudfront.net
-# ||herepackagine.info^ (kame_filter.txt: 181)
+# ||herepackagine.info^ (kame_filter.txt: 182)
 .herepackagine.info
-# ||www.audazweb.com^ (kame_filter.txt: 178)
+# ||www.audazweb.com^ (kame_filter.txt: 179)
 .www.audazweb.com
-# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+# ||ktechguardiansrn.site^ (kame_filter.txt: 176)
 .ktechguardiansrn.site
-# ||discount.s3blog.org^ (kame_filter.txt: 172)
+# ||discount.s3blog.org^ (kame_filter.txt: 173)
 .discount.s3blog.org
-# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+# ||sarah.runtnc.net^$document (kame_filter.txt: 170)
 .sarah.runtnc.net
-# ||goneoutnow.site^$document (kame_filter.txt: 168)
+# ||goneoutnow.site^$document (kame_filter.txt: 169)
 .goneoutnow.site
-# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 168)
 .direct.redtrafficsample.site/redirect
-# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 167)
 .www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
-# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 166)
 .jp.today-prizes.club/todays-winner
-# ||buildathome.info^ (kame_filter.txt: 160)
+# ||buildathome.info^ (kame_filter.txt: 161)
 .buildathome.info
-# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 160)
 .www.uniblue.com/cm/marimedia-rm/speedupmypc/
-# ||onlineaway.net^ (kame_filter.txt: 158)
+# ||onlineaway.net^ (kame_filter.txt: 159)
 .onlineaway.net
-# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+# ||ja.reimageplus.com^ (kame_filter.txt: 158)
 .ja.reimageplus.com
-# ||hk-life.net^ (kame_filter.txt: 153)
+# ||hk-life.net^ (kame_filter.txt: 154)
 .hk-life.net
-# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 151)
 .www.imaginetechservices.xyz
-# ||sanjayrout.com^ (kame_filter.txt: 147)
+# ||sanjayrout.com^ (kame_filter.txt: 148)
 .sanjayrout.com
-# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 147)
 .d1cy6bsvhksfmz.cloudfront.net
-# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+# ||www.faragegraphics.com^ (kame_filter.txt: 146)
 .www.faragegraphics.com
-# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 145)
 .d2gpqw290yvvmv.cloudfront.net
-# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+# ||7hdfilm.xyz^ (kame_filter.txt: 142)
 .7hdfilm.xyz
-# ||trustednotice.news^ (kame_filter.txt: 135)
+# ||trustednotice.news^ (kame_filter.txt: 136)
 .trustednotice.news
-# ||winsupporthelp.club (kame_filter.txt: 131)
+# ||winsupporthelp.club (kame_filter.txt: 132)
 .winsupporthelp.club*.
-# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 129)
 .xpics.us/images/786507813333_koinokisetu\.jpg
-# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+# ||yowwinnerprize.com^ (kame_filter.txt: 124)
 .yowwinnerprize.com
-# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+# ||nine-our-prize54.loan^ (kame_filter.txt: 119)
 .nine-our-prize54.loan
-# ||www.pc.error (kame_filter.txt: 113)
+# ||www.pc.error (kame_filter.txt: 114)
 .www.pc.error*.
-# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 111)
 .khoikhoi-2news.xyz
-# ||pb7m.nl^ (kame_filter.txt: 109)
+# ||pb7m.nl^ (kame_filter.txt: 110)
 .pb7m.nl
-# ||xtreeem.com^ (kame_filter.txt: 105)
+# ||xtreeem.com^ (kame_filter.txt: 106)
 .xtreeem.com
-# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 101)
 .www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
-# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 98)
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
-# ||piet2eix3l.com^ (kame_filter.txt: 94)
+# ||piet2eix3l.com^ (kame_filter.txt: 95)
 .piet2eix3l.com
+# ||qiu4069avkj.rest^ (kame_filter.txt: 89)
+.qiu4069avkj.rest
 # ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
 .mercari.sdfugdf.org
 # ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
@@ -10410,223 +10414,225 @@ TAG:^ab2p-block-request$
 .connect.facebook.net/ja_JP/sdk\.js
 # ||connect.facebook.net/en_US/fbevents.js (kotori_filter.txt: 30)
 .connect.facebook.net/en_US/fbevents\.js
-# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 364)
+# ||your.case.id.for.this.reason.is.pp.rangdeindia.jp^ (kame_filter.txt: 365)
 .your.case.id.for.this.reason.is.pp.rangdeindia.jp
-# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 361)
+# ||umedaumeda.ec-net.jp^ (kame_filter.txt: 362)
 .umedaumeda.ec-net.jp
-# ||tobacco.jp^ (kame_filter.txt: 360)
+# ||tobacco.jp^ (kame_filter.txt: 361)
 .tobacco.jp
-# ||tga.co.jp^ (kame_filter.txt: 359)
+# ||tga.co.jp^ (kame_filter.txt: 360)
 .tga.co.jp
-# ||smcw-member.jp^ (kame_filter.txt: 358)
+# ||smcw-member.jp^ (kame_filter.txt: 359)
 .smcw-member.jp
-# ||rentskinow.jp^ (kame_filter.txt: 357)
+# ||rentskinow.jp^ (kame_filter.txt: 358)
 .rentskinow.jp
-# ||pluscolorn.sub.jp^ (kame_filter.txt: 356)
+# ||pluscolorn.sub.jp^ (kame_filter.txt: 357)
 .pluscolorn.sub.jp
-# ||plaso.jp^ (kame_filter.txt: 355)
+# ||plaso.jp^ (kame_filter.txt: 356)
 .plaso.jp
-# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 354)
+# ||payment.on.your.account.rangdeindia.jp^ (kame_filter.txt: 355)
 .payment.on.your.account.rangdeindia.jp
-# ||oneby1.jp^ (kame_filter.txt: 353)
+# ||oneby1.jp^ (kame_filter.txt: 354)
 .oneby1.jp
-# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 352)
+# ||nozomimiyazaki.main.jp^ (kame_filter.txt: 353)
 .nozomimiyazaki.main.jp
-# ||kashimayunohana.jp^ (kame_filter.txt: 351)
+# ||kashimayunohana.jp^ (kame_filter.txt: 352)
 .kashimayunohana.jp
-# ||kamabokoworks.jp^ (kame_filter.txt: 350)
+# ||kamabokoworks.jp^ (kame_filter.txt: 351)
 .kamabokoworks.jp
-# ||jwa-niigata.jp^ (kame_filter.txt: 349)
+# ||jwa-niigata.jp^ (kame_filter.txt: 350)
 .jwa-niigata.jp
-# ||jk-bic.jp^ (kame_filter.txt: 348)
+# ||jk-bic.jp^ (kame_filter.txt: 349)
 .jk-bic.jp
-# ||irumakg.jp^ (kame_filter.txt: 347)
+# ||irumakg.jp^ (kame_filter.txt: 348)
 .irumakg.jp
-# ||g-r.co.jp^ (kame_filter.txt: 346)
+# ||g-r.co.jp^ (kame_filter.txt: 347)
 .g-r.co.jp
-# ||grangrace.jp^ (kame_filter.txt: 345)
+# ||grangrace.jp^ (kame_filter.txt: 346)
 .grangrace.jp
-# ||gaspa-web.jp^ (kame_filter.txt: 344)
+# ||gaspa-web.jp^ (kame_filter.txt: 345)
 .gaspa-web.jp
-# ||butter-delimmo.jp^ (kame_filter.txt: 342)
+# ||butter-delimmo.jp^ (kame_filter.txt: 343)
 .butter-delimmo.jp
-# ||aasc.or.jp^ (kame_filter.txt: 341)
+# ||aasc.or.jp^ (kame_filter.txt: 342)
 .aasc.or.jp
-# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 340)
+# ||210237148191.cidr.jtidc.jp^ (kame_filter.txt: 341)
 .210237148191.cidr.jtidc.jp
-# ||niconicochannel.info^ (kame_filter.txt: 324)
+# ||niconicochannel.info^ (kame_filter.txt: 325)
 .niconicochannel.info
-# ||eroeroxhamster8.pw^ (kame_filter.txt: 323)
+# ||eroeroxhamster8.pw^ (kame_filter.txt: 324)
 .eroeroxhamster8.pw
-# ||ero-japan.net^ (kame_filter.txt: 322)
+# ||ero-japan.net^ (kame_filter.txt: 323)
 .ero-japan.net
-# ||i.imgur.tru.io^ (kame_filter.txt: 317)
+# ||i.imgur.tru.io^ (kame_filter.txt: 318)
 .i.imgur.tru.io
-# ||kabutyer.ownip.net^ (kame_filter.txt: 315)
+# ||kabutyer.ownip.net^ (kame_filter.txt: 316)
 .kabutyer.ownip.net
-# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 313)
+# ||news27u.youdontcare.com/newsplus/ (kame_filter.txt: 314)
 .news27u.youdontcare.com/newsplus/
-# ||xephaoma.com^ (kame_filter.txt: 300)
+# ||xephaoma.com^ (kame_filter.txt: 301)
 .xephaoma.com
-# ||miffy.me^ (kame_filter.txt: 298)
+# ||miffy.me^ (kame_filter.txt: 299)
 .miffy.me
-# ||gl-search.com^ (kame_filter.txt: 292)
+# ||gl-search.com^ (kame_filter.txt: 293)
 .gl-search.com
-# ||fznews.xyz^ (kame_filter.txt: 286)
+# ||fznews.xyz^ (kame_filter.txt: 287)
 .fznews.xyz
-# ||2ch.today^ (kame_filter.txt: 284)
+# ||2ch.today^ (kame_filter.txt: 285)
 .2ch.today
-# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 281)
+# ||milky.geocities.jp/fkdsjlaginea/ (kame_filter.txt: 282)
 .milky.geocities.jp/fkdsjlaginea/
-# ||showmyhomes.com/ (kame_filter.txt: 279)
+# ||showmyhomes.com/ (kame_filter.txt: 280)
 .showmyhomes.com
-# ||newtab.club^ (kame_filter.txt: 277)
+# ||newtab.club^ (kame_filter.txt: 278)
 .newtab.club
-# ||imgur.com. (kame_filter.txt: 272)
+# ||imgur.com. (kame_filter.txt: 273)
 .imgur.com.
-# ||my.to^ (kame_filter.txt: 270)
+# ||my.to^ (kame_filter.txt: 271)
 .my.to
-# ||rude.li^ (kame_filter.txt: 267)
+# ||rude.li^ (kame_filter.txt: 268)
 .rude.li
-# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 265)
+# ||exioer5.missouriprobate.biz^ (kame_filter.txt: 266)
 .exioer5.missouriprobate.biz
-# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 264)
+# ||fc2.com/p/F0Nll5V-?.gif (kame_filter.txt: 265)
 .fc2.com/p/F0Nll5V-\?\.gif
-# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 263)
+# ||www.bityet.us/s7b47si.jpg (kame_filter.txt: 264)
 .www.bityet.us/s7b47si\.jpg
-# ||goo.gl/En6m3D  (kame_filter.txt: 262)
+# ||goo.gl/En6m3D  (kame_filter.txt: 263)
 .goo.gl/En6m3D 
-# ||qsnews.ndra.biz^ (kame_filter.txt: 261)
+# ||qsnews.ndra.biz^ (kame_filter.txt: 262)
 .qsnews.ndra.biz
-# ||derx.stanciu.biz^ (kame_filter.txt: 260)
+# ||derx.stanciu.biz^ (kame_filter.txt: 261)
 .derx.stanciu.biz
-# ||edax.getamonkey.com^ (kame_filter.txt: 259)
+# ||edax.getamonkey.com^ (kame_filter.txt: 260)
 .edax.getamonkey.com
-# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 258)
+# ||livebby.b2.valueserver.jp^ (kame_filter.txt: 259)
 .livebby.b2.valueserver.jp
-# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 253)
+# /^https?:\/\/[a-z0-9-]{38,}\.fun\// (kame_filter.txt: 254)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9-\]\{38,\}\\\.fun\\//
 /^https?:\/\/[a-z0-9-]{38,}\.fun\/
-# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 252)
+# /^https?:\/\/[a-z0-9]{38,}\.co\// (kame_filter.txt: 253)
 /(?:(*PRUNE).*?/)?[^\w%.-]https\?:\\/\\/\[a-z0-9\]\{38,\}\\\.co\\//
 /^https?:\/\/[a-z0-9]{38,}\.co\/
-# ||freecaptcha.top^ (kame_filter.txt: 241)
+# ||freecaptcha.top^ (kame_filter.txt: 242)
 .freecaptcha.top
-# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 237)
+# ||masmurkambojacoy.furved.com^ (kame_filter.txt: 238)
 .masmurkambojacoy.furved.com
-# ||eqaw.cn^ (kame_filter.txt: 236)
+# ||eqaw.cn^ (kame_filter.txt: 237)
 .eqaw.cn
-# ||getflexsafe.io^ (kame_filter.txt: 233)
+# ||getflexsafe.io^ (kame_filter.txt: 234)
 .getflexsafe.io
-# ||1redirb.com^ (kame_filter.txt: 230)
+# ||1redirb.com^ (kame_filter.txt: 231)
 .1redirb.com
-# ||terratopi.roflclub.asia^ (kame_filter.txt: 229)
+# ||terratopi.roflclub.asia^ (kame_filter.txt: 230)
 .terratopi.roflclub.asia
-# ||clk.rtpdn14.com^ (kame_filter.txt: 226)
+# ||clk.rtpdn14.com^ (kame_filter.txt: 227)
 .clk.rtpdn14.com
-# ||katie.v4.omgtnc.com^ (kame_filter.txt: 225)
+# ||katie.v4.omgtnc.com^ (kame_filter.txt: 226)
 .katie.v4.omgtnc.com
-# ||fmvs.jp^ (kame_filter.txt: 224)
+# ||fmvs.jp^ (kame_filter.txt: 225)
 .fmvs.jp
-# ||rakuten.card080.shop^ (kame_filter.txt: 221)
+# ||rakuten.card080.shop^ (kame_filter.txt: 222)
 .rakuten.card080.shop
-# ||meruli.rest^ (kame_filter.txt: 218)
+# ||meruli.rest^ (kame_filter.txt: 219)
 .meruli.rest
-# ||1.ne02.biz^ (kame_filter.txt: 214)
+# ||1.ne02.biz^ (kame_filter.txt: 215)
 .1.ne02.biz
-# ||acc.pp.ua^ (kame_filter.txt: 213)
+# ||acc.pp.ua^ (kame_filter.txt: 214)
 .acc.pp.ua
-# ||alderbridge.studio42sound.com^ (kame_filter.txt: 212)
+# ||alderbridge.studio42sound.com^ (kame_filter.txt: 213)
 .alderbridge.studio42sound.com
-# ||system-update-new-2022.com^ (kame_filter.txt: 211)
+# ||system-update-new-2022.com^ (kame_filter.txt: 212)
 .system-update-new-2022.com
-# ||system-update-new-2021.com^ (kame_filter.txt: 210)
+# ||system-update-new-2021.com^ (kame_filter.txt: 211)
 .system-update-new-2021.com
-# ||freegogpcgames.com^ (kame_filter.txt: 209)
+# ||freegogpcgames.com^ (kame_filter.txt: 210)
 .freegogpcgames.com
-# ||amazon.co.jp. (kame_filter.txt: 206)
+# ||amazon.co.jp. (kame_filter.txt: 207)
 .amazon.co.jp.
-# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 205)
+# ||amazon.co.jp.chuyipay.net^ (kame_filter.txt: 206)
 .amazon.co.jp.chuyipay.net
-# ||yodyson.com^ (kame_filter.txt: 202)
+# ||yodyson.com^ (kame_filter.txt: 203)
 .yodyson.com
-# .duckdns.org (kame_filter.txt: 198)
+# .duckdns.org (kame_filter.txt: 199)
 /(*PRUNE).*?\.duckdns\.org
 .duckdns.org*.
-# ||fres-news.com^ (kame_filter.txt: 194)
+# ||fres-news.com^ (kame_filter.txt: 195)
 .fres-news.com
-# ||0pen.page^ (kame_filter.txt: 192)
+# ||0pen.page^ (kame_filter.txt: 193)
 .0pen.page
-# ||0n.click^ (kame_filter.txt: 191)
+# ||0n.click^ (kame_filter.txt: 192)
 .0n.click
-# ||best.prizedeal512.info^ (kame_filter.txt: 190)
+# ||best.prizedeal512.info^ (kame_filter.txt: 191)
 .best.prizedeal512.info
-# ||realcenter-mobileapps2.com^ (kame_filter.txt: 189)
+# ||realcenter-mobileapps2.com^ (kame_filter.txt: 190)
 .realcenter-mobileapps2.com
-# ||213.136.91.194^ (kame_filter.txt: 188)
+# ||213.136.91.194^ (kame_filter.txt: 189)
 .213.136.91.194
-# ||ssigkandnelo.tk^ (kame_filter.txt: 187)
+# ||ssigkandnelo.tk^ (kame_filter.txt: 188)
 .ssigkandnelo.tk
-# ||infolinks.com^ (kame_filter.txt: 184)
+# ||infolinks.com^ (kame_filter.txt: 185)
 .infolinks.com
-# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 183)
+# ||d141wsrw9m4as6.cloudfront.net^ (kame_filter.txt: 184)
 .d141wsrw9m4as6.cloudfront.net
-# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 182)
+# ||dc5k8fg5ioc8s.cloudfront.net^ (kame_filter.txt: 183)
 .dc5k8fg5ioc8s.cloudfront.net
-# ||herepackagine.info^ (kame_filter.txt: 181)
+# ||herepackagine.info^ (kame_filter.txt: 182)
 .herepackagine.info
-# ||www.audazweb.com^ (kame_filter.txt: 178)
+# ||www.audazweb.com^ (kame_filter.txt: 179)
 .www.audazweb.com
-# ||ktechguardiansrn.site^ (kame_filter.txt: 175)
+# ||ktechguardiansrn.site^ (kame_filter.txt: 176)
 .ktechguardiansrn.site
-# ||discount.s3blog.org^ (kame_filter.txt: 172)
+# ||discount.s3blog.org^ (kame_filter.txt: 173)
 .discount.s3blog.org
-# ||buildathome.info^ (kame_filter.txt: 160)
+# ||buildathome.info^ (kame_filter.txt: 161)
 .buildathome.info
-# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 159)
+# ||www.uniblue.com/cm/marimedia-rm/speedupmypc/ (kame_filter.txt: 160)
 .www.uniblue.com/cm/marimedia-rm/speedupmypc/
-# ||onlineaway.net^ (kame_filter.txt: 158)
+# ||onlineaway.net^ (kame_filter.txt: 159)
 .onlineaway.net
-# ||ja.reimageplus.com^ (kame_filter.txt: 157)
+# ||ja.reimageplus.com^ (kame_filter.txt: 158)
 .ja.reimageplus.com
-# ||hk-life.net^ (kame_filter.txt: 153)
+# ||hk-life.net^ (kame_filter.txt: 154)
 .hk-life.net
-# ||www.imaginetechservices.xyz^ (kame_filter.txt: 150)
+# ||www.imaginetechservices.xyz^ (kame_filter.txt: 151)
 .www.imaginetechservices.xyz
-# ||sanjayrout.com^ (kame_filter.txt: 147)
+# ||sanjayrout.com^ (kame_filter.txt: 148)
 .sanjayrout.com
-# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 146)
+# ||d1cy6bsvhksfmz.cloudfront.net^ (kame_filter.txt: 147)
 .d1cy6bsvhksfmz.cloudfront.net
-# ||www.faragegraphics.com^ (kame_filter.txt: 145)
+# ||www.faragegraphics.com^ (kame_filter.txt: 146)
 .www.faragegraphics.com
-# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 144)
+# ||d2gpqw290yvvmv.cloudfront.net^ (kame_filter.txt: 145)
 .d2gpqw290yvvmv.cloudfront.net
-# ||7hdfilm.xyz^ (kame_filter.txt: 141)
+# ||7hdfilm.xyz^ (kame_filter.txt: 142)
 .7hdfilm.xyz
-# ||trustednotice.news^ (kame_filter.txt: 135)
+# ||trustednotice.news^ (kame_filter.txt: 136)
 .trustednotice.news
-# ||winsupporthelp.club (kame_filter.txt: 131)
+# ||winsupporthelp.club (kame_filter.txt: 132)
 .winsupporthelp.club*.
-# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 128)
+# ||xpics.us/images/786507813333_koinokisetu.jpg (kame_filter.txt: 129)
 .xpics.us/images/786507813333_koinokisetu\.jpg
-# ||yowwinnerprize.com^ (kame_filter.txt: 123)
+# ||yowwinnerprize.com^ (kame_filter.txt: 124)
 .yowwinnerprize.com
-# ||nine-our-prize54.loan^ (kame_filter.txt: 118)
+# ||nine-our-prize54.loan^ (kame_filter.txt: 119)
 .nine-our-prize54.loan
-# ||www.pc.error (kame_filter.txt: 113)
+# ||www.pc.error (kame_filter.txt: 114)
 .www.pc.error*.
-# ||khoikhoi-2news.xyz^ (kame_filter.txt: 110)
+# ||khoikhoi-2news.xyz^ (kame_filter.txt: 111)
 .khoikhoi-2news.xyz
-# ||pb7m.nl^ (kame_filter.txt: 109)
+# ||pb7m.nl^ (kame_filter.txt: 110)
 .pb7m.nl
-# ||xtreeem.com^ (kame_filter.txt: 105)
+# ||xtreeem.com^ (kame_filter.txt: 106)
 .xtreeem.com
-# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 100)
+# ||www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB.gif (kame_filter.txt: 101)
 .www.dropbox.com/s/gm5jnh7o6wx8643/TIME%26SPACE_10GB\.gif
-# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 97)
+# ||www.noao.edu/image_gallery/images/d7/cygloop.jpg (kame_filter.txt: 98)
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
-# ||piet2eix3l.com^ (kame_filter.txt: 94)
+# ||piet2eix3l.com^ (kame_filter.txt: 95)
 .piet2eix3l.com
+# ||qiu4069avkj.rest^ (kame_filter.txt: 89)
+.qiu4069avkj.rest
 # ||mercari.sdfugdf.org^ (kame_filter.txt: 88)
 .mercari.sdfugdf.org
 # ||orico.tgjhfgj.org^ (kame_filter.txt: 87)
@@ -14421,15 +14427,15 @@ o333o.com
 {+client-header-tagger{ab2p-block-request-Ahm} \
  +server-header-tagger{ab2p-block-request-Chm} \
 }
-# ||sarah.runtnc.net^$document (kame_filter.txt: 169)
+# ||sarah.runtnc.net^$document (kame_filter.txt: 170)
 .sarah.runtnc.net
-# ||goneoutnow.site^$document (kame_filter.txt: 168)
+# ||goneoutnow.site^$document (kame_filter.txt: 169)
 .goneoutnow.site
-# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 167)
+# ||direct.redtrafficsample.site/redirect$document (kame_filter.txt: 168)
 .direct.redtrafficsample.site/redirect
-# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 166)
+# ||www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/$document (kame_filter.txt: 167)
 .www.amazon.com/Certified-Refurbished-Kindle-Paperwhite-reader/dp/B00QJEL42Y/
-# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 165)
+# ||jp.today-prizes.club/todays-winner$document (kame_filter.txt: 166)
 .jp.today-prizes.club/todays-winner
 
 #ab2p-block-request-Ai-Ci
