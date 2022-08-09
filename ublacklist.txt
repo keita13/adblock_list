@@ -9807,6 +9807,7 @@
 *://*.python5.com/*
 *://*.pythonfixing.com/*
 *://*.pythonq.com/*
+*://*.pythonwood.com/*
 *://*.qa-help.ru/*
 *://*.qa-stack.aa/*
 *://*.qa-stack.ab/*
