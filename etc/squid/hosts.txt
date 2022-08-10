@@ -1167,6 +1167,7 @@
 0.0.0.0 666748.xyz
 0.0.0.0 666749.xyz
 0.0.0.0 666752.xyz
+0.0.0.0 666753.xyz
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
@@ -1494,6 +1495,7 @@
 0.0.0.0 8dfaa2dc76855.com
 0.0.0.0 8e15d1e530.551327fd36.com
 0.0.0.0 8eca555d94.com
+0.0.0.0 8feichai.com
 0.0.0.0 8ff01bde37db289d5.com
 0.0.0.0 8gustis.xyz
 0.0.0.0 8hdp.cn
@@ -5163,6 +5165,7 @@
 0.0.0.0 afili.ru
 0.0.0.0 afilio.com.br
 0.0.0.0 afj0.com
+0.0.0.0 afjk001.xyz
 0.0.0.0 afjlb.com
 0.0.0.0 afjxriipst.com
 0.0.0.0 afk-i.com
@@ -6247,6 +6250,7 @@
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.volvocars.com
 0.0.0.0 analytics.vooxe.com
+0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 analytics.webflow.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
@@ -10704,6 +10708,7 @@
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dsmstats.com
 0.0.0.0 cdn.dsspn.com
+0.0.0.0 cdn.eksiup.com
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.haocaa.com
 0.0.0.0 cdn.heapanalytics.com
@@ -13329,6 +13334,7 @@
 0.0.0.0 cxfzw.cn
 0.0.0.0 cxgfq.pinlue.com
 0.0.0.0 cxhjpcrvxd.com
+0.0.0.0 cxiwn.xyz
 0.0.0.0 cxjrsb.com
 0.0.0.0 cxkivjsorpburb.com
 0.0.0.0 cxmolk.com
@@ -16546,7 +16552,6 @@
 0.0.0.0 ekod.info
 0.0.0.0 ekostreams.gq
 0.0.0.0 ekrvemsgktkcihp.com
-0.0.0.0 eksiup.com
 0.0.0.0 ekskbldmgjhfvl.com
 0.0.0.0 ektezis.ru
 0.0.0.0 ektmvpwa.top
@@ -24577,6 +24582,7 @@
 0.0.0.0 jwplayer.space
 0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
+0.0.0.0 jwtkw2w.cn
 0.0.0.0 jwuqescfqa.xyz
 0.0.0.0 jwvjcr.cn
 0.0.0.0 jwyiyqptg.com
@@ -25852,6 +25858,7 @@
 0.0.0.0 leaderaffiliation.com
 0.0.0.0 leaderhistliness.info
 0.0.0.0 leaderpub.fr
+0.0.0.0 leadfamly.com
 0.0.0.0 leadfeeder.com
 0.0.0.0 leadforce1.com
 0.0.0.0 leadforensics.com
@@ -26371,6 +26378,7 @@
 0.0.0.0 liushuaib.xyz
 0.0.0.0 liusuqin.fun
 0.0.0.0 liutt.online
+0.0.0.0 liuxiangxiang.top
 0.0.0.0 liuyangyang.cn
 0.0.0.0 liuzhen.love
 0.0.0.0 liuziqiu.cn
@@ -26984,6 +26992,7 @@
 0.0.0.0 lorenzourban.com
 0.0.0.0 loreps.com
 0.0.0.0 lorimertoned.com
+0.0.0.0 lorlsblh.cyou
 0.0.0.0 lornardchr.club
 0.0.0.0 lorybnfh.com
 0.0.0.0 lose4admin.de
@@ -30163,7 +30172,6 @@
 0.0.0.0 news.pustgovorjat.ru
 0.0.0.0 news.rk345dno.ru
 0.0.0.0 news.trendovo.com.ua
-0.0.0.0 news.zsjxwj.com
 0.0.0.0 news02.biz
 0.0.0.0 news2you.ru
 0.0.0.0 newsadsppush.com
@@ -31244,6 +31252,7 @@
 0.0.0.0 okbp.xyz
 0.0.0.0 okdigital.me
 0.0.0.0 okeydumping.com
+0.0.0.0 okfzopj.cn
 0.0.0.0 okgvtr.com
 0.0.0.0 okhfyyfgw.com
 0.0.0.0 okkkk.com
@@ -34956,6 +34965,7 @@
 0.0.0.0 qoepkc.top
 0.0.0.0 qoevjugu.com
 0.0.0.0 qofowyki.xyz
+0.0.0.0 qofvpbo.cn
 0.0.0.0 qogbgxne.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qoisocrldvnesni.ru
@@ -35440,6 +35450,7 @@
 0.0.0.0 rayjump.com
 0.0.0.0 rayrecollect.com
 0.0.0.0 rays-counter.com
+0.0.0.0 razasot.cn
 0.0.0.0 razdvabm.com
 0.0.0.0 razuphyju.com
 0.0.0.0 rb*.design.ru
@@ -36847,6 +36858,7 @@
 0.0.0.0 rukoval.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 ruliam.com
+0.0.0.0 ruliglso.space
 0.0.0.0 rulinecrea.xyz
 0.0.0.0 rulkerton.site
 0.0.0.0 rum*.a.trbcdn.net
@@ -38079,6 +38091,7 @@
 0.0.0.0 shanta-jos.com
 0.0.0.0 shanxicloud.net
 0.0.0.0 shanxige.com
+0.0.0.0 shaokaodaren.top
 0.0.0.0 shaonlt.love
 0.0.0.0 shapelcounset.xyz
 0.0.0.0 shappapa.top
@@ -38261,6 +38274,7 @@
 0.0.0.0 shoungak.net
 0.0.0.0 shoushushi.info
 0.0.0.0 shouyouyou.com
+0.0.0.0 shouzhuanfs.com
 0.0.0.0 shoveac.com
 0.0.0.0 shovedrailwaynurse.com
 0.0.0.0 shovelimetreekit.com
@@ -45727,6 +45741,7 @@
 0.0.0.0 voraciousthursdaydaughterinlaw.com
 0.0.0.0 voredi.com
 0.0.0.0 vorinteon.ru
+0.0.0.0 vorlsblf.cyou
 0.0.0.0 voronezh136.ru
 0.0.0.0 vorrireer.com
 0.0.0.0 vorseh.com
@@ -47674,6 +47689,7 @@
 0.0.0.0 xibadupty.com
 0.0.0.0 xidx.org
 0.0.0.0 xiepl.com
+0.0.0.0 xiezhong.club
 0.0.0.0 xifg6h.ru
 0.0.0.0 xigolashu.com
 0.0.0.0 xihua.me
@@ -47771,6 +47787,7 @@
 0.0.0.0 xksqb.com
 0.0.0.0 xkunjfkb.com
 0.0.0.0 xkzjq.cn
+0.0.0.0 xkzzyk.cn
 0.0.0.0 xl-trk.com
 0.0.0.0 xldcdnd.com
 0.0.0.0 xlengcomyf.com
@@ -48390,6 +48407,7 @@
 0.0.0.0 yifuffbypvps.xyz
 0.0.0.0 yigao.com
 0.0.0.0 yigesi.top
+0.0.0.0 yihoo.biz
 0.0.0.0 yiiyo.top
 0.0.0.0 yijia2009.com
 0.0.0.0 yijikm.com
@@ -48718,6 +48736,7 @@
 0.0.0.0 ysnvlxop.com
 0.0.0.0 ysowy.com
 0.0.0.0 ysrmy1.com
+0.0.0.0 yswphit.cn
 0.0.0.0 yswuen.top
 0.0.0.0 ysx8.vip
 0.0.0.0 ysxywj.com
@@ -49487,6 +49506,7 @@
 0.0.0.0 zs.dhl.de
 0.0.0.0 zsgwed.cn
 0.0.0.0 zsinek.com
+0.0.0.0 zsjxwj.com
 0.0.0.0 zslhmw.com
 0.0.0.0 zsmmflxvkgvmcf.com
 0.0.0.0 zsmyzg.cn
