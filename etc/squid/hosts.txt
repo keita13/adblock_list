@@ -1175,6 +1175,7 @@
 0.0.0.0 666755.xyz
 0.0.0.0 666756.xyz
 0.0.0.0 666757.xyz
+0.0.0.0 666758.xyz
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
@@ -4637,6 +4638,7 @@
 0.0.0.0 adv.neverbuy.com
 0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.pilseta24.lv
+0.0.0.0 adv.r7.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.thuvienphapluat.vn
@@ -6930,6 +6932,7 @@
 0.0.0.0 artantash.club
 0.0.0.0 artbluesea.xyz
 0.0.0.0 artefact.is
+0.0.0.0 artemis-cdn.ocdn.eu
 0.0.0.0 artemisaffiliates.com
 0.0.0.0 artfut.com
 0.0.0.0 arthahoonte.biz
@@ -12610,6 +12613,7 @@
 0.0.0.0 coremotives.com
 0.0.0.0 corkery.biz
 0.0.0.0 corkycrazy.com
+0.0.0.0 corlsblt.cyou
 0.0.0.0 cornerbut.com
 0.0.0.0 cornplus.cn
 0.0.0.0 corona999.com
@@ -18170,6 +18174,7 @@
 0.0.0.0 fineoffer.net
 0.0.0.0 finestflirtcudgel.com
 0.0.0.0 fingahvf.top
+0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 fingsmelis.pro
 0.0.0.0 finized.co
 0.0.0.0 finkelorcine.com
@@ -23597,6 +23602,7 @@
 0.0.0.0 itageli.ru
 0.0.0.0 italianadirectory.com
 0.0.0.0 itblisseyer.com
+0.0.0.0 itbwq.xyz
 0.0.0.0 itcameruptr.com
 0.0.0.0 itcgin.net
 0.0.0.0 itchaxun.cn
@@ -29328,6 +29334,7 @@
 0.0.0.0 mrnpwuere.com
 0.0.0.0 mrpecvqw.com
 0.0.0.0 mrrvmp.com
+0.0.0.0 mrshw.mobi
 0.0.0.0 mrskincash.com
 0.0.0.0 mrtbbnr.com
 0.0.0.0 mrtpcfegryfgqtbuvksbaebneewer.com
@@ -30456,6 +30463,7 @@
 0.0.0.0 njygp.cn
 0.0.0.0 njzhlaw.cn
 0.0.0.0 nkepulqeetn.com
+0.0.0.0 nkevca.cn
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nkjiashi.com
 0.0.0.0 nklrfqgz.com
@@ -36659,6 +36667,7 @@
 0.0.0.0 roredi.com
 0.0.0.0 rorer.ru
 0.0.0.0 rorgoops.com
+0.0.0.0 rorlsblm.cyou
 0.0.0.0 rorserdy.com
 0.0.0.0 ros-infonews.ru
 0.0.0.0 rosafun.com
@@ -38103,6 +38112,7 @@
 0.0.0.0 sgftrrs.com
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sghmho.com
+0.0.0.0 sghmvum.cn
 0.0.0.0 sglyd.cn
 0.0.0.0 sgood.ru
 0.0.0.0 sgphctileh-a.akamaihd.net
@@ -43103,6 +43113,7 @@
 0.0.0.0 tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
+0.0.0.0 tracker.tolvnow.com
 0.0.0.0 tracker.tubecj.com
 0.0.0.0 tracker.twenga.
 0.0.0.0 tracker.twenga.pl
@@ -43938,6 +43949,7 @@
 0.0.0.0 tumgcmu.cn
 0.0.0.0 tummiarunzpf.com
 0.0.0.0 tummyunmovedfetch.com
+0.0.0.0 tumnxwvd.ink
 0.0.0.0 tumri.net
 0.0.0.0 tumultmarten.com
 0.0.0.0 tumuta.xyz
@@ -45310,6 +45322,7 @@
 0.0.0.0 vgijoh.com
 0.0.0.0 vgimer.cn
 0.0.0.0 vgo.vegaoo.de
+0.0.0.0 vgrovkb.cn
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vgw35hwr4w6x.com
 0.0.0.0 vh79.com
@@ -45593,6 +45606,7 @@
 0.0.0.0 visioncriticalpanels.com
 0.0.0.0 visionsage.com
 0.0.0.0 visistat.com
+0.0.0.0 visit-prod-us.occa.ocs.oraclecloud.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visit2visit.de
 0.0.0.0 visitbox.de
@@ -45982,6 +45996,7 @@
 0.0.0.0 vulgartaivert.website
 0.0.0.0 vuliglsf.space
 0.0.0.0 vulturechinamaternity.com
+0.0.0.0 vumnxwvf.ink
 0.0.0.0 vungle.com
 0.0.0.0 vupload.duowan.com
 0.0.0.0 vupulse.com
@@ -48419,6 +48434,7 @@
 0.0.0.0 yfetyg.com
 0.0.0.0 yfot.com.cn
 0.0.0.0 yfum.com
+0.0.0.0 yfunkgk.cn
 0.0.0.0 yfupfhqxmwvu.com
 0.0.0.0 yfygs.cn
 0.0.0.0 yfzbn.com
@@ -49469,6 +49485,7 @@
 0.0.0.0 zlacraft.com
 0.0.0.0 zlajnpfqgsleo.com
 0.0.0.0 zlfgedpuxrbpgm.com
+0.0.0.0 zlgame.top
 0.0.0.0 zli.wang
 0.0.0.0 zlin.fun
 0.0.0.0 zlink2.com
@@ -49699,6 +49716,7 @@
 0.0.0.0 zxsmxt.com
 0.0.0.0 zxucii.com
 0.0.0.0 zxvvcvd.cn
+0.0.0.0 zxwnlg.com
 0.0.0.0 zxxds.net
 0.0.0.0 zxycxk.love
 0.0.0.0 zxyonlybelongstolym.xyz
