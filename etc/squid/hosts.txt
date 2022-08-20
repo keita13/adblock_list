@@ -6,6 +6,7 @@
 0.0.0.0 001adafg.xyz
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
+0.0.0.0 004fsdljasd.xyz
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 008844.cc
@@ -1189,6 +1190,7 @@
 0.0.0.0 666762.xyz
 0.0.0.0 666763.xyz
 0.0.0.0 666764.xyz
+0.0.0.0 666765.xyz
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
@@ -6106,10 +6108,12 @@
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.ifood.tv
+0.0.0.0 analytics.ikyu.com
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
+0.0.0.0 analytics.iss.one
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.jamstackvietnam.com
 0.0.0.0 analytics.jodelapis.com
@@ -7019,6 +7023,7 @@
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asextube.net
 0.0.0.0 asf56165.xyz
+0.0.0.0 asforsalesr.one
 0.0.0.0 asg.faperoni.com
 0.0.0.0 asgclickkl.com
 0.0.0.0 asgclickpop.com
@@ -11700,6 +11705,7 @@
 0.0.0.0 clicks-cloud.ru
 0.0.0.0 clicks.affstrack.com
 0.0.0.0 clicks.dealer.com
+0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.h.hepsiburada.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -13235,6 +13241,7 @@
 0.0.0.0 ctengine.io
 0.0.0.0 ctetgwxrgaldb.xyz
 0.0.0.0 cthaic.com
+0.0.0.0 ctijbeb.cn
 0.0.0.0 ctiontouritysh.club
 0.0.0.0 ctl.mobitrack.co.kr
 0.0.0.0 ctlmufv.cn
@@ -16673,6 +16680,7 @@
 0.0.0.0 elephantdata.net
 0.0.0.0 elephantqueue.com
 0.0.0.0 elepocial.pro
+0.0.0.0 elepts.com
 0.0.0.0 elevenmedia.cn
 0.0.0.0 elevoy.ru
 0.0.0.0 elfcoexistbird.com
@@ -16804,6 +16812,7 @@
 0.0.0.0 enbpvt.com
 0.0.0.0 encasedandelionhauled.com
 0.0.0.0 enceansom.club
+0.0.0.0 encesprincipl.one
 0.0.0.0 enchantedjudge.com
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantmenthopeless.com
@@ -16929,6 +16938,7 @@
 0.0.0.0 entseconom.com
 0.0.0.0 entsseparas.com
 0.0.0.0 entualkenti.buzz
+0.0.0.0 enturyremove.one
 0.0.0.0 enued.com
 0.0.0.0 envelopeheadache.com
 0.0.0.0 enviablewaistwhereabouts.com
@@ -18447,6 +18457,7 @@
 0.0.0.0 flowsearch.info
 0.0.0.0 flowwiththetide.xyz
 0.0.0.0 flrdra.com
+0.0.0.0 flsfzr.cn
 0.0.0.0 fltbqfjsbrj.com
 0.0.0.0 fluct.jp
 0.0.0.0 fluctuo.com
@@ -22785,6 +22796,7 @@
 0.0.0.0 ilbmhvmjev.xyz
 0.0.0.0 ildwicqrqazgjz.com
 0.0.0.0 ilead.itrack.it
+0.0.0.0 ileesidesu.hair
 0.0.0.0 ilex.asia
 0.0.0.0 ilgze.cn
 0.0.0.0 ili.pp.ua
@@ -23505,6 +23517,7 @@
 0.0.0.0 iotechnologies.com
 0.0.0.0 iotewq.xyz
 0.0.0.0 ioxiyaff.xyz
+0.0.0.0 ioxjce.xyz
 0.0.0.0 ip-label.net
 0.0.0.0 ip.goguardian.com
 0.0.0.0 ip.prvtx.net
@@ -23688,6 +23701,7 @@
 0.0.0.0 it-pearl.com
 0.0.0.0 it.tagslimit.com
 0.0.0.0 it028.net.cn
+0.0.0.0 it5s.top
 0.0.0.0 itad.linetv.tw
 0.0.0.0 itadapi.ithome.com.tw
 0.0.0.0 itageli.ru
@@ -26493,6 +26507,7 @@
 0.0.0.0 liqwid.net
 0.0.0.0 lirelt.com
 0.0.0.0 lirsmmnsaixa.com
+0.0.0.0 lisafnil.space
 0.0.0.0 lislepostsax.com
 0.0.0.0 lisponightingale.com
 0.0.0.0 listat.biz
@@ -27402,6 +27417,7 @@
 0.0.0.0 lwlscy.com
 0.0.0.0 lwmoaf.com
 0.0.0.0 lwobol.cloud
+0.0.0.0 lwtlock.cn
 0.0.0.0 lwxqaq.club
 0.0.0.0 lx2rv.com
 0.0.0.0 lx52168.online
@@ -30973,6 +30989,7 @@
 0.0.0.0 numbtoobly.com
 0.0.0.0 numeralembody.com
 0.0.0.0 numerino.cz
+0.0.0.0 numnxwvv.ink
 0.0.0.0 nunailsum.com
 0.0.0.0 nunhoefey.com
 0.0.0.0 nuninz.com
@@ -33621,6 +33638,7 @@
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polarmobile.com
+0.0.0.0 polflq.cn
 0.0.0.0 policityseriod.info
 0.0.0.0 polipol.pw
 0.0.0.0 polishrefreshment.com
@@ -34876,6 +34894,7 @@
 0.0.0.0 pxx.tnklrs.cn
 0.0.0.0 pyblogs.xyz
 0.0.0.0 pyerc.com
+0.0.0.0 pygone.top
 0.0.0.0 pyhszs.cn
 0.0.0.0 pyksf.com
 0.0.0.0 pyloic.com
@@ -34948,6 +34967,7 @@
 0.0.0.0 qbaka.net
 0.0.0.0 qbc1.cn
 0.0.0.0 qbccpgljgxc.com
+0.0.0.0 qbgrmsk.cn
 0.0.0.0 qbhyczr5hw.ru
 0.0.0.0 qbj8.com
 0.0.0.0 qbjsymmi0w.cn
@@ -41216,6 +41236,7 @@
 0.0.0.0 sypleni.ru
 0.0.0.0 syqoqjibiagvo.com
 0.0.0.0 syqqmm.com
+0.0.0.0 syr66.com.cn
 0.0.0.0 syrsple2se8nyu09.com
 0.0.0.0 sys.refocus.ru
 0.0.0.0 sysal.cn
@@ -41610,6 +41631,7 @@
 0.0.0.0 taopiaopiao.shop
 0.0.0.0 taoput.com
 0.0.0.0 taoquan365.net
+0.0.0.0 taoxiehui.cn
 0.0.0.0 taoyao.tech
 0.0.0.0 taoyinbiacid.com
 0.0.0.0 taoyuay.top
@@ -42460,6 +42482,7 @@
 0.0.0.0 tirreleaseavailan.xyz
 0.0.0.0 tirsmile.pro
 0.0.0.0 tirusoge.com
+0.0.0.0 tisafnii.space
 0.0.0.0 tisagama.com
 0.0.0.0 tiser.com
 0.0.0.0 tiser.com.au
@@ -43793,6 +43816,7 @@
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 trcksrvrs.com
 0.0.0.0 trdnewsnow.net
+0.0.0.0 trdzgpx.cn
 0.0.0.0 treacherousaccentbruise.com
 0.0.0.0 treacherouslongingjunkie.com
 0.0.0.0 treadbun.com
@@ -44354,6 +44378,7 @@
 0.0.0.0 u0067.com
 0.0.0.0 u0071.com
 0.0.0.0 u0075.com
+0.0.0.0 u0078.com
 0.0.0.0 u0081.com
 0.0.0.0 u0083.com
 0.0.0.0 u0r9.cn
@@ -45834,6 +45859,7 @@
 0.0.0.0 visualdna.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 visualsteel.net
+0.0.0.0 visualtravel.info
 0.0.0.0 visummer.com
 0.0.0.0 viswcnb.cn
 0.0.0.0 visx.net
@@ -47189,6 +47215,7 @@
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 wizliebeg.com
 0.0.0.0 wizwarsum.site
+0.0.0.0 wizxyz.com
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wjdfv.com
 0.0.0.0 wjgohz.com
@@ -47518,6 +47545,7 @@
 0.0.0.0 wsp.adskeeper.co.uk
 0.0.0.0 wstat.ozon.ru
 0.0.0.0 wstatslive.com
+0.0.0.0 wsthcgl.cn
 0.0.0.0 wstztt.com
 0.0.0.0 wsuxjqr.cn
 0.0.0.0 wsvay.com
