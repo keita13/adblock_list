@@ -139,6 +139,7 @@
 *://*.codegrepper.com/*
 *://*.codeguides.site/*
 *://*.codehero.jp/*
+*://*.codehunter.cc/*
 *://*.codengineering.ru/*
 *://*.codenong.com/*
 *://*.coder-question-aa.com/*
