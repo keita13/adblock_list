@@ -11826,6 +11826,7 @@
 *://*.teambikevalconca.it/*
 *://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
+*://*.techacademy.jp/*
 *://*.techfeed.net/*
 *://*.thedailydad.org/*
 *://*.thercb.org/*
