@@ -5789,6 +5789,7 @@
 *://*.issueexplorer.com/*
 *://*.issues-world.com/*
 *://*.it-gundan.net/*
+*://*.it-kyujin.jp/*
 *://*.it-mot-dan-vi.com/*
 *://*.it-mure.aa.net/*
 *://*.it-mure.ab.net/*
