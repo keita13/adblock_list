@@ -1269,6 +1269,7 @@
 0.0.0.0 666797.xyz
 0.0.0.0 666822.xyz
 0.0.0.0 666823.xyz
+0.0.0.0 666824.xyz
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
 0.0.0.0 668kbet.com
@@ -4524,6 +4525,7 @@
 0.0.0.0 adslvr.com
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmart.com
+0.0.0.0 adsmart.hk
 0.0.0.0 adsmart.net
 0.0.0.0 adsmeda.com
 0.0.0.0 adsmetadata.mobileadexchange.net
@@ -5536,6 +5538,7 @@
 0.0.0.0 ahojer.com
 0.0.0.0 ahp1.site
 0.0.0.0 ahp10.site
+0.0.0.0 ahp11.site
 0.0.0.0 ahp2.site
 0.0.0.0 ahp28.site
 0.0.0.0 ahp29.site
@@ -9732,6 +9735,7 @@
 0.0.0.0 bmddea.com
 0.0.0.0 bmfads.com
 0.0.0.0 bmfeed.ru
+0.0.0.0 bmjs.xzw.com
 0.0.0.0 bmkz57b79pxk.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
@@ -13400,6 +13404,7 @@
 0.0.0.0 cpng.lol
 0.0.0.0 cppgf.com
 0.0.0.0 cppoc.com
+0.0.0.0 cppwd2ahf.xyz
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro.bdrmb.cn
@@ -14023,6 +14028,7 @@
 0.0.0.0 d1.1ppt.com
 0.0.0.0 d1.3158.cn
 0.0.0.0 d1.5h.com
+0.0.0.0 d1.gocye.com
 0.0.0.0 d1.handdiy.com
 0.0.0.0 d1.zhuangxiu6.com
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
@@ -14951,6 +14957,7 @@
 0.0.0.0 dcai7bdiz5toz.cloudfront.net
 0.0.0.0 dcbnameapneas.com
 0.0.0.0 dcbpm.suning.cn
+0.0.0.0 dccc.cloud
 0.0.0.0 dce0k0.cn
 0.0.0.0 dceni.com
 0.0.0.0 dcesxdvixnrwlu.com
@@ -15685,6 +15692,7 @@
 0.0.0.0 dispelsbashara.com
 0.0.0.0 dispensablestranger.com
 0.0.0.0 displacepepperyadvertisement.com
+0.0.0.0 display.itmemo.cn
 0.0.0.0 display.studio
 0.0.0.0 displaycontentnetwork.com
 0.0.0.0 displaycontentprofit.com
@@ -16382,6 +16390,7 @@
 0.0.0.0 dsultra.com
 0.0.0.0 dsvkgvrftkpds.com
 0.0.0.0 dsxteqljrwqxeo.com
+0.0.0.0 dszeda.cn
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.nrjmobile.fr
 0.0.0.0 dt.vnecdn.com
@@ -19752,6 +19761,7 @@
 0.0.0.0 fyvvm.com
 0.0.0.0 fyyqq.top
 0.0.0.0 fz.staithecrinion.com
+0.0.0.0 fz2c.top
 0.0.0.0 fzbymy.com
 0.0.0.0 fzdeng.com
 0.0.0.0 fzhxi.com
@@ -23275,6 +23285,7 @@
 0.0.0.0 iczgls.cn
 0.0.0.0 id-visitors.com
 0.0.0.0 id.kbmg.cz
+0.0.0.0 id08.top
 0.0.0.0 id1.cn
 0.0.0.0 id5-sync.com
 0.0.0.0 id5a.top
@@ -24515,6 +24526,7 @@
 0.0.0.0 iwxmchcatfb.com
 0.0.0.0 iwxzizcw.com
 0.0.0.0 iwyuaqs.cn
+0.0.0.0 ixbccrp.cn
 0.0.0.0 ixcbqp.com
 0.0.0.0 ixcgvh.cn
 0.0.0.0 ixcris.com
@@ -24964,6 +24976,7 @@
 0.0.0.0 jiujiinc.top
 0.0.0.0 jiujiupk.com
 0.0.0.0 jiuku.cc
+0.0.0.0 jiuku.pw
 0.0.0.0 jiulela.ltd
 0.0.0.0 jiulingdl.cn
 0.0.0.0 jiusty.com
@@ -26850,6 +26863,7 @@
 0.0.0.0 leatheroughtrisk.com
 0.0.0.0 leavilysover.site
 0.0.0.0 lebilui.ru
+0.0.0.0 lebkrli.cn
 0.0.0.0 lecilk.com
 0.0.0.0 lecuiwangluo.com
 0.0.0.0 ledhatbet.com
@@ -26945,6 +26959,7 @@
 0.0.0.0 leroj.elitegol.tv
 0.0.0.0 lerrdoriak.com
 0.0.0.0 les-experts.com
+0.0.0.0 les7andla4.cfd
 0.0.0.0 leserservice-tracking.de
 0.0.0.0 lessalle.com
 0.0.0.0 lessite.pro
@@ -30732,6 +30747,7 @@
 0.0.0.0 myzuphaby.pro
 0.0.0.0 mzcd.xyz
 0.0.0.0 mzcsuuuwox.com
+0.0.0.0 mzhw.xyz
 0.0.0.0 mzlscqarnm.com
 0.0.0.0 mzokqm.cn
 0.0.0.0 mzol7lbm.com
@@ -31082,6 +31098,7 @@
 0.0.0.0 netavenir.com
 0.0.0.0 netbiscuits.net
 0.0.0.0 netcatx.com
+0.0.0.0 netcentric.biz
 0.0.0.0 netclickstats.com
 0.0.0.0 netcommunities.com
 0.0.0.0 netcore.co.in
@@ -32352,6 +32369,7 @@
 0.0.0.0 ojwejqeqvxn.xyz
 0.0.0.0 ok-app.online
 0.0.0.0 ok-ddjsyuming.com
+0.0.0.0 ok-qqzzjsyuming.com
 0.0.0.0 ok.432kkk.com
 0.0.0.0 ok9ydq.ru
 0.0.0.0 okanjo.com
@@ -33101,6 +33119,7 @@
 0.0.0.0 ownpage.fr
 0.0.0.0 owogldk.top
 0.0.0.0 owohvnpbno.com
+0.0.0.0 owoxauky.com
 0.0.0.0 owsvolksk.space
 0.0.0.0 owtracking.us-east-1.elasticbeanstalk.com
 0.0.0.0 owwhftwhukqgo.com
@@ -34552,6 +34571,7 @@
 0.0.0.0 pocrd.cc
 0.0.0.0 pocrowpush.com
 0.0.0.0 podcast.svenskafans.com
+0.0.0.0 podcorn.com
 0.0.0.0 podfdch.com
 0.0.0.0 podiumpresto.com
 0.0.0.0 podosupsurge.com
@@ -36039,6 +36059,7 @@
 0.0.0.0 qeyps.com
 0.0.0.0 qfcdgy.cn
 0.0.0.0 qfdn3gyfbs.com
+0.0.0.0 qfdyxinaocn.com
 0.0.0.0 qfgall.cn
 0.0.0.0 qfhzki.com
 0.0.0.0 qfihdr.com
@@ -36428,6 +36449,7 @@
 0.0.0.0 qvvoom.com
 0.0.0.0 qvylkvlpjwz.com
 0.0.0.0 qwa3ldhn9u0t.com
+0.0.0.0 qwadakesy.cyou
 0.0.0.0 qwe.qrrgv.space
 0.0.0.0 qwe0231141.bj.bcebos.com
 0.0.0.0 qweewq2021.site
@@ -39425,6 +39447,7 @@
 0.0.0.0 shalseey.com
 0.0.0.0 shama5.com
 0.0.0.0 shamelessnullneutrality.com
+0.0.0.0 shamodesha.com
 0.0.0.0 shampooattackalways.com
 0.0.0.0 shanaurg.net
 0.0.0.0 shandongaosen.cn
@@ -42063,6 +42086,7 @@
 0.0.0.0 sunsekrious.com
 0.0.0.0 sunsetencyclopaedia.com
 0.0.0.0 sunsetjuxtapositioninvoke.com
+0.0.0.0 sunsetpersuadeaffectionately.com
 0.0.0.0 suntcontent.se
 0.0.0.0 suntiz.com
 0.0.0.0 sunvin.vin
@@ -43137,6 +43161,7 @@
 0.0.0.0 tentmess.com
 0.0.0.0 teoopx.cn
 0.0.0.0 teosredic.com
+0.0.0.0 teoviyf.cn
 0.0.0.0 teqcdnk.cn
 0.0.0.0 tequanma.com
 0.0.0.0 terabytemedia.com
@@ -43535,6 +43560,7 @@
 0.0.0.0 tianii.top
 0.0.0.0 tianjiunion.cn
 0.0.0.0 tiankongzudui.com
+0.0.0.0 tianlans.xyz
 0.0.0.0 tianlule.cn
 0.0.0.0 tianmenshan.top
 0.0.0.0 tianning.xyz
