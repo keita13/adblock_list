@@ -399,6 +399,7 @@
 0.0.0.0 1loveclones.com
 0.0.0.0 1lx.co
 0.0.0.0 1mp.mobi
+0.0.0.0 1n4o.icu
 0.0.0.0 1nimo.com
 0.0.0.0 1p1eqpotato.com
 0.0.0.0 1p3opxwwet.ru
@@ -675,6 +676,7 @@
 0.0.0.0 300daytravel.com
 0.0.0.0 300segundos.com
 0.0.0.0 301848.com
+0.0.0.0 302y.fun
 0.0.0.0 303marketplace.com
 0.0.0.0 306842.com
 0.0.0.0 307badb998ed.com
@@ -1195,6 +1197,7 @@
 0.0.0.0 6598kn9gpf.ru
 0.0.0.0 65a29ceed813bbca61.com
 0.0.0.0 65daishua.cn
+0.0.0.0 65fsgsv.com
 0.0.0.0 65mjvw6i1z.com
 0.0.0.0 65tgh.com
 0.0.0.0 65vk1fba34.com
@@ -6940,7 +6943,6 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.eu.amplitude.com
 0.0.0.0 api.exc.mob.com
-0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 api.flipdesk.jp
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fusepowered.com
@@ -13932,6 +13934,7 @@
 0.0.0.0 cuntador.com
 0.0.0.0 cunyiesus.com
 0.0.0.0 cunzashope.com
+0.0.0.0 cuoc8live.com
 0.0.0.0 cuoss.com
 0.0.0.0 cupbiologicaljourney.com
 0.0.0.0 cupcognatekaleidoscope.com
@@ -15599,6 +15602,7 @@
 0.0.0.0 dgmaxinteractive.com
 0.0.0.0 dgmjskjx.com
 0.0.0.0 dgpcdn.org
+0.0.0.0 dgrrvpl.cn
 0.0.0.0 dgtauto.com
 0.0.0.0 dgulden.ru
 0.0.0.0 dgw7ae5vrovs7.cloudfront.net
@@ -15745,6 +15749,7 @@
 0.0.0.0 dimpawlam.com
 0.0.0.0 dimpuxoh.net
 0.0.0.0 dinclinx.com
+0.0.0.0 dingbu.bj.bcebos.com
 0.0.0.0 dingdangcake.cn
 0.0.0.0 dingdian.shop
 0.0.0.0 dingeecurlily.com
@@ -18971,6 +18976,7 @@
 0.0.0.0 ff.qichetansuo.com
 0.0.0.0 ff.xue163.net
 0.0.0.0 ff5bd8d9f8df.com
+0.0.0.0 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 ffbrfjnhhf.com
 0.0.0.0 ffcbynqble.xyz
 0.0.0.0 ffhre.com
@@ -19784,6 +19790,7 @@
 0.0.0.0 fsyzcs.com
 0.0.0.0 fszcxxzx.com
 0.0.0.0 fszhxd.com
+0.0.0.0 ft8e.top
 0.0.0.0 ftalymniyqmbuyg.com
 0.0.0.0 ftblltrck.com
 0.0.0.0 ftbpro.com
@@ -20955,6 +20962,7 @@
 0.0.0.0 glowpok.rawr.gold
 0.0.0.0 gloxeept.com
 0.0.0.0 gloyah.net
+0.0.0.0 glpca.com
 0.0.0.0 glpen08.com
 0.0.0.0 glpl4qp99ny4.com
 0.0.0.0 glrcy.cn
@@ -23436,6 +23444,7 @@
 0.0.0.0 i99906.com
 0.0.0.0 i99908.com
 0.0.0.0 i99i.org
+0.0.0.0 i9bet444.com
 0.0.0.0 i9bet5.com
 0.0.0.0 i9w8p.pw
 0.0.0.0 ia.51.la
@@ -25228,6 +25237,7 @@
 0.0.0.0 jinghuazhijia.com
 0.0.0.0 jinglongtang.cn
 0.0.0.0 jingshenhaixian.cn
+0.0.0.0 jingtuliutongchu.work
 0.0.0.0 jingxiangyalvji.cn
 0.0.0.0 jingyixuanstore.cn
 0.0.0.0 jingyue.co
@@ -26613,6 +26623,7 @@
 0.0.0.0 ksharu.com
 0.0.0.0 ksiywrjwvkmat.com
 0.0.0.0 ksjdkjh.ru
+0.0.0.0 ksnoownmd.fun
 0.0.0.0 kspotson.de
 0.0.0.0 ksxb.ltd
 0.0.0.0 ksxqqqqjyevy.com
@@ -31312,6 +31323,7 @@
 0.0.0.0 nazhenkj.com
 0.0.0.0 nazoid.com
 0.0.0.0 nbet.com
+0.0.0.0 nbet.top
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
 0.0.0.0 nbgairiest.com
@@ -32596,6 +32608,7 @@
 0.0.0.0 odinstreamy.com
 0.0.0.0 odiousbunny.com
 0.0.0.0 odkbfdck.com
+0.0.0.0 odkxgwl.cn
 0.0.0.0 odnkcbcsacab.com
 0.0.0.0 odnlj.snap-affairs.com
 0.0.0.0 odnobi.ru
@@ -32692,6 +32705,7 @@
 0.0.0.0 ofslakotha.com
 0.0.0.0 oftheussi.one
 0.0.0.0 ofvsruaqukye.xyz
+0.0.0.0 ofvtpwu.cn
 0.0.0.0 og-affiliate.com
 0.0.0.0 ogbwqq.gkwtk.xyz
 0.0.0.0 ogclick.com
@@ -33350,6 +33364,7 @@
 0.0.0.0 otneq.today
 0.0.0.0 otnolabttmup.com
 0.0.0.0 otnolatrnup.com
+0.0.0.0 otoeew.xyz
 0.0.0.0 otogkg.com
 0.0.0.0 otomacotelugu.com
 0.0.0.0 otoshiana.com
@@ -43130,6 +43145,7 @@
 0.0.0.0 t1.clipkit.com
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 t1.trex.media
+0.0.0.0 t1.xuefen.com.cn
 0.0.0.0 t1g2.cn
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
@@ -43467,6 +43483,7 @@
 0.0.0.0 tbadseiepqrl.xyz
 0.0.0.0 tbaffiliate.com
 0.0.0.0 tbaia.com
+0.0.0.0 tbazhaheii.top
 0.0.0.0 tbcconnect.ge
 0.0.0.0 tbe.tom.ru
 0.0.0.0 tberjonk.com
@@ -43845,6 +43862,8 @@
 0.0.0.0 th21333.com
 0.0.0.0 th700.com
 0.0.0.0 tha.bet
+0.0.0.0 thabet.co
+0.0.0.0 thabet.one
 0.0.0.0 thabet88.co
 0.0.0.0 thabet88.info
 0.0.0.0 thabet88.vip
@@ -48176,6 +48195,7 @@
 0.0.0.0 vylmhkasl.xyz
 0.0.0.0 vymhnxjyj.com
 0.0.0.0 vyocqq.com
+0.0.0.0 vyps.fun
 0.0.0.0 vyrhxfi.cn
 0.0.0.0 vyule.com
 0.0.0.0 vyvxx.com
@@ -48242,6 +48262,7 @@
 0.0.0.0 wackeerd.com
 0.0.0.0 wackotracko.com
 0.0.0.0 wadauthy.net
+0.0.0.0 wadqfaj.cn
 0.0.0.0 waecobiyppbslb.com
 0.0.0.0 waegesth.com
 0.0.0.0 waesomeoutness.com
