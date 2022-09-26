@@ -438,6 +438,7 @@
 0.0.0.0 1w73a5d.cn
 0.0.0.0 1warie.com
 0.0.0.0 1web.me
+0.0.0.0 1wkg.cn
 0.0.0.0 1wofaei.xyz
 0.0.0.0 1xbet88vn.net
 0.0.0.0 1xbetvn.com
@@ -856,6 +857,7 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3qk4s31iy0.rest
+0.0.0.0 3qpw.icu
 0.0.0.0 3qsys.com
 0.0.0.0 3qz8c.site
 0.0.0.0 3r1kwxcd.top
@@ -6865,6 +6867,7 @@
 0.0.0.0 ap-srv.net
 0.0.0.0 ap.ad-feed.com
 0.0.0.0 ap.delfi.ee
+0.0.0.0 ap.frarychazan.com
 0.0.0.0 ap.smardroid.com
 0.0.0.0 ap3lorf0il.com
 0.0.0.0 apartblot.com
@@ -12484,6 +12487,7 @@
 0.0.0.0 cmblom.cn
 0.0.0.0 cmbnmfolofubr.xyz
 0.0.0.0 cmbpdk.cn
+0.0.0.0 cmci5cape.icu
 0.0.0.0 cmcore.com
 0.0.0.0 cmd368t.com
 0.0.0.0 cmdsdkekfhavlv.xyz
@@ -14884,6 +14888,7 @@
 0.0.0.0 daizoode.com
 0.0.0.0 dajean.com
 0.0.0.0 dajewoi.top
+0.0.0.0 dajiafacai923.xyz
 0.0.0.0 dakang-energy.com
 0.0.0.0 dakawm.cc
 0.0.0.0 dake.net.cn
@@ -16524,6 +16529,7 @@
 0.0.0.0 ds02gfqy6io6i.cloudfront.net
 0.0.0.0 ds4sw9va5hc.com
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
+0.0.0.0 ds9e.top
 0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 dsb6jelx4yhln.cloudfront.net
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
@@ -22971,6 +22977,7 @@
 0.0.0.0 houbaotech.cn
 0.0.0.0 houdodoo.net
 0.0.0.0 houfang8.com
+0.0.0.0 houhupsa.com
 0.0.0.0 houmei.ren
 0.0.0.0 houndcost.com
 0.0.0.0 houndfleetmule.com
@@ -23440,6 +23447,7 @@
 0.0.0.0 i884.info
 0.0.0.0 i8bet.org
 0.0.0.0 i8wi.icu
+0.0.0.0 i8x9.xyz
 0.0.0.0 i99903.com
 0.0.0.0 i99906.com
 0.0.0.0 i99908.com
@@ -23861,11 +23869,11 @@
 0.0.0.0 img.zuowen8.com
 0.0.0.0 img.zuowenwang.net
 0.0.0.0 img1.126.net
-0.0.0.0 img1.biyan8.com
 0.0.0.0 img1.eywdf.com
 0.0.0.0 img1.leyun365.com
 0.0.0.0 img1.qqwangming6.com
 0.0.0.0 img1.yulu99.com
+0.0.0.0 img11.biyan8.com
 0.0.0.0 img1458.r.worldssl.net
 0.0.0.0 img1461.r.worldssl.net
 0.0.0.0 img16.diyifanwen.com
@@ -25062,6 +25070,7 @@
 0.0.0.0 je8fn.com
 0.0.0.0 jealouslacklesslackless.com
 0.0.0.0 jeannemildconfusion.com
+0.0.0.0 jeanrace.com
 0.0.0.0 jeason.club
 0.0.0.0 jebaziwhe.com
 0.0.0.0 jebure.com
@@ -26043,6 +26052,7 @@
 0.0.0.0 kctag.net
 0.0.0.0 kcycpp.com
 0.0.0.0 kd1c.top
+0.0.0.0 kd1s.icu
 0.0.0.0 kdanxmiirxh.xyz
 0.0.0.0 kdata.fr
 0.0.0.0 kdbumyha.com
@@ -28434,6 +28444,7 @@
 0.0.0.0 lsgqlgoc.com
 0.0.0.0 lsjne.com
 0.0.0.0 lsjvmvkowneqogu.com
+0.0.0.0 lslld.xyz
 0.0.0.0 lspzhtvstux.com
 0.0.0.0 lsxc.shop
 0.0.0.0 lsxdcdnrrco.com
@@ -36487,6 +36498,7 @@
 0.0.0.0 qcmm01.com
 0.0.0.0 qcmm02.com
 0.0.0.0 qcmm05.com
+0.0.0.0 qcmm06.com
 0.0.0.0 qcroag.com
 0.0.0.0 qctop.com
 0.0.0.0 qctt24h.24h.com.vn
@@ -40522,6 +40534,7 @@
 0.0.0.0 skatestooped.com
 0.0.0.0 skbao.co
 0.0.0.0 skcrtxr.com
+0.0.0.0 skdbarh.cn
 0.0.0.0 skellbillard.com
 0.0.0.0 skenqaamefeoncfegrytbuvksebpefer.com
 0.0.0.0 sketchinferiorunits.com
@@ -41680,6 +41693,7 @@
 0.0.0.0 ssliivuqpm.ru
 0.0.0.0 ssm.codes
 0.0.0.0 ssmyinteuk.com
+0.0.0.0 ssnoownmb.fun
 0.0.0.0 ssp*.rtb.beeline.ru
 0.0.0.0 ssp-ad.momento.dev
 0.0.0.0 ssp.21ic.com
@@ -41692,6 +41706,7 @@
 0.0.0.0 ssp.zryydi.com
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sspervicearg.com
+0.0.0.0 sspghf.cn
 0.0.0.0 ssphwy.com
 0.0.0.0 sspintrafmsmt.com
 0.0.0.0 ssr.streamrail.net
@@ -43833,6 +43848,8 @@
 0.0.0.0 tfla.xyz
 0.0.0.0 tfosrv.com
 0.0.0.0 tfppp.com
+0.0.0.0 tfptlgrw.co
+0.0.0.0 tfptlgrw.live
 0.0.0.0 tfqhmnexjjni.com
 0.0.0.0 tfw73.online
 0.0.0.0 tfzznclztl.com
@@ -45407,6 +45424,7 @@
 0.0.0.0 trackyourstats.com
 0.0.0.0 trackytrack02.com
 0.0.0.0 tracot.com
+0.0.0.0 tractekytyh.xyz
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 tradblock.com
 0.0.0.0 tradbypass.com
@@ -46254,6 +46272,7 @@
 0.0.0.0 ubalh.com
 0.0.0.0 uballcc.com
 0.0.0.0 ubar-pro4.ru
+0.0.0.0 ubazhaheit.top
 0.0.0.0 ubbfpm.com
 0.0.0.0 ubercpm.com
 0.0.0.0 ubertags.com
@@ -46286,6 +46305,7 @@
 0.0.0.0 uchmuk.com
 0.0.0.0 uciservice.com
 0.0.0.0 ucjrmjilkdaudwj.xyz
+0.0.0.0 uclmad.com
 0.0.0.0 uclo.net
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucqfmwanc.com
@@ -47302,6 +47322,7 @@
 0.0.0.0 vedepmhmdeanoh.xyz
 0.0.0.0 vedety.ru
 0.0.0.0 veduy.com
+0.0.0.0 vedvvik.cn
 0.0.0.0 veechirrup.com
 0.0.0.0 veephept.com
 0.0.0.0 veewhaiw.com
@@ -49967,6 +49988,7 @@
 0.0.0.0 xiaokenan.net
 0.0.0.0 xiaoli.video
 0.0.0.0 xiaolipc.cn
+0.0.0.0 xiaomaxitong.co
 0.0.0.0 xiaomifood.cn
 0.0.0.0 xiaomilingjing.com
 0.0.0.0 xiaomilw.top
@@ -50807,6 +50829,7 @@
 0.0.0.0 yitcmu.com
 0.0.0.0 yitiaoyu.top
 0.0.0.0 yitongfang.com
+0.0.0.0 yitongwl.cn
 0.0.0.0 yituo-patibao.cn
 0.0.0.0 yiuspekmn.bar
 0.0.0.0 yixiangzhan.cn
@@ -50972,6 +50995,7 @@
 0.0.0.0 you-cant-win.com
 0.0.0.0 you6ka.cn
 0.0.0.0 you88.vin
+0.0.0.0 youa2qudo.icu
 0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youboranqs02.com
@@ -52100,6 +52124,7 @@
 0.0.0.0 zzkj.biz
 0.0.0.0 zzkoubei.com
 0.0.0.0 zzmmkj.com
+0.0.0.0 zzpwwbf.cn
 0.0.0.0 zzpzero.com
 0.0.0.0 zzqqhb.com
 0.0.0.0 zzsdjq.com
