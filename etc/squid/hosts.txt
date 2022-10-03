@@ -55,6 +55,7 @@
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 059e025e7484.com
 0.0.0.0 05ee3a24ed11df058c8.com
+0.0.0.0 05fc725q.cn
 0.0.0.0 0653216.com
 0.0.0.0 06789.xyz
 0.0.0.0 06a2b66f11.com
@@ -1148,6 +1149,7 @@
 0.0.0.0 5pi13h3q.de
 0.0.0.0 5pub.com
 0.0.0.0 5qg9ibt1a6.com
+0.0.0.0 5s34y422.cn
 0.0.0.0 5shbet.com
 0.0.0.0 5t15.cn
 0.0.0.0 5toft8or7on8tt.com
@@ -2137,6 +2139,7 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
+0.0.0.0 aaxwall.com
 0.0.0.0 aaz1.xyz
 0.0.0.0 ab-log.datahou.se
 0.0.0.0 ab.blogs.es
@@ -2454,6 +2457,7 @@
 0.0.0.0 acsbapp.com
 0.0.0.0 acscdn.com
 0.0.0.0 acstat.com
+0.0.0.0 act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 0.0.0.0 act.ameba.jp
 0.0.0.0 acticantly.club
 0.0.0.0 actiflex.org
@@ -3344,6 +3348,7 @@
 0.0.0.0 aditizanna.com
 0.0.0.0 aditize.com
 0.0.0.0 adizio.com
+0.0.0.0 adjaco.com
 0.0.0.0 adjal.com
 0.0.0.0 adjb.5nd.com
 0.0.0.0 adjector.com
@@ -7121,7 +7126,6 @@
 0.0.0.0 applequan.com
 0.0.0.0 applescringe.com
 0.0.0.0 applicationgrabb.net
-0.0.0.0 applicationinsights.azure.com
 0.0.0.0 applifier.com
 0.0.0.0 applipromotion.com
 0.0.0.0 apploading.mobi
@@ -17709,6 +17713,7 @@
 0.0.0.0 enginenetwork.com
 0.0.0.0 engineseeker.com
 0.0.0.0 englandhogmane.com
+0.0.0.0 englandrelent.com
 0.0.0.0 englerbraw.com
 0.0.0.0 englingedrxa.club
 0.0.0.0 englishheadlight.com
@@ -21102,6 +21107,7 @@
 0.0.0.0 gnhunbia.rest
 0.0.0.0 gniunbic.rest
 0.0.0.0 gnjunbio.rest
+0.0.0.0 gnkpvpjjeyrhx.com
 0.0.0.0 gnkunbie.rest
 0.0.0.0 gnlunbii.rest
 0.0.0.0 gnmunbir.rest
@@ -21721,6 +21727,7 @@
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gtsads.com
 0.0.0.0 gttcsifqbmqjiy.com
+0.0.0.0 gtxqkkxlvqmiysl.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 guaas.com
 0.0.0.0 guabmobil.site
@@ -21969,6 +21976,7 @@
 0.0.0.0 h728.cn
 0.0.0.0 h78xb.pw
 0.0.0.0 h7fy4ur0in94g016.in.net
+0.0.0.0 h8brccv4zf5h.com
 0.0.0.0 h8vzwpv.com
 0.0.0.0 haa66855mo.club
 0.0.0.0 haaseavy.one
@@ -25559,6 +25567,7 @@
 0.0.0.0 joopaish.com
 0.0.0.0 jooptibi.net
 0.0.0.0 joorijet.net
+0.0.0.0 joowkijejv.com
 0.0.0.0 jopd.ru
 0.0.0.0 jorbfstarn.com
 0.0.0.0 joredi.com
@@ -26388,6 +26397,7 @@
 0.0.0.0 kindleloving.com
 0.0.0.0 kindlyfeebleremembered.com
 0.0.0.0 kindnessmarshalping.com
+0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kinfly.ru
 0.0.0.0 king3rsc7ol9e3ge.com
 0.0.0.0 king66.vin
@@ -26739,6 +26749,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 krysogsid.uno
 0.0.0.0 krytilka.ru
+0.0.0.0 ks9f.top
 0.0.0.0 ksadrewrty.com
 0.0.0.0 ksaggspp.xyz
 0.0.0.0 ksdayhtl.xyz
@@ -28049,6 +28060,7 @@
 0.0.0.0 lockingadmitted.com
 0.0.0.0 lockview.cn
 0.0.0.0 loclog.cn
+0.0.0.0 locold.com
 0.0.0.0 locomotiveconvenientriddle.com
 0.0.0.0 locotrack.net
 0.0.0.0 locpub.com
@@ -28565,6 +28577,7 @@
 0.0.0.0 lsjne.com
 0.0.0.0 lsjvmvkowneqogu.com
 0.0.0.0 lslld.xyz
+0.0.0.0 lsnoownml.fun
 0.0.0.0 lspzhtvstux.com
 0.0.0.0 lsxc.shop
 0.0.0.0 lsxdcdnrrco.com
@@ -28918,6 +28931,7 @@
 0.0.0.0 machogodynamis.com
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 macouwou.com
+0.0.0.0 maculedfalls.com
 0.0.0.0 mad-adz.com
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madadsmedia.com
@@ -29866,7 +29880,6 @@
 0.0.0.0 metrica-yandex.com
 0.0.0.0 metricfast.com
 0.0.0.0 metricode.com
-0.0.0.0 metricool.com
 0.0.0.0 metrics*.fitanalytics.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
@@ -30519,6 +30532,7 @@
 0.0.0.0 moedgapers.com
 0.0.0.0 moekyepkd.com
 0.0.0.0 moengage.com
+0.0.0.0 moes3quba.cyou
 0.0.0.0 moevideo.biz
 0.0.0.0 moffreelance.biz
 0.0.0.0 mofox.com
@@ -31737,6 +31751,7 @@
 0.0.0.0 newhdfilms.ru
 0.0.0.0 newhigee.net
 0.0.0.0 newideasdaily.com
+0.0.0.0 newir3ltyug79aiman.com
 0.0.0.0 newjulads.com
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 newlog.overwolf.com
@@ -32564,6 +32579,7 @@
 0.0.0.0 nzydzsw.com
 0.0.0.0 o-oo.ooo
 0.0.0.0 o-s.io
+0.0.0.0 o.027eat.com
 0.0.0.0 o.60sk.ru
 0.0.0.0 o.jy135.com
 0.0.0.0 o.phb123.com
@@ -36785,6 +36801,7 @@
 0.0.0.0 qinger.name
 0.0.0.0 qingjiedi.com
 0.0.0.0 qingrektmkt.com
+0.0.0.0 qingshu.live
 0.0.0.0 qingtian.love
 0.0.0.0 qingyanmjg.com
 0.0.0.0 qingzhencai.net
@@ -37159,6 +37176,7 @@
 0.0.0.0 qzlkqsl.cn
 0.0.0.0 qzlog.com
 0.0.0.0 qzqyw.cn
+0.0.0.0 qzthueo.cn
 0.0.0.0 qzvlbjatsgzgn.com
 0.0.0.0 qzxmtyy.com
 0.0.0.0 qzy123.ink
@@ -39426,6 +39444,7 @@
 0.0.0.0 sb-money.ru
 0.0.0.0 sb4you1.com
 0.0.0.0 sb6688.xyz
+0.0.0.0 sb89347.com
 0.0.0.0 sba.about.co.kr
 0.0.0.0 sbaffiliates.com
 0.0.0.0 sbajozhyozjky.com
@@ -42354,6 +42373,7 @@
 0.0.0.0 stats.varrando.com
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.viddler.com
+0.0.0.0 stats.video.globo.com
 0.0.0.0 stats.video.search.yahoo.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.videoseyred.in
@@ -42664,6 +42684,7 @@
 0.0.0.0 strivefoetus.com
 0.0.0.0 strivenramplor.com
 0.0.0.0 strivesidewalk.com
+0.0.0.0 strnguz.cn
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 stronglygathering.com
 0.0.0.0 strossle.com
@@ -45320,6 +45341,7 @@
 0.0.0.0 tracker.marinsoftware.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.mca-analytics.com
+0.0.0.0 tracker.metricool.com
 0.0.0.0 tracker.mmdlv.it
 0.0.0.0 tracker.mrpfd.com
 0.0.0.0 tracker.mtrtb.com
@@ -49934,6 +49956,7 @@
 0.0.0.0 wy213.com
 0.0.0.0 wy520.love
 0.0.0.0 wycji.top
+0.0.0.0 wydnbnni.xyz
 0.0.0.0 wydong.top
 0.0.0.0 wydoxlhdsojndw.com
 0.0.0.0 wydpbibdqwvbr.com
@@ -50081,6 +50104,7 @@
 0.0.0.0 xc.mydrivers.com
 0.0.0.0 xc7789.top
 0.0.0.0 xcads.cn
+0.0.0.0 xcaqa.xyz
 0.0.0.0 xcdzsw.com
 0.0.0.0 xcec.ru
 0.0.0.0 xcelltech.com
