@@ -2,7 +2,7 @@
 #----- source -----
 #Title: 280blocker adblock filter
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-#Last modified: 08 Oct 2022 18:30 UTC
+#Last modified: 09 Oct 2022 18:30 UTC
 #Expires: 72 hours
 #Homepage: https://280blocker.net
 #----- source -----
@@ -20,14 +20,14 @@
 #----- source -----
 #Title: 亀フィルタ（ウイルスサイトブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-#Last modified: 08 Oct 2022 18:30 UTC
+#Last modified: 09 Oct 2022 18:30 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 #----- source -----
 #Title: ことりフィルタ（SNSボタンブロック）
 #Url: /home/ubuntu/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-#Last modified: 08 Oct 2022 18:30 UTC
+#Last modified: 09 Oct 2022 18:30 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
@@ -420,6 +420,8 @@ TAG:^ab2p-block-dnt$
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
 # ||piet2eix3l.com^ (kame_filter.txt: 98)
 .piet2eix3l.com
+# ||srollpxens.cyou^ (kame_filter.txt: 93)
+.srollpxens.cyou
 # ||ngfnfg.bfdsbsfb.ind.in^ (kame_filter.txt: 92)
 .ngfnfg.bfdsbsfb.ind.in
 # ||mizuhobqnk-jp.life^ (kame_filter.txt: 91)
@@ -5833,6 +5835,8 @@ TAG:^ab2p-block-elem$
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
 # ||piet2eix3l.com^ (kame_filter.txt: 98)
 .piet2eix3l.com
+# ||srollpxens.cyou^ (kame_filter.txt: 93)
+.srollpxens.cyou
 # ||ngfnfg.bfdsbsfb.ind.in^ (kame_filter.txt: 92)
 .ngfnfg.bfdsbsfb.ind.in
 # ||mizuhobqnk-jp.life^ (kame_filter.txt: 91)
@@ -11235,6 +11239,8 @@ TAG:^ab2p-block-request$
 .www.noao.edu/image_gallery/images/d7/cygloop\.jpg
 # ||piet2eix3l.com^ (kame_filter.txt: 98)
 .piet2eix3l.com
+# ||srollpxens.cyou^ (kame_filter.txt: 93)
+.srollpxens.cyou
 # ||ngfnfg.bfdsbsfb.ind.in^ (kame_filter.txt: 92)
 .ngfnfg.bfdsbsfb.ind.in
 # ||mizuhobqnk-jp.life^ (kame_filter.txt: 91)
