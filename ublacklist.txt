@@ -9747,6 +9747,7 @@
 *://*.modulosnc.it/*
 *://*.monicagargiulo.it/*
 *://*.montanadance.ru/*
+*://*.morioh.com/*
 *://*.mosedu.ru/*
 *://*.musiscuola.it/*
 *://*.naplevat.ru/*
