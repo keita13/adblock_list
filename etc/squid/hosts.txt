@@ -4536,6 +4536,7 @@
 0.0.0.0 adserwer.xwords.pl
 0.0.0.0 adsessionserv.com
 0.0.0.0 adsettings.com
+0.0.0.0 adsexse.com
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
@@ -8972,6 +8973,7 @@
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacon.searchspring.io
+0.0.0.0 beacon.sftoaa.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 beacon.sojern.com
@@ -11311,6 +11313,7 @@
 0.0.0.0 ccmiocw.com
 0.0.0.0 ccn08sth.de
 0.0.0.0 ccpa.psg.nexstardigital.net
+0.0.0.0 ccpufcj.cn
 0.0.0.0 ccpvmjh.cn
 0.0.0.0 ccrgxye.cn
 0.0.0.0 ccrtvi.com
@@ -14948,6 +14951,7 @@
 0.0.0.0 d8r7.xyz
 0.0.0.0 d90z5o386dhs7.cloudfront.net
 0.0.0.0 d91i6bsb0ef59.cloudfront.net
+0.0.0.0 d94gz.cn
 0.0.0.0 d95d1c685a.6c142df43a.com
 0.0.0.0 d95d7d7060.com
 0.0.0.0 d985a9d2clzq5.cloudfront.net
@@ -16418,6 +16422,7 @@
 0.0.0.0 domankeyan.com
 0.0.0.0 dombnrs.com
 0.0.0.0 domccktop.com
+0.0.0.0 domddcut.cyou
 0.0.0.0 domdex.com
 0.0.0.0 domeleco.top
 0.0.0.0 domentino.ru
@@ -21910,6 +21915,7 @@
 0.0.0.0 guansenff.cn
 0.0.0.0 guanxingyule.com
 0.0.0.0 guanyou.ltd
+0.0.0.0 guarantee-cdn.com
 0.0.0.0 guaranteelamp.com
 0.0.0.0 guarda4k.online
 0.0.0.0 guardapl.com
@@ -26408,6 +26414,7 @@
 0.0.0.0 kejebbirmaxmwhv.xyz
 0.0.0.0 kejia.pw
 0.0.0.0 kejiadoor.cn
+0.0.0.0 kejlfxh.cn
 0.0.0.0 kellyfight.com
 0.0.0.0 kelopronto.com
 0.0.0.0 kelpmetorealiu.xyz
@@ -29626,6 +29633,7 @@
 0.0.0.0 mbx88.com
 0.0.0.0 mbxsku.cn
 0.0.0.0 mbxt.net
+0.0.0.0 mbxw.club
 0.0.0.0 mbzgogo.xyz
 0.0.0.0 mbzl-pro.xyz
 0.0.0.0 mc-ya.ru
@@ -31416,6 +31424,7 @@
 0.0.0.0 mygoodlives.com
 0.0.0.0 mygqhvz.cn
 0.0.0.0 mygtmn.com
+0.0.0.0 myhao.club
 0.0.0.0 myhvmudzmrbl.com
 0.0.0.0 myhypestories.com
 0.0.0.0 myiads.com
@@ -32615,6 +32624,7 @@
 0.0.0.0 nshynvupjnm.com
 0.0.0.0 nsionscorm.com
 0.0.0.0 nsmartad.com
+0.0.0.0 nsnignsc.xyz
 0.0.0.0 nsnoownmc.fun
 0.0.0.0 nsontrackso.online
 0.0.0.0 nspapi.aiservice.vn
@@ -38525,6 +38535,7 @@
 0.0.0.0 rggtysyp.com
 0.0.0.0 rgjeow3.com
 0.0.0.0 rglvbpi.cn
+0.0.0.0 rgnlaigz.fun
 0.0.0.0 rgpvgoej.com
 0.0.0.0 rgqxbf.com
 0.0.0.0 rgsuixxwncmkj.com
@@ -40866,6 +40877,7 @@
 0.0.0.0 simajl.top
 0.0.0.0 simaoer.com
 0.0.0.0 simastudio.cn
+0.0.0.0 simi345.me
 0.0.0.0 simility.com
 0.0.0.0 similm.me
 0.0.0.0 similt.com
@@ -47012,6 +47024,7 @@
 0.0.0.0 uglyp.club
 0.0.0.0 ugmfvqsu.ru
 0.0.0.0 ugmvoys.cn
+0.0.0.0 ugnlaigt.fun
 0.0.0.0 ugonwcxwo.com
 0.0.0.0 ugroocuw.net
 0.0.0.0 uguhpfo.cn
