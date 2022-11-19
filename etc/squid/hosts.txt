@@ -34,6 +34,7 @@
 0.0.0.0 033dfgh.com
 0.0.0.0 0346420d60.com
 0.0.0.0 0351dvd.cn
+0.0.0.0 035caop.com
 0.0.0.0 0371app.wang
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -51,6 +52,7 @@
 0.0.0.0 04zl.cn
 0.0.0.0 050y9lhe8p.com
 0.0.0.0 052tung.com
+0.0.0.0 053tyfg.com
 0.0.0.0 0577.la
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 059e025e7484.com
@@ -3942,6 +3944,7 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-union.jd.com
 0.0.0.0 ads-wordego.azureedge.net
+0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.123net.jp
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.211.ru
@@ -10514,6 +10517,7 @@
 0.0.0.0 bjykkrmhwmlwdic.com
 0.0.0.0 bjyobunjfplv.com
 0.0.0.0 bjytdqwx.com
+0.0.0.0 bjzb.xyz
 0.0.0.0 bjzcbx.com
 0.0.0.0 bjzshy.cn
 0.0.0.0 bk.goodline.info
@@ -27871,6 +27875,7 @@
 0.0.0.0 kjbwuq.cn
 0.0.0.0 kjbyuguv12.com
 0.0.0.0 kjcnve.xyz
+0.0.0.0 kjcvw.xyz
 0.0.0.0 kjfoqi.cn
 0.0.0.0 kjgen.com
 0.0.0.0 kjhzwvq.cn
@@ -32285,6 +32290,7 @@
 0.0.0.0 mqjcdno.com
 0.0.0.0 mqjeut5.com
 0.0.0.0 mqmh.uihdlx.xyz
+0.0.0.0 mqnggnsx.fun
 0.0.0.0 mqpazioiyt.com
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mqqrcdxbnog.com
@@ -33463,6 +33469,7 @@
 0.0.0.0 nihxigmalrkfov.com
 0.0.0.0 niik9494.top
 0.0.0.0 nijj990.xyz
+0.0.0.0 nijnqwem.xyz
 0.0.0.0 nik.io
 0.0.0.0 nikkiexxxads.com
 0.0.0.0 nikugrawe.pro
@@ -34455,6 +34462,7 @@
 0.0.0.0 oisafnik.space
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 oiurlcdmlsb.com
+0.0.0.0 oivgqnt.cn
 0.0.0.0 oix.com
 0.0.0.0 oix.phorm.com
 0.0.0.0 oiya.ru
@@ -38366,6 +38374,7 @@
 0.0.0.0 qianchengwenhua.xyz
 0.0.0.0 qianduoduo.fit
 0.0.0.0 qianggou8.top
+0.0.0.0 qiangqi.shop
 0.0.0.0 qiangren.biz
 0.0.0.0 qiangzai.work
 0.0.0.0 qianhua.co
@@ -38729,6 +38738,7 @@
 0.0.0.0 qvuehosxuzhagv.com
 0.0.0.0 qvvoom.com
 0.0.0.0 qvylkvlpjwz.com
+0.0.0.0 qvyzdox.cn
 0.0.0.0 qwa3ldhn9u0t.com
 0.0.0.0 qwadakesy.cyou
 0.0.0.0 qwe.qrrgv.space
@@ -43426,6 +43436,7 @@
 0.0.0.0 spoods.io
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 spookyexchange.com
+0.0.0.0 spookyskate.com
 0.0.0.0 spookysleet.com
 0.0.0.0 spookyslope.com
 0.0.0.0 spoonscript.com
@@ -47835,6 +47846,7 @@
 0.0.0.0 troubleblabacting.com
 0.0.0.0 troubledtail.com
 0.0.0.0 trovus.co.uk
+0.0.0.0 trqhf.xyz
 0.0.0.0 trs.cn
 0.0.0.0 trstplse.com
 0.0.0.0 trtjigpsscmv9epe10.com
@@ -48395,6 +48407,7 @@
 0.0.0.0 udc.msn.com
 0.0.0.0 udeoenm.cn
 0.0.0.0 udeurqwoavk.com
+0.0.0.0 udgrbq.malwarebytes.com
 0.0.0.0 udiab1.jianshu.com
 0.0.0.0 udinugoo.com
 0.0.0.0 udiy.club
@@ -49172,6 +49185,7 @@
 0.0.0.0 uxxfierq.xyz
 0.0.0.0 uyaly.com
 0.0.0.0 uyechyymr.com
+0.0.0.0 uyjhbawd.xyz
 0.0.0.0 uymjbn.com
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uynpzvdvcnpd.com
@@ -49573,6 +49587,7 @@
 0.0.0.0 vg4u8rvq65t6.com
 0.0.0.0 vgfutxwgq.com
 0.0.0.0 vggdaiesp.com
+0.0.0.0 vggzftw.cn
 0.0.0.0 vgimer.cn
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgowyarau.com
@@ -50167,6 +50182,7 @@
 0.0.0.0 vq1qi.pw
 0.0.0.0 vq7736.com
 0.0.0.0 vqd51a5.biz.ua
+0.0.0.0 vqdjcy.com
 0.0.0.0 vqfqo.us
 0.0.0.0 vqieahnhdle.com
 0.0.0.0 vqkfkmexle.com
@@ -53957,6 +53973,7 @@
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zjqhyx.cn
 0.0.0.0 zjsdsports.cn
+0.0.0.0 zjttaqx.cn
 0.0.0.0 zjws.xyz
 0.0.0.0 zjwwhcdop.com
 0.0.0.0 zjzs.club
