@@ -1,0 +1,2937 @@
+! Title: [更新終了/Deprecated] Yuki's uBlock Japanese filters - Annoyances
+! Expires: 30 days
+! Homepage: https://github.com/Yuki2718/adblock
+! Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+! Version: 20221104
+
+! Temporal
+/\.cloudfront.net\/202\d{5}\/(?:bonuscoin-01|sukima_susume72890_\d|202\d{5}_haruden_[_0-9]+)\.(?:jpg|png)$/$image,3p,domain=sukima.me
+sukima.me##.store-promotion-footer-box
+||asahi.com/plasma/assets/bnr_vote02-article_980x60@2x_
+||azby.fmworld.net/misc_top/images/bnr_popup_fmvmypage.jpg
+azby.fmworld.net##.adTravelBnr
+||biz.moneyforward.com/biz-pay/basic/wp-content/uploads/2022/06/post_
+||bridge-salon.jp/toushi/wp-content/uploads/2022/04/22Spring-PBS-banner.mp4
+bridge-salon.jp###custom_html-5
+||chibanippo.co.jp/sites/all/themes/member/img/bnr_hsb2021spring.png
+||comic.pixiv.net/static/images/2021_campaign_modal.jpg
+comic.pixiv.net##.absolute.z-100.inset-0.bg-\[rgba\(0\,0\,0\,0\.4\)\].h-full.w-full
+comic.pixiv.net##.fixed.my-0.mx-auto.rounded-8 > div > a[href$="/1108"]:upward(2)
+||itmedia.co.jp/pcuser/images/htmlgen/articleHeader_images_2_1529891570.png
+||point.rakuten.co.jp/img/top/img_invest_over5million.png
+point.rakuten.co.jp##.modal-invest-over5million
+||store.world.co.jp/res/p/common/img/top/bnr/30w/pop200721_sale.
+store.world.co.jp##.mod_message
+||techacademy.jp/wp-content/uploads/2022/01/13162935/0b86f2f6e01de9dfa67e093e0918962a.png$image,1p
+||webike.net/sys_images/caimg/20210813_redbaron_for_r.jpg
+||yimg.jp/images/premium/takarabako/bnr/$domain=www.yahoo.co.jp
+!#if env_mobile
+blog.livedoor.com##body[data-page="top"] > a[href="https://blog.livedoor.com/tag/"]
+instagram.com##.HcJZg.L-sTb._4EzTm.eGOV_.rBNOH.Igw0E.qF0y9
+!#endif
+||daily-tohoku.news/wp-content/themes/understrap-child-dtnews/images/banner/seifu/super.jpg
+||isenp.co.jp/images/naikakuhu_bn.jpg
+||yama.minato-yamaguchi.co.jp/images/0802_webpc.jpg
+
+! ---------- Notification ----------
+-push-notification/
+-push-notifications/$script
+.club/rp/rp.php?site=
+/?smpushprofile=load_frontend_push_js
+/OneSignalSDK-
+/OneSignalSDKUpdaterWorker.
+/OneSignalSDKWorker.
+! Allow redundancy with Sabre
+/amp-user-notification-
+/amp-web-push-
+/gm-push-notification-
+/imports/notifications.
+/inpl.webpush.
+/jquery-notification.
+/jquery_notification_v
+/myPushDc.
+/notification-ext.
+/onesignal-free-web-push-notifications/*
+/onesignal.js
+/plugins/corona-virus-cases-tracker/*
+/plugins/notificationx
+/plugins/wp-notification-bars/*
+/plugins/wpfront-notification-bar/*
+/pushJs/*$3p,script
+/push-notification-
+/push-notification.
+/push-notifications.$~css
+/push-notifications/*
+/push-sw.
+/push-wrap.js
+/push_app.js
+/push_notification.
+/push_notification_
+/push_notification/*
+/pushes/notification.
+/pushnotification.
+/pushtoast-
+/pushwoosh-service-worker.js
+/pushy-ver.js
+/site-notification-desk.
+/urban-airship-
+/wdt_notifyjson.
+/web-push.
+/web-push/init.
+/webPushNotifications.
+/webpush.
+/webpush/*
+/webpushsdk/*$script
+/webnotification.$badfilter
+/webnotification.$script
+/wp-content/plugins/push-notification/*
+/wp-content/plugins/shogakukan-push-service/*
+||amazonaws.com/cdn.aimtell.com/
+||api-push.com^$3p
+||arc.io^$3p
+||aswpsdkeu.com^$3p
+||bildirt.com^$3p
+||braze.com^$3p
+||browserpush.net^$3p
+||cdn-sitegainer.com^$3p
+||cdn.usefulcontentsites.com/js/push/subscribe.js
+||checke.biz^$3p
+||cleverpush.com^$3p
+||clicktimes.bid^
+||confirmit.com^$3p
+||cr-eam.com^$3p
+||device-api.indigitall.com^$3p
+||digipush.io^$3p
+||ecp.heydouga.com/common/notification/
+||esputnik.com^$3p
+||event.notifier.rakuten.co.jp^
+||feedify.net^$3p
+||fkondate.com^$3p
+||foxpush.net^$3p
+||gravitec.net^$3p
+||indiatimes.com/pn/
+||ismcdn.jp^*/webpush_dialog.$3p
+||jeeng.com^$3p
+||js.pusher.com^$3p
+||moengage.com^$3p
+||mp3vizor.com^$3p
+||nativesubscribe.pro^
+||najva.com^$3p
+||noticious.jp^$3p
+||notification.tubecup.net^
+||notifpush.com^$3p
+||notify.solutions^$3p
+||notix.io^$3p
+||onepush.app^$3p
+||onesignal.com^$3p
+||ozmall.co.jp/scripts/js/user-notification.js
+||provesrc.com^$3p
+||pt.appirits.com^$3p
+||push-free.com^$3p
+||push.asahiinteractive.com^$3p
+||push.daksham.in^$3p
+||push.estart.jp^$3p
+||push.getbeamer.com^
+||push.reamaze.com^
+||pushalert.co^$3p
+||pushcode.jp^$3p
+||pushbullet.com^$3p
+||pushcrew.com^$3p
+||pushengage.com^$3p
+||pusherapp.com^$3p
+||pushnami.com^$3p
+||pushnotifications.click^
+||pushpad.xyz^$3p
+||pushpanda.io^$3p
+||pushpushgo.com^$3p
+||pushwoosh.com^$3p
+||realpush.media^$3p
+||rocket-push.com^$3p
+||rssing.com/rpcg.js
+||sdk.push7.jp^$3p,domain=~secret2.cygames.co.jp
+||sendpulse.com^$3p
+||sckxppzdm.com^$3p
+||shogakukan-push-service.net^$3p
+||subscribers.com^$3p
+||truenat.bid^$3p
+||truepush.com^$3p
+||urbanairship.com^
+||webpush.jp^$3p
+||webpushonline.com^$3p
+||webpushr.com^$3p
+||webpushs.com^$3p
+||wonderpush.com^$3p
+||worldofmods.com/wompush-init.js
+||wpushsdk.com^$3p
+||xedo.me^$3p
+
+/firebase-messaging.js$domain=home.kingsoft.jp|s.akiba-souken.com|ranking.goo.ne.jp
+/notification.js$domain=a2zapk.com|rt.com
+||3ple.jp/js/notification.
+||4travel.jp/ssl_api/user/notifications
+||akamaized.net/js/n/notifications-$domain=investing.com
+||alicdn.com/code/npm/@ali/gmod-poplayer-webpush-subscribe/$domain=aliexpress.*
+||alicdn.com/g/gfe-ug/web-push-client2/
+||api-iam.intercom.io/messenger/
+||assets.alicdn.com/*/nano-webpush-ui-
+||cdnen.rt.com/static/js/pushes/
+||contents.froggy.money/wp-json/api/v1/notifications/
+||dogma-annex.com/api/noty/
+||eximg.jp/exblog/user2/js/exblog-push.
+||fspark-ap.com/js/sw.js
+||fileone.tv/js/notify.
+||fujossy.jp//assets/registerServiceWorker-
+||g.alicdn.com/gfe-ug/web-push-client*/*/iframeMessage.js
+||glassdoor.com/getSiteNotificationsAjax.
+||i.imgur.com/E166mgm.
+imgur.com##.Transformation-tooltip--hovering
+||initial.inc/api/users/notification|
+||k-img.com/script/push.js
+||lite-ra.os.tc/webPushIframe
+||livefans.jp/js/push/
+||matcha-jp.com/renewal/js/fcm-push-
+||matcha-jp.com/renewal/js/push.
+||mempf.yahoo.co.jp/offer?position=mhd_premium_pc,$domain=news.yahoo.co.jp
+||news.biglobe.ne.jp/js/push/
+||nicoblomaga.jp/material/31/notinf180.gif$domain=kojikisokuhou.com
+kojikisokuhou.com##.notification
+||nicoblomaga.jp/material/31/tatefication.png$domain=kojikisokuhou.com
+||nipponrentacar.co.jp/notification/
+||nishinippon.co.jp/serviceworker.js
+||oakley.com/utility/components/push-notification/
+||pathee.com/mapi/data/notification|
+||redditstatic.com/*/PushNotifications.
+||s.m3img.com/atlas/1.0.0/javascripts/atlas.webpush.
+||script1.kakaku.k-img.com/script/push.
+||shikiho.jp/notice/
+||shukatsu-mirai.com/notifications.
+||thetennisdaily.jp/assets/js/push-modal.js
+||tinami.com/js/jquery/tipsy/notify.
+||townwork.net/js/register_sw.js
+||tr.twipple.jp/common/js/webpush_
+||tv-asahi.co.jp/commons/1/json/notifications.
+||udemy.com/api-2.0/notices/
+||ultimedia.com/js/common/notification.js
+||viafoura.net/push_handlers.js
+||wondershare.jp/web-notification/
+||xgoo.jp/top2018/public/r_js/push/
+goo.ne.jp##.webpush
+||zuuonline.com/assets/js/overlay/notification
+
+ab-road.net##.headerBottom-right > .message
+abema.tv##.com-m-Notification
+adult.contents.fc2.com##.dealArticleNotice
+baito.mynavi.jp##.alertWrap
+bible-cafe.com##.news-ticker
+bilibili.com##.login-tip
+cfg.smt.docomo.ne.jp##.hdr_bcpmes
+cookpad.com##.myfolder_button_wrapper > .notification
+dailymail.co.uk##+js(set, PushManager, undefined)
+drive.google.com##a[data-target=clientDownload]:upward(3)
+drive.google.com##body > [aria-labelledby$=".afp"]
+facebook.com###ssrb_stories_end ~ div[class] > div[class] > div[class*=" "] > div[class] > div[class] > div[style*="border-radius"][class]
+fandom.com###WikiaBar:has(> #WikiaBarWrapper > .wikia-bar-anon > .message[data-wikiabarcontent])
+japancred.com##.timeline-header
+kakaku.com###modalFrame
+kyodemo.net##.is-danger.message
+lmaga.jp##.header_headline
+macha795.com###notice-area-wrap
+manymv.com##.alert-secondary
+mildom.com##div[type="default"]:has( > div[type="default"] > div[class^="sc-"] > .web-push-permission-dialog__agree-btn)
+mrs.living.jp###floating-max
+ndtv.com###___ndtvpushdiv
+news.biglobe.ne.jp##.push-area-btn
+news.biglobe.ne.jp##.push-bx
+news.tbs.co.jp##.__tbsLive.md-notificationItem
+news.yahoo.co.jp##li.newsFeed_item > div:has-text(あなたの興味や関心)
+onayamifree.com###push_like
+pro.logitec.co.jp###industry
+qiita.com##.ac-CampaignLink
+reddit.com##+js(set, Notification.requestPermission, noopFunc)
+report.netcraft.com##.notification-sidebar
+search.brave.com##.callout.svelte-10n95qb
+search.rakuten.co.jp##.field > .dui-tooltip[data-tooltip-id=announcement-shipping]
+similarweb.com##.top-notification
+similarweb.com##+js(rc, top-notification-parent, body, stay)
+slashdot.org###announcement
+sony.jp##.s5-frontLogin__notificationItem--favorite
+thetimes.co.uk##.is-fixed.Tooltip--arrow-topLeft
+thetimes.co.uk##.js-channelsTooltip
+translate.google.co.jp,translate.google.com##.tlid-notification-container
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"] > div > div[style^="position: absolute;"] > div > div > div > div[role=button] > div[dir=auto] > span > span:has-text(通知をオンにする):upward(5)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[role=dialog] div[data-testid=sheetDialog] div[dir=auto] > span[dir] > span:has-text(通知をオンにする):upward(div[role=dialog])
+vegeness.com##.menu-item--msg
+w3q.jp###news-ticker-wrapper
+wowgame.jp###tubiaWalkthroughNotification
+www.dropbox.com#?#.callout-container--bottom-left:has(.callout-content-title:has-text(編集しますか？))
+www.dropbox.com#?#.maestro-secondary-sidebar:has(.continuous-onboarding__heading__text:has-text(新しいおすすめ))
+www.google.*##div[data-notice="SAFESEARCH"]
+www.nicovideo.jp##.MylistContainer-premiumBanner
+! デスクトップ通知
+www.pixiv.net##section[class^=sc-] > div[class^=sc-] > div[class^=sc-][style="opacity: 1;"]:last-child
+yahoo.co.jp###mhd_uhd_pc
+youtube-nocookie.com,youtube.com##.annotation.iv-branding
+youtube-nocookie.com,youtube.com##.ytp-cards-teaser
+youtube.com##.ytd-popup-container[style_="BUBBLE_HINT_STYLE_BLUE_TOOLTIP"] #details-text > yt-formatted-string:has-text(このチャンネルのメンバーシップを購入すると):upward(.ytd-popup-container)
+youtube.com##ytd-popup-container > .ytd-popup-container[style^="outline: currentcolor"][force-close-on-outside-click=true] #details-text:has-text(このチャンネルのメンバーになると):upward(.ytd-popup-container[force-close-on-outside-click=true])
+!#if env_mobile
+||cpcdn.com/assets/device/pro_recipe_service/bookmark/bookmark_android.png?$domain=cookpad.com
+cookpad.com##.js_bookmark
+id.smt.docomo.ne.jp##.header_posting
+!#endif
+
+! ---------- Popup/Banner ----------
+/bioep.js$script,domain=~tomshw.it
+/iziModal.min$domain=~9db.jp|~appvs.famitsu.com
+/jquery.magnific-popup.$domain=storia.takeshobo.co.jp
+/modal.js$domain=journal.botanistofficial.com
+/npm.micromodal-
+/plugins/blog-floating-button/*
+/plugins/optin-monster/*
+/plugins/optinmonster/*
+/plugins/scroll-triggered-boxes/*
+/plugins/wp-greet-box/*
+/plugins/wp-welcome-message/*
+/plugins/x-email-mailchimp/*
+/plugins/yikes-inc-easy-mailchimp-extender/*
+/plugins/yith-woocommerce-mailchimp-premium/*
+/wp-content/plugins/arscode-ninja-popups/*$~image
+/wp-content/plugins/chimpmatepro/*
+/wp-content/plugins/convertplug/*
+/wp-content/plugins/mailchimp
+/wp-content/plugins/popover/*
+/wp-content/plugins/popup-maker/*$~css
+||a.mailmunch.co/app/$script,3p
+||app.hubspot.com/conversations-visitor$3p
+||cdn-promote.weebly.com/js/dist/lead-form.js$3p
+||cdn.pn.vg^$3p
+||conel.jp/static/popup.js$3p
+||downloads.mailchimp.com/js/signup-forms/
+||dspfapi.durasite.net/recommend|
+||fanp.me^$3p
+||fspark-ap.com/ft/pvt$xhr
+||go.pardot.com^$frame,3p
+||hsleadflows.net^$3p
+||jsdelivr.net/npm/micromodal/
+||jspop.s3-website-ap-northeast-1.amazonaws.com/pu.js
+||lb.benchmarkemail.com^
+||ocnk-popup.net^$xhr
+||pop.unitedgate.co.jp^
+||reproio.com^
+||rtoaster.jp^$3p,domain=style.nikkei.com|takashimaya.co.jp
+! https://jbbs.shitaraba.net/bbs/read.cgi/internet/25463/1652115193/218
+!||s3.amazonaws.com/downloads.mailchimp.com/
+
+-banner-ad.$domain=any-video-converter.com
+any-video-converter.com##div[id^="banner_"]
+/images/banners/(?:bnr|popup)_.+/$image,1p,domain=naturum.co.jp
+/pum-site-scripts.$domain=dallasexpress.com
+/wp-content/plugins/popup-builder/*$domain=pikaichi.co.jp
+/wp-content/plugins/popups/*$domain=sellmarke.jp
+naturum.co.jp###js-popup
+||3ple.jp/3ple-static/3ple/pro/js/common/lib/popup/
+||3rdspring.jp/pc_img/linebanner.
+||3rdspring.jp/pc_img/wingbanner2.
+||4900.co.jp/smarticle/wp-content/themes/smarticle/images/fixedfooter_
+4900.co.jp##.fixedFooter
+||5-fifth.com/user_data_sp/*_youtube_sp.jpg|
+5-fifth.com##.m-popup
+!5-fifth.com##div.l-main:style(position: static!important)
+||55truck.com^*/truck/bg_side_slide_pittari_
+||55truck.com^*/truck/img_banner_gyohan.
+55truck.com##.sideSlideInfo
+||a-port.asahi.com/top/image/new-start-btn.
+||accounts.google.com/gsi/iframe/select?*&ux_mode=popup&ui_mode=$domain=cambridge-news.co.uk|hindustantimes.com|indiatimes.com|investing.com|mirror.co.uk|twitter.com
+cambridge-news.co.uk,hindustantimes.com,indiatimes.com,investing.com,mirror.co.uk,twitter.com###credential_picker_container
+||adte.jp/rec/hdd/wp-content/uploads/2021/04/bnr_atMediaBtm03.jpg
+adte.jp##.afc_popup
+||adultgogo.net/images/top/ad/
+adultgogo.net###layer_board_area
+||ae01.alicdn.com/kf/Hfd0523d36f154a308935d8dafde1367fk/200x200.gif$domain=aliexpress.com
+aliexpress.com##.drogue-poplayer-modal
+||akamaized.net/campaign/member/*/modal_$domain=buyma.com
+buyma.com##.fab-cp-overlay
+||akamaized.net/images/5f7be96e0a11430040a141e6/original.svg$domain=a-saas.com
+a-saas.com##.sideBnr_row
+||akamaized.net/img/dpoint/pc/follow_btn_$domain=shift.games
+||amanoshokudo.jp/common/images/upload/*/coupon_pc_
+amanoshokudo.jp##.popupBnr
+||amazonaws.com/cdn.progrit-media.jp/production/file_resources/files/000/000/041/original.png$domain=progrit-media.jp
+progrit-media.jp##a[id^="clickfooter1"]
+||amazonaws.com/flipdesk/chat/images/1de113cc*$image,domain=flipdesk.jp
+flipdesk.jp###flipdesk-trigger
+||api.dokusho-ojikan.jp/dokusho-server/non_login_appeal
+||asia.nikkei.com/assets/paywall-widgets
+||asobo.com/opimg/banner-xl/
+asobo.com##.banner
+||autoketing.org/sdk-cdn/sales-pop/$domain=yuzen-official.com
+||azby.fmworld.net/support/images/img-batteryctrl.
+azby.fmworld.net###popupmsg
+||b-cafe.net/remodal/remodal.js
+||bauhutte.jp/wp-content/uploads/*/popup
+bauhutte.jp###js-popup
+||biz.ne.jp/common/img/matome_btm_banner.
+biz.ne.jp###lean_overlay
+||biz.nuro.jp/assets/images/column/modal_
+biz.nuro.jp##.is-fixed:style(overflow: auto !important;)
+biz.nuro.jp##.m-modal
+biz.nuro.jp##.m-modal-bg
+||blog.fancl.co.jp/common/img/bgmodal_
+blog.fancl.co.jp###modal-open
+blog.fancl.co.jp###modal-overlay
+||bodyarchi.com/images/top/floating.png
+bodyarchi.com###topfloatingBnr
+||book.dmm.co.jp/assets/js/src/popup_
+||bookoffonline.co.jp/files/inc_img/*-pc716_80.png
+bookoffonline.co.jp##.footer-banner-fixed-area
+||bookwalker.jp/bob/img/couponbanner2.
+bookwalker.jp##.side-deals-wrap
+||buy-ap.piano.io/checkout/offer/show?displayMode=*&showCloseButton=false*&url=https%3A%2F%2Fwww.kyobun.co.jp%2Fnews%$frame,domain=kyobun.co.jp
+||buy-ap.piano.io/checkout/template/cacheableShow?aid=*&displayMode=modal&$frame,domain=360life.shinyusha.co.jp|kyobun.co.jp
+360life.shinyusha.co.jp,kyobun.co.jp##.tp-backdrop
+360life.shinyusha.co.jp,kyobun.co.jp##.tp-modal
+360life.shinyusha.co.jp,kyobun.co.jp##.tp-modal-open:style(overflow: auto !important;height: auto !important;)
+||buy.tinypass.com/checkout/template/cacheableShow?*&displayMode=modal&widget=template$frame,domain=www.bbc.com
+bbc.com##.tp-backdrop
+bbc.com##.tp-modal
+bbc.com##body.tp-modal-open:style(overflow: auto !important;)
+||buy.tinypass.com/checkout/template/cacheableShow?aid=*&iframeId=offer_*&displayMode=modal&pianoIdUrl=https%3A%2F%2Fauth.forbes.com%2Fid%2F&widget=template$frame,domain=www.forbes.com
+forbes.com##.tp-backdrop
+forbes.com##.tp-modal > div.tp-iframe-wrapper > iframe[id^="offer"]:upward(2)
+forbes.com##.tp-modal-open:style(overflow: auto !important; height: auto !important;)
+||buy.tinypass.com/checkout/template/cacheableShow?*&iframeId=offer_*&displayMode=modal&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template$frame,3p,domain=thehindu.com
+thehindu.com##.tp-backdrop
+thehindu.com##.tp-modal-open:style(overflow: auto !important; height: auto !important;)
+thehindu.com##.tp-modal:has(> div.tp-iframe-wrapper > iframe[id^="offer_"][src*="/cacheableShow?aid="][src*="offerId=fakeOfferId"][src$="widget=template"])
+||ca-rent.jp/common/js/footer_top.
+||camerakaitori.jp/cms/wp-content/themes/camera_cms_v2/images/renewal/renewal_pc_bottom_btn_
+camerakaitori.jp###renewal_bottom_bnr
+||camp.trainocate.co.jp/wp-content/uploads/2022/01/400_400_syusei.jpg
+camp.trainocate.co.jp###blog_popup_banner
+||car-mo.jp/mag/wp-content/themes/carmomagazine_v2/img/common/pr.
+car-mo.jp##.pr-modal
+||career-adv.jp/cmn/img/REX_
+career-adv.jp##.is-on.fltLp_wrap
+||carnext.jp/img/index/index_img46.
+||carnext.jp/img/index/index_img47.
+||carnext.jp/img/index/index_img48.
+carnext.jp###fixed_footer
+||carservice.r10s.jp/img/top/floating-banner.png
+car.rakuten.co.jp##.portal-floating-banner
+||carsensor.net/usedcar/inquiry_mm_popup.
+||cdn.threadloom.com^$domain=forum.xda-developers.com
+||cloudfront.net/docomo/floating/$domain=hiroba.dpoint.docomo.ne.jp
+hiroba.dpoint.docomo.ne.jp###js-floating
+||cloudfront.net/docomo/modal/$domain=hiroba.dpoint.docomo.ne.jp
+hiroba.dpoint.docomo.ne.jp###gtm-promotionModal-overlay
+hiroba.dpoint.docomo.ne.jp###wrapper:style(position: static !important;)
+hiroba.dpoint.docomo.ne.jp##.js-modal-promotion-banner
+||cloudfront.net/image/buyer.png$domain=appbankstore.jp
+appbankstore.jp###amznpopup
+||cloudfront.net/img/dotimg/btn/aishipr_bnr_$domain=aiship.jp
+||cloudfront.net/rnw/common/bnr_sumulation_2.jpg/w/300/$domain=renoco.jp
+renoco.jp##.common_bnr_area_1
+||cloudfront.net/user_data/img/special/202216th/atete_600500a.jpg$domain=mangazenkan.com
+mangazenkan.com###promotion___BV_modal_outer_
+mangazenkan.com##.modal-open:style(overflow: auto !important;)
+||cloudfront.net/yomiuri/modal/$image,domain=yomipo.yomiuri.co.jp
+yomipo.yomiuri.co.jp###gtm-promotionModal-overlay
+yomipo.yomiuri.co.jp###wrapper[style^="position: fixed"]:style(position: static!important;)
+yomipo.yomiuri.co.jp##.js-modal-promotion-banner
+||cloudinary.com/vivivi/image/upload/*/spu_pc_sticky.png$domain=beauty.rakuten.co.jp
+beauty.rakuten.co.jp###pitari_sticky
+||cm.*.com/overlay/$frame,1p,domain=aberdeennews.com|alamogordonews.com|amarillo.com|amestrib.com|app.com|argusleader.com|augustachronicle.com|azcentral.com|battlecreekenquirer.com|beaconjournal.com|blueridgenow.com|buckscountycouriertimes.com|bucyrustelegraphforum.com|burlingtoncountytimes.com|burlingtonfreepress.com|caller.com|cantondailyledger.com|cantonrep.com|capecodtimes.com|cheboygannews.com|chieftain.com|chillicothegazette.com|cincinnati.com|citizen-times.com|cjonline.com|clarionledger.com|coloradoan.com|columbiadailyherald.com|columbiatribune.com|commercialappeal.com|coshoctontribune.com|courier-journal.com|courier-tribune.com|courierpostonline.com|courierpress.com|currentargus.com|daily-jeff.com|daily-times.com|dailyamerican.com|dailycomet.com|dailycommercial.com|dailyrecord.com|dailyworld.com|delawareonline.com|delmarvanow.com|demingheadlight.com|democratandchronicle.com|desertsun.com|desmoinesregister.com|detroitnews.com|devilslakejournal.com|dispatch.com|dnj.com|ellwoodcityledger.com|elpasotimes.com|enterprisenews.com|eveningsun.com|eveningtribune.com|examiner-enterprise.com|fayobserver.com|fdlreporter.com|floridatoday.com|fosters.com|freep.com|gadsdentimes.com|gainesville.com|galesburg.com|gastongazette.com|goerie.com|gosanangelo.com|goupstate.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|hattiesburgamerican.com|heraldmailmedia.com|heraldnews.com|heraldtimesonline.com|heraldtribune.com|hillsdale.net|hollandsentinel.com|houmatoday.com|htrnews.com|hutchnews.com|indeonline.com|independentmail.com|indystar.com|ithacajournal.com|jacksonsun.com|jacksonville.com|jconline.com|jdnews.com|journalstandard.com|jsonline.com|kinston.com|kitsapsun.com|knoxnews.com|lancastereaglegazette.com|lansingstatejournal.com|lcsun-news.com|ldnews.com|lenconnect.com|lincolncourier.com|livingstondaily.com|lohud.com|lubbockonline.com|mansfieldnewsjournal.com|marionstar.com|marshfieldnewsherald.com|mcdonoughvoice.com|metrowestdailynews.com|milforddailynews.com|monroenews.com|montgomeryadvertiser.com|mpnnow.com|mycentraljersey.com|naplesnews.com|newarkadvocate.com|newbernsj.com|newportri.com|news-journalonline.com|news-leader.com|news-press.com|newschief.com|newsherald.com|newsleader.com|njherald.com|northjersey.com|norwichbulletin.com|nwfdailynews.com|oakridger.com|ocala.com|oklahoman.com|onlineathens.com|pal-item.com|palmbeachdailynews.com|palmbeachpost.com|patriotledger.com|pekintimes.com|petoskeynews.com|pjstar.com|pnj.com|poconorecord.com|pontiacdailyleader.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|progress-index.com|providencejournal.com|publicopiniononline.com|record-courier.com|recordnet.com|recordonline.com|redding.com|registerguard.com|reporter-times.com|reporternews.com|rgj.com|rrstar.com|ruidosonews.com|salina.com|savannahnow.com|scsun-news.com|sctimes.com|seacoastonline.com|sheboyganpress.com|shelbystar.com|shreveporttimes.com|sj-r.com|sooeveningnews.com|southbendtribune.com|southcoasttoday.com|spencereveningworld.com|starcourier.com|stargazette.com|starnewsonline.com|statesman.com|statesmanjournal.com|staugustine.com|stevenspointjournal.com|sturgisjournal.com|swtimes.com|tallahassee.com|tauntongazette.com|tcpalm.com|telegram.com|tennessean.com|the-daily-record.com|the-dispatch.com|the-leader.com|the-review.com|theadvertiser.com|thecalifornian.com|thedailyjournal.com|thedailyreporter.com|thegardnernews.com|thegleaner.com|thehawkeye.com|theintell.com|theleafchronicle.com|theledger.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thepublicopinion.com|therecordherald.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetimesnews.com|thetowntalk.com|times-gazette.com|timesonline.com|timesrecordnews.com|timesreporter.com|timestelegram.com|tmnews.com|tricountyindependent.com|tuscaloosanews.com|usatoday.com|uticaod.com|vcstar.com|visaliatimesdelta.com|vvdailypress.com|wausaudailyherald.com|wisconsinrapidstribune.com|ydr.com|zanesvilletimesrecorder.com
+aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtimesonline.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,spencereveningworld.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com##.gnt_mol_oy
+aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtimesonline.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,spencereveningworld.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com##html.gnt__mo:style(overflow-y:scroll !important;pointer-events: unset !important;user-select: unset !important;margin-right: unset !important;)
+||commerce21.co.jp/files/user/images/bnr_
+commerce21.co.jp##.l-fixed-banner
+||cosme.net/images/point/pc/common/sevendays-login/
+point.cosme.net###sevendays-login
+||cosmekitchen.jp/info/wp-content/themes/ck_2014/img/popup_
+cosmekitchen.jp###layer_board_area
+||cpcdn.com/assets/recipe/interdevice_announce.$domain=cookpad.com
+cookpad.com###cboxOverlay
+cookpad.com###colorbox[tabindex="-1"][style="display: block; visibility: visible; top: 45px; left: 299px; position: fixed; width: 680px; height: 410px;"]
+||crocs.co.jp/on/demandware.static/*/IMG-EmailSignUp-Desktop-$image,1p
+crocs.co.jp###cboxContent.email-signup-lightbox
+crocs.co.jp###cboxOverlay
+||crosset.onward.co.jp/images/tape/
+crosset.onward.co.jp##.tape
+||curet.jp/wp-content/themes/bloom/img/popup_
+curet.jp##.l-footer-modal
+||cxense.com/cx.cce.js$domain=pen-online.jp
+||d-gogo.com/apps/automizely-messages/layers/popup-bars/$frame
+d-gogo.com###automizely_marketing_popup_bars
+||dejimachain.jp/owned/wp-content/uploads/*/popup-$image,1p
+dejimachain.jp,marketimes.jp##.boxzilla-center-container
+dejimachain.jp,marketimes.jp##.boxzilla-overlay
+||denken3.com/wp-content/themes/twentynineteen_denken3com_2020/images/img/common/btn_spec.png
+||diffchecker.com^*/download-trial.js|
+diffchecker.com##div.ReactModalPortal
+||digima-japan.com/_img/footer/bnr_txt_
+digima-japan.com###footer-form
+||digital-marketing.jp/wp-content/themes/digiken/img/Banner03-Web.png
+digital-marketing.jp##.popup
+digital-marketing.jp##body[style]:style(overflow-y: auto !important;)
+||digitaldiy.jp/wp-content/uploads/2022/01/1000.png
+digitaldiy.jp##div[class^="boxzilla-"]
+||digitalidentity.co.jp/blog/*/footer/bnr_$image,1p
+digitalidentity.co.jp##.bnr_floating01
+||dlsoft.dmm.co.jp/js/des/notice.
+||dmarket.docomo.ne.jp/myd/common/img/img_myd_common_tutorial.jpg?
+dmarket.docomo.ne.jp###modalOverlay
+dmarket.docomo.ne.jp###tutorialModal
+dmarket.docomo.ne.jp##.modalLock:style(overflow: auto !important;)
+||dmarket.docomo.ne.jp/top/00_portal/layout_b/img/welcome-overlay_short.jpg?
+dmarket.docomo.ne.jp###container[style^="position: fixed"]:style(position: static !important;)
+dmarket.docomo.ne.jp###firstArea.welcome-cover
+dmarket.docomo.ne.jp##.jqmOverlay
+||docomo.ne.jp/images_osp/common/bnr/bnr_mydocomo_01_
+docomo.ne.jp###btmBnr
+||douga.geo-online.co.jp/cmn/js/campaign_misc.
+||drip.ink/partials/footer_appeal_signup|
+||e-sogi.com/assets/img/fixedbox/operator_overlay.
+||e-sogi.com/assets/js/fixedbox.
+||e-sogi.com/css/fixedbox.
+e-sogi.com###banner_members
+||english.cheerup.jp/opArticlePlugin/images/v4/dearb_welcome_logo.
+english.cheerup.jp###modal-overlay
+english.cheerup.jp###welcome-modal-content
+||es-navi.com/include/index2/img/mobile-
+es-navi.com###mobileInformation
+||finebase.jp/img/*/fixed_btn.png
+finebase.jp###fixed_btn
+||finnishdesignshop.com/images/terms_and_info/
+finnishdesignshop.com###fdsNewsletterPrompt
+finnishdesignshop.com##body.modal-open:style(overflow:auto !important)
+||fireworktv.com/medias/*_CLASSY_3.mp4$media,domain=classy-online.jp
+classy-online.jp##fw-storyblock
+||flipdesk.jp/chat/scenario-pc-button-images/$domain=7716wedding.com|calpis-shop.jp|hanesbrandsinc.jp|suntory-kenko.com
+7716wedding.com,calpis-shop.jp,hanesbrandsinc.jp,suntory-kenko.com###flipdesk-trigger
+||fonepaw.com/pages/*/promotion_$image,1p
+fonepaw.com##.widget + div[class*="promotion"]
+! potentially useful
+!airweave.jp,comiru.jp,cuoca.com,ionic.co.jp,my-nature.jp,tomiz.com###flipdesk-trigger
+||foreignaffairs.com^*/newsletter-overlay$image
+foreignaffairs.com##.newsletter-backdrop
+foreignaffairs.com##body.no-scroll:style(overflow:auto !important)
+||fragrantica-japan.com/wp-content/uploads/*-300x300.$image,1p
+fragrantica-japan.com##.wppopups-whole
+||fujitsu-webmart.com^*/popup_$image,1p
+||fujitsu-webmart.com^*_popup$image,1p
+||fukuharaso-pu.com/pc/*_240x80.$image,1p
+fukuharaso-pu.com##.co-fixed-bnr
+||funtre-blog.com/wp/wp-content/uploads/2022/02/btn_insta_
+funtre-blog.com##div[class*="pupup"]
+||fuzoku.jp/assets/*_mypage_standard_1280x100.$image,1p
+fuzoku.jp###footerFixedBannerDiv
+||gaiax-socialmedialab.jp/wp-content/themes/original/images/single-popup
+gaiax-socialmedialab.jp##.service-popup
+||gaitame.com/g/js/afi.
+||gamewith.jp/assets/js/dist/jp/gamewith/search/gamewithapp/appealpopup.
+||garasu-rits.jp/wp-content/themes/garasu_2018/img/common/footer_
+garasu-rits.jp##.f_sticky
+||gazoo.com/pages/contents/include/common/js/gazoo-meilmaga-popup.
+||gemmed.ghc-j.com^*/pop_mail-$image,1p
+gemmed.ghc-j.com##.popmake-overlay
+||genius-web.co.jp/blog/wp/wp-content/themes/genius/images/bnr_examples
+genius-web.co.jp##.floating_bnr
+||gladiator.jp/defamation/wp-content/uploads/2019/01/pc-float2.png
+gladiator.jp##.pc-float
+||glassdoor.com/app/static/js/dist/gd-user-hardsell-overlay.bundle.js
+||glassdoor.com/garnish/static/js/gd-user-hardsell-overlay.bundle.js
+||gmotech.jp/semlabo/wp-content/uploads/2021/10/Banner01-mailmagazine_
+gmotech.jp###bannerParts
+||gpado.jp/static/img/top/bannerpop_lottery_gpado.png
+gpado.jp###lottery-popup
+||grcs.co.jp/hubfs/top/banner/top_srmt_wp_link.svg
+grcs.co.jp##.Bnr
+||hamee-consulting.co.jp/common/images/btn_
+hamee-consulting.co.jp###contact_bar
+||happycampus.co.jp/images/popup/ev_upload_pop.jpg
+happycampus.co.jp###UploadEventPopup
+||hayabusa.io/abema/channels/time/*/abema-news.w230.$domain=times.abema.tv
+times.abema.tv##.on-air
+||hbx.com/build/shop/images/hbx/subscription-dialog/
+hbx.com###headlessui-dialog-2:has(img[src*="/subscription-dialog/"])
+hbx.com##html[style^="overflow: hidden"]:style(overflow: auto !important;padding-right: unset !important;)
+||heros-ultraman.com/wp-content/uploads/*/bnr_footer_$image,1p
+heros-ultraman.com###sw-Bnr_Footer
+||hikkoshi.suumo.jp/images/float_frame/
+hikkoshi.suumo.jp###fixedBtEstimate
+||hikkoshizamurai.jp/img/stickyFooter-banner/
+hikkoshizamurai.jp###js-stickyFooter
+||hinative.com/assets/choice_question_with_device-
+hinative.com###fullscreen_register_recommend
+hinative.com##.mod_banner_register_float_pc
+hinative.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
+||hmv.co.jp/hybridimage/news/images/concert/hg_poup_
+||hmv.co.jp/news/images/free/campaign3/*_600x140.
+l-tike.com###popup
+||hoken-room.jp/asset/pet/pet_modal_
+hoken-room.jp###modal-content1
+||hotspotshield.com/imgs/modal/
+||hotspotshield.com/js/resources/js/hss-modal.js
+||idc-otsuka.jp/lp_soudankai/image/bn_side_cta.
+||iesaku.com/wp-content/uploads/2019/03/3bb99a84975f8587793f5800b6acac93.png$image,1p
+iesaku.com###footer_cta
+||ikimonomatometyou.com^$frame,1p
+||impress.co.jp/sites/all/libraries/AlertifyJS/build/alertify.
+||inbound-pro.com/assets/toastr-
+||industrial.panasonic.com/content/data/common/ss-files/banner-
+industrial.panasonic.com##.fix-menu.banner
+! Watch for FP
+!item.rakuten.co.jp##label[for=modal]
+jleague.jp###modal1
+jleague.jp##.i-amphtml-scroll-disabled:style(overflow-x: auto!important;overflow-y: auto!important;)
+||jpss.jp/images/top/img_directregistbox_
+jpss.jp###jpss2017r-mod-directregistbox
+||jsco-cpg.jp/enqueteform/
+jsco-cpg.jp##.popmake-overlay
+||jyukunavi.jp/img2/common/brand_detail/scr_cambnr_
+jyukunavi.jp##.js-modal-window.js-scroll-campbnr
+||kaitori.bikebros.co.jp/img/freetel_fixed.gif
+kaitori.bikebros.co.jp##.freetel
+||kaitoricollector.com/devlop/wp-content/themes/nhc001/common/images/top/footer_
+kaitoricollector.com##.footer_contact
+||keiyaku-watch.jp/dcms_media/image/side_dl.
+keiyaku-watch.jp##.display.side_dl
+||kidsna.com/advertisement/popup/
+kidsna.com###kidsna-job-banner-line
+||knowledgewing.com/kw/blog/img/bnr_mm.
+knowledgewing.com##.m_linkBox
+||kracie.co.jp/kampo/kampofullife/wp-content/themes/kampofullife/common/img/side/float_
+kracie.co.jp##.float_area
+||kuji.dmarket.docomo.ne.jp/assets/images/admin/floating_banner/
+kuji.dmarket.docomo.ne.jp###floating-banner
+||kurumaerabi.com/images/banner/
+||lec-jp.com/js/floating/
+lec-jp.com###floating
+||lecreuset.co.jp/on/demandware.static/-/Library-Sites-lecreuset-apac/*_popup_sp.$image,1p
+lecreuset.co.jp##.bg_onetime_popup
+||lezhin.com/v2/banners/app_front/images/
+lezhin.jp###root-modal
+||libs.platform.californiatimes.com/newsletter-campaign-manager/latest.js
+||lifepepper.co.jp/wp/wp-content/themes/lifepepper-new/img/banner-
+lifepepper.co.jp##.footer-hidden_box
+||lightfx.jp/LP/fx/pt2/img/lp_popup.
+lightfx.jp###overlay
+||lionbridge.ai^*/resources_hero.$image,1p
+lionbridge.ai##.newsletter-popover
+||llnwd.net/e113/lib/tm/pc/img/common/btnEntry.$domain=tenshoku.mynavi.jp
+||locondo.jp/contents/img/common/luckylottery/popup_luckylottery2112.png
+locondo.jp##.bg-popup-luckrylottery
+locondo.jp##html.remodal-is-locked:style(overflow: auto!important; touch-adction: auto!important;)
+||lululemon.co.uk/is/image/lululemon/lululemon%20run%20email%20hero$image
+lululemon.*###emailPopupModal
+||saitama-riversupporters.pref.saitama.lg.jp/qncix1r99z/wp-content/uploads/2021/09/onboard1.png
+saitama-riversupporters.pref.saitama.lg.jp##.onboard
+||tabekita.jp/img/bnr-modal-
+tabekita.jp###cboxOverlay
+tabekita.jp###colorbox a[href="/message/"]:upward(#colorbox)
+||tenshoku.mynavi.jp/lib/tm/pc/img/common/btnEntry.png
+tenshoku.mynavi.jp##.fixedEntryBtn
+||llnwd.net^*/house_ad_on_load_modal_$script,domain=uwl.weblio.jp
+||logitech.com^*/popup-email-capture.png|
+www.logicool.co.jp###wrapper
+||magazine.jp.square-enix.com/gfantasy/images/bnr/twstnovel_pop.jpg
+magazine.jp.square-enix.com###layer_board_area
+magazine.jp.square-enix.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
+||makeshop.jp/tgmottainai/img/banner/tg_joinNew_$domain=junijuni.jp
+junijuni.jp##.joinnewModal
+||marketing-campus.jp/script/mailbnr.
+||marryjushop.com/wp-content/uploads/2020/03/side_pc_01.png
+||matchesfashion.com/join/3n2/signup-popup-new-no-image-
+matchesfashion.com##.mfp-wrap div#emailSignupPopup:upward(.mfp-wrap)
+matchesfashion.com##.mfp-bg
+matchesfashion.com##html[style*="overflow: hidden;"]:style(overflow: auto!important;)
+||mens-qzin.jp/assets/*/common/footer/link-$image,1p
+||mikihouse.jp/layout/ciao/assets/ciao/img/common/popup_min/
+mikihouse.jp###popupWrap
+||minden.co.jp/wp-content/themes/minden_corp_2021/assets/img/pop_320_
+minden.co.jp###popup_contents
+||minglass.jp/images/scroll/
+||minglass.jp/images/scroll_layer/
+minglass.jp##.scroll-flow
+||minitool.com/promotions/landing/promotion.php
+||mitsuraku.jp/ajax/getCampaignModal?
+||movin.co.jp/newimg/firstbnr.png
+||movin.co.jp/newimg/foot_special.png
+||movin.co.jp/newimg/footadd_
+movin.co.jp###scrolhead
+||movin.co.jp/newimg/topbnr.png
+movin.co.jp##.Bnr
+||msn.com^*irisbannerajax?
+||mtame.jp/dcms_media/image/mailnewbannerresize.png
+mtame.jp###slide_window
+||mywot.com/images/popup/
+mywot.com##div[data-automation="floating-add-wot"]
+mywot.com##div[data-automation="scorecard-popup"]
+||naturesway.com/-/media/project/sna/brands/naturesway/promotions/promo-popup/
+naturesway.com###promo-component
+naturesway.com##body.modal-open:style(overflow: auto!important;)
+||necoichi.co.jp/files/user/images/common/mm-banner-
+necoichi.co.jp##.mm-bannner
+||netads.makino9213.work/lp/exitpop$frame,image
+netads.makino9213.work###TB_overlay
+||nijiyome.com/*/mainpic_modal_
+nijiyome.jp##.modal
+||nikkei.com/telecom/assets/maas/resources/*_a_kv.png
+nikkei.com##.ant-notification-bottomRight
+||nintendo.co.jp^*/purchase_$image,1p
+nintendo.co.jp##div[id$=-purchase]
+||nordcdn.com/nordvpn/media/*/popups/$domain=nordvpn.com
+nordvpn.com##div[id^="popup_"]
+||nycgo.com/images/uploads/newsletter/backgrounds/Modal-copy-
+nycgo.com###newsletter-modal-wrapper
+nycgo.com##.modal-backdrop
+nycgo.com##.modal-open:style(overflow: auto !important;)
+||o.prod.theintercept.com/checkout/template/show
+theintercept.com###third-party--viewport-takeover
+||ogs.google.*/widget/callout^
+mail.google.com##header[role="banner"] > div[class^="gb_"] > div[class^="gb_"][data-ogsr-up] > div[style^="overflow: hidden; position: absolute; top: 0px; width: 370px; z-index:"]
+||oh-ya.jp/assets/images/bnr/bnr_sticky_
+||ohsho.co.jp/img/top_opening_
+ohsho.co.jp##.openingOverlay
+||onamae.com/common/images/banner/registration.
+||onamae.com/service/domain/images/footer-floating-
+onamae.com###globalHeaderBannerBox
+onamae.com##.footerFloatingAuction
+||oomura-k.co.jp/cms/wp-content/themes/osconcept/images/footer/banner_
+oomura-k.co.jp###footer_navi
+||p.book.dmm.co.jp/popup/$image
+book.dmm.co.jp###react-popup-parts-root
+||p.dmm.com/p/ds/common/bnr_digital_video_list.
+||p.dmm.co.jp/p/dc/top/popup/pic_popup_
+dlsoft.dmm.co.jp##.fixed-btn
+dlsoft.dmm.co.jp##.fn-popup
+dlsoft.dmm.co.jp##.pcgame-popin
+||p.dmm.co.jp/p/ds_videoa/newUser_pointback/bnr_insert.png
+||passnavi.evidus.com/images/center/banner_center01.png
+passnavi.evidus.com##.module__adheadion
+||pc-farm.co.jp/wp-content/themes/pcfarm/images/page/pc_column_banner.
+||pimg.jp/search/assets/modal-subscriptions-$domain=pixta.jp
+pixta.jp###js-modal--recognized-subscription
+pixta.jp##.__b-popup1__.b-modal
+||popup.popupsmart.com^$domain=eleminist.com
+||pureshop.jp/wp-content/uploads/*_a_pc.jpg.webp
+pureshop.jp##.afc_popup
+||qualva.com^$domain=liginc.co.jp
+||qzin.jp^*/img-recruti-fixed-bnr.
+||qzin.jp^*/mypage_banner.$image,1p
+qzin.jp##.js-fixed-bnr
+||r10s.jp/com/bookmark/gadgets/bookmark-registration-popup/
+||r10s.jp/evt/event/young/_pc/img/top/btn_a2hs_pc.png
+event.rakuten.co.jp###a2hsBtn
+||rakuten-static.com/rpay/img/1.1/detail/img_popup_banner_detail_$domain=pay.rakuten.co.jp
+pay.rakuten.co.jp###DETAIL-ad-modal-parts
+||rarejob.com/cms/wp-content/themes/awaken/js/fix-banner.js
+||rdlp.jp/wp/wp-content/themes/rdlp/img/banner_
+||rebates.jp/assets/img/ichibaOverlayBg-
+rebates.jp###content > div[class^="css-"]:empty
+rebates.jp###overlayContent:upward(1)
+||receptionist.jp^*/top_banner.png
+||recipe.rakuten.co.jp/scripts/webpc/leftFloat.
+recipe.rakuten.co.jp###rcpAutoScrollPopover
+||recruit-ms.co.jp/assets/img/issue/banner/pc_banner_
+||reddit.com/account/sso
+||renovefudosan.com/items/andreno/assets/pc/img/st-FloatCampaign_
+renovefudosan.com##.st-FloatCampaign
+||reverbnation.com/user/login_modal|
+||rex.contents.rakuten.co.jp/rex-ips/
+||roboma.io/wp/wp-content/uploads/2019/07/*_334x280.png
+roboma.io##.pum-container
+||ryugaku.kuraveil.jp/packs/floating_banner-
+||s3.amazonaws.com/uploads/production/survin/guide/image/1175/0711.png$domain=toyokeizai.net
+toyokeizai.net##div[class^="SURVIN_GUIDE_ELEMENT_SHOW_"]
+||sazukari-shop.com/user_data/packages/*/float2.$image,1p
+||secomapp.com/promotionpopup/$domain=oozeki-japan.com
+||sellmarke.jp/article/wp-content/themes/contents-box3/img/bnr_wpdl_
+sellmarke.jp###app_3
+||sftcdn.net/wp-content/uploads/sites/*-238x134.$image,domain=softonic.jp
+softonic.jp##.article-next
+||shingakunet.com/journal/img/scroll_pc_banner.
+shingakunet.com###banner_area
+||shippo.co.jp/neko/img/qapop5.
+||shirofune.com/wp-content/themes/shirofune/img/pop_
+||shopify.com/s/*/22s_popup_1000x.jpg$domain=carhartt-wip.jp
+carhartt-wip.jp###shopify-section-ja-index-popup:has(div.newsletter-submit)
+||shopify.com/s/*/files/pop_$image,domain=17kg.shop
+17kg.shop###popup
+17kg.shop##.fancybox-overlay
+17kg.shop##.fancybox-lock:style(overflow:auto!important)
+||shufoo.net/biz/assets/emag/images/ttl_emag.
+shufoo.net###emag
+||shukatsu-mirai.com/images/1DjMwRWAC19mgnhjHmYcBQbr|
+||shukatsu-mirai.com/images/JRvPYVEZkHuerx2F7V7WnuVc|
+||shukatsu-mirai.com/images/ycSUmLKKEftiQj367LUiQGf9|
+shukatsu-mirai.com###webpush
+||sitest.jp/images/webinar/webinar_
+||sm.r10s.jp/contents/static/event/popup/
+||smith-wesson.com/popup-front$frame
+smith-wesson.com##.clrbox-singup
+||soluna.co.jp/web09/wp-content/plugins/fix-call-button/
+||sougiya.biz/assets/img/pc/banner/footer-footbn-
+sougiya.biz##.sw-Footbn
+||sougiya.biz/assets/img/pc/banner/side-bana01.
+||sougiya.biz/assets/img/pc/banner/side-bana02.
+sougiya.biz##.sideBanner
+||storage.googleapis.com/bosyu-jobs-production-public/$domain=hacknote.jp
+hacknote.jp##.show.floatwidget
+||style.nikkei.com/static/js/Rtoaster_
+||style.potepan.com/wp-content/themes/potepan-style/images/article/pop-up/banner@2x.jpg
+style.potepan.com##.PopUpBanner
+style.potepan.com##.PopUpBackground
+||styly.cc/wp-content/uploads/*_600x600_banner-$image,1p
+styly.cc###js-styly-signle-modal
+||t-mall.tsite.jp/_vendor/jp-colorbox/
+||t21.nikkei.co.jp/public/design2/images/campaign_banner_
+t21.nikkei.co.jp##.campaign-area
+||tabroom.jp/img/floatingBanner/
+tabroom.jp##.floatingMenuWrap
+||tamashii.jp/img/bnr_brabottom01.
+tamashii.jp##[id$=_bra_bnr_area]
+||tech-camp.in/note/wp-content/themes/technote/images/*_popup.$image,1p
+tech-camp.in###js-popup
+||tenorshare.jp/banner/*-banner.png?w=3840&h=220^
+tenorshare.jp##div[data-toggle="seasonal-banner"]
+||the0123.com^*_floating_$image,1p
+the0123.com###floating-estimate
+||top.bcdn.jp/*/kuji_pop.png$domain=biglobe.ne.jp
+biglobe.ne.jp###spage-main.btop-pop
+biglobe.ne.jp###spage-popup
+||topcard.co.jp/images/address_pop*$image,1p
+||toyo-tos.co.jp/resource/img/onlineshop-banner.png
+toyo-tos.co.jp##.special-banner
+||tsuiran.jp/js/vendor/jquery.layerBoard.js
+||tunepat.jp/images/youtube-music-top-banner.png
+tunepat.jp###youtubemusicconverter
+||type.jp/common/js/script_probo.js
+||ujack.co.jp/wp_ujack/wp-content/uploads/*-300x152.png
+ujack.co.jp##.afc_popup
+||union-company.jp/media/img/cta_bnr_floating.jpg
+union-company.jp##div[class^="flowting"]
+||wacul-ai.com/blog/wp-content/uploads/2019/06/banner_modal_cv_aia.png
+wacul-ai.com##.modal-banner-cv
+wacul-ai.com##body.noscroll:style(position: static!important;overflow: auto!important;margin-top: 0!important;height: auto!imortant;)
+||wakasa.jp/common/js/modalCheck.js
+||web-kanji.com/images/cta/
+web-kanji.com##.floatbar-cta
+web-kanji.com##.float-animation-cta
+||webukatu.com/wordpress/wp-content/uploads/*/banner_book0*$image,1p
+||whotwi.com/whotwi_web/img/common/socialdog_modal.
+hoihoi.whotwi.com###cheetah_modal
+hoihoi.whotwi.com##body.modal-open:style(overflow: auto !important;)
+||wsj.com^*?st=$doc,removeparam=st
+||xn--cck0cya3lo64orymm20a022d.com^*/rvwRcrBnr.$image,1p
+||xn--cck0cya3lo64orymm20a022d.com^*/sidebtn01_$image,1p
+||xn--cck0cya3lo64orymm20a022d.com^*/sidebtn02_$image,1p
+||xserver.ne.jp^*_side_banner_180-166.$image,1p
+xserver.ne.jp##.js-cashlessBox
+||y-osohshiki.com/common/img/pref/fix_txt1.png
+y-osohshiki.com##.fixbtns
+||yamamotoyama.co.jp/simages/img/top/popup_
+yamamotoyama.co.jp###ftr-fixed-banner
+||yanmaga.jp/packs/media/images/sign_up_banner
+yanmaga.jp##.cv-banner-show
+||yimg.jp/images/auct/cms/promo/floating/$domain=auctions.yahoo.co.jp
+||yimg.jp/images/auct/cms/promo/coupon/banner/modal/$domain=auctions.yahoo.co.jp
+page.auctions.yahoo.co.jp###prmdl
+||yimg.jp/images/auct/cms/promo/promo_modal/$domain=auctions.yahoo.co.jp
+||yimg.jp/images/auct/salespromotion/*/prmodal_$domain=auctions.yahoo.co.jp
+auctions.yahoo.co.jp##section[class^="Component-sc"] > a[class*="-sc-"][data-ylk^="rsec:prmdl"]:upward(1)
+||yimg.jp/images/auct/salespromotion/*300_200$image,domain=auctions.yahoo.co.jp
+auctions.yahoo.co.jp##.bannerFrame
+||yimg.jp/images/paypayfleamarket/salespromo/*/bnr_300_200.png$domain=paypayfleamarket.yahoo.co.jp
+paypayfleamarket.yahoo.co.jp###fltbnr
+||yoox.com/JP/PopupNewsletter/
+||youmaker.com/template/showTemplate2?*&selector=.meter_container$domain=epochtimes.jp
+||zeiri4.com/img/pc/user/search/search-ctaBanner_
+zeiri4.com##.firmSearch__ctaBanner--sticky
+
+###xeory-fixed-banner
+
+123apps.com,audio-joiner.com,extract.me,mp3cut.net,online-audio-converter.com,online-video-cutter.com,pdf.io,webcamera.io###allapps-extension-popup
+1fichier.com##.ui-widget-content[aria-describedby="modal-msg"]
+1fichier.com##.ui-widget-overlay
+5ch.net##.bs-popover-bottom
+80c.jp##.td-more-articles-box
+abema.tv##.body--prevent-scroll:style(overflow: auto!important;)
+abema.tv##.com-onboarding-OnboardingModalContainerView--enter-done
+activo.jp##.applyOverlay
+ad.ruralnet.or.jp##.floating-banner
+adobe.com##.closePlacement-insideTopRight
+affikatsu.com##.touchy-email-button
+affiliate-town.info,aquarium-suisou.net,game-para-dise.com,hunade.com,kaigaifx-research.com,repeat-drama.info###bfb_content_pc
+affitopic.com###mailmag_bnr
+alis.to##.area-article-registration-footer
+alternativeto.net###bottomNotifier
+amp.reddit.com##.AppSelectorModal__body
+androidadult.com###ds-popup-1
+androidcentral.com,cyclingnews.com,gamesradar.com,guitarworld.com,imore.com,itproportal.com,laptopmag.com,livescience.com,marieclaire.com,musicradar.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,toptenreviews.com,windowscentral.com###slice-container-exitIntent
+anime-japan.jp##.mfp-ready.mfp-bg, .mfp-ready.mfp-wrap
+anime-japan.jp##html[style*="overflow: hidden"]:style(overflow: auto!important)
+answers.ten-navi.com##.careerMenu
+answers.ten-navi.com##.cvMail
+answers.ten-navi.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
+anthropologie.com,urbanoutfitters.com###modal form#email-sign-up-form:upward(#modal)
+anthropologie.com,urbanoutfitters.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
+apkcombo.com##.browser-extension
+app.slack.com##.p-download_modal.c-fullscreen_modal.ReactModal__Overlay--after-open
+app.slack.com##.p-ia__workspace_banner.p-client__banners
+artandeducation.net##.overlayer
+askul.co.jp##.stickyFooter
+auction.brandear.jp##.bounceInUp
+aucview.aucfan.com###amAmountGuest3.alertModal
+aucview.aucfan.com###alertModalBg
+aura-office.co.jp###bnr_inquiry
+autoc-one.jp###js-floating
+balloonworld.jp,cbn.co.jp,ryu-blo.jp,sanei-ad.jp,us-lighthouse.com##.afc_popup
+benesse.jp##.bookmark.fixed
+baseconnect.in##.modalBanner__overlay
+baseconnect.in##.slide[style="width: 340px; height: 283px;"]
+baseconnect.in##html[style="overflow: hidden;"]:style(overflow: auto!important;)
+bee-music.jp###fix-contact-pc
+behance.net##.Popup-popup-T3F
+bestofcebuislandhopping.com##.penci-rltpopup-left
+beta.sankakucomplex.com##.MuiPaper-elevation1
+bitbank.cc###register-area
+bitcoin.dmm.com###modal-overlay
+bitflyer.com###modal-incoming
+bitflyer.com##body.modal-open:style(overflow:auto!important)
+bitstarz.com##.n-tesla
+bizmates.jp##.p-following
+blackview.hk##.mfp-wrap.mfp-close-btn-in form.js_mail_agree:upward(.mfp-wrap)
+blackview.hk##.mfp-bg
+blackview.hk##html[style*="overflow: hidden"]:style(overflow: auto!important;)
+blastmail.jp###footerFloatingMenu
+blocksite.co###elementor-popup-modal-2435
+blog-jp.janetter.net,paper-view.net,tumblr.com##.tmblr-iframe--follow-teaser
+blog.btrax.com##.popup
+blog.codecamp.jp##.l-recommendFooter
+blog.disqus.com,blog.hubspot.jp##.leadinModal
+bloomberg.com###fortress-preblocked-container-root
+bloomberg.com###newsletter-modal
+bloomberg.com##body[class^="noScroll"]:style(overflow: visible !important;)
+bluestacks.com###subscribe-modal
+boohoo.jp###modal:has(div[data-testid="email-signup-splash-prompt"])
+boohoo.jp##body:style(overflow: auto !important;)
+book.toyokeizai.net##.trial_block
+books.rakuten.co.jp##.rMessageFloating
+boxil.jp###modal-appeal-download
+boxil.jp##body:style(overflow: auto!important; padding-right: 0!important;)
+boxil.jp,finnishdesignshop.com,hoihoi.whotwi.com,honichi.com,kadoebi.co.jp,lec.medilink-study.com,nordvpn.com,razer.com,rebates.jp,service-safari.com,techacademy.jp,weloma.net##.modal-backdrop
+books.rakuten.co.jp###js-rMessageFloating
+brave.com##.announcement-banner
+bsearchtech.com##.model_wrap_border
+bunshun.jp##.article-followed-related
+campify.jp##.cv-fixed
+canva.com##main + div + div > div > div > div > a[class^="_"][href^="https://www.canva.com/design/play?"]:upward(3)
+car-info.tokyo###footer_fix
+carl-walther.com###modalNewsletter
+carl-walther.com##.modal-backdrop
+carl-walther.com##body.modal-open:style(overflow: auto!important;)
+carsensor.net###tm_ftr
+casabrutus.com##.toast
+cbnews.jp###kp-survey-modal, #kp-survey-modal-overlay
+ch.nicovideo.jp##.joinChannelWithPremiumUnit.head_msg
+cheersta.jp##.ant-modal-root
+chobirich.com###footer_adtxt_wrap
+chocolatey.org###package-disclaimer
+chocolatey.org##.show.fade.modal-backdrop
+chocolatey.org##body:style(overflow:auto !important)
+chrome.google.com##[role="dialog"][aria-labelledby="promo-header"]
+cinemacafe.net###danglingList
+city.inazawa.aichi.jp##.animation-loading
+city.living.jp###area-select
+clubdam.com##.l-page-bottom__cv
+cnn.com##.sibling
+comemo.nikkei.com,diehardtales.com,j-yokatsu2.edu.city.uruma.okinawa.jp,kaneka.co.jp,kobedx.kobe-np.co.jp,labo.rheos.jp,note-harumi.sbfoods.co.jp,note.art-trading.co.jp,note.basicinc.jp,note.bcnretail.com,note.calbee.jp,note.com,note.gallery.intage.com,note.kogakuin.ac.jp,note.kagg.jp,note.jp,note.linemusic.jp,note.minne.com,note.montblanc.design,note.nhkso.or.jp,ote.pokkasapporo-fb.jp,note.roxx.co.jp,note.smartnews-ads.com,note.tabedori.jp,note.universal-music.co.jp,note.yamap.com,note.zochang.com,refalover-note.mainichi.jp,shanaiho.itandi.co.jp,sonae.uminohi.jp,uragawa-note.jpn.panasonic.com,webtripper.jp##.m-animationBalloon.m-likeNoLogin
+comemo.nikkei.com,diehardtales.com,j-yokatsu2.edu.city.uruma.okinawa.jp,kaneka.co.jp,kobedx.kobe-np.co.jp,labo.rheos.jp,note-harumi.sbfoods.co.jp,note.art-trading.co.jp,note.basicinc.jp,note.bcnretail.com,note.calbee.jp,note.com,note.gallery.intage.com,note.kogakuin.ac.jp,note.kagg.jp,note.jp,note.linemusic.jp,note.minne.com,note.montblanc.design,note.nhkso.or.jp,ote.pokkasapporo-fb.jp,note.roxx.co.jp,note.smartnews-ads.com,note.tabedori.jp,note.universal-music.co.jp,note.yamap.com,note.zochang.com,refalover-note.mainichi.jp,shanaiho.itandi.co.jp,sonae.uminohi.jp,uragawa-note.jpn.panasonic.com,webtripper.jp##.o-articleTopNotices__message.m-warningMessage__info
+community.norton.com###block-norton-exit-poll-norton-poll-footer
+cosmopolitan.com###recommended-modal
+context.reverso.net###register-popup-bottom
+coolors.co###generator-tutorial-intro
+coolors.co##body.route-generate:style(overflow: auto !important; position: initial !important;)
+cryptocurrency-jp.net,ictmakes.com###js-footer-cta
+d.tube##.sticky.centered > div.announcement[style="width: 100%;"]
+daiwa.jp##.mnyl-contact-btn
+deezer.com##.modal:has(> div.modal-wrapper > div.modal-dialog > div#modal_push_premium)
+deezer.com##.push-header:style(background: none!important)
+defenseone.com,govexec.com,nextgov.com,route-fifty.com##+js(set, GEMG.ConversionModule, noopFunc)
+democracynow.org###daily_digest_modal
+detail.chiebukuro.yahoo.co.jp###fuwa
+developer.android.com##devsite-snackbar a.devsite-snackbar-link[href^="https://developer.android.com/survey"]:upward(devsite-snackbar)
+developer.mozilla.org##.mdn-cta-container
+developers.google.com##.devsite-devprofile-callout
+deviantart.com###root > header ~ div[class] > span.theme-light > a[href$="/users/login"]:upward(header ~ div[class])
+dhbr.net##.tool-box
+digitalocean.com##div[class^="ToastStyles__StyledWrapper-"][style]
+discussionsjapan.apple.com##.notification
+disqus.com##.is-footer.login-overlay__wrapper
+dmarket.docomo.ne.jp##.healthCareStepsBlockOverlay
+dmarket.docomo.ne.jp##.modalHealthCareContainer
+dmarket.docomo.ne.jp##.overlay
+dmarket.docomo.ne.jp##html[style="overflow: hidden;"]:style(overflow: auto !important;)
+docomo.ne.jp###reservbtnarea.floating_menu
+dokusho-ojikan.jp##.ReactModal__Body--open:style(height: auto !important; overflow-y: auto !important;)
+dokusho-ojikan.jp##.ReactModal__Overlay a[href*="?ref=recommend_popup"]:upward(.ReactModal__Overlay)
+dora-world.com###layer_board_area
+dsk-cloud.com###hs_cos_wrapper_Footer_CTA_Popup
+duckduckgo.com##.badge-link.ddg-extension-hide
+e-aidem.com##.relation_entry
+ecommerce-platforms.com##.cp-module-modal_popup
+economictimes.indiatimes.com##+js(aeld, mouseout)
+edreams.jp###sessionAboutToExpireAlert
+ehonnavi.net##.flipdesk_trigger_expire_button
+ehonnavi.net##html[style*="overflow: hidden"]:style(overflow-y: scroll!important;)
+eikaiwa.dmm.com###jsBannerFloat
+eikaiwa.weblio.jp##.header_box_right
+en-ambi.com###indexFixedBar
+en-groups.com,engineer-club.jp,hataraquest.com,rakuraku-info.jp##.bfb-common-cta
+en-hyouban.com##div[class^="kaizen-platform-top-float-btn"]
+enago.jp###sgpb-popup-dialog-main-div-wrapper
+enago.jp##.sgpb-popup-overlay
+eng-entrance.com##.left-bottom-float
+engineer-lab.findy-code.io##.popup
+equl.jp,naifix.com,shukatsuhack.com##.boxzilla-bottom-right-container
+event.rakuten.co.jp###pitari_mcw_flt
+evernote.com#?#.ReactModalPortal:has(#qa-GENERIC_LIGHTBOX_DIALOG_SUBMIT p[class^=_]:has-text(無料でお試し))
+evernote.com#?#.notifications-wrapper + div + div[class^=_] > div[class^=_]:has(div[class^=_] > span[class]:has-text(無料でお試し！))
+express.co.uk##.breaking-news-container
+ext.hp.com##.cmnbox01 > div.repo
+ezgif.com##div[style$="min-height:90px;display:block"]
+facebook.com###pagelet_growth_expanding_cta
+facebook.com##+js(aeld, scroll, showPopup)
+fandom.com##.banner-notifications-placeholder
+fantia.jp##.fanclub-btns > div.popup-bar.is-clone
+faq.support.biglobe.ne.jp###suMiniEnqueteWrapper
+fashionpost.jp##.p-ad-area--interstitial
+fastalert.jp##.home-popup
+files.fm###popup-poster
+financialexpress.com###id_newsletter_subscription_popup
+findpro.jp###js-stickyFooter
+folk-media.com###member-alert
+form.run##+js(nostif, popmake)
+forcemedia.co.jp###sidenav
+free.uploader.xzy.pw##.is-bottom.notices
+freepeople.com##+js(aeld, /mousewheel|wheel/, [native code])
+freepeople.com##+js(rc, is-preventing-body-scroll, body, stay)
+freepeople.com##.o-pwa-modal-overlay
+froggy.smbcnikko.co.jp##.floatingBanner
+fujossy.jp##.js-restriction-notice
+fukuishimbun.co.jp###follow-footer
+fuzoku.sod.co.jp##.top_webyoyaku
+fx-review.jp###fixed-button-area
+gaizyu-taiji.com##.footer-contact
+galleria.emotionflow.com,tegaki.pipa.jp###AboutFrame
+gazoo.com##.footer-floatbanner-area
+geekwire.com##.flyover-email-cta
+gekkan-fukugyou.jp###modal-content
+gekkan-fukugyou.jp###modal-overlay
+gesoten.com###cboxOverlay
+gillette.jp##.dialog-search-popup
+gillette.jp##.fixed:style(position: static!important;)
+gillette.jp##.stop-scroll:style(overflow: auto!important;)
+gitlab.com###slpFreeTrialBanner
+gizmodo.com##.js_modal_exit_intent
+globalize.lifepepper.co.jp##div[id^="signupFormContainer_"]
+gogoanime.*##div[class^="notice-"]
+google.*##mobile-promo
+gravureidols.top,hentai-sharing.net###wpd-bubble-wrapper
+grcs.co.jp##.top_fixed_menu
+h-navi.jp###ModalContent
+h-navi.jp###ModalOverlay
+hai2mail.jp##.cta-floating
+hatena.ne.jp##.u-bnr--trial
+help.ea.com##.helpfulness-bar-outer
+hikkoshi-sakai.co.jp##.fixed.fix-info
+hills.co.jp##.gigya-screen-dialog:has(#gigya-subscribe-with-email-screen)
+hipdf.com,x2download.com,y2mate.com,y2meta.com,yt5s.com##.extension
+hiroba.dpoint.docomo.ne.jp##.js-floating-setting
+hitohana.tokyo###cta
+hoken-room.jp###pet_banner_div
+honeygain.com##.Modal
+honeygain.com##.Modal__bodyOpen:style(overflow: auto !important;)
+honichi.com###staticModal
+honichi.com##body.modal-open:style(overflow: auto !important)
+houyhnhnm.jp##.js-skip-content
+houzz.jp##.modal-open:style(overflow: auto !important;)
+houzz.jp##.modal-vc
+houzz.jp##html[style^="overflow-y: hidden"]:style(overflow-y: auto !important;)
+howtogeek.com##div[id^="v2campaignpopup"]
+hypebeast.com###newsletter-popup-fixed
+ig.com###sticky-footer
+imezi.jp##.promo-popup-wrapper
+imitsu.jp###cv_bottom_a
+imitsu.jp###modal_bg
+informer.com###wi-plugin-corner
+instagram.com###react-root ~ div[class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > div > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
+instagram.com##+js(set, _sharedData.is_whitelisted_crawl_bot, true)
+instagram.com##.cugdjhsh > div[class*="_"][style="width: 100%;"]
+instagram.com##body:style(overflow: visible!important;)
+instagram.com##nav > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class] > div[class^=" _"][style="width: 100%;"]:only-child
+instapage.com##.cpro-overlay
+investing.com###PromoteSignUpPopUp
+investing.com##.bp3-elevation-3
+investing.com##.bp3-portal
+investing.com##.generalOverlay
+iobit.com##.new-top
+iobit.com##.rabbitpopfree
+iobit.com##.rabbitpopfree:style(background: none!important)
+ipinfo.io###overlay
+islamchannel.tv###sub_news_wrapper
+j-island.net##.l-pickup
+jartic.or.jp###termsModal
+javascript.info###notify-translate-tutorial-local
+javnow.net##.adp-popup
+javnow.net##.adp-popup-overlay
+javnow.net##.adp-popup-scroll-hidden:style(overflow: auto !important; width: auto !important;)
+jbpress.ismedia.jp##.m-popup
+jobshot.jp##.modal__mask
+johnnypri.com###f-bar
+jp.techcrunch.com##.toaster
+jp.wazap.com###ui_member_popup
+jstage.jst.go.jp###sticky-register-to-j-stage
+juken-mikata.net###bFloatArea
+kabu.com##.footBtnFixed
+kadoebi.co.jp###ageVerificationModal
+kagg.jp###_sna_tag_popup_tag_container
+kakaku.com##.idBenefitPrBnr
+kanebo-cosmetics.co.jp###simple_modal
+karelcapek.co.jp###js-popup
+kayak.*##body.modal-open:style(overflow:auto !important)
+kayak.*##[id$=-afterclickdialog]
+keyence.co.jp##.fixed_wrapper
+kin8tengoku.com##.active.timesale
+kingsoft.jp##.campaign.footer-wps
+kiwi.com##[class^=Modal__ModalBody]
+kuih.jp###popupBox:has(> div > div.popup-inner-bottom > a.go-to-register)
+kujirai-kaikei.com###footer-bottom-space
+kurumaerabi.com##.modal_common.modal_inquiry_easy
+kutikomi.com##.wrap-mailmag
+kyobun.co.jp###pianoj_ribbon
+kyounoryouri.jp###floating-banner
+lec.medilink-study.com###newsDialogWrapper
+lego.com##body:style(overflow: auto !important;)
+lego.com##div[data-test="age-gate-overlay"]
+licensecounter.jp##.l-floating
+lidea.today##.linksFix
+lifehacker.com##.js_modal_exit_intent
+linkedin.com##.cta-modal
+livable.co.jp##.s-floating_contacts
+lladro.com##.modals-wrapper
+lladro.com##body._has-modal:style(overflow: auto!important;)
+low-ya.com##.v--modal-overlay
+lrm.jp##.pick-flex
+m.soundcloud.com##div[class^="Tooltip_TooltipOverlay__"]
+m.soundcloud.com##body:style(overflow: auto !important;)
+machicon.jp##.floatFooter
+makeabooking.flyscoot.com###volantio-smartalerts-root-container > div > div > div#react-aria-modal-dialog[aria-label="Watch prices"]:upward(3)
+makeabooking.flyscoot.com##html:style(position: static !important;overflow: auto !important;)
+makeshop.jp###overlay
+manga-zero.com##.float-navigation
+manga-zero.com##.vue-portal-target
+mathsolver.microsoft.com##div[class^="CenteredContainer_centeredContainer_"] > div[class*="EdgeUpsell_"]
+matsui.co.jp##.ly-fixed-inquiry
+media.io##.rating-container
+medibang.com##.asModal__announce
+medibang.com##.mdbnContestList__footerMenu
+medibang.com##.stickyBanner
+medibang.com##body.modal-open:style(overflow: auto !important;)
+medilink-study.com##.style-newsDialog
+meetup.com##.banner-wrapper:has(a.banner-link[data-element-name="banner-aapiSupport-click"])
+meetup.com##.subscribe-modal
+mens.tasclap.jp##.c-notice
+mensfashion.cc##.add_line_link
+menta.work###promotion-modal
+metabo-hpt.com###PopupSignupForm_0
+microsoft.com###email-newsletter-dialog
+microsoft.com###epb
+mildom.com##.login-modal
+mine.toyokeizai.net##.free-modal
+mine.toyokeizai.net##.is-scroll-disabled:style(overflow: auto!important;)
+mizunoshop.net###sci-slide
+mobile.twitter.com##div[data-testid="sidebarColumn"] section[aria-label][role="region"]:upward(1)
+moca-news.net###guide
+moneyworld.jp##.float-login-suggestion
+monosnap.com##.modalSide
+movie-times.tv###newContactBanner
+mozilla.org##.mzp-c-sticky-promo
+music.apple.com##.banner-upsell
+music.youtube.com##ytmusic-mealbar-promo-renderer
+mycloudminers.com##.body_overlay
+mypage.sso.biglobe.ne.jp##.pr-footer-notice
+naitopi.com###age_check
+nature.com##.c-site-messages--nature-briefing
+nature.com##.c-site-messages--nature-briefing-email-variant
+network.mobile.rakuten.co.jp###js-fixed-btn
+network.mobile.rakuten.co.jp##.g-hikari-Footer_Cta
+news.yahoo.co.jp###newsFeed + div:has(a[data-ylk^="rsec:cmtfloat;"])
+nicovideo.jp##.LikeContainer-tips.LikeTeaching
+nikkei.com###slideIn
+nishinippon.co.jp##.c-fixedContent
+nordace.com###newsletter-signup-link
+nordace.com##.mfp-bg
+nordace.com##html[style]:style(margin-right: 0!important;overflow: auto!important;)
+nordot.app##.page__curatedBy
+nttdocomo.co.jp##.ppko-page > div#btnFixedBlock.js-scrollBtn
+nytimes.com,nytimes3xbfgragh.onion###modal-portal-regiwall
+nytimes.com,nytimes3xbfgragh.onion##.ReactModalPortal:has(.welcomeAd)
+nytimes.com,nytimes3xbfgragh.onion##.magnoliaDock
+nytimes.com,nytimes3xbfgragh.onion##body:style(overflow: initial !important)
+oakley.com###SignUpModal:upward(.fancybox-overlay)
+oakley.com##.fancybox-lock body:style(overflow: auto!important;)
+oakley.com##.fancybox-lock:style(overflow: auto!important;)
+oguemon.com###popup-box
+okwave.jp##.following_buttons
+old.reddit.com##.read-next-container
+onecareer.jp##.v2-sign-up-footer
+oozeki-japan.com###newsletter-dialog
+open.spotify.com##div[data-testid="signup-bar"]
+opensource.com##.os-article__left
+orion-tour.co.jp,protocol.com###popup
+osf.io##.footBanners
+oshiete.goo.ne.jp###are_search_footer_popup
+otetsutabi.com##body[style$="overflow: hidden;"]:style(overflow: auto!important)
+otetsutabi.com#?#body[style$="overflow: hidden;"] > div[class^=MuiDialog-root-][elevation]:has(h6.text-break-all:has-text(＼ おてつたびへようこそ！／))
+outlook.office.com###obf-ToastContainer
+!outlook.office.com##.ms-Overlay--dark
+!outlook.office.com##body[class*="css-"][style*="overflow: hidden"]:style(overflow-x: auto!important;)
+!outlook.office.com##div[role="alertdialog"][aria-modal="true"][style="outline: none;"] .ms-Dialog-content > div > span > a[href^="https://go.microsoft.com/fwlink/p/?"][target="_blank"]:upward(div[role="alertdialog"][aria-modal="true"][style="outline: none;"])
+p-bandai.jp##.detailFnPop
+part.shufu-job.jp###floatside
+pastebin.com##.popup-box.-pro
+paypay.ne.jp##.is-modalContentsShow a.bannerModal__link[href^="https://paypay.ne.jp/event/"][data-eventaction]:upward(.is-modalContentsShow)
+paypay.ne.jp##body[style*="overflow: hidden"]:style(overflow: auto!important;)
+paypay.ne.jp##html[style*="overflow: hidden"]:style(overflow: auto!important;)
+pcdock24.com###bottom_nav
+peraichi.com###footer-created
+pharma.mynavi.jp##.footer-fix-navi
+photobank.mainichi.co.jp##.contact:has(.open_modal)
+piccoma.com##.PCM-jConfirm-appDlModal
+picrew.me###agreed-to-terms
+picsart.com##[class^="hintWrapper"]
+picsart.com##[class^="pa-monetization"]
+pinterest.*##body:style(overflow-y: scroll !important;)
+pinterest.*##div[data-test-id="giftWrap"]
+pinterest.*##div[style="visibility: visible; top: 80px; left: 99px;"]:has-text(探したい)
+pixlr.com##.blur:style(filter: none !important;)
+pixlr.com##.modal:has(> div.news-dialog)
+pixlr.com##a[href="/pricing/"][style^="display:flex;padding:0px 30px;gap:30px;justify-content:center;align-items: center;height:80px;width:100%;z-index:99;position:absolute"]
+plus.nhk.jp##div > div.dialog > div.popup > div.popup--options > a[class=""][href*="?playlist_id"]:upward(4)
+polygon.com##.c-toaster[data-cdata*="Polygon Weekly Update Newsletter"]
+ppc-master.jp##.banner1
+pr-park.com##.header-info
+prospectmagazine.co.uk##.ReactModalPortal
+prospectmagazine.co.uk##html.scroll:style(overflow: auto !important; height: auto !important;)
+quora.com##.qu-overflow--hidden[class*="qu-zIndex--modal_"]
+rankwise.net###lightbox
+razer.com##.modal-newsletter
+razer.com##body.modal-open:style(overflow: auto!important;)
+realpython.com##+js(aeld, DOMContentLoaded, rprw)
+reclaimthenet.org##.elementor-popup-modal
+reclaimthenet.org##body.dialog-prevent-scroll:style(overflow: auto !important; max-height: unset !important;)
+recme.jp##.footer-register
+reddit.com##.happening-now-wrap
+reddit.com##.upsell_banner
+reddit.com##div[class^="subredditvars-"] > div[class^="_"] > div[class][style*="--Toaster-indicatorColor:"]
+remo.co##.CampaignType--popup
+renoco.jp##.layuot_footer_fix
+researchgate.net###exit-modal
+reuters.com##div[class^="BreakingNews-pill-"]
+rikon-law.net##.c-mailmaga-floatbtn
+rin-kyo.com##.fs-l-pageMain > label[for="modal"]
+rurubu.travel##.BackToSearch--show
+sakigake.jp##.footer-news
+sankei.com###pianoj_ribbon_footer
+sbbit.jp###fixedbaner
+safarilounge.jp##.right_banner
+sakigake.jp##.footer-coupon
+scmagazine.com###post-slideout
+scribd.com##+js(aeld, /^(mouseout|mouseleave)$/)
+seikatsu110.jp##.fadeIn.fixed
+sejuku.net###ft-banner
+send.tresorit.com##.upload-redirect-promo
+send.tresorit.com##body.modal-open:style(overflow: auto!important;)
+seolaboratory.jp##.teian-navi-box
+service-safari.com###SignupRecommendationModal
+service-safari.com##body.modal-open:style(overflow:auto!important)
+shibarinashi-wifi.jp###entry_fix
+shikiho.toyokeizai.net##.renewal-introduction-modal
+shimizu-koumuten.com###foot_fixed
+shingakunet.com##.l-footerFix
+shopping.yahoo.co.jp##.elSticky > .elBanner
+simchange.jp##.l-floatCta
+skyscanner.jp###modal-container:has(#pqs-form)
+skyscanner.jp##body[style^="overflow: hidden;"]:style(overflow:auto!important)
+slack.com##.purple_banner_style
+smhn.info###share
+social-dog.net###banner
+softbank.jp##.mobile-b3s-sticky-cvr-type01-01
+software.informer.com###jqibox
+somethingfun.co.jp##.js-pc_cta_wrap
+soo-healthy.com###networkRelated-modal-wrapper
+soundfun.co.jp##div[class^="cta"][style="display: block;"]
+sourceforge.net###newsletter-floating
+spalding.co.jp###mr-mailmagazine
+stackoverflow.com##.js-dismissable-hero
+startpage.com##.widget-install-sp
+stream.co.jp##.base__contact
+support.microsoft.com###supWrapperToPreventFeedbackFlickering
+support.microsoft.com###uhf-upgrade-banner
+surveymonkey.com##.homepage-banner
+suwila.com##.ikusei-banner
+t.pia.jp##.Y15-follow-btn__block
+tabroid.jp##.pursue_header
+taotao-ex.com###modal
+tbs.co.jp##+js(set, NS_TVER_EQ.checkEndEQ, trueFunc)
+teams.qiita.com##.cvFLg_wrap
+techacademy.jp###trialEntry.fade.modal
+techacademy.jp##body.modal-open:style(overflow: auto!important)
+techeyesonline.com###banner-mail
+techeyesonline.com###modal-overlayer
+techinasia.com###email-signup-reminder
+techinasia.com###paywall-reminder
+techplay.jp###v-event-recommend-modal
+techplay.jp##body.vm--block-scroll:style(overflow: auto!Important;)
+ted.com###activity-feed
+telasa.jp##.recommend-banner
+theepochtimes.com##.home-wall
+themoscowtimes.com##.contribute-bar
+thesaurus.net##div[id^="bio_ep"]
+thesaurus.net##body[style^="overflow:"]:style(overflow: auto !important;)
+thetimes.co.uk###paywall-portal-page-footer
+ticket.co.jp##.js-list-fix-footer
+timeout.jp###PopupSignupForm_0
+tinami.com##.ui-dialog, .ui-widget-overlay
+tmz.com###browser-notifications-prompt
+tohshin.co.jp##.footer
+tokyotokyo.jp##.popup-wrapper
+tora-tora.net##.btn-ctr
+tous.com###newsletter-modal___BV_modal_outer_
+tous.com##body.modal-open:style(overflow: auto!important;)
+trip.com##.J_PopupMask
+trip.com##.o-pop-box-retention
+trip.com##body:style(overflow: auto !important;)
+tripadvisor.jp##body[style="overflow: hidden;"] > #fb-root + div[class^=_]:matches-css(opacity:0.8)
+tripadvisor.jp##body[style="overflow: hidden;"]:style(overflow: auto !important)
+tripadvisor.jp##div[class^=_][style="background-color: white;"] button.primary:has-text(今すぐチェック):upward(5):matches-css(overflow: auto)
+tripadvisor.jp##div[class^=_][style^="position: fixed; inset: auto"] span:has-text(でのご予約はいかがでしたか？):upward(4):matches-css(width: 360px)
+try-it.jp##+js(aeld, load, event.dispatch.apply)
+tumblr.com###glass-container > div[aria-modal="true"]:has(a[href="/register?source=login_register_center"])
+tumblr.com##.road-block
+tumblr.com##body:style(overflow: auto !important;)
+tumblr.com##div[style^="background: rgb(124, 92, 255)"][style*="color: rgb(255, 255, 255);"]
+tumblr.com##div[style="background:#7c5cff;color:#ffffff"]
+tv.netkeiba.com##.DetailIntroArea01, .TvIntroOverlay
+twitch.tv###twilight-sticky-footer-root
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion###layers > div[class] > div[class] > div[class] > div[class] > div[class] > div[dir] > span:has-text(Twitterアプリで開く):upward(3)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion###layers > div[class] > div[class] > div[class] > div[class]:has(> div[class] > div[class] > div[class] > div[class] > div[class] > div[class] > a[href="/login"])
+u.pcloud.link##div[class^="Modal__FadeTranstionContainer"]
+u.pcloud.link##html.g-modal-open:style(overflow: auto!important;)
+u.pcloud.link##html.g-modal-open body:style(overflow: auto!important;)
+udemy.benesse.co.jp##.cmn--contentCoursePopup
+urbanoutfitters.com###modal form#email-sign-up-form:upward(#modal)
+urbanoutfitters.com##body[style="overflow: hidden;"]:style(overflow: auto!important;)
+urocca.jp###page_top > a[class$="Block"][href^="#"]
+video.dmkt-sp.jp##.lp_cta_fixed
+video.fc2.com,vip-front.video.g.fc2.com##a[href^="http://fc2information"][data-link][style]:upward(1)
+video.laxd.com##.noLoginSticker
+video.tv-tokyo.co.jp###jsiModalOverLayerShare
+video.tv-tokyo.co.jp##.md-question
+video.tv-tokyo.co.jp##*:style(opacity: 1 !important;)
+view-next.benesse.jp##.remodal-is-locked:style(overflow: auto !important; touch-action: auto !important;)
+view-next.benesse.jp##.remodal-overlay
+view-next.benesse.jp##.remodal-wrapper
+vimeo.com###main > div[data-reactroot] > div[class^=_]:has-text(アップロード、)
+vox.com##div[id="toaster"][data-cdata*="Sign up"]
+vpnmentor.com##+js(nostif, bioEp.showPopup)
+wantedly.com##div[class^="LoginCard__Wrapper"]
+washingtonpost.com###wall-bottom-drawer
+washingtontimes.com##.pn-sticky
+wbcstore.com###shopify-section-popup
+web-hikari.net##.follow_footer
+web.bridge-net.jp##.fltBnr
+web.skype.com##.noFocusOutline > div > div > div > div > div[style^="position: relative; display: flex; flex-direction: column; flex-grow: 0; flex-shrink: 0; overflow: hidden; align-items: stretch; align-self: stretch; background-color"][style$="border-style: solid;"]
+webprofessional.jp###js_footer
+weeklybcn.com###f_banner
+weloma.net###modal-1
+weloma.net##body.modal-open:style(overflow: auto!important;)
+wikihow.com###article_courses_banner
+wikipedia.org##.cn-fundraising
+wix.com,wixsite.com###POPUPS_ROOT
+wizcase.com###bio_ep, #bio_ep_bg
+wizcase.com##body[style="overflow: hidden;"]:style(overflow:auto !important)
+wordpress.com###marketingbar
+www.dropbox.com##.dig-Menu-backdrop, .waffle-menu__backdrop
+www.dropbox.com##.persistent-footer:has(> .persistent-footer__footer-ctas > .persistent-footer__signup-button)
+www.dropbox.com#?##upsell-home-modal:has(.confirm-button:has-text(/Business をお試し|アプリをダウンロード/))
+www.elecom.co.jp###js-business-panel
+www.icloud.com##.notice-view-container
+www.microsoft.com##body.p_onestore.deferred-popup:style(overflow:visible !important)
+y2mate.com##.is-rolledUp
+yahoo-mbga.jp###js-entry-fix
+yahoo.co.jp###Perorin
+yahoo.com###login-banner
+yahoo.com###mega-banner-wrapper
+yamareco.com##.attention_clap
+yandex.com##.zalogin-smart
+yoox.com###popupNewsletter
+yoriso.com##.footer-cta
+youtube.com##yt-mealbar-promo-renderer
+youtube.com##ytd-popup-container > .ytd-popup-container > #contentWrapper > .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
+youtube4kdownloader.com###fixed-addon-banner
+zaif.jp##.banner-account-wrap
+zehitomo.com##div[class^="InternalBlogPage_sticky-cta-section"]
+zerohedge.com##+js(aeld, mouseout)
+zexybaby.zexy.net###fixed_btn
+zoom-support.nissho-ele.co.jp##.fixedBn
+zurich.co.jp###fixed-popup-cta
+zurich.co.jp###floatnav
+zurich.co.jp##.panel-floatnav
+
+!#if !env_firefox
+||yimg.jp/images/search/perorin/chrome/appeal_address_bar.png$domain=search.yahoo.co.jp
+search.yahoo.co.jp##.sw-Perorin
+3473a.jp,louvre2013.jp,meathunter.jp,netemosametemo.jp,orthomolecularmedicine.jp,samurai-zero.jp,thehack.jp,tokyo1964.jp###check-also-box
+4900.co.jp###ouibounce-modal
+anokoro30.com##.td-more-articles-box
+another-chance.love###bfb_content_pc
+answers.ten-navi.com##.modal
+bignox.com##.egg-section
+blog.hubspot.jp###slidebox > .hs-cta-wrapper:upward(1)
+buzip.net###linkerBanner
+denwa-hikari.com###fixed_closing
+freshvoice.net##.c_bnr_01
+gesoten.com###colorbox:has(#modal-game-recommend-pc)
+journal.botanistofficial.com##.modal
+ka-nabell.com###top_modeless
+okazurand.net###ado-side-drawer
+scan.netsecurity.ne.jp##.thm-panel-register-case
+tamashii.jp##.overlay
+usshi-na-life.com##.td-more-articles-box
+!#endif
+!#if env_firefox
+3473a.jp,louvre2013.jp,meathunter.jp,netemosametemo.jp,orthomolecularmedicine.jp,samurai-zero.jp,thehack.jp,tokyo1964.jp##^#check-also-box
+4900.co.jp##^#ouibounce-modal
+anokoro30.com##^.td-more-articles-box
+another-chance.love##^#bfb_content_pc
+answers.ten-navi.com##^.modal
+bignox.com##^.egg-section
+blog.hubspot.jp##^#slidebox > .hs-cta-wrapper:upward(1)
+buzip.net##^#linkerBanner
+denwa-hikari.com##^#fixed_closing
+freshvoice.net##^.c_bnr_01
+gesoten.com##^#colorbox:has(#modal-game-recommend-pc)
+journal.botanistofficial.com##^.modal
+ka-nabell.com##^#top_modeless
+liskul.com##^#xeory-fixed-banner
+okazurand.net##^#ado-side-drawer
+scan.netsecurity.ne.jp##^.thm-panel-register-case
+tamashii.jp##^.overlay
+usshi-na-life.com##^.td-more-articles-box
+!#endif
+!#if env_mobile
+||bangumi.org/yahoo/info/info_ipg/YPJ_$domain=tv.yahoo.co.jp
+tv.yahoo.co.jp###prm_Modal
+||cpcdn.com/assets/extensions/*_spweb_lead/*_modal_top_$image,domain=cookpad.com
+||cpcdn.com/assets/extensions/*_spweb_lead/modal-$css,domain=cookpad.com
+cookpad.com##aside[id$="_modal"][data-key]
+||docomo.ne.jp/portal/dpoint/img/220213_497124_455276.png$domain=dpoint.jp
+dpoint.jp##.banner_block_modal.dispnone_wide
+||gamewith.jp/bookmark/chrome.png
+gamewith.jp##.to-btn--bookmark
+||golfsapuri.com/common/img/line_link_s_0305.png
+golfsapuri.com##.fixed_btn
+||k-img.com/images/smartphone/webtoapp/$domain=s.tabelog.com
+s.tabelog.com##.js-modal-overlay-clickarea
+s.tabelog.com##html.is-overlay-visible:style(overflow-y: auto !important;)
+s.tabelog.com##html.is-overlay-visible body:style(overflow-y: auto !important;)
+||kokoiko.smbc-card.com/sp/static/images/surface/sub_mall/
+kokoiko.smbc-card.com##.surfaceFixedBanner
+||res.office365.com/owalanding/*/images/outlook-mobile-apps-$domain=outlook.live.com
+||shufoo.net/s/img/banner/fuwa_fukidashi.png
+s.shufoo.net###okiniiri-fuwatto-banner
+||spooncast.net/src/images/modal/img_app_install_
+spooncast.net##.app-down-banner-container
+||t-mall.tsite.jp/modal/intro.png
+t-mall.tsite.jp###cboxOverlay
+t-mall.tsite.jp###colorbox img[src="/modal/intro.png"]:upward(#colorbox)
+||y-osohshiki.com/common/img/top/btn_tel_l.png
+||yugioh-card.com/yugiohdb/external/image_sp/ja/neuron_bottomimg.
+yugioh-card.com###neuron_bottomimg
+
+###xeory-fixed-banner-sp
+app-liv.jp##.p-fixed-dl
+applion.jp##.btn_fix_app
+b.hatena.ne.jp##.bookmark-guest-guide-modal
+b.hatena.ne.jp##.entry-notfound-modal
+b.hatena.ne.jp##.modal-overlay
+b.hatena.ne.jp##body.is-overlay:style(overflow: auto!important;)
+bookwalker.jp##.footer-coupon
+boxil.jp##^.magModal__bottomSpace--small.appealMultiDownloadSmallModalWrapper
+career.levtech.jp##.js-fixedGuideCta
+carview.yahoo.co.jp##.idpfLP
+dldlinks.com,dldshare.net##+js(aopr, age_gate_params)
+dmkt-sp.jp###top-notice-wrap
+dokuha.jp###modal-comicday-desc
+dokuha.jp##.modal-backdrop
+dokuha.jp##.modal-open:style(overflow: auto !important;)
+flipboard.com##.app > div > div.modal-overlay:has(> section > div.mobile-gate)
+flipboard.com##body:style(overflow: visible!important; position: static!important;)
+game8.jp##.l-fixedFunctionLinkContainer
+girlschannel.net###popupModal
+hoken.zexy.net##.formbtn.reserve
+hulu.jp##.sp-nav-footer
+jp.indeed.com###google-Only-Modal
+jp.indeed.com##.jobsearch-JpProfileModalPromo
+jp.indeed.com##body[style="position: fixed; top: 0px;"]:style(position: static!important;top: auto!important;)
+jp.indeed.com##div[data-testid="sticky-jobs-cta-wrapper"]
+kurashiru.com###dly-LandingPopupBanner
+kurashiru.com##html.dly-modal-active:style(overflow: auto!important;)
+lulucos-bys.jp##.m-navi-expert
+m.economictimes.com###prominentBanner
+m.economictimes.com###prominentOverlay
+m.economictimes.com##body:style(overflow: auto !important;)
+m.facebook.com##[data-sigil=loggedout_mobile_cta_footer]
+m.youtube.com##.mealbar-promo-renderer
+magazine.tabelog.com##.tm-floating-banner
+media.rakuten-sec.net##.m-vote-banner
+mobile.twitter.com###credential_picker_iframe
+my-best.com##.p-item-part--footer
+nipponrentacar.co.jp##.noticeArea
+oceans-nadia.com###nadia-popup
+oceans-nadia.com###popup-overlay
+oceans-nadia.com##html[style="overflow: hidden;"]:style(overflow: auto !important;)
+outlook.live.com###mobile-speedbump
+outlook.live.com##body.locked:style(overflow: auto!important;)
+part.shufu-job.jp##.researchWrapper
+pinterest.*###__PWS_ROOT__:style(overflow: auto !important)
+pinterest.*##+js(aopr, scrollTo)
+pinterest.*##.Jea.OVX.QLY.Rym.ZZS._he.feh.hA-.jzS.p6V.qJc.s7I.wYR.zI7.iyn.Hsu[style*="z-index: 10000;"]
+player.fm##.open-in-app-promo
+player.fm##html.bottom-promo-showing body:style(height: auto !important; overflow: auto !important;)
+qiita.com##[id^=logly-lift]
+quora.com##.q-box > div[class^="CssComponent-"][style*="height: 50px;"]
+quora.com##.qu-pt--medium > .q-box[style="box-sizing: border-box;"] > div:not([class]) > div:not([class]) > div.q-box.qu-overflow--hidden[style="box-sizing: border-box;"] > div.qu-borderColor--blue
+r.gnavi.co.jp##.js-appealPointToast
+reddit.com##+js(aeld, block-body-scrolling)
+reddit.com##+js(rc, m-blurred, .m-blurred)
+reddit.com##+js(rc, scroll-disabled, body)
+reddit.com##.XPromoBlockingModal
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup.m-active
+reddit.com##.m-blurred:style(filter: none !important;)
+reddit.com##.xPromoAppStoreFooter
+reddit.com##.xPromoChoiceBanner
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##body.scroll-is-blocked:style(overflow: auto !important;)
+reddit.com##div[style^="filter: blur"]:style(filter: none !important;)
+reddit.com##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
+reddit.com##shreddit-experience-tree
+reddit.com##xpromo-nsfw-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal
+s.tabelog.com##.rstlst-map-box__tabelog-appli
+shibarinashi-wifi.jp##.footer-widgets-mobile
+songsterr.com###app > aside#promo
+storialaw.jp##.sp_f_nav
+swarmapp.com###modalDialogBox
+swarmapp.com###modalOverlay
+swarmapp.com##body.withVisibleModal #wrapper:style(position: static !important;)
+takashimaya.co.jp##.l-header__banner
+townwork.net##.js-chatApplyBanner
+woman.chintai##.agent-e.appeal-modal
+woman.chintai##.agent-no-scroll:style(position: static !important; width: auto !important; height: auto !important;)
+yellowhat.jp##.floatingCommon
+yourmystar.jp##^.toast-banner-block
+zeiri4.com##.b-stickyShoukaiBanner
+!#endif
+!#if ext_ublock
+m.qoo10.jp##+js(acs, $, layerpopup_mainBanner)
+!#endif
+!#if adguard
+m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
+!#endif
+
+! ---------- Browser check ----------
+/browserinfo.js
+/css_browser_selector.js
+/ie-emulation-modes-warning.js
+/ie10-viewport-bug-workaround.js
+/jquery.alerts.js
+/outdatedbrowser.js
+/videojs-ie8.$script
+/plugins/advanced-browser-check/*
+||americanairlines.jp/assets/js/legacy/plugins/aa-browser.
+||businesswire.com/js/videojs-ie8.
+||bwbx.io/s3/fence/notify-unsupported-browser/
+||bwbx.io/s3/javelin/public/javelin/js/unsupportedBrowserMessage/
+||crd.ndl.go.jp/reference/common/js/ie6.
+||digstatic.dmm.com/js/digital/check-macOS-
+||dmm.*/js/warning_banner.
+||hotel-story.ne.jp/js/iepngfix.
+||infoq.com^*/browser-update-org/
+||l-tike.com/js/useragent.
+||monex.co.jp/pc/static/js/browser_decision.
+||music.oricon.co.jp/lib/iecheck.
+||portal.auone.jp^*/legacy/js/pc_ie.
+||strikinglycdn.com/detectIE
+||suntory.co.jp/sun_common/contents_alias/special_msg/special_msg_for-ie.js
+||tbs.co.jp/um/v7/js/gh_ie8.
+||ticket.co.jp/jss/lib/browserCheck.
+||uktsc.com/js/browser-info.
+
+! ---------- Subscription ----------
+.newsletterForm-
+/email-newsletter/*
+/kadokawa-paywall-manager3/*
+/newsletters/widget/*
+/plugins/NKS-subscription/*
+/plugins/blossomthemes-email-newsletter/*
+/plugins/email-subscribers
+/plugins/facebook-like-page-locker-lite/*
+/plugins/getsocial/*
+/plugins/leaky-paywall
+/plugins/newsletter-
+/plugins/newsletter/*
+/plugins/sendpress/*
+/plugins/social-locker/*
+/plugins/wp-subscribe-pro/*
+/plugins/wplike2get/*
+/td-newsletter/*
+/wp-content/plugins/icegram/*
+/wysija-newsletters/*
+||activehosted.com^$3p
+||api-esp.piano.io/publisher/unattended/
+||blink.net/json/$xhr
+||campaign-list.com/subscribe/
+||data.reachplc.com^
+||mailerlite.com^$3p,domain=~howtosucceed.at|~riavrn.ru|~masterborn.com
+||subscription.ximera.com^$3p
+||telegram.im/widget-button/
+##.plugin-oa_notifier_qr_code
+##.plugin-qr_code
+##.widget_blog_subscription
+~dereferer.me###mc_embed_signup
+
+! Ignore generic
+2chblog.jp,crx7601.com,vipnews.jp##.plugin-oa_notifier_qr_code
+blogs.opera.com,cinci.jp,digiday.jp,majorgeeks.com###mc_embed_signup
+||buy-ap.piano.io/checkout/offer/show?displayMode=*&showCloseButton=false*&hasLoginRequiredCallback=true$frame,domain=www.japantimes.co.jp
+japantimes.co.jp##.tp-backdrop
+||reader.combzmail.jp^
+||tinypass.com^$domain=fortune.com|washingtontimes.com
+
+||1000ya.isis.ne.jp/img/common/AD_TOP_press.
+||adarutosaito.info/img/sdfsdfwsegrgwsdfdgsdfs.
+adarutosaito.info###rmenu > div > h4:last-of-type
+||affiliate-beginner.guidebook.jp^*/mailBanner-215x300.jpg
+||agqr.jp/img/bnr_left_ag_express.
+||alc.co.jp/img/common/snavbtn-mm-
+alc.co.jp##.mod-side-btn
+||amazonaws.com/ledge-assets/media/*/mailmag353-400.$image,domain=ledge.ai
+||applion.jp/d/img/applion_mail_
+applion.jp##.marea_side > .top_block_white
+applion.jp##.top_mail_box
+||aromanjo.com/img/banner/melmaga.
+||blog.tinect.jp/wp-content/themes/books-apps-pc/images/right-mailmagazine-reg.png
+||chukei-news.co.jp/common_2017/img/banner/mailmagazine-
+||cloudfront.net/images/englishlab/mail/$domain=rarejob.com
+rarejob.com##.mailmagArea
+||compass-media.tokyo^*/mail_magagine_
+||d.newsweek.com^*/starting5-homepage.$image,1p
+||g.newsweek.com/img/newsletter/subscribe-img-
+newsweek.com##.subscribe-block
+||diamond.jp/common/images/zai/v2/common/header-tools-btn.
+||dorei-yakata.com/img/bnr_maga.
+||enfant.living.jp/wp-content/themes/enfant/common/img/sidebar/mailmagazine.
+||enfant.living.jp/wp-content/themes/enfant/common/img/sns/sns-banner-
+enfant.living.jp##.mailmagazine_text
+||eset-info.canon-its.jp/files/user/images/banner_300x74.png
+||express.co.uk/img/dynamic/newsletterwidgets/
+express.co.uk##.newsletter-pure
+||farfetch.com/Newsletter/
+||globis.jp/assets/img/common/image_news_letter.
+globis.jp##.news_letter
+||go.pardot.com^$frame,domain=esi.com
+||go.techblitz.com/l/$frame,1p
+||goodsmileshop.com/medias/sys_master/root/h15/h36/8878460108830.png
+||hacks.mozilla.org/wp-content/themes/Hax/js/newsletter.
+||hamee-consulting.co.jp/wp-content/themes/ecbook/img/right_mailmag_bn.
+||honda.co.jp/layout/footer/img/btn_footer_mail
+honda.co.jp##.typesquare_option.footer-mail
+||honda.co.jp^*/banner-02.png
+||hotokami.jp/img/parts/top/DSC09263.jpg
+hotokami.jp##.mail_magazine_form--container
+||idcfcloud.net/dn_items/bnr/20201209_mail.jpg$domain=domonet.jp
+||imd-net.com/files/img/mag_btn.
+||ismcdn.jp/common/ggo/images/v1/mailmagazine-$domain=gentosha-go.com
+||itoh.com/images/bnr_news.gif
+||japan.cnet.com^*/newsletter*$image,1p
+||jmd.co.jp/libs/php/bv.php?no=211|
+||joinsubtext.com^$3p
+||js.pelcro.com^$domain=newsweek.com
+||lifewire.com/thmb/*/325x250/*/Email_Image-$image,1p
+lifewire.com##.news > .latest-issue-spotlight
+||livedoorblogstyle.jp/img/banner/ldbs_banner_
+||mag2.com/p/news/wp-content/uploads/*/mailmagazine.gif
+mag2.com##.in_alm
+mag2.com##.sidebar-content > section#text-18.widget_text
+||marketingnative.jp^*/mailmagazine_$image
+||media-platform.com/bi/dist/images/2020/06/06/H2_300-$domain=businessinsider.jp
+businessinsider.jp##.p-mailmag
+||minimized.hotokami.jp/*/s3-hotokami-contents.s3.amazonaws.com/img/banner/banner.png$image,1p
+hotokami.jp##.register-banner
+||mwcm.nytimes.com/capi/metered_assets/
+||native-store.net/medias/sys_master/root/ha8/hfc/
+||navi.kamuitracker.com/wp-content/themes/kamunavi/images/footer_kamuitracker
+navi.kamuitracker.com###footer-widget
+||netshop.impress.co.jp/sites/default/files/images/event/mailmag_banner_
+||newsbreak.com/_next/*/newsletter-prompt1.
+newsbreak.com##.newsletter-root-black
+||newsweekjapan.jp/2021/03/03/banner_nw_membership300.jpg
+||nli-research.co.jp/files/user/images/common/btn-mag
+nli-research.co.jp##.cont_mag
+nli-research.co.jp##.mag_btn
+||platform.californiatimes.com/meteringjs/$domain=latimes.com
+||pro.logitec.co.jp/about_hdd/hddssd/images/common/btn.jpg
+||rallys.online/wp-content/uploads/2022/01/bnr-mailmag0113.
+||recommendation-newsletter.wpdigital.net^
+||realestate-owner.com/wp-content/themes/apartment_online/img/mail_banner.png
+||reutersmedia.net/resources_v2/images/module-newsletter-
+reuters.com###hp-newsletters
+||sanwa.co.jp/images/mailmaga.
+sanwa.co.jp###mailmagazine-form
+||scientificamerican.com/sciam/cache/file/*_source.png?w=385&h=375^
+scientificamerican.com##.tout_subscribe
+||scrapbox.io/assets/modern-browser-
+||shoeisha.jp/lib/img/cmn/mailmagazine.
+minna-no-kurashi.jp##.pc_only.mail
+||smp.ne.jp/regist/is?$domain=travelvoice.jp
+||subs.youmaker.com/template/show?$domain=epochtimes.jp
+epochtimes.jp##.home_wall
+||tokyo-np.co.jp/tokyo-np/pages/koudoku/img/
+tokyo-np.co.jp##.koudoku_annai
+travelvoice.jp##.mailmagazine-button
+||suzuyoshoji.co.jp/n_images/withsmile/common/bnr_
+suzuyoshoji.co.jp##.top_bannerBox
+||tenro-in.com/wp-content/themes/tenroin/img/330x100xbanner01.
+||tenro-in.com/wp-content/themes/tenroin/img/330x100xbanner02.
+tenro-in.com###banner
+||theguardian.com/email/form/plaintone/the-long-read^
+theguardian.com##gu-island[props*="/email/form/plaintone/"]
+||thehikaku.net/control/img/mg_bn.
+||thinkit.co.jp/sites/all/themes/radix_thinkit/assets/images/mailmag.
+||udemy.benesse.co.jp/course$xhr
+||vector.co.jp/img_cache/tq/p/service/dm/
+vector.co.jp##table > tbody  > tr > td[align=center] > a[href$="/regist.cgi"]:upward(table)
+||washingtonpost.com/subscribe/paywall/get-softwall
+||webtan.impress.co.jp/sites/default/files/images/_information/mailmag/webtan_banner-
+||webbu.jp/wp-content/uploads/20200406.jpg.pagespeed.ce.pk6U0YBa0V.jpg
+||wp.com/nativ.media^*/Nativ.Newsletter.$image,domain=nativ.media
+||yamagata-np.jp/furusato/include/
+yamagata-np.jp###content_side > div > div:has(img[src^="/furusato/"])
+||yomiuri.co.jp/media/2021/06/bnr_a3.jpg
+yomiuri.co.jp##.layout-contents__sidebar > div[style="height:150px;text-align:center;"]
+||zdnet.com/newsletter/xhr/widget-login/
+
+100life.jp###register
+38news.jp##.sideContentHeading
+9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co,spaceexplored.com##.google-news-link
+aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtimesonline.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,spencereveningworld.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com###gnt_atomsnc
+agenda-note.com##.mail_box
+ams.com##.newsletter-info
+answers.ten-navi.com###sideForm
+apprev.smt.docomo.ne.jp##.container_btn_mail
+aps-web.jp##[id^="mc4wp_form_widget-"]
+arkhe.tokyo##.mail_magazine
+arstechnica.com##.ars-newsletter-callbox
+asahi.com##div[x-component-name="LeadNewsLetter"]
+asia.nikkei.com###newsletter-signup
+assion.co.jp###sidebar > .affix
+bamp.media##.mailMagazine
+bbc.com###zephr-message
+bbc.com##div[id^="piano-inline"]
+bio.nikkeibp.co.jp##.-mail.l-asideBanner
+bitwave.showcase-tv.com##.merumaga
+bizhint.jp##.sg-recommend-register-area
+bizmates.jp##.p-magazine
+blog.google##.uni-newsletter-toast
+blogs.opera.com###download-iframe--sticky-bar
+booking.com##.emk_footer_update
+bunshun.jp###mail-magazine
+businessinsider.com,insider.com##.inline-newsletter-form
+businessinsider.jp###mail_mag-under_title
+buzzfeednews.com##div[class^="newsletter-"]
+cbsnews.com##.newsletter_signup
+ciatr.jp##.article-footer-unit > h2.head-main:has-text(ニュースレター)
+ciatr.jp##.news-letter-item
+cloudflare.com##.bottom-0.bg-blue0
+cnet.com##.c-newsletterSticky
+cnet.com##div[section="homepage-email-promo"]
+cnet.com,vanityfair.com,wired.com##.newsletter-subscribe-form
+cnn.com,icij.org,sakisiru.jp##.newsletter
+crea.bunshun.jp##.mail-magazine
+croissant-online.jp##.mod-subscribemailmagazine
+dailyshincho.jp##.l-contents__section > dl.p-entry
+e-flux.com##.landing-subscribe
+economist.com##.layout-article-promo
+exchangewire.jp##.SocialNewsletter_Widget
+exp-d.com###mc4wp_form_widget-1
+expressvpn.com##.wrap-subscribe
+final-inc.com###shopify-section-newsletter-type01
+financialexpress.com###id_newsletter_subscription
+fjolt.com###subscribe
+financialpost.com,thebridge.jp##.newsletter-widget
+foreignaffairs.com###newsletter-sign-up-message
+foreignaffairs.com##.paywall
+fullfact.org##.signup
+gazoo.com##.mailmag_link
+giveawayoftheday.com##.subscribe_block
+gizmodo.com##.js_newsletter-form-inline
+globe.asahi.com##.module-article-mailmag
+goal.com##+js(nostif, function(){return i(!0)}, 3000)
+goal.com##.molecule-newsletter:style(background: none!important)
+goal.com##section[data-type="NewsletterComponent"]
+gooday.nikkei.co.jp##.gdy-member-apply
+gqjapan.jp##.ticker-view
+gqjapan.jp##section[class^="LinkBannerWrapper"]
+historytoday.com###signup-popup
+hivelocity.co.jp##.hvc-information
+honichi.com##.mailmag-text-banner
+honichi.com##.side-mailmag-box
+htc.com##.marketo-form-pop-up-section
+huffingtonpost.jp##.card--newsletter
+huffingtonpost.jp##.newsletter__contents
+independent.co.uk##.newsletter-component
+inshokuten.com##.mailMagazineArea
+itmedia.co.jp###colBoxMailmag
+itmedia.co.jp##.footerMailmag
+jafmate.jp##.go_mailmagazine
+japan.cnet.com###article_under_nllink
+japan.zdnet.com##.article-mailmagizine
+japan.zdnet.com##.mailmagazine
+javcc.com###text-6
+jbl.com##.mail-form
+jinjibu.jp##.l-registerarea
+jre-travel.com##.mailmag_box
+jstage.jst.go.jp##.sticky-register-to-j-stage
+kawashima-ya.jp###fix_sidebar
+kotaku.com##.js_newsletter-form-inline
+kwm.co.jp##.book_link
+lancers.jp###js-work-detail-sign-up-footer
+lastpass.com##.marketo
+lifehacker.com##.js_subscribe
+limo.media##div[class^="formbox-editor"]
+lnews.jp##.sp-btn-mail-magazine
+mag.sendenkaigi.com##.right-box > a.mm-invite-link:upward(1)
+maildealer.jp##div.modalbn
+malaysiaairlines.com##.newsletter-container
+marketing-campus.jp##.mod_mailbox
+markezine.jp##.l-sidebar_inner > div.c-ctabox
+mashingup.jp##div[class$="MailMagazine"]
+moongift.jp##.pre_text.mg-no-premium
+motorsport.com##.ms-footer > div.ms-footer_top:has(> div.ms-footer_top-start > a[href="/info/newsletter/"])
+mrcasinova.com##.email-subscribe
+mtame.jp##.e_zine_box
+mylohas.net##.s-Present
+neurosciencenews.com##.optinforms-form-container
+newsweek.com##.promo-link
+newsweek.com,pcgamer.com##.newsletter-signup
+nordvpn.com##.SubscribeSection
+nta.co.jp###rt_mail2
+nytimes.com##div[data-testid="inline-message"]
+nytimes.com,nytimes3xbfgragh.onion##.MAG_web_anon_new-journey-rollout
+phileweb.com###rmenu_mail
+picmix.com###newsletter
+pnas.org##.signup-ad
+popeyemagazine.jp##.grid-news-letter
+pornhub.com##.ml-subscribe-form
+profuture.co.jp##.mailmagazine-box
+pubsonline.informs.org##.ib-green-bg > div.row.separator[data-widget-def="ux3-layout-widget"]
+qiita.com##.apm-Content
+redshift.autodesk.co.jp##.block-newsletter
+reuters.com##div[class^="registration-prompt"]
+reuters.com##div[class^="regular-article-layout__newsletter"]
+sbssupport.jp##.mail_mag
+scientificamerican.com###promo-header
+scientificamerican.com##.newsletter-promo
+scientificamerican.com##.newsletter-subscribe-container
+shikousakugo.jma.or.jp###st_custom_html_widget-4 a.st-originallink
+skyscanner.net###email-capture-trigger
+skyscanner.net##body:style(overflow: auto!important; padding-right: 0!important;)
+snidel.com##.block-mail
+snrec.jp##.btn-black[href="https://www.snrec.jp/newsletter"]
+square-enix-games.com###newsletter-subscription-2
+stackexchange.com##.js-dismissable-hero:has-text(Sign up)
+startpage.com##.article-block--newsletter
+stream.co.jp##.base__widget
+techcabal.com###list-newsletter-form
+techcrunch.com##.newsletter-signup-block
+techwave.jp##.jetpack_subscription_widget
+telecom.nikkei.co.jp##.scroll-btn
+thatskygame.com###mc-embedded-subscribe-form
+thedrive.com##.NewsLetter
+theguardian.com###footer__email-form
+theintercept.com##.Homepage-HomepageAdList-HomepageAdListMember-newsletter
+theintercept.com##.Newsletter
+theintercept.com##.NewsletterEmbed-container
+thenextweb.com##.channel-cta
+theregister.com##.newsletter_signup_unit
+theverge.com##.duet--cta--newsletter
+tomsguide.com##div[id^="slice-container-newsletter"]
+tp-link.com##.tp-follow-subscribe
+ubunlog.com##.widget_newsletterwidget
+union-company.jp###mailupdate
+urbandictionary.com##.flex-1 > div[data-x-data="subscribeData()"]
+usatoday.com##aside[aria-label="Newsletter signup form"]
+vectorenewables.com##.eb-inst.eb-bottom-right
+vietnamairlines.com##.subcribe
+vox.com##.c-action-box
+wikihow.jp###rr_newsletter
+wikihow.jp##.newsletter
+wired.jp##.ticker-wrapper
+wisdommingle.com###post-end-optin-box
+wisdommingle.com###sidebar-optin-box
+wwdjapan.com###wwdj-mail-magazine-2
+washingtonpost.com##.db-l.dn.hide-for-print
+wsj.com###cx-candybar
+wsj.com##.type-InsetNewsletterSignup
+wwdjapan.com###wwdj-registration-2
+www.asahi.com##.p-news + .p-info
+xda-developers.com###newsletter-sidebar-subscribe
+
+!#if !env_firefox
+webbu.jp###text-7
+!#endif
+!#if env_firefox
+webbu.jp##^#text-7
+!#endif
+!#if env_mobile
+||nli-research.co.jp/files/user/images/sp/common/icon_mailM.png
+||thesun.co.uk/simwidgets/v1/sim$frame
+
+blog.livedoor.jp##.content > aside.section-box:has(> div.plugin-follow_buttons)
+booking.com##.hide-newsletter-menu-tab
+cnn.co.jp##.line-news-banner
+newsweekjapan.jp###magazine-bnr
+part.shufu-job.jp##.footerResistBanner
+ryutsuu.biz##.sp-btn-mail-magazine
+wsj.com##amp-subscriptions-dialog
+wwdjapan.com##.wwdj-mail-magazine
+!#endif
+
+! ---------- Reccomend/Feedback ----------
+/crm/site_button/loader_*.js
+/lucyinc-xeory-related-e5a7f89ccecf/*
+/onlineopinionV5/*
+/plugins/anyway-feedback/*
+/plugins/nrelate-related-content/*
+/plugins/wp-awasete-yomitai/*
+/plugins/xeory-related/*
+/plugins/yuzo-related-post/*
+/wp-content/plugins/futura/*$~css
+/wp-content/plugins/thrive-leads/*
+/wp-content/plugins/thrive-ultimatum/*
+@@||awasete.nakanohito.jp^$image,3p,badfilter
+@@||popin.cc/comments/emoji/bar?url=*.jp/ad/$xhr,3p,badfilter
+||actionbutton.co^$3p
+||aja-recommend.com^
+||cdn.reamaze.com^$3p
+||cxpublic.com^$3p,domain=~wpb.shueisha.co.jp
+||d.rcmd.jp^
+||disqus.com/recommendations.js
+||gacraft.jp^$3p
+||getsitecontrol.com^$3p
+||gravityrd-services.com^$3p
+!||i.popincdn.com^
+||leadfamly.com^$3p
+||linkwithin.com^$3p
+||questant.jp^$3p
+||recommend-jp.misumi-ec.com^
+||recommend.tws.toyota.jp^
+||recommendations.data.tm-awx.com^
+||salesiq.zoho.com/widget
+! search broken @dhc.co.jp
+!||snva.jp^
+||surveymonkey.com^$script,3p,domain=~surverymonkey.co.uk|~surveymonkey.co.uk|~surveymonkey.de
+
+||adobedtm.com^$3p,domain=lululemon.*
+||ameba.jp/blog/xml/mk_data/
+||azby.fmworld.net/usage/images/banner_enquete.jpg
+||docs.google.com/forms/*/viewform?embedded=true$domain=wired.jp
+||fandom.com/f2/api/public/feed
+||fandom.com/f2/api/public/hot-content-module
+||gamewith.jp/enquete/banner.png
+gamewith.jp##.gdb-enquete-banner
+||gazoo.com/pages/_system/recommend/
+||google.com/shopping/customerreviews/badge?*&position=BOTTOM_RIGHT&$domain=store.nanouniverse.jp
+store.nanouniverse.jp###___ratingbadge_0
+||iteratehq.com^$3p
+||itmedia.co.jp/js/enterprise/altblog/scranking_blog_2days.$domain=blogs.itmedia.co.jp
+||japan.zdnet.com/parts/frame/recent_comp_info_
+||japan.zdnet.com/parts/frame/tr_recent_
+||mainichikirei.jp/assets/kirei/images/pc_title_popIn_recommend.svg
+||nicoad.nicovideo.jp/v1/nicoad/introduction?$domain=www.nicovideo.jp
+||nicoad.nicovideo.jp/v1/nicoad?$domain=game.nicovideo.jp|www.nicovideo.jp
+||player.cnevids.com^$domain=wired.com
+wired.com##amp-iframe[src^="https://player.cnevids.com/"]
+||popin.cc/lib8-lightweight/popIn-discovery-8.$domain=~htb.co.jp|~medical.jiji.com
+||popin.cc/popin_discovery5-$domain=~hochi.news|~kahoku.news
+||popin.cc/searchbox/$domain=~htb.co.jp|~hochi.news|~kahoku.news|~medical.jiji.com
+||services.fandom.com/recommendations/
+||services.fandom.com/wiki-recommendations/
+||sns.d2pass.com/ajax/getCampaignNews|
+||this.kiji.is/widgets/$domain=saitama-np.co.jp
+||travel.rakuten.co.jp/mytrip/sites/mytrip/files/2021-05/survey-awareness-1300_60.jpg
+||techcrunch.com/wp-json/wp/v2/tc_events
+@@||marryol.net/ad-arent-$xhr,1p,badfilter
+@@||popin.cc/popin_discovery/recommend?$script,domain=mainichikirei.jp,badfilter
+
+24.rakuten.co.jp##.WidgetForm-Form > div.Nps
+amazon.*###customer-survey_feature_div
+amazon.*##.shoppingCxFeedbackRootWidget
+arne.media###custom_html-4
+arne.media###custom_html-5
+b.kyodo.co.jp##.banner-area-entry + h3.category-title
+bepal.net##.modBlockAdsOsusume
+biteki.com##.btn_back_to_list + div > .recommend_title
+bunshun.jp##.block-header:has-text(SPECIAL)
+bunshun.jp##a[href$="?ref=special"]
+crank-in.net##.right_in:has(div[id^=_popIn_trend])
+crank-in.net##section .uz-ny:upward(1)
+cybozu.help###enquete
+cs.myjcom.jp###enq_fixed
+deloitte.com###poll-bar
+dengekionline.com##.gRankMoreNav
+docomo.ne.jp###survey_questionnaire_block
+encyclopedia.ushmm.org###open-feedback
+esquire.com###recommended-modal
+excite.co.jp##.linkaff
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(/Suggested for You|おすすめの投稿/)
+facebook.com##div[role="main"] div[style="height: 0px;"] + div[class] > div[class] > div[class] div[class] div[class][style*="border-radius"]
+facebook.com##fieldset > legend > div[style^="margin-start"] span > span[style$="-webkit-box"]:has-text(/^この情報は役に立ちましたか？$/):upward(fieldset)
+fandom.com###SurveyModule
+finders.me##.__popin
+finders.me##.__recommendedPosts
+forbesjapan.com##.main-article-padding > .stream-body-container > .sticky_column_wrap:has(.ad-rail)
+fujinkoron.jp##.recommend
+google.*###google-hats-survey
+i-voce.jp##.recommendSlideSheetArea
+! おすすめ （タイムライン）
+instagram.com##main > section > div > div div > span + a[href="/explore/people/"]:upward(2)
+iphone-diary.com##.awasete_yomitai
+itmedia.co.jp###ISALCT
+itmedia.co.jp##._popIn_recommend
+j-cast.com##.pickup8
+joins.com##.popin
+jstage.jst.go.jp###right-feedback-btn
+komachi.yomiuri.co.jp##._popIn_ranking_otekomachi
+komachi.yomiuri.co.jp##._popIn_recommend_tieup
+komachi.yomiuri.co.jp##.topi-popin-relation
+latimes.com##.Enhancement > .PromoSmall
+machicon.jp###_popIn_recommend
+mbs.jp##.common-wrap--ranking
+media.moneyforward.com##.mp-popin-analytics
+media.moneyforward.com##.mp-recommends
+moyugenn.youblog.jp##.main-column-inner > span:has-text(おすすめ)
+msn.com##.floatingfeedback
+news.mynavi.jp##.articleList-attention
+news.webike.net###custom_html-3
+news.webike.net###custom_html-5
+office.com###feedbackContainer
+oricon.co.jp##.cont-news-full > aside.block-recommend-list.wid80 > h3#related_musicstore_links:upward(1)
+oshiete.goo.ne.jp###recommend_info
+oshiete.goo.ne.jp##.specialistAnswerArea
+otekomachi.yomiuri.co.jp###_popIn_right
+otekomachi.yomiuri.co.jp##.p-ads
+otonanswer.jp##aside > div[style="min-height: 881px;"]
+r.gnavi.co.jp##.questionnaire-term
+rakuten.co.jp###rexSurveyEmbedded
+rakuten.co.jp,srdk.rakuten.jp###rexSurveyRoot
+review.rakuten.co.jp###surveyArea
+socom.yokohama###check-also-box
+style.nikkei.com##.floating_related
+travel.rakuten.co.jp###edit-article-survey--wrapper
+media.moneyforward.com##.home-ranking
+mens.tasclap.jp##.l-action-button-recommend
+tiktok.com##.feedback
+topics.or.jp##.recommend-article
+transit.yahoo.co.jp##.realestateSlink
+! おすすめのツイート
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##article[data-testid=tweet]:has(span[aria-label^="おすすめトピック:"][data-testid=socialContext])
+! おすすめユーザー
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##aside[aria-label=おすすめユーザー]:upward(1)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"] > div > div[style^=transform] > div a[href^="/i/connect_people?"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"] > div > div[style^=transform] h2 > div[style^="-webkit"] > span:has-text(おすすめユーザー):upward(div[style^=transform])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"]  > div > div[style^=transform]:has(div[aria-label^=フォロー][role=button] > div > span > span)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 話題を検索"] > div > div[style^=transform] > div a[href^="/i/connect_people?"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 話題を検索"] > div > div[style^=transform] h2 > div[style^="-webkit"] > span:has-text(おすすめユーザー):upward(div[style^=transform])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 話題を検索"] > div > div[style^=transform]:has(div[aria-label^=フォロー][role=button] > div > span > span)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] > div a[href^="/i/connect_people?"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] h2 > div[style^="-webkit"] > span:has-text(おすすめユーザー):upward(div[style^=transform])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform]:has(div[aria-label^=フォロー][role=button] > div > span > span)
+! リツイートをもとにおすすめ
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"] > div > div[style^=transform]:has(a[id][href^="/i/topics/"] > span[aria-label^=おすすめトピック])
+! おすすめトピック
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: "] h2 > div[style^=-webkit] > span:has-text(おすすめトピック):upward(div[aria-label="タイムライン: "])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] > div a[href^="/i/topics/picker/home"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] > div[class^=css]:only-child > div[class^=css]:only-child:empty
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] div[data-testid=ScrollSnap-SwipeableList]:has(div[aria-label^=トピック「][aria-label$=をフォロー])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^=タイムライン][aria-label$=さんのツイート] > div > div[style^=transform] h2 > div[style^=-webkit] > span:has-text(おすすめトピック):upward(div[style^=transform])
+! リストを見つける
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 自分のリスト"] > div > div[style^=transform] > div a[href="/i/lists/suggested"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 自分のリスト"] > div > div[style^=transform] h2 > div[style^=-webkit] > span:has-text(新しいリストを見つける):upward(div[style^=transform])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: 自分のリスト"] > div > div[style^=transform]:has(> div > div > div[role=link] div[role=button] > div > span > span)
+! タイムラインにトピックも表示しましょう
+!twitter.com##div[style^="position: absolute"] section > div[aria-label="タイムライン: Carousel"] > nav div[role=presentation]:first-child > div > div:first-child div[aria-label^="トピック「"]:upward(div[style^="position: absolute"])
+!twitter.com##div[aria-label="タイムライン: ホームタイムライン"] > div[style] > div[style^="position: absolute"] div > a[href="/i/topics/picker/home"]:upward(div[style^="position: absolute"])
+!twitter.com##div[aria-label="タイムライン: ホームタイムライン"] > div[style] > div[style^="position: absolute"] h2 + div[style^=-webkit] > span:has-text(これらのトピックについてのトップツイートが):upward(div[style^="position: absolute"])
+!twitter.com##div[aria-label="タイムライン: ホームタイムライン"] > div[style] > div[style^="position: absolute"] h2 + div[style^=-webkit] > span:has-text(これらのトピックについてのトップツイートが):upward(div[style^="position: absolute"]) + div[style^="position: absolute"]
+! プッシュ通知
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label^="タイムライン: "] > div > div[style^=transform] h1 > span:has-text(プッシュ通知):upward(div[style^=transform])
+! カスタマイズした広告
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"]  > div > div[style^=transform]:has(span > a[href="/settings/account/personalization"])
+! 関連トピック
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: タイムラインを検索"] h2 > div[style^=-webkit] > span:has-text(関連トピック):upward(div[style^=transform])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: タイムラインを検索"] > div > div[style^=transform] > div > div > a[href^="/i/topics/"]
+! アクセシビリティ
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[aria-label="タイムライン: ホームタイムライン"] > div > div[data-testid=cellInnerDiv] div[data-testid=inlinePrompt] span[dir] > span > span:has-text(Twitterのアクセシビリティを高めましょう):upward( div[data-testid=cellInnerDiv])
+visa.co.jp###_pi_surveyWidgetContainer
+wedge.ismedia.jp##.related-article
+wikihow.jp###article_rating_mobile
+www.nicovideo.jp##.FeedbackLink
+! おすすめユーザー
+www.pixiv.net##body > div:not([id]) > div[class][style="transform: translateY(0px); opacity: 1;"]:only-child
+www.yahoo.co.jp###Service.ult__mods
+yourbengo.jp##.contentrating-fixedguide
+youtube.com##ytd-statement-banner-renderer
+yukawanet.com###custom_html-27
+!youtube.com##ytd-thumbnail-overlay-endorsement-renderer
+
+!#if !env_firefox
+banger.jp##.l-popup
+bike-news.jp##.swiper-slide[data-history^=photo_extra]:remove()
+blog.goo.ne.jp##.block__shop
+diamond-fudosan.jp##.sc-recommend
+nordot.app##.brandModule
+otonanswer.jp##.swiper-slide-extra:remove()
+response.jp,spyder7.com##.sidebox-pickup
+!#endif
+!#if env_firefox
+banger.jp##^.l-popup
+bike-news.jp##^.swiper-slide[data-history^=photo_extra]
+blog.goo.ne.jp##^.block__shop
+diamond-fudosan.jp##^.sc-recommend
+nordot.app##^.brandModule
+otonanswer.jp##^.swiper-slide-extra
+response.jp,spyder7.com##^.sidebox-pickup
+!#endif
+!#if env_mobile
+||moviewalker.jp/assets/images/news/btn_pickup_
+moviewalker.jp##.bl_pickup_btn
+app-liv.jp##.p-pr-carousel
+m.facebook.com##div[data-type="vscroller"] > div[style^="margin-top:6px; height:35px; z-index:0; width:"]
+m.facebook.com,mobile.facebook.com###m_news_feed_stream article:has-text(/Suggested for You|おすすめの投稿/)
+m.facebook.com,mobile.facebook.com##article[data-xt*="originated_from_recommendation"]
+mainichi.jp###pi-amp-article-recommend
+news.2chblog.jp###resid1 > div > div:last-child > span[style="font-size: 100%;"]:upward(1)
+news.ntv.co.jp##.contentsWrapper > div > div.big-ad-wrapper:upward(2)
+automesseweb.jp###_popIn_ranking:upward(.code_php_in_widget)
+!#endif
+
+! ---------- Promo ----------
+||fwcdn1.com/js/storyblock.js
+||i.bcicdn.com/promotions/
+||usefomo.com^$3p
+
+/\/upload\/banner\/(?!sidebar).*/$image,1p,domain=alphapolis.co.jp
+||10mtv.jp/image/column/pc_ad*$image,1p
+10mtv.jp##div[style^="width:610px; height:260px"]
+||akamaized.net/sbisec/images/banner/bnr175_600_$domain=sbisec.co.jp
+||akamaized.net/sbisec/images/banner/bnr980_120_campaign_lp_$domain=sbisec.co.jp
+||alpen-group.jp/images/parts/banner/footer/ec_footter_PC_740_110.
+store.alpen-group.jp##.footer-media
+||alphapolis.co.jp/business/series/*/head.png
+||amazonaws.com/ledge-assets/media/*/techblog_banner.$domain=ledge.ai
+||amazonaws.com/qumeru-media/production/file_resources/files/000/000/$image,domain=qumeru.com
+||amazonaws.com^*/btbanner.png$domain=blog.best-teacher-inc.com
+||apexlegends-news.com/wp-content/uploads/2021/08/pc.jpg
+apexlegends-news.com###fix_sidebar
+||aps-web.jp/wp-data/wp-content/uploads/2021/01/footer_banner_rt_
+||asahicom.jp/shukatsunavi/assets/images/column/prebiz_banner660x100px.jpg
+||autoc-one.jp/article-assets/image/top/campaign_700x100.
+||azby.fmworld.net/ad/common/images/ad_bnr_
+||azby.fmworld.net/misc_top/images/niftyhikari.png
+azby.fmworld.net###subContents > div.mrgB10:last-of-type
+||bakusai.com/p/img/banner2/
+||baraero.com/wp-content/uploads/2020/06/stayhome.$image,1p
+baraero.com##.content > div[style="float: none; margin:0px;"] > .entrydiscription
+baraero.com##.entrymidashi3
+||biglobe.ne.jp/i/startpage/210524_startpage_bnr.png
+biglobe.ne.jp###spage-bnr
+||biz.chunichi.co.jp/common/images/bnr-trial
+||biz.chunichi.co.jp/common/images/bnr-youth-campaign.jpg
+||biz.moneyforward.com/tax_return/basic/wp-content/uploads/*/600.png
+||biz.moneyforward.com/tax_return/basic/wp-content/uploads/*_banner600_600.png
+||biz.moneyforward.com/tax_return/basic/wp-content/uploads/*_post-ads-top_186x1280.png
+||biz.moneyforward.com/tax_return/basic/wp-content/uploads/*_sidebar_1200%C3%97600.png
+||biz.moneyforward.com/tax_return/basic/wp-content/uploads/2021/04/banner_startup.png
+||blog.acworks.co.jp/wp-content/uploads/2017/01/Illustrator.jpg
+||blog.acworks.co.jp/wp-content/uploads/2017/01/creator.jpg
+||blog.sideriver.com/flick/img_bnr/
+||blog.ti-da.net/contents/tida_business/assets/img/bizplan_bnr300px.
+||bnl.media/uploads/ECD_BNL_baner_
+||card-media.money.rakuten.co.jp/assets/contents/banner/
+card-media.money.rakuten.co.jp##.adbanner
+card-media.money.rakuten.co.jp##.rcardbox
+||caribbeancom.com/images/banner_top/pr/
+caribbeancom.com##.top-pr
+||cgworld.jp/article/images/640_150_bnr.jpg
+||chocolat.work/assets/img/renewal/user/pc/index/bnr/campaign_banner01.png
+chocolat.work##.anchor-mensChocolat
+||chocolat.work/assets/img/user/pc/recruit/menu_recruit.jpg
+||chukei-news.co.jp/common_2017/banner/
+chukei-news.co.jp##.headerbanner
+||cloudfront.net/images/company-top-banner-$domain=en-hyouban.com
+||cloudfront.net/uploads/banner/$domain=jmty.jp
+||cloudfront.net^*/movie_ad/$media,domain=tokyo-calendar.jp
+tokyo-calendar.jp##.ad-premium-panel
+tokyo-calendar.jp##.movie-link
+||cr.mufg.jp/mycard/assets/img/parts/bnr_
+cr.mufg.jp##.l-banner
+cr.mufg.jp##.l-bnrPOP
+||daijob.com/images/mdj/page/index/banner/
+||daijob.com/user/media/images/banners/
+||dhbr.net/mwimgs/*/3/300/img_
+||dictionary.goo.ne.jp/img/nandoku_kanji/promotion/300x90.jpg
+||digital.asahi.com/pr/cp/
+||dime.jp/assets/img/present/bnr_
+||dmusic.docomo.ne.jp/dm-p*/banner/
+||duckduckgo.com/assets/onboarding/bathroomguy/1-monster-v2--pre-animation.svg
+duckduckgo.com##.badge-link--full:style(visibility: hidden !important;)
+duckduckgo.com##.content-info
+duckduckgo.com##.onboarding-ed
+||e-ohaka.com/img/pc_banner05.png
+||e-ohaka.com/regist_resources/img/form_b_pc0818.png
+||ebook-assets.dmm.co.jp/p/bnr/dc/topics/large/book_
+||eigo.plus/wp-content/uploads/2022/03/lpbnr1.jpg
+||embed.audioburst.com^$domain=gingerweb.jp
+||estar.jp/assets/images/estar_ex/recommend_estar_ex_with_ticket.png
+estar.jp##.recommend
+||fenet.jp/infla/common/images/banner_nyusya_oiwai_
+||fineboys-online.jp/thegear/content/theme/img/org/banner/
+fineboys-online.jp##.topBanner
+||fireworkapi1.com^$domain=final-inc.com|golfsapuri.com|hanako.tokyo|jj-jj.net|maquia.hpplus.jp|mensnonno.jp
+||foxnews.com^*/fox-news/nation-promo/nation_promo_$image,1p
+||gamebiz.jp/media/97313759-b923-49a3-ac97-d929f7cfa82e.jpg
+||gamewith.jp/walkthrough/recruit/banner.png
+gamewith.jp##.walkthrough-recruit-banner:upward(1)
+||gnst.jp/public/sales/header/img/$domain=gurutabi.gnavi.co.jp
+||goo-net.com/cache/common/bnr/bnr_carlease_600_500.png
+||goo-net.com/sss/kaitori/assets/img/bunner/
+||gooday.nikkei.co.jp/images/campaign/
+||google.*/async/promos?$xhr
+||gorin.jp/img/tver_banner/
+||h0874.com/img/toy_824x179.jpg
+h0874.com###channelBanner2
+||hasunoha.jp/assets/banner_talks_square-
+||hnavi.co.jp/wp-content/themes/hnavi/assets/img/site/new-3step-alt02.jpg
+||hrpro.co.jp/images/banner_img/sp_
+||ict-enews.net/img/banner/
+||idcf.jp/sevice_shared/img/*/bnr_
+||ibarakinews.jp/image/banner/
+||images.wondershare.com/*/fotophire-article-banner.jpg
+||isenp.co.jp/images/regmie.
+||ismcdn.jp/common/too/images/v1/common/logo_too-plus-02.jpg$domain=toonippo.co.jp
+||ismcdn.jp/mwimgs/*/300w/img_$domain=toyokeizai.net
+||itabashi-times.com/wp-content/uploads/adBanner.jpg
+||itbengo-pro.com/assets/banner/line_cta_banner.png
+||iwate-np.co.jp/content/mekke/img/
+||iwate-np.co.jp/page/content/media/
+iwate-np.co.jp##div[class$=-CMSbox]
+||iza.ne.jp/common/images/v1/banner_newsvideo.png
+||jidoushatounan.com/wp/wp-content/uploads/2018/05/img-01.jpg
+||jidoushatounan.com/wp/wp-content/uploads/2020/05/ninteiten.jpg
+||jj-blues.com/cms/wp-content/uploads/2018/04/585e852d2cfdd37d9e51e7564654f50f-1.jpg
+jj-blues.com###text-10
+||k-img.com/images/bb/parts/$domain=review.kakaku.com
+||k-img.com/images/id/id_benefit/bnr/bnr_id_benefit01_740x50.png$domain=review.kakaku.com
+||k-img.com/images/article/sp/eco-sustainable/720x84.png$domain=kakaku.com
+||kai-you.net/img/banner/sidebanner_
+kai-you.net##.l-side-banner_list
+||kamigame.jp/img/top/recruit.png
+||kanaloco.jp/archives/013/201902/c07a4901b8bb49c86ec4edcddcf906c3.jpg
+||komeri.com/include_html/include/cart/img/*_bnr_card.jpg
+||komeri.com/include_html/include/cart/img/bnr_dc.jpg
+||kumamanga.my.id/wp-content/uploads/2020/11/Kuma.png
+||lifetoronto.jp/images/bnr/
+lifetoronto.jp##.side-ad
+||luxuretv.com/includes/camclub/
+luxuretv.com##.contentsvideosimilaire > .cam
+||maildealer.jp/asset/image/column/common/bnr-
+||make-up-solution.com/ec/images/brand/canmake_footerSP_
+make-up-solution.com###footerSpbanner
+||mbok.jp/image/campaign/*_468x80.
+||mikiki.tokyo.jp/mwimgs/0/5/-/img_05920e67dc1ba63c6aea6d7da97cfc3a24737.jpg
+||minato-yamaguchi.co.jp/yama/images/banner/ins_index_banner2.
+||mistore.jp/cart/onlinestore/common/images/micbanner.png
+||mtame.jp/dcms_media/image/banner_btobdl.
+||mtame.jp/dcms_media/image/banner_cb03.
+||mtame.jp/dcms_media/image/seminar_
+||mtame.jp/dcms_media/image/webtame_banner_
+||naturum.ne.jp/usr/n/a/t/*/naturum_accountcreate.png
+||navitime.co.jp/*/account/walk/proplus_myspot_banner.png
+||navitime.co.jp/*/drive/banner/banner_rentacar.png
+||navitime.co.jp/*/route/comparison/travel/travel_car_banner.svg
+||netanswerplus.saisoncard.co.jp/WebPc/pages/images/person/login/*_520_230_CS_
+||news.biglobe.ne.jp/img/bnr/
+news.biglobe.ne.jp###right-side-inner > .bnr > div > a[onclick]:upward(2)
+news.biglobe.ne.jp###right-side-inner > .bnr:last-child
+||newsweekjapan.jp/images/bnr/newsweek_ad_
+||niigata-nippo.co.jp/images/banner/
+niigata-nippo.co.jp##.col_banners_inline
+||nnn.co.jp/images/adn/
+||oisiso.com/js/ad/
+||omni7.jp/cm/0000/sc_image/pc/bnr/top/small/orderbnr/
+||operacdn.com/wp-content/themes/opera-2014/static/img/banner/opera-win_
+||originalnews.nico/wp-content/uploads/*/ntop_banner*$image,1p
+||oshiete.xgoo.jp/images/common/grade_daccount_
+||oursounds.net/common/images/bnr_r40_ft.jpg
+||p.dmm.co.jp/p/general/ds/bnr/
+||pacopacomama.com/dyn/dla/images/pr/
+pacopacomama.com##.top-pr
+||pdf.wondershare.jp/images/images2021/topic/protect.png
+pdf.wondershare.jp###icon-anchor-right
+||pharma.mynavi.jp/img/areabnr/bnr_top_
+||pharma.mynavi.jp/sp/img/bg_pr.gif
+pharma.mynavi.jp##.pr
+||r10s.jp/com/img/home/smart/top/ecosystem/bnr/$domain=rakuten-bank.co.jp
+rakuten-bank.co.jp###rc-gp-banner
+||ranking.xgoo.jp^*PC_650_80.png$image,3p,domain=ranking.goo.ne.jp
+||realsound.jp/wp-content/themes/realsound/img/rs-career/bnr-
+realsound.jp###rsCareer
+||reneelab.com/wp-content/uploads/sites/5/2019/05/renee-pdf-aide-new2.jpg
+reneelab.jp###text-123
+||report.clinic/theme/clinic/img/common/overhead_banner_app_
+report.clinic##.banner_campaign_app
+||response.jp/base/scripts/a.min.js
+||saisoncard.co.jp/credictionary/*-img/cre_gold_bnr_
+||saisoncard.co.jp/credictionary/*-img/cre_pt_bnr_
+||saisoncard.co.jp/html/7N/PC/iframe/pages/images/login_auth_bnr1802.
+||saitama-np.co.jp/ad/
+||sanspo.com/common/images/race/banner/d-index_pcbanner02.jpg
+||sakigake.jp/images/btn_
+||sannichi.co.jp/images/side_bnr_
+||scdn.co/i/account/overview/iphone-ddd9e69.png$domain=spotify.com
+spotify.com##div[class*=Hero__rootWithNavigationPadding] > div[class*=Hero__inverse]:has(.col-lg-6.col-sm-7 > a[class*=CTA__root][href$="/purchase/premium/"])
+||seolaboratory.jp/banner/
+||smt-cinema.com/ad/
+smt-cinema.com##.tieupBanner
+||sourcenext.com/~/media/Images/pr_sc/
+||sponichi.co.jp/cx/images/896_690_
+||sponichi.co.jp/gamble/auto/images/charilotobanner005_
+||st-hatena.com/images/fotolife/s/sorahax/20220314/20220314222247.gif$domain=hackwiki.net
+||star-ch.jp/resources/img/banners/*_300x200$image,1p
+star-ch.jp##.sc-footer__contents2
+||strate.biz/wp-content/uploads/*/banner.
+||suruga-ya.jp/drupal/sites/default/files/banner/*-ad_
+suruga-ya.jp##.pad0 > .ad_wraper:upward(1)
+||tech-camp.in/note/wp-content/uploads/2021/10/TCB_bnr_header_height140.png
+tech-camp.in##.header-banner-link
+||thisisgallery.com/wp-content/themes/thisismedia/images/side/banner_
+||utaten.com/images/boomeet_banner.jpeg
+||vector.co.jp/img_cache/tq/p/service/man/*_banner.
+||webtan.impress.co.jp/sites/default/files/images/seomoz/
+||woman.nikkei.com/images/campaign/
+||wpb.shueisha.co.jp/data/banner/announcement/
+wpb.shueisha.co.jp###js-side-column > .block-banner-b-a + div.helper--padding-top40[style="min-height: 200px;"]
+||wwdjapan.com/wp-content/uploads/*_liteplan_top.jpg
+wwdjapan.com##.wwdj-banner-top
+||xgoo.jp/top2018/conductor_banner
+||xgoo.jp/top2018/ocn_under_vpoint_banner/$domain=ocn.ne.jp
+||yamap.com/ads|
+||yimg.jp/images/auct/salespromotion/*/728_50.png$domain=auctions.yahoo.co.jp
+||yimg.jp/cvmaterials/top/images/pr/pickup/$domain=carview.yahoo.co.jp
+carview.yahoo.co.jp###bnr
+||yimg.jp/images/finance/*/bnr/$domain=finance.yahoo.co.jp
+||yimg.jp/images/yjtop-common/extension/promo/$domain=weather.yahoo.co.jp
+||youtube.com/embed/_uTPHQMXGOM?list=*&mute=1$domain=airtrip.jp
+airtrip.jp##.top-page > .video-content
+@@||47news.jp/public/bannerAd/$image,1p,badfilter
+@@||medicalonline.jp/ad_img/$1p,badfilter
+@@||nikkon-hd.co.jp/images/ad/$image,1p,badfilter
+
+373news.com##.mns_bn
+altema.jp##.attentionBox
+amazon.co.jp###mangaPromotionsBanner_feature_div
+amazon.co.jp,amazon.com###nav-swmslot
+anna-media.jp##.home.column3-list li .icon-pr:upward(li)
+answers.microsoft.com##.rail-banner
+archive.is##div[style^="display:table;background-color:white;border:3px black dashed"]
+aumo.jp##.entries-item-link[href^="javascript:"]:upward(1)
+avgle.com###avyc
+blog.hatena.ne.jp##.edit-done-info-upgrade-to-pro
+blog.hatena.ne.jp##.gmo-campaign-banner
+blog.hatena.ne.jp##.upgrade-pro
+bravoporn.com,bravotube.net##.under-video2
+contents.fc2.com##div[class] > div[class] > a[class^="c-cntCard-110"][class*="_thumb"][href*="/?tag="]:upward(2)
+crank-in.net##.headline_edit_recommend
+cyclist.sanspo.com###latest-news .sponsored:upward(li)
+deezer.com##.alert-wrapper > div > div > div > a[href$="/offers"]:upward(4)
+deezer.com##.conversion-banner
+deview.co.jp##.pr
+dictionary.com##.marketing-message
+docomo.ne.jp###header-banner
+englishcentral.com##.promo-info-wrapper
+felia.373news.com###ticker-area
+finance.yahoo.co.jp##section[id^="pr_sub"]
+fmv-mypage.fmworld.net##.home-news-pr-text
+fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhday.com,xhday1.com,xhplanet1.com,xhplanet2.com,xhtab2.com,xhwebsite.com,xhwide1.com##.promo-message__banner
+googirl.jp##.awaseteyomitai-sp > ul > li > a[href*="oggi-girls.com/"]:upward(1)
+google.*###cnt > #appbar + div[class][data-gid][jsaction][style="height: 190px;"]
+hypebeast.com##.shopping-break-container
+imymac.com##.pmmProduct.sideProductBox
+inshokuten.com##.articleDetailPage__textAdTitle
+inshokuten.com##.articleDetailPage__textAds
+inside-games.jp##.osusume > .pickup-list > li.item .title:has-text(【PR):upward(li)
+j-town.net##aside.section_content > .section_title > .pr-list:upward(2)
+jabank.jp###noticeModal > div > div > div > p.fwb:has-text(右上のログイン):upward(4)
+jabank.jp##.modal-backdrop
+kakaku.com###contentsSummary > #bbArea
+kakaku.com##.p-dell
+kumin.news###ad-article-bottom
+kumin.news##.main-container > h3:has-text(PR記事)
+last.fm##.subscribe-cta
+liginc.co.jp##.ligbgjack-media-pc
+liginc.co.jp##.ligbgjack-media-pc[style^="background"]:style(background:none!important)
+mag.app-liv.jp##.topics-parts-container li .topics-article-title:has-text([AD]):upward(li)
+mdpr.jp##article.list-text .heading-a__pr:upward(article)
+mypage.sso.biglobe.ne.jp##.pr-main-guidance
+news.livedoor.com##.topicsList > li > i.pr:upward(1)
+nikkei.com##div[class^="adsArea_"] > section > div > div[class^="__item_"] img[alt="PR"]:upward(div[class^="__item_"]):remove()
+open.spotify.com##.GenericModal__overlay--afterOpen
+outlook.live.com##div[data-focuszone-id] + div > button > div > img[class][src$="/leftNavUpsellIcons/premium-diamond-01.svg"]:upward(2)
+outlook.live.com##div[id^="docking_InitVisiblePart_"] div[id^="virtualEditScroller"] + div[class] button[aria-label]
+passmarket.yahoo.co.jp##.ptsGoToPromo
+rakko.tools##.rakkoma-widget-iframe
+sankei.com###piano_information_Article
+search.rakuten.co.jp##div[data-track-type="cpc"]
+smartagri-jp.com##.relatedPosts > ul > .pc .pr:upward(.pc)
+smt.docomo.ne.jp###Topics_Cts > li.nws_vList_item:not(.grid_item) > .nws_base_largeimg_list
+sourceforge.net###downloading > #mirror
+speakerdeck.com##.alert-banner
+sportiva.shueisha.co.jp##.block-widget-a-a__article__pr:upward(li.block-widget-a-a__article)
+startpage.com##.sc-browser-extension
+startpage.com##.widget-install-privacy-protect
+sugi9532.com##.c-infoBar
+support.microsoft.com##.RailBanner
+suumo.jp##.addbox--pr
+techacademy.jp##[href^="https://techacademy.jp/briefing-lp-webdesign-s"]
+techtarget.itmedia.co.jp###tmplCol2 > div.cbox:has(> .vendorcontents)
+transit.yahoo.co.jp###stanby
+ufret.jp##.btn-lg[href="/signup.php"]
+uqwimax.jp##.uqv2-globalAd
+video.fc2.com##.vod_price_off
+yamory.io##.should-show.scroll-follow-page-top
+zozo.jp##div[id^="module-wrap-zozoad"]
+
+!#if !env_firefox
+automaton-media.com##.td-big-grid-meta > .td-post-category[href$="/articles/pr/"]:upward(.td-big-grid-post)
+automaton-media.com##.td_block_social_counter ~ .td_block_2
+amiami.jp##.headerbanner
+audition-debut.com##div[id^=contents1000] > div[id^=contents1000]
+biglobe.ne.jp##.prom > a.prom-all:upward(1)
+bunshun.jp##.list-thumb > li .pr:upward(li)
+crevo.jp##.sideBlock_CV
+dengekionline.com##.gNews_banner
+dw.diamond.ne.jp###campaign-bar
+eroduma.com###sub .plugin-memo:first-child
+famitsu.com##.banner-ad-mark:upward(1)
+famitsu.com##.search-box--category + div.l-contents-block:has(.ad-native-campaign-leftout)
+j-town.net##.advertisement-list
+kids.gakken.co.jp##.feed_item .pr_tag:upward(.feed_item)
+lacrosse-plus.net##.has-ad
+muromin.jp##.row > .bnr
+news.careerconnection.jp##.ccn-archive__sponsor-bnr
+news.careerconnection.jp##.ccn-side-ads
+pc-koubou.jp##.banner-side
+sanin-chuo.co.jp##.l-main > div.m-bnr
+sure-i.co.jp##.contents > div > .c-list-banner-1col:upward(2)
+tokk-hankyu.jp##.ad_sideFixTop
+watch.impress.co.jp##.amazon-aff
+!#endif
+!#if env_firefox
+amiami.jp##^.headerbanner
+audition-debut.com##^div[id^=contents1000] > div[id^=contents1000]
+automaton-media.com##^.td-big-grid-meta > .td-post-category[href$="/articles/pr/"]:upward(.td-big-grid-post)
+automaton-media.com##^.td_block_social_counter ~ .td_block_2
+biglobe.ne.jp##^.prom > a.prom-all:upward(1)
+bunshun.jp##^.list-thumb > li .pr:upward(li)
+crevo.jp##^.sideBlock_CV
+dengekionline.com##^.gNews_banner
+dw.diamond.ne.jp##^#campaign-bar
+eroduma.com##^#sub .plugin-memo:first-child
+famitsu.com##^.banner-ad-mark:upward(1)
+famitsu.com##^.search-box--category + div.l-contents-block:has(.ad-native-campaign-leftout)
+j-town.net##^.advertisement-list
+kids.gakken.co.jp##^.feed_item .pr_tag:upward(.feed_item)
+lacrosse-plus.net##^.has-ad
+muromin.jp##^.row > .bnr
+news.careerconnection.jp##^.ccn-archive__sponsor-bnr
+news.careerconnection.jp##^.ccn-side-ads
+pc-koubou.jp##^.banner-side
+sanin-chuo.co.jp##^.l-main > div.m-bnr
+sure-i.co.jp##^.contents > div > .c-list-banner-1col:upward(2)
+tokk-hankyu.jp##^.ad_sideFixTop
+watch.impress.co.jp##^.amazon-aff
+!#endif
+!#if env_mobile
+||10mtv.jp/lp/img/inhouse_adv/
+10mtv.jp###contents > a[href*="?utm_source=ad_"]
+||alpen-group.jp/images/parts/banner/footer/ec_footter_SP_690_250.
+||carsensor.net/static/sp/img/top/bnr.png
+||cityheaven.net/img/tiktok_footer_banner.jpg
+cityheaven.net##.tiktok_banner_box
+||fc2.com/video/css/u/pm/img/SP_bnr_
+||hayabusa.io/images.lulucos.jp/by-s/$domain=lulucos-bys.jp
+lulucos-bys.jp##.m-block-article-item span.a-icon-pr--gray:upward(.m-block-article-item)
+||join.biglobe.ne.jp/mobile/sim/gurashi/wp-content/uploads/2021/11/SP_355_70_5.png
+||k-img.com/images/smartphone/global_footer/premium/footer_banner_premium_$domain=s.tabelog.com
+s.tabelog.com##.p-global-footer__premium
+||live.fc2.com/img/mobile/bnr/
+live.fc2.com##.ad-list
+||newspicks.com/images/top-premium-banner-
+newspicks.com###top-premium-banner-area
+||rakuten-bank.co.jp/shared/top/images/str-main/fbnr-
+rakuten-bank.co.jp###floating-bnr-area
+||rank-king.jp/item/image/original/7943247.jpg
+ranking.goo.ne.jp##.banner
+||recochoku.jp/rc-p1/recommendpopup/
+recochoku.jp##.top-campaign-bnr
+||shufoo.net/s/contents/images/top/nyoki/bnr_
+s.shufoo.net##.nyoki
+s.shufoo.net###wrap[style^="margin-top"]:style(margin-top: 0 !important;)
+||shufoo.net/contents/upperBanner_chirashi/
+s.shufoo.net##.upperBnr
+||weather.smt.docomo.ne.jp/img/banner/sugotoku_
+||wowma.net/exuc/promotion/$domain=wowma.jp
+||yimg.jp/images/ks/clap/image/banner/detail_smp_ebook.png$domain=chiebukuro.yahoo.co.jp
+||yimg.jp/images/marcom_pr/slotkuji/$domain=m.yahoo.co.jp
+m.yahoo.co.jp##.TimelineTargeting__link
+||yimg.jp/images/transit/promo/banner/bnr_promoTransInfo_300x60_02.png$domain=roadway.yahoo.co.jp
+||ymobile.jp/common_c/images/index/head_promotion_sp.png
+ymobile.jp###headpromotion-service
+||zexy.net/s/contents/adjust/RMP_*/img_banner_
+zexy.net##.campain-banner--fixed
+
+cityheaven.net###widget_recruit
+cityheaven.net###widget_recruitmens
+gamewith.jp##.gdb-ranking-slider.is-pr
+goo.ne.jp##.header-blow
+lulucos-bys.jp##.m-banner-download-app-top-fixed
+m.crank-in.net##.latest_news > li > article:has(> a[href] > .ci_list_all > .ci_list_all_discription-area > p > .insert_pr)
+m.mail.yahoo.co.jp###bnr_f2
+m.qoo10.jp###signup_popup
+pixiv.net##.premium-denki-t-footer
+recochoku.jp##^.header-campaign-bnr
+ryukyushimpo.jp##.topic-ticker_box-topics
+s.response.jp##^.aside-box-pickup
+sbc-dental.com##.kotei-mob
+sp.m.jiji.com##.spView > div.banner
+special.goo.ne.jp###bfb_content_sp
+transit.yahoo.co.jp##.mdSidePromo
+watch.impress.co.jp##.extension > aside.special
+wowma.jp###promotionBanner
+yahoo.co.jp##.MtoCLink
+!#endif
+
+! ---------- Intrusive widgets ----------
+! replace AG Annoyance's filter
+/unib0ts/unibots*/*/script.js$badfilter
+/unib0ts/unibots@*/script.js
+/wp-content/plugins/chaty-pro/*
+||ai-staff.net^$3p
+||jivosite.com^$3p,domain=~jivosite.ru
+||showtalk.jp^$3p
+||sinclo.jp^$3p
+||tripla.jp^$3p
+
+||cs.myjcom.jp/servlet/servlet.FileDownload$image
+cs.myjcom.jp##.jss-bot.embeddedServiceHelpButton
+||ladesk.com/scripts/track.js
+||origin-touch.firebaseapp.com^$domain=i-m-c.co.jp
+||static.olark.com/jsclient/$3p,domain=~fooda.com
+||widget.intercom.io^$3p,domain=similarweb.com
+||windows.net/botchan/js/efoapp.$domain=receptionist.jp
+||ws.sense.healthcare^$domain=medicalonline.jp
+
+bing.com###ev_talkbox_wrapper
+msn.com##.cwt-overlay-cta-button
+
+! ---------- Timer (CSS fix can be added to jp-filters if likely to be safe) ----------
+100count.net##+js(nano-sib, /sec--|timedisplay--/)
+123link.*,1ink.cc,7misr4day.com,al.ly,arhplyrics.in,aylink.co,bclikeqt.com,coinunit.ashortstory.in,cpmlink.net,diglink.blogspot.com,elil.cc,fcc.lc,fcdot.lc,freelitecoin.vip,gitizle.vip,informaxonline.com,kpopstan.com,leechall.*,likn.xyz,lootlinks.*,markipli.com,mik4mob.com,opensubtitles.org,raky.in,sama-pro.com,seowebnews.com,shon.xyz,short-url.link,shtms.co,techrfour.com,underhentai.net,upfile.us,wallpaperaccess.com##+js(nano-sib)
+123lnk.xyz,aapks.com##+js(nano-stb, countDown)
+ac-illust.com,photo-ac.com,silhouette-ac.com##+js(set, enable_dl_after_countdown, true)
+ac-illust.com,photo-ac.com,silhouette-ac.com##+js(set, isGGSurvey, true)
+ac-illust.com,photo-ac.com,silhouette-ac.com###eachDownloadedModal .ac-btn[href^="https://premium."]:upward(#eachDownloadedModal)
+ac-illust.com,photo-ac.com,silhouette-ac.com##.modal-backdrop
+ac-illust.com,photo-ac.com,silhouette-ac.com##body.modal-open *:style(filter: none !important;)
+ac-illust.com,photo-ac.com,silhouette-ac.com##body.modal-open:style(overflow: auto !important;)
+adblockeronstape.*,adblockeronstreamtape.*,adblockplustape.com,highload.to,shavetape.*,strcloud.*,streamadblockplus.*,streamta.*,streamtape.*,strtape.*,strtapeadblock.*##+js(nano-stb, counter)
+adfoc.us,bitmos.co.in##+js(set, count, 0)
+adnit.xyz,toptap.website##+js(set, timedisplay, 0)
+adzz.in##+js(ra, disabled, button#getlink)
+adzz.in##+js(ra, disabled, button#gotolink)
+adzz.in##button#getlink, button#gotolink:style(display: block !important;)
+adzz.in,note1s.com,paste1s.com##.countdown
+aemenstore.com,aloass.com,alobyt.com,alocd.com,alogum.com,aloguy.com,alohdd.com,anhdep24.com,byboe.com,cazzette.com,dreamcheeky.com,fidlarmusic.com,hookeaudio.com,jncojeans.com,kiemlua.com,kingsleynyc.com,lucidcam.com,nousdecor.com,pennbookcenter.com,publicananker.com,restorbio.com,rezence.com,rodjulian.com,staaker.com,truebrandy.com,uebnews.online,thegoneapp.com###link1s-generate
+aemenstore.com,aloass.com,alobyt.com,alocd.com,alogum.com,aloguy.com,alohdd.com,anhdep24.com,byboe.com,cazzette.com,dreamcheeky.com,fidlarmusic.com,hookeaudio.com,jncojeans.com,kiemlua.com,kingsleynyc.com,lucidcam.com,nousdecor.com,pennbookcenter.com,publicananker.com,restorbio.com,rezence.com,rodjulian.com,staaker.com,truebrandy.com,uebnews.online,thegoneapp.com###link1s-link
+aemenstore.com,aloass.com,alobyt.com,alocd.com,alogum.com,aloguy.com,alohdd.com,anhdep24.com,byboe.com,cazzette.com,dreamcheeky.com,fidlarmusic.com,hookeaudio.com,jncojeans.com,kiemlua.com,kingsleynyc.com,lucidcam.com,nousdecor.com,pennbookcenter.com,publicananker.com,restorbio.com,rezence.com,rodjulian.com,staaker.com,truebrandy.com,uebnews.online,thegoneapp.com###link1s-snp:style(display:block!important)
+aemenstore.com,aloass.com,alobyt.com,alocd.com,alogum.com,aloguy.com,alohdd.com,anhdep24.com,byboe.com,cazzette.com,dreamcheeky.com,fidlarmusic.com,hookeaudio.com,jncojeans.com,kiemlua.com,kingsleynyc.com,lucidcam.com,nousdecor.com,pennbookcenter.com,publicananker.com,restorbio.com,rezence.com,rodjulian.com,staaker.com,truebrandy.com,uebnews.online,thegoneapp.com###link1s-wait1
+aemenstore.com,aloass.com,alobyt.com,alocd.com,alogum.com,aloguy.com,alohdd.com,anhdep24.com,byboe.com,cazzette.com,dreamcheeky.com,fidlarmusic.com,hookeaudio.com,jncojeans.com,kiemlua.com,kingsleynyc.com,lucidcam.com,nousdecor.com,pennbookcenter.com,ptjobsz.xyz,publicananker.com,restorbio.com,rezence.com,rodjulian.com,staaker.com,techus.website,truebrandy.com,uebnews.online,thegoneapp.com##+js(nano-sib, counter, *)
+android-apk.org,icutlink.com##+js(nano-sib, time)
+apkmaven.*###download_link:style(display: block !important;)
+apkmaven.*,pkpics.club,trendyoum.com,xubster.com###countdown
+apkmaza.net##+js(nano-sib, downloadButton)
+apkmb.com##+js(nano-sib, show_download_links)
+apkmodhub.in##.sdl_text
+apkmodhub.in##.show_download_links:style(display: block !important)
+apkmody.io##+js(nano-stb, download_loading, *)
+apps2app.com,appsmodz.com,bloggertheme.xyz###timer
+apps2app.com##+js(nano-sib, gotolink)
+apps2app.com##+js(ra, disabled, button)
+apps2app.com##button:style(display: inline-block !important)
+apps2app.com,appsmodz.com##+js(rc, hidden, button)
+appsmodz.com,mac-torrent-download.net,note1s.com,paste1s.com##+js(ra, disabled, button)
+appvn.com###info:style(display: block !important)
+appvn.com##.downloadtitle
+azmath.info,downfile.site,downphanmem.com,memangbau.com,trangchu.news##+js(nano-stb, "#proceed", 9000)
+baketax.com,play.possiblewithelementor.com###myClickButton:others()
+baketax.com,play.possiblewithelementor.com##+js(nano-stb, [native code])
+baketax.com,play.possiblewithelementor.com##+js(nano-stb, recurseMyFunction)
+baketax.com,play.possiblewithelementor.com##+js(nano-stb, myCount)
+basket.step.rakuten.co.jp##+js(ra, checked, .ratCustomEventForCheckbox[data-rat-key=ratcart])
+bdupload.*,coolrom.com.au,desiupload.*,hubfiles.ws,indishare.*,jptorrent.org,katfile.com,lnk2.cc,redload.co,sourceforge.net,techmyntra.net,uploaded.net,uploadfiles.pw,uploadraja.com,uploadrar.*,userupload.*,zupload.me##+js(nano-stb)
+bingotingo.com###please-wait
+bingotingo.com##+js(nano-sib, counter, , 0.02)
+bitefaucet.com,consoleroms.com,dramaworldhd.co,edummm.xyz,romspedia.com##+js(nano-sib, timeLeft)
+bloggertheme.xyz###getlink, #pop-button:style(display: block !important;)
+bloggertheme.xyz##+js(nano-stb, waiting, 5000)
+bluemediafiles.*,onlyhgames.com##+js(nano-sib, i--)
+bluemediafiles.*##+js(set, Time_Start, 0)
+cararegistrasi.com,chooyomi.com,financeflix.in,flightsim.to,forex-trnd.com,hfneiott.buzz,imagent.buzz,imagenx.buzz,imagepuitr.buzz,imgbbd.buzz,imgbew.buzz,imgbjryy.buzz,imgewe.buzz,imgeza.buzz,imgiut.buzz,imgizw.buzz,imgizx.buzz,imgjetr.buzz,imgjtuq.buzz,imgkane.buzz,imgkia.*,imgkoc.buzz,imgkoka.buzz,imgkorle.buzz,imgkuz.buzz,imglina.xyz,imglkju.buzz,imgnfg.buzz,imgoiu.buzz,imgokr.buzz,imgowk.buzz,imgqew.buzz,imgqte.buzz,imgqwt.buzz,imgtwq.buzz,imguiwe.buzz,imguo.buzz,imguqkt.buzz,imgux.buzz,imguz.buzz,imgwelz.buzz,imgwer.buzz,imgwia.buzz,imgxabb.buzz,imgxann.buzz,imgxelz.buzz,imgxhfr.buzz,imgxhgh.buzz,imgxkhm.buzz,imgxvd.buzz,imgxxxx.buzz,imgxza.buzz,imgyng.buzz,imgyvdw.buzz,imgzzzz.buzz,imslp.org,michaelemad.com,mrlzqoe.buzz,optiye.buzz,pichtyyy.buzz,pixmtke.buzz,pixnbvj.buzz,pyotinle.buzz,technoflip.in,techware.online,theicongenerator.com,utinwpqqui.buzz,velnibug.buzz,world-trips.net,zentum.club##+js(nano-sib, timer)
+cashearn.cc##+js(nano-sib, #timer)
+coinlyhub.com,filemoon.*##+js(nano-sib, seconds)
+coolrom.com.au##+js(set, time, 0)
+crypto-faucet.xyz,doctor-groups.com,luckydice.net,short.mcmcryptos.xyz##+js(nano-sib, sec--)
+deportealdia.live,noticiasesports.live,noweconomy.live,techgeek.digital##+js(nano-sib, , 1200, 0)
+disheye.com##+js(nano-sib, count, *)
+downloadr.in,portableapps.com##+js(nano-stb, countdown)
+droidmirror.com,forexeen.us,getwallpapers.com,health-and.me,itscybertech.com,ixpap.com,luutruhay.net,mobi2c.com,thaitrieuvi.live,uniqueten.net,yalla-shoot-now.us##+js(nano-sib, counter)
+dsocker1234.blogspot.com##+js(set, new_config.timedown, 0)
+edunc.xyz,newstvhindi.in##+js(nano-stb, , 3000)
+edunc.xyz,newstvhindi.in###myBtn, #nxBtn, #nxInfo:others()
+edunc.xyz,newstvhindi.in###myBtn:style(display:block !important;)
+enit.in,makemoneywithurl.com##+js(set, timeSec, 0)
+enit.in,financerites.*,skincarie.com##+js(nano-stb, downloadBtn, *)
+enit.in,financerites.*,skincarie.com##.footerLink.hidden:style(display: block !important;)
+enit.in,financerites.*,skincarie.com##.getlink:others()
+easylinkref.com,forex-articles.com,forexlap.com,forexmab.com,forexwaw.club,lnk.news,lnk.parts##+js(nano-sib, , , 0)
+ez4mods.com,techmody.io,yoshare.net##+js(nano-sib, , *, 0)
+ec.line.me##+js(nano-stb, goOutlink, 2800)
+emulatorgames.net##+js(nano-sib, , , 0.3)
+file4go.*##+js(set, time, 0)
+files.im,zeefiles.*##+js(nano-stb, tick)
+findicons.com##+js(nano-sib, wait_seconds)
+forex-gold.net##+js(nano-sib, timeleft)
+forex-golds.com,forex-trnd.com,gawbne.com,sanoybonito.club##+js(nano-sib, counter, 2000)
+hashhackers.com,katdrive.net,newsongs.co.in##+js(nano-sib, /verify_text|isCompleted/, *)
+hashhackers.com,katdrive.net,newsongs.co.in##+js(nano-stb, document[_0x, *)
+hashhackers.com,katdrive.net,newsongs.co.in###btnhide, #verify_button2, #verify_text, #getlink
+hashhackers.com,katdrive.net,newsongs.co.in###verify_button:style(display: block !important;)
+hashhackers.com,katdrive.net,newsongs.co.in###verify_button:upward(1) ~ #primary, #secondary
+hdwallpaperim.com##+js(nano-stb, x.css, 3000, 0.02)
+hdwallpapers.net,uploadflix.org,uploadmaza.com,uptomega.*##+js(nano-stb, seconds)
+icutlink.com##+js(set, sec, 0)
+imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com##+js(nano-stb, redirect, 4000)
+itscybertech.com###capbtn,#gtbtn2:style(display: block !important)
+janusnotes.com##+js(nano-sib, , 100, 0)
+jpopsingles.eu,shortenbuddy.com##+js(nano-sib, downloadTimer)
+jpvariety.com##+js(nano-sib, skip-video)
+link.cgtips.org##+js(set, countdown, 0)
+linksht.com###getlink
+linksht.com###originalLink:style(display: block!important;)
+linksht.com##+js(set, counter, 0)
+littlebyte.net##+js(nano-sib, freeRemind)
+mac-torrent-download.net##+js(rc, hide, .button-checkbox)
+mac-torrent-download.net##+js(rc, btn-disable, button)
+mac-torrent-download.net##.button-checkbox:style(opacity: 1 !important)
+mac-torrent-download.net##.preloader
+maxurlz.com##+js(nano-sib, btn-success)
+makemoneywithurl.com###scroll.hidden, .footerLink.hidden:style(display: block!important)
+makemoneywithurl.com###next.getmylink
+makemoneywithurl.com##.box-main > div:not([class])
+mcrypto.club##+js(nano-stb, countdown, 10000)
+menjelajahi.com##+js(nano-sib, time, , 0)
+mhma12.tech##+js(set, timeset, 0)
+mhma12.tech,thetechywizard.com##+js(nano-sib, timer, 1500)
+mixdrop.*##+js(nano-stb, disabled)
+mohammedkhc.com,py.md##+js(nano-sib, countdown)
+nexusmods.com,romsplanet.com##+js(nano-stb, timer)
+ohyeah1080.site##+js(nano-sib, timer, 1100)
+onlyhgames.com##+js(nano-stb, CountBack, 990)
+onlinegamesx.com###yuidea-snp:style(display:block !important;)
+onuploads.com##+js(nano-stb, seconds)
+photo-ac.com###timer-download-list:style(display: block!important;)
+pkpics.club##img[onclick]:upward(.wait):style(display: block !important)
+ponta.abstractpainting.work##+js(nano-stb, visibility, 4000)
+ponta.abstractpainting.work##+js(nano-stb, [native code], 2000, 0.3)
+ponta.abstractpainting.work##+js(nano-stb, [native code], 3000, 0.25)
+ponta.abstractpainting.work##+js(nano-stb, [native code], 4000, 0.2)
+ponta.abstractpainting.work##+js(set, FIRST_DELAY, 0)
+ponta.abstractpainting.work##+js(set, NEXT_DELAY, 0)
+premiumebooks.xyz##+js(nano-stb, st2)
+premiumebooks.xyz##+js(nano-stb, subentry, 4000)
+privatemoviez.fun##+js(nano-sib, countc)
+promo-visits.site,satoshi-win.xyz,shorterall.com##.btn-primary:style(visibility: visible !important;)
+promo-visits.site,satoshi-win.xyz,shorterall.com##+js(ra, disabled, .btn-primary)
+proviralhost.com,urbharat.xyz##+js(nano-sib, timePassed, 1300)
+recipesdelite.com###btnhide
+recipesdelite.com###btnshow:style(display: block !important;)
+recipesdelite.com##+js(nano-sib, inner)
+redirect.dafontvn.com###btngetlink:style(display: inline-block !important)
+redirect.dafontvn.com##.progress
+redirect.dafontvn.com##+js(nano-sib, distance)
+referus.in##+js(nano-stb, finalButton, *)
+referus.in##+js(nano-stb, modalTimer, 1500)
+referus.in##+js(nostif, myTypeWriter)
+referus.in##+js(ra, disabled, button#myClickButton)
+referus.in##+js(ra, style, button#finalButton)
+referus.in##.container > #myDisplayText
+retrostic.com##+js(nano-sib, timeLeft--, , 0.02)
+rlxtech.tech,wallpaper.dog,wallpapertag.com##+js(nano-sib, count)
+romhustler.org##+js(nano-sib, timer.remove)
+romsgames.net,romsget.io##+js(nano-stb, submit, 5000)
+samfirms.com##+js(set, startfrom, 0)
+satoshi-win.xyz##+js(ra, onclick, .btn-success.get-link, stay)
+shorten.sh##+js(nano-sib, ti--)
+simsdom.com##+js(nano-sib, clearInterval, *)
+slreamplay.*##+js(nano-stb, grecaptcha.ready, *)
+speedynews.xyz,xmod.in##+js(nano-sib, updatePercentage, 100, 0.02)
+streamtape.*##+js(set, towait, 0)
+sub1s.com##+js(nano-stb, fa-unlock, 3000)
+sub1s.com##+js(ra, href, .unlock-step-link)
+techus.website,ptjobsz.xyz###download-button, #generate-link, .button, #main-download:others()
+techxpulse.com###msgblock:style(display: block !important)
+techyreviewx.com##+js(nano-sib, timer, 1800)
+tecmundo.net###yuidea-btn-before
+tecmundo.net###yuidea-btn:style(display: block !important)
+tecmundo.net##.percent:upward([id^="yuidea-wait"])
+tinyurl.is##+js(rc, disabled, #skip-btn)
+tinyurl.is##.navbar-brand
+trendyoum.com###download_link:style(display: inline-block !important)
+trendyoum.com##+js(set, countDownDate, 0)
+updown.link##+js(nano-stb, startDownload, 8000)
+uploadcloud.pro##+js(nano-stb, show, 4000)
+uploadking.net##+js(nano-stb, downloadbtn)
+upstore.net##+js(nano-sib, countDown, 1150, 0.5)
+userupload.net##+js(nano-stb, tick())
+vecteezy.com##+js(nano-stb, dlAdCountdown)
+vectorified.com##+js(set, timeleft, 0)
+vrcmods.com###download-form:style(display: initial !important;)
+vrcmods.com###app:style(display: none !important;)
+vrcmods.com###app_msg:style(display: none !important;)
+wallpaperbat.com###adsdimmer .hide:style(display: block!important)
+wallpaperbat.com###count
+wallpaperkiss.com,wallpaperuse.com##+js(nano-stb, clock)
+webhostingpost.com##+js(nano-sib, clearInterval)
+work.ink##+js(set, linkOpenTime, 10000)
+wowroms.com##+js(nano-sib, second)
+xubster.com##+js(ra, disabled, #downloadbtn)
+ytsubme.com##+js(nano-stb, aTagChange, 12000)
+zedge.net##+js(nano-sib, (i-1))
+zegtrends.com##+js(nano-sib, time, 2500)
+
+! ---------- Age check ----------
+||menscyzo.com/wp-content/themes/menscyzo/pc/js/over18.
+||orionbeer.co.jp/js/ageauth.js
+||pcolle.jp/js/age_modal.
+||peroniitaly.jp/js/agechk.js
+||urakasumi.com/assets/js/check_age.js
+amateur8.com,bigtitslust.com,freeporn8.com,lesbian8.com,sortporn.com##+js(nostif, #ageverify)
+budweiser.jp##.ac-container
+budweiser.jp##.ac-overlay
+bimbim.com,cam4red.com,camworms.com,mycams.com,tabletporn.com,trannylivecams.com###over-18-notification
+clubjt.jp###jtoc-adult-auth-modal
+discoverglo.jp###jsi-gate
+fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhday.com,xhday1.com,xhplanet1.com,xhplanet2.com,xhtab2.com,xhwebsite.com,xhwide1.com##.parental-control-dialog:upward(2)
+iqos.com###age-gate-overlay
+iqos.com##.q-overflow-hidden:style(overflow: auto!important)
+laporno.fund###age_conf
+paypaymall.yahoo.co.jp###CheckDialog
+pornbest.org###warnModal
+pornbest.org##.modal-backdrop
+pornbest.org##body.modal-open:style(overflow: auto!important;)
+rakuten.ne.jp##.AgeCheck
+sapporobeer.jp##.agegate_modal
+sapporobeer.jp##.agegate-bg
+
+! ---------- Donation ----------
+||cdnjs.buymeacoffee.com^$3p
+||codoc.jp^$3p
+||dff.jp^$3p
+||patreon.com/becomePatronButton.bundle.js
+||yggdore.com/t4ubtn/
+
+||archive.org/includes/build/js/donation-banner.
+||archive.org/includes/donate.js
+archive.org###donate_banner
+||archlinux.org/static/click_and_pledge.
+creativecommons.org###deed-donate-slide
+tabletmag.com##.DonationPopup
+
+! ---------- Other ----------
+*/snowfall.jquery.js$script
+/AC_RunActiveContent.js
+/amp-apester-
+/flash.js|$domain=oricon.co.jp
+! Dead
+/gred_checker.js$3p
+/google-funding-choices.js|$domain=foxnews.com|foxbusiness.com
+/plugins/copycontentdetector/*
+/wp-content/plugins/sociallocker-
+||apester.com^$3p
+||as.datasign.co^
+! origin check (not analytics)
+||bousai-parts.kyodo-d.jp/contents/static/js/access.js
+||js.driftt.com^$3p
+! miner on consent
+||online.gather.network/gather.app.js$3p
+||sspinc.io^
+
+##.grecaptcha-badge
+
+||abeagle-public.buzzfeed.com/public/v2/experiment_variants?
+||asahibeer.co.jp/agecheck/js/agechk.
+||audioburst.com^$domain=goetheweb.jp
+||bs4.jp/assets/images/top/babchu.png
+||bs4.jp/assets/js/top_character.js
+bs4.jp###ch_wrap
+||cdn-xtech.nikkei.com/images/*/top/bnr*$image,domain=xtech.nikkei.com
+xtech.nikkei.com##.p-myCategoryCustomize
+xtech.nikkei.com##.p-myThemeCustomize
+||digstatic.dmm.com/js/Silverlight.
+! Paywall
+||epochtimes.jp/js/pipa.js
+||fisco.jp/app/img/
+||fuzoku.sod.co.jp/confirm_age.
+||goo.ne.jp/topics/sports/2016/fb_sports_$domain=live.sports.goo.ne.jp
+||imgur.com/eQ15Dp8.$3p
+||imgur.com/Fxrw8wp.$3p
+||my-nature-shop.jp/Js/AC_ActiveX.
+||news.tv-asahi.co.jp/api/newslink_banner.
+||nicovideo.jp/api/getmarquee_
+||nicovideo.jp/marquee/
+www.nicovideo.jp##.MarqueeContainer
+||nikkei.com^*/hrjobinfo/
+nikkei.com###hrJobInfo
+||nocookie.net^*/Nat195.$image,domain=yakusokunoneverland.fandom.com
+||nocookie.net^*_Knife_Icon.$image,domain=bindingofisaac.fandom.com
+||oeg.co.jp/Scripts/AC_
+||otanew.jp/img/top_button.
+||otanew.jp/img/miku.
+otanew.jp##.bottom-top
+||otapol.com/wp-content/themes/otapol/*_bottom.$image,1p
+otapol.com###balloonText
+||ovovx.com/wp-content/uploads/2015/08/ovovz2.png
+||player.anyclip.com^$script,3p
+||player.ivideosmart.com^$domain=myjitsu.jp
+||quoracdn.net/*.images.paywall_blur.TextBlurNormal.$image,domain=quora.com
+quora.com##.content-monetization-wall > div > .qu-overflowY--hidden:style(-webkit-mask-image: none!important; overflow-y: scroll!important)
+quora.com##.qu-zIndex--qtext_overlay
+quora.com##div[style*=".images.paywall_blur."]
+||s3.amazonaws.com/widgets.stackcommerce.com/
+||scdn.line-apps.com/stf/line-news/js/thirdparty/
+buzzfeed.com###mod-embed-1
+news-postseven.com##div[style="margin-top: 15px; margin-bottom: 20px; text-align: center;"]
+||sm-miracle.com/js/warning.
+||stjp.image-qoo10.jp^*/ic_bookmark.v_
+||suntory.co.jp/softdrink/craftboss/flash/assets/img/mouse.gif
+||suntory.co.jp/softdrink/craftboss/flash/assets/js/main.js
+||suruga-ya.jp/drupal/themes/surugaya/images/02_blue.
+||techacademy.jp/assets/jason/jason_udekumi_kotei-
+||tnc.co.jp/img/common/body_illust
+||ura-akiba.jp/u.js
+||uta-net.com/reverse/image/get_flash_
+||video.tv-tokyo.co.jp/common/js/pc/ddrating.
+||vignette.wikia.nocookie.net^*/Nat195.$image,important,domain=yakusokunoneverland.fandom.com
+||w.atwiki.jp/common/_js/preconnect.
+||yimg.jp/images/slink/highlightsearch/1.0/img/pop_spr_
+yahoo.co.jp###yjSearchPop
+
+abandonmail.com##+js(aopr, indexedDB.open)
+aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtimesonline.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,spencereveningworld.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com##.gnt_em_vp__tavp
+aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,detroitnews.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtimesonline.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,spencereveningworld.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com##.tealplayer-ad-container
+ac-illust.com##+js(set, ajaxCheckIsEnableSearch, noopFunc)
+ampmedia.jp##.article-vote-area
+budweiser.jp##.circle-cursor
+dailymail.co.uk##+js(aopr, Object.prototype.videoAdvertisingMode)
+dailyuploads.net##+js(ra, checked, input#chkIsAdd)
+dev.medicalonline.jp##+js(set, MOL.cm.is_exist_medical_staff_cookie, trueFunc)
+fistia.proj.tokyo##.v-alert.info a.white--text[href="/about"]:upward(.info)
+game8.jp##+js(rc, async-hide, html)
+garop.com###following:style(margin-top: 0 !important;)
+get.adobe.com##+js(ra, checked, #chrExtCheckbox)
+gindaco.com##.chakra-fade[style="opacity: 1;"]
+hpplus.jp##+js(set, $.cookie, trueFunc)
+itreview.jp##.blur-contents:style(filter: none!important;pointer-events: auto!important)
+itreview.jp##.float.itr-blur-login
+jma.go.jp###jma_ad_config_button
+live2.nicovideo.jp##[class^=___player-display-header___]
+norton.com##+js(window-close-if, /protect?)
+pha.medicalonline.jp##+js(set, meteo.isMedicalWorker.hasCookie, trueFunc)
+social-unlock.com##form#link a.submit:style(opacity: 1 !important; pointer-events: auto !important;)
+symbolab.com##+js(set, _.subscribed, true)
+techacademy.jp##+js(aeld, beforeunload, a.type?void)
+techcrunch.com##.homepage__event-promo
+techcrunch.com##.upcoming-events
+tocana.jp###cyzo_sbox
+top.gg###video-root
+top.gg###vote-root:style(display:block !important)
+topics.smt.docomo.ne.jp##.m-tickerArea
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[data-testid="sheetDialog"] > :not(div[data-testid="IntentLoginSheet_Login_Sheet"]) div[aria-label=""] > img[class^="css-"][src$="/privacy_cover.png"]:upward(div[role="group"])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[data-testid="sheetDialog"] > :not(div[data-testid="IntentLoginSheet_Login_Sheet"]) div[role="button"]:not([data-testid]) + div[role="button"]:not([data-testid]):upward(div[role="group"])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[data-testid="sheetDialog"] > :not(div[data-testid="IntentLoginSheet_Login_Sheet"]) div[style*="margin-bottom:"] > div > div[role="button"]:not([data-testid]):upward(div[role="group"])
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##html:style(overflow: auto !important; padding-right: 0 !important; overscroll-behavior-y: auto !important;)
+websiteoutlook.com###wo_ext
+xfantasy.su###overlay
+xfantasy.su##.o-hidden:style(overflow: auto!important)
+!#if !env_firefox
+ampmedia.jp##.yarpp-related
+!#endif
+!#if env_firefox
+ampmedia.jp##^.yarpp-related
+!#endif
+!#if ext_ublock
+investorvillage.com##+js(acs, update_visit_count)
+!#endif
+!#if adguard
+investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
+!#endif
+
+! Exception
+@@||bostonherald.com^*/webpush.js$script,1p
+@@||braze.com/api/$domain=deezer.com
+@@||csm.cxpublic.com^$script,domain=tarzanweb.jp
+@@||js.driftt.com^$domain=sanity.io
+@@||popin.cc/searchbox/action_$script,3p
+@@||webpush.jp/js/browserpushv3.js$domain=zakzak.co.jp
+
+!#include blog-parts.txt
+!#include blogroll.txt
+!#include mob-app.txt
+!#include sabre-filters2.txt
