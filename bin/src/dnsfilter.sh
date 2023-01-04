@@ -79,6 +79,7 @@ merge_domainlist(){
 
     cat "$tmp_dir_local/domain.conf" |  sed -e "s/^/address=\//g" | sed -e "s/\$/\/127\.0\.0\.1/g" > "$base_dir/etc/dnsmasq.blocklist.d/ad-block.conf"
     cat "$tmp_dir_local/domain.conf" | sed -e "s/^/127\.0\.0\.1 /g" > "$base_dir/etc/squid/hosts.txt"
+    cp -f "$tmp_dir_local/domain.conf" "$base_dir/etc/squid/hostname.txt"
     cat "$tmp_dir_local/domain.conf" | sed -e "s/^/\|\|/g" | sed -e "s/\$/^/g" | sed "1i\!$timestamp" > "$base_dir/ublockdns.txt"
 }
 
