@@ -1,9 +1,9 @@
 ![Adblock Plus 2.0]
-! Checksum: IBfBQI3RNIaWCgtajXRM5w
+! Checksum: I/+z9RbyvpsVZD+pXonzrQ
 ! Title: AdGuard DNS filter (Optimized)
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.43.80
-! TimeUpdated: 2023-01-04T00:30:41+00:00
+! Version: 2.0.43.81
+! TimeUpdated: 2023-01-04T06:30:53+00:00
 ! Expires: 4 days (update frequency)
 ||currentaccountadv.com^
 ||myreqdcompany.com^
@@ -30166,6 +30166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trackclicks.info^
 ||trkbc.com^
 ||truffle.bid^
+||trust-provider.com^
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
@@ -39397,6 +39398,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||81xs.xyz^
 ||100ytrf.com^
 ||huishij.net^
+||ofgysy.xyz^
+||vec4o.fun^
+||ahwiaw.xyz^
+||ikbgika.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
