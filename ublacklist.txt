@@ -103,6 +103,7 @@
 *://*.brigantipaolo.it/*
 *://*.brn.cl/*
 *://*.bruschatkachelny.ru/*
+*://*.buaq.net/*
 *://*.buginfo.tech/*
 *://*.bugsdb.com/*
 *://*.bullforyou.com/*
@@ -115,6 +116,7 @@
 *://*.casadelaempanada.cl/*
 *://*.casataz.it/*
 *://*.caterinafucili.it/*
+*://*.ccfa.info/*
 *://*.centroippicoiplatani.it/*
 *://*.cfadnc.org/*
 *://*.cg.ru/*
@@ -132,6 +134,7 @@
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
 *://*.code.i-harness.com/*
+*://*.codeantenna.com/*
 *://*.codeday.me/*
 *://*.codefaq.info/*
 *://*.codefaq.ru/*
@@ -4054,6 +4057,7 @@
 *://*.ctsoldemo.it/*
 *://*.cuchelschool.it/*
 *://*.daimajiaoliu.com/*
+*://*.damogame.cn/*
 *://*.daplus.net/*
 *://*.davidg.cl/*
 *://*.de-vraag.com/*
@@ -4097,13 +4101,30 @@
 *://*.eventi.it/*
 *://*.exceptionshub.com/*
 *://*.exchangetuts.com/*
+*://*.exefiles.com/*
 *://*.exnovoband.it/*
+*://*.extension.info/*
+*://*.extensionfile.net/*
 *://*.extutorial.com/*
 *://*.faqcode4u.com/*
 *://*.farmaciazarla.it/*
 *://*.fattoriaascaniocruciani.it/*
 *://*.ferrum42kem.ru/*
+*://*.fes.wiki/*
 *://*.festivalvocideuropa.it/*
+*://*.file-extension.info/*
+*://*.file-extension.org/*
+*://*.filedesc.com/*
+*://*.filedict.com/*
+*://*.fileextension.info/*
+*://*.fileinfo.com/*
+*://*.fileinfo.jp/*
+*://*.filemagic.com/*
+*://*.filesuffix.com/*
+*://*.filetypeadvisor.com/*
+*://*.filetypes.jp/*
+*://*.fileviewpro.com/*
+*://*.filext.com/*
 *://*.firstlightsalon.in/*
 *://*.fiscalformula.it/*
 *://*.fixes.pub/*
@@ -4124,6 +4145,7 @@
 *://*.geeks-world.imtqy.com/*
 *://*.generacodice.com/*
 *://*.generaindustrial.cl/*
+*://*.getit01.com/*
 *://*.getridbug.com/*
 *://*.ghcc.net/*
 *://*.gitanswer.net/*
@@ -4149,6 +4171,8 @@
 *://*.honeysta.net/*
 *://*.hospitalantofagasta.cl/*
 *://*.hot-time.tistory.com/*
+*://*.hotfe.org/*
+*://*.htofe.com/*
 *://*.hu.qaru.tech/*
 *://*.huati365.com/*
 *://*.hub.fastgit.org/*
@@ -9697,6 +9721,7 @@
 *://*.jpcloud.net/*
 *://*.jpcodeqa.com/*
 *://*.jpdebug.com/*
+*://*.juejin.cn/*
 *://*.jumpevolution.ru/*
 *://*.kaifa99.com/*
 *://*.kejisen.com/*
@@ -9714,6 +9739,7 @@
 *://*.legkovopros.ru/*
 *://*.lejournaldec.cl/*
 *://*.lev33.ru/*
+*://*.lightrun.com/*
 *://*.line.ru/*
 *://*.linkfang.org/*
 *://*.litigationtoday.com/*
@@ -9772,6 +9798,7 @@
 *://*.oleificiolama.it/*
 *://*.olgakuts.ru/*
 *://*.onlystylemakeup.cl/*
+*://*.openthefile.net/*
 *://*.opt.ru/*
 *://*.optioncapitalgroup.ru/*
 *://*.orcode.com/*
@@ -11767,8 +11794,10 @@
 *://*.question-it.com/*
 *://*.rail.cl/*
 *://*.railstoolkit.com/*
+*://*.read01.com/*
 *://*.removemalware-jp.com/*
 *://*.repoarchive.com/*
+*://*.reviversoft.com/*
 *://*.rezort.ru/*
 *://*.ril.it/*
 *://*.riptutorial.com/*
@@ -11782,6 +11811,7 @@
 *://*.saksmet.ru/*
 *://*.sanchezsalvador.com/*
 *://*.sbnaj.ru/*
+*://*.schoenheitsklinik-berlin.com/*
 *://*.scuoladisportcoaching.it/*
 *://*.selezioni-artigianatoveneto.it/*
 *://*.serenissimagranloggiaunitaditaliaignis.it/*
@@ -11814,6 +11844,7 @@
 *://*.studiocoppolasarzana.it/*
 *://*.style.ru/*
 *://*.sub-nicoapple.ssl-lolipop.jp/*
+*://*.submitfile.com/*
 *://*.super-unix.com/*
 *://*.superduperartscamp.com/*
 *://*.sushi.ru/*
@@ -11831,6 +11862,7 @@
 *://*.techacademy.jp/*
 *://*.techfeed.net/*
 *://*.thedailydad.org/*
+*://*.thefile.org/*
 *://*.thercb.org/*
 *://*.theredhair.it/*
 *://*.thinbug.com/*
@@ -11852,6 +11884,7 @@
 *://*.ulab.unipo.sk/*
 *://*.unavocefuoricampo.it/*
 *://*.unionpedia.org/*
+*://*.uptodown.com/*
 *://*.usersuper.ru/*
 *://*.utyatnishna.ru/*
 *://*.uwenku.com/*
@@ -11871,6 +11904,7 @@
 *://*.webdevqa.jp.net/*
 *://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://*.wenyanet.com/*
+*://*.whatext.com/*
 *://*.whereismyanswer.com/*
 *://*.while-do.com/*
 *://*.wikiarabi.org/*
@@ -11878,6 +11912,7 @@
 *://*.wikiqube.net/*
 *://*.wikituscany.com/*
 *://*.wikiwand.com/*
+*://*.windowsbulletin.com/*
 *://*.winskin.ru/*
 *://*.wujigu.com/*
 *://*.www.366service.com/*
