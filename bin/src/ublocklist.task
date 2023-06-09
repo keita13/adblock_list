@@ -1,0 +1,107 @@
+----- source -----
+Title: 280blocker adblock filter
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
+Last modified: 19 Nov 2022 18:30 UTC
+Expires: 72 hours
+Homepage: https://280blocker.net
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/Online_Malicious.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/Spam404.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/adguard_basefilter.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Title: 亀フィルタ（ウイルスサイトブロック）
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
+Last modified: 19 Nov 2022 18:30 UTC
+Expires: 72 hours
+License: CC0 (Public Domain)
+Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
+----- source -----
+Title: ことりフィルタ（SNSボタンブロック）
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
+Last modified: 19 Nov 2022 18:30 UTC
+Expires: 72 hours
+License: CC0 (Public Domain)
+Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/manual_list.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter-2020.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter-2021.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_badware.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_privacy.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublock_filter_unbreak.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/ublocklist_filter_resource.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_adult.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_annoyances.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_blog.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_cookie.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_mobile.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+----- source -----
+Url: /root/adblock_list/tmp/ublocklist/ublocklist/yuki_jpfilter_social.txt
+Last modified: 17 Nov 1858 00:00 UTC
+Expires: 72 hours (expired)
+------- end ------
+
+----- options -----
+Privoxy path: /root/adblock_list/etc/privoxy
+Web path: /var/www/privoxy/css
+CSS web server domain: adblock-privoxy.com
+------- end ------
+
+Comments: 1641
+Elements hiding rules: 3322
+Request block rules for exception: 4
+Request block rules total: 2480
+Request block rules with domain option: 229
+Request block rules with request type options: 229
+Rules with third party option: 89
