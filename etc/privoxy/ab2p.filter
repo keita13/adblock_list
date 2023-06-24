@@ -2,7 +2,7 @@
 #----- source -----
 #Title: 280blocker adblock filter
 #Url: /root/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-#Last modified: 09 Jun 2023 23:27 UTC
+#Last modified: 24 Jun 2023 01:49 UTC
 #Expires: 72 hours
 #Homepage: https://280blocker.net
 #----- source -----
@@ -20,14 +20,14 @@
 #----- source -----
 #Title: 亀フィルタ（ウイルスサイトブロック）
 #Url: /root/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-#Last modified: 09 Jun 2023 23:27 UTC
+#Last modified: 24 Jun 2023 01:49 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 #----- source -----
 #Title: ことりフィルタ（SNSボタンブロック）
 #Url: /root/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-#Last modified: 09 Jun 2023 23:27 UTC
+#Last modified: 24 Jun 2023 01:49 UTC
 #Expires: 72 hours
 #License: CC0 (Public Domain)
 #Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
@@ -97,7 +97,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R1
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w\.cc)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R10
-s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R100
 s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-dnt@Ti
@@ -130,7 +130,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R109
 s@^referer(?=:[^\n]*[./](?:uraaka-joshi\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R11
-s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R110
 s@^referer(?=:[^\n]*[./](?:videeza\.com)):.*@ab2p-block-dnt@Ti
@@ -163,7 +163,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R119
 s@^referer(?=:[^\n]*[./](?:xfantazy\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R12
-s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R120
 s@^referer(?=:[^\n]*[./](?:xvideos\.com)):.*@ab2p-block-dnt@Ti
@@ -175,244 +175,244 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R122
 s@^referer(?=:[^\n]*[./](?:zippyshare\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R13
-s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R14
-s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp|efight\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R15
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R16
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R17
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R18
-s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R19
-s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R2
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R20
-s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R21
-s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R22
-s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R23
-s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R24
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R25
-s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R26
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R27
-s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R28
-s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R29
-s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R3
 s@^referer(?=:[^\n]*[./](?:141tube\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R30
-s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R31
-s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R32
-s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R33
-s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R34
-s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R35
-s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R36
-s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R37
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R38
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R39
-s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R4
 s@^referer(?=:[^\n]*[./](?:2689web\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R40
-s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:gizmodo\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R41
-s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R42
-s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R43
-s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R44
-s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R45
-s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R46
-s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R47
-s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R48
-s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R49
-s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R5
 s@^referer(?=:[^\n]*[./](?:2ch-c\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R50
-s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R51
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R52
-s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R53
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R54
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R55
-s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R56
-s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R57
-s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R58
-s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R59
-s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R6
 s@^referer(?=:[^\n]*[./](?:85tube\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R60
-s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R61
-s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R62
-s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R63
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R64
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R65
-s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R66
-s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R67
-s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R68
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R69
-s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R7
 s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|streamtape\.com|javfan\.one|xfantazy\.com|supjav\.com|b9good\.com|adblocktape\.online)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R70
-s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R71
-s@^referer(?=:[^\n]*[./](?:vjav\.com|manga1002\.site|txxx\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R72
-s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R73
-s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R74
-s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R75
-s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R76
-s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R77
-s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R78
-s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R79
-s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R8
-s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:alphapolis\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R80
-s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R81
-s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R82
-s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R83
-s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R84
-s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R85
-s@^referer(?=:[^\n]*[./](?:missav\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R86
 s@^referer(?=:[^\n]*[./](?:mn4u\.net)):.*@ab2p-block-dnt@Ti
@@ -427,7 +427,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-R89
 s@^referer(?=:[^\n]*[./](?:mysurance\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R9
-s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-R90
 s@^referer(?=:[^\n]*[./](?:nikaraw\.com)):.*@ab2p-block-dnt@Ti
@@ -472,7 +472,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn126
 s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn127
-s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com|pasokau\.com|shogaisha-techo\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn128
 s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp|itmedia\.co\.jp|blogk\.com|tabkul\.com|blog\.livedoor\.jp)):.*@ab2p-block-dnt@Ti
@@ -553,10 +553,10 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn153
 s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn154
-s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn155
-s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn156
 s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-dnt@Ti
@@ -592,97 +592,100 @@ CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn166
 s@^referer(?!:[^\n]*[./](?:hochi\.news|taxel\.jp|trafficnews\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn167
-s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:honyaclub\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn168
-s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn169
-s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn170
-s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn171
-s@^referer(?!:[^\n]*[./](?:itmedia\.co\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn172
-s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:itmedia\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn173
-s@^referer(?!:[^\n]*[./](?:kanaloco\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn174
-s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:kanaloco\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn175
-s@^referer(?!:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn176
-s@^referer(?!:[^\n]*[./](?:linkshare\.ne\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn177
-s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:linkshare\.ne\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn178
-s@^referer(?!:[^\n]*[./](?:wired\.jp|nikkansports\.com|minkabu\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn179
-s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:wired\.jp|nikkansports\.com|minkabu\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn180
-s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn181
-s@^referer(?!:[^\n]*[./](?:news\.ntv\.co\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn182
-s@^referer(?!:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:news\.ntv\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn183
-s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn184
-s@^referer(?!:[^\n]*[./](?:pokemon-matome\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn185
-s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:pokemon-matome\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn186
-s@^referer(?!:[^\n]*[./](?:shindanmaker\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn187
-s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:shindanmaker\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn188
-s@^referer(?!:[^\n]*[./](?:socdm\.com|tver\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn189
-s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:socdm\.com|tver\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn190
-s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn191
-s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn192
-s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn193
-s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn194
-s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn195
+s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-dnt@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-dnt-Rn196
 s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R1
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w\.cc)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R10
-s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R100
 s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-elem@Ti
@@ -715,7 +718,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R109
 s@^referer(?=:[^\n]*[./](?:uraaka-joshi\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R11
-s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R110
 s@^referer(?=:[^\n]*[./](?:videeza\.com)):.*@ab2p-block-elem@Ti
@@ -748,7 +751,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R119
 s@^referer(?=:[^\n]*[./](?:xfantazy\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R12
-s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R120
 s@^referer(?=:[^\n]*[./](?:xvideos\.com)):.*@ab2p-block-elem@Ti
@@ -760,244 +763,244 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R122
 s@^referer(?=:[^\n]*[./](?:zippyshare\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R13
-s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R14
-s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp|efight\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R15
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R16
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R17
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R18
-s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R19
-s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R2
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R20
-s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R21
-s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R22
-s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R23
-s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R24
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R25
-s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R26
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R27
-s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R28
-s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R29
-s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R3
 s@^referer(?=:[^\n]*[./](?:141tube\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R30
-s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R31
-s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R32
-s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R33
-s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R34
-s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R35
-s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R36
-s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R37
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R38
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R39
-s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R4
 s@^referer(?=:[^\n]*[./](?:2689web\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R40
-s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:gizmodo\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R41
-s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R42
-s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R43
-s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R44
-s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R45
-s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R46
-s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R47
-s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R48
-s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R49
-s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R5
 s@^referer(?=:[^\n]*[./](?:2ch-c\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R50
-s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R51
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R52
-s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R53
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R54
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R55
-s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R56
-s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R57
-s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R58
-s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R59
-s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R6
 s@^referer(?=:[^\n]*[./](?:85tube\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R60
-s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R61
-s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R62
-s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R63
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R64
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R65
-s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R66
-s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R67
-s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R68
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R69
-s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R7
 s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|streamtape\.com|javfan\.one|xfantazy\.com|supjav\.com|b9good\.com|adblocktape\.online)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R70
-s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R71
-s@^referer(?=:[^\n]*[./](?:vjav\.com|manga1002\.site|txxx\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R72
-s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R73
-s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R74
-s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R75
-s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R76
-s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R77
-s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R78
-s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R79
-s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R8
-s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:alphapolis\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R80
-s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R81
-s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R82
-s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R83
-s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R84
-s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R85
-s@^referer(?=:[^\n]*[./](?:missav\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R86
 s@^referer(?=:[^\n]*[./](?:mn4u\.net)):.*@ab2p-block-elem@Ti
@@ -1012,7 +1015,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-R89
 s@^referer(?=:[^\n]*[./](?:mysurance\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R9
-s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-R90
 s@^referer(?=:[^\n]*[./](?:nikaraw\.com)):.*@ab2p-block-elem@Ti
@@ -1057,7 +1060,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn126
 s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn127
-s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com|pasokau\.com|shogaisha-techo\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn128
 s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp|itmedia\.co\.jp|blogk\.com|tabkul\.com|blog\.livedoor\.jp)):.*@ab2p-block-elem@Ti
@@ -1138,10 +1141,10 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn153
 s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn154
-s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn155
-s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn156
 s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-elem@Ti
@@ -1177,90 +1180,93 @@ CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn166
 s@^referer(?!:[^\n]*[./](?:hochi\.news|taxel\.jp|trafficnews\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn167
-s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:honyaclub\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn168
-s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn169
-s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:i\.ntere\.st)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn170
-s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:instagram\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn171
-s@^referer(?!:[^\n]*[./](?:itmedia\.co\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:instapaper\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn172
-s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:itmedia\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn173
-s@^referer(?!:[^\n]*[./](?:kanaloco\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn174
-s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:kanaloco\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn175
-s@^referer(?!:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn176
-s@^referer(?!:[^\n]*[./](?:linkshare\.ne\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn177
-s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:linkshare\.ne\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn178
-s@^referer(?!:[^\n]*[./](?:wired\.jp|nikkansports\.com|minkabu\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn179
-s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:wired\.jp|nikkansports\.com|minkabu\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn180
-s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:mixi\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn181
-s@^referer(?!:[^\n]*[./](?:news\.ntv\.co\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:moppy\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn182
-s@^referer(?!:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:news\.ntv\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn183
-s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn184
-s@^referer(?!:[^\n]*[./](?:pokemon-matome\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn185
-s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:pokemon-matome\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn186
-s@^referer(?!:[^\n]*[./](?:shindanmaker\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn187
-s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:shindanmaker\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn188
-s@^referer(?!:[^\n]*[./](?:socdm\.com|tver\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:shop-list\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn189
-s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:socdm\.com|tver\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn190
-s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:tjapan\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn191
-s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn192
-s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn193
-s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:with2\.net)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn194
-s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn195
+s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-elem@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-elem-Rn196
 s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Ahm
@@ -1275,95 +1281,95 @@ s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-block-request@Ti
 CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm
 s@^accept(?!:[\s\w]*(?:\/html|\/xml)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn196t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn197t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp|forbes\.com|mydocomo\.com|onlineshop\.smt\.docomo\.ne\.jp|ralphlauren\.co\.jp|109cinemas\.net|square-enix\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn197t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn198t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:afl\.rakuten\.co\.jp|kakaku\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn198t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn199t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:naver\.jp|tsukuba\.ac\.jp|bando\.lg\.jp|www\.flowerpark\.or\.jp|ibaraki\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn199t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn200t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:toramemoblog\.com|bi-girl\.net))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn200t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn201t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:blogmura\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn201t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn202t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:casabrutus\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn202t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn203t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:softbank\.jp|sbg\.jp|e-gift\.co))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn203t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn204t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:gamespark\.jp|inside-games\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn204t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn205t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:gendama\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn205t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn206t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:google\.com|google\.co\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn206t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn207t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:gree\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn207t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn208t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:hapitas\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn208t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn209t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:i\.ntere\.st))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn209t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn210t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:instagram\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn210t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn211t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:instapaper\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn211t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn212t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:itmedia\.co\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn212t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn213t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:mixi\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn213t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn214t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:moppy\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn214t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn215t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:ponta\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn215t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn216t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:shop-list\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn216t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn217t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:tjapan\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn217t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn218t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:with2\.net))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn218t
+CLIENT-HEADER-TAGGER: ab2p-block-request-Anhm-Cnhm-when-Rn219t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@ab2p-block-request-Anhm-Cnhm@i
 
@@ -1387,7 +1393,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R1
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w\.cc)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R10
-s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R100
 s@^referer(?=:[^\n]*[./](?:snrec\.jp)):.*@ab2p-block-request@Ti
@@ -1420,7 +1426,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R109
 s@^referer(?=:[^\n]*[./](?:uraaka-joshi\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R11
-s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.biz)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R110
 s@^referer(?=:[^\n]*[./](?:videeza\.com)):.*@ab2p-block-request@Ti
@@ -1453,7 +1459,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R119
 s@^referer(?=:[^\n]*[./](?:xfantazy\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R12
-s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:anitube\.site)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R120
 s@^referer(?=:[^\n]*[./](?:xvideos\.com)):.*@ab2p-block-request@Ti
@@ -1465,244 +1471,244 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R122
 s@^referer(?=:[^\n]*[./](?:zippyshare\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R13
-s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:anycodings\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R14
-s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kinmaweb\.jp|apptopi\.jp|efight\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R15
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:aqcg\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R16
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R17
-s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|sbvideo\.net|asianclub\.tv)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R18
-s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv|asianclub\.tv|supjav\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R19
-s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:asiangaysex\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R2
 s@^referer(?=:[^\n]*[./](?:112w\.cc|677w)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R20
-s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:av01\.tv)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R21
-s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:avgle\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R22
-s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R23
-s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:b9good\.us|b9good\.in|b9good\.one)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R24
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:barscaffolding\.co\.uk|videeza\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R25
-s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R26
-s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:xbooks\.to|member\.javtvnow\.xyz|supjav\.com|bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R27
-s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:bestjavporn\.com|sexcelebrity\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R28
-s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:blog\.livedoor\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R29
-s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:chintai\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R3
 s@^referer(?=:[^\n]*[./](?:141tube\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R30
-s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:chunichi\.co\.jp|soccerdigestweb\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R31
-s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:cined\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R32
-s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:comick\.top)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R33
-s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:coolboys\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R34
-s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:earthyworld\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R35
-s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:economist\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R36
-s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:fc2\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R37
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:frantz\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R38
-s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R39
-s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:full-count\.jp|the-ans\.jp|mainichi\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R4
 s@^referer(?=:[^\n]*[./](?:2689web\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R40
-s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:gizmodo\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R41
-s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:goal\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R42
-s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:youtube\.com|googlevideo\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R43
-s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hdouga\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R44
-s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hdzog\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R45
-s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:vjav\.com|hdzog\.com|kmansin09\.com|hotmovs\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R46
-s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R47
-s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hitomi\.la|manga1001\.su|mangaraw\.io|mangarawjp\.io|mangarawjp\.vip|mangarow\.org|mangaraw\.ru|klmanga\.su|syosetu\.me|sexcelebrity\.net|javmix\.tv|mangaraw\.to|mangaraw\.vip|mangaraw\.so|mangarawjp\.so|manga1001\.se|twiigle\.com|manga1000\.io|tokyomotion\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R48
-s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:idolsblog\.tv)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R49
-s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:instagrammernews\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R5
 s@^referer(?=:[^\n]*[./](?:2ch-c\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R50
-s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:ivfree\.me)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R51
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:manga9\.co|manga1001\.in|mangalove\.top|j8jp\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R52
-s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:japan\.techinsight\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R53
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org|kmansin09\.com|javhdmost\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R54
-s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javmix\.tv)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R55
-s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R56
-s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:javsaga\.ninja|raw\.senmanga\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R57
-s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:jp\.pornhub\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R58
-s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kawakitanet\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R59
-s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kazanesh\.ru)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R6
 s@^referer(?=:[^\n]*[./](?:85tube\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R60
-s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kissanime\.com\.ru)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R61
-s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kissmanga\.org)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R62
-s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:klmag\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R63
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:klmanga\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R64
-s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin03\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R65
-s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R66
-s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:kmansin09\.com|videeza\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R67
-s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R68
-s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:makikonikson\.net)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R69
-s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mamana\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R7
 s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|streamtape\.com|javfan\.one|xfantazy\.com|supjav\.com|b9good\.com|adblocktape\.online)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R70
-s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:manga-mate\.org)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R71
-s@^referer(?=:[^\n]*[./](?:vjav\.com|manga1002\.site|txxx\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.su)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R72
-s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:manga1001\.top)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R73
-s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangagohan\.me)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R74
-s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:stapewithadblock\.monster|supjav\.com|mangalove\.top)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R75
-s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangameta\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R76
-s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.co)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R77
-s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.lol)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R78
-s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangaraw\.vip)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R79
-s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangarawjp\.com|mangarawjp\.io)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R8
-s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:alphapolis\.co\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R80
-s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mangas-raw\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R81
-s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:weloma\.art|mangas-raw\.com|welovemanga\.one)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R82
-s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:master124\.ru|sun-spain\.ru)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R83
-s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mecanique-auto83\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R84
-s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:micmicidol\.com|micmicidol\.club)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R85
-s@^referer(?=:[^\n]*[./](?:missav\.com)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:mikaraw\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R86
 s@^referer(?=:[^\n]*[./](?:mn4u\.net)):.*@ab2p-block-request@Ti
@@ -1717,7 +1723,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-R89
 s@^referer(?=:[^\n]*[./](?:mysurance\.co\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R9
-s@^referer(?=:[^\n]*[./](?:ameblo\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:amebame\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-R90
 s@^referer(?=:[^\n]*[./](?:nikaraw\.com)):.*@ab2p-block-request@Ti
@@ -1759,7 +1765,7 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Rn126
 s@^referer(?!:[^\n]*[./](?:550909\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn127
-s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com)):.*@ab2p-block-request@Ti
+s@^referer(?!:[^\n]*[./](?:kanajo\.com|oz3gamer\.blog\.fc2\.com|monnsutogatya\.com|ferrarilamborghininews\.com|antiblock\.org|sakano\.wp-x\.jp|gametter\.com|kikra\.jp|thisav\.com|togeko\.net|doujin-free\.com|valuetrust\.net|surveyenquete\.net|8wayrun\.com|aeoncinema\.com|battlecats-db\.com|earthyworld\.com|db-siken\.com|pm-siken\.com|sg-siken\.com|sc-siken\.com|nw-siken\.com|itpassportsiken\.com|fe-siken\.com|ap-siken\.com|9ketsuki\.info|yalujailbreak\.net|monst\.today|coron\.tech|dqmsl-search\.net|gadgetdamage\.blog\.fc2\.com|mirm\.jp|jp-horse-breaking\.blogspot\.com|itby\.net|netbystander\.blog|crefan\.jp|youpouch\.com|blogk\.com|tabkul\.com|fp2-siken\.com|kakomonn\.com|anycodings\.com|tenbaiquest\.com|win2012r2\.com|mangas-raw\.co|chpadblock\.com|javsex\.to|telephone-soudan\.com|mangas-raw\.com|crast\.net|odekake-spots\.com|rbs\.ta36\.com|rocketnews24\.com|nknews\.jp|bi-girl\.net|gigaho\.com|javboys\.com|g-pc\.info|nekotabiblog\.com|kbizoom\.com|b9dm\.us|poapan\.xyz|linkskibe\.com|fp3-siken\.com|orenoraresne\.com|shindanmaker\.com|eramuslim\.com|pasokau\.com|shogaisha-techo\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn128
 s@^referer(?!:[^\n]*[./](?:ameba\.jp|ametopi\.jp|ameblo\.jp|google\.com|google\.co\.jp|yahoo\.co\.jp|impress\.co\.jp|kanajo\.com|mamastar\.jp|jankara\.net|abema\.tv|ponta\.jp|mobadme\.jp|dpoint\.jp|tsite\.jp|itmedia\.co\.jp|blogk\.com|tabkul\.com|blog\.livedoor\.jp)):.*@ab2p-block-request@Ti
@@ -1825,10 +1831,10 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Rn153
 s@^referer(?!:[^\n]*[./](?:forbes\.com)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn154
-s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?!:[^\n]*[./](?:speee-ad\.jp|jiji\.com|hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn155
-s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp)):.*@ab2p-block-request@Ti
+s@^referer(?!:[^\n]*[./](?:hochi\.news|weekly\.ascii\.jp|fukuishimbun\.co\.jp|trilltrill\.jp|nknews\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn156
 s@^referer(?!:[^\n]*[./](?:l-lal\.space|funato\.us)):.*@ab2p-block-request@Ti
@@ -1849,79 +1855,82 @@ CLIENT-HEADER-TAGGER: ab2p-block-request-Rn166
 s@^referer(?!:[^\n]*[./](?:hochi\.news|taxel\.jp|trafficnews\.jp)):.*@ab2p-block-request@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-block-request-Rn167
+s@^referer(?!:[^\n]*[./](?:honyaclub\.com)):.*@ab2p-block-request@Ti
+
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn168
 s@^referer(?!:[^\n]*[./](?:hoshinoromi\.org)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn172
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn173
 s@^referer(?!:[^\n]*[./](?:kanajo\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn173
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn174
 s@^referer(?!:[^\n]*[./](?:kanaloco\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn174
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn175
 s@^referer(?!:[^\n]*[./](?:konamistyle\.jp|konami\.com|konami\.jp|konami\.net)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn175
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn176
 s@^referer(?!:[^\n]*[./](?:lettuceclub\.net)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn176
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn177
 s@^referer(?!:[^\n]*[./](?:linkshare\.ne\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn177
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn178
 s@^referer(?!:[^\n]*[./](?:mail\.yahoo\.co\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn178
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn179
 s@^referer(?!:[^\n]*[./](?:wired\.jp|nikkansports\.com|minkabu\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn181
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn182
 s@^referer(?!:[^\n]*[./](?:news\.ntv\.co\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn182
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn183
 s@^referer(?!:[^\n]*[./](?:nifty\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn183
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn184
 s@^referer(?!:[^\n]*[./](?:nikkan-gendai\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn184
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn185
 s@^referer(?!:[^\n]*[./](?:pokemon-matome\.net)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn185
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn186
 s@^referer(?!:[^\n]*[./](?:ponta\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn186
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn187
 s@^referer(?!:[^\n]*[./](?:shindanmaker\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn188
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn189
 s@^referer(?!:[^\n]*[./](?:socdm\.com|tver\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn190
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn191
 s@^referer(?!:[^\n]*[./](?:tsite\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn191
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn192
 s@^referer(?!:[^\n]*[./](?:tumblr\.com)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn193
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn194
 s@^referer(?!:[^\n]*[./](?:wsj\.com|yahoo\.co\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn194
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn195
 s@^referer(?!:[^\n]*[./](?:www\.amazon\.co\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-block-request-Rn195
+CLIENT-HEADER-TAGGER: ab2p-block-request-Rn196
 s@^referer(?!:[^\n]*[./](?:yahoo\.co\.jp)):.*@ab2p-block-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R219
+CLIENT-HEADER-TAGGER: ab2p-unblock-dnt-R220
 s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-dnt@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R219
+CLIENT-HEADER-TAGGER: ab2p-unblock-elem-R220
 s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: ab2p-unblock-request-Aj
 s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-Aj-Cj-when-R219
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-Aj-Cj-when-R220
 s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-request-Aj-Cj@Ti
 
 SERVER-HEADER-TAGGER: ab2p-unblock-request-Cj
 s@^content-type(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@ab2p-unblock-request@Ti
 
-CLIENT-HEADER-TAGGER: ab2p-unblock-request-R219
+CLIENT-HEADER-TAGGER: ab2p-unblock-request-R220
 s@^referer(?=:[^\n]*[./](?:hatelabo\.jp)):.*@ab2p-unblock-request@Ti

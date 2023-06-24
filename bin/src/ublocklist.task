@@ -1,7 +1,7 @@
 ----- source -----
 Title: 280blocker adblock filter
 Url: /root/adblock_list/tmp/ublocklist/ublocklist/280blocker_adblock.txt
-Last modified: 09 Jun 2023 23:27 UTC
+Last modified: 24 Jun 2023 01:49 UTC
 Expires: 72 hours
 Homepage: https://280blocker.net
 ----- source -----
@@ -19,14 +19,14 @@ Expires: 72 hours (expired)
 ----- source -----
 Title: 亀フィルタ（ウイルスサイトブロック）
 Url: /root/adblock_list/tmp/ublocklist/ublocklist/kame_filter.txt
-Last modified: 09 Jun 2023 23:27 UTC
+Last modified: 24 Jun 2023 01:49 UTC
 Expires: 72 hours
 License: CC0 (Public Domain)
 Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kame.html
 ----- source -----
 Title: ことりフィルタ（SNSボタンブロック）
 Url: /root/adblock_list/tmp/ublocklist/ublocklist/kotori_filter.txt
-Last modified: 09 Jun 2023 23:27 UTC
+Last modified: 24 Jun 2023 01:49 UTC
 Expires: 72 hours
 License: CC0 (Public Domain)
 Homepage: https://eeii0a5l.github.io/mochifilter_homepage/kotori.html
@@ -98,10 +98,10 @@ Web path: /var/www/privoxy/css
 CSS web server domain: adblock-privoxy.com
 ------- end ------
 
-Comments: 1703
-Elements hiding rules: 3919
+Comments: 1706
+Elements hiding rules: 3964
 Request block rules for exception: 4
-Request block rules total: 2902
+Request block rules total: 2944
 Request block rules with domain option: 291
 Request block rules with request type options: 291
 Rules with third party option: 88

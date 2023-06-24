@@ -867,6 +867,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 /?clickid=*&t2=.$doc
 ||skipalos.xyz^$all
 ||makenoads.com^$all
+||dateclique.life^
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -925,6 +926,20 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||hackdeversion.com^$doc
 ||crackprogs.com^$doc
 ||firstsoftapp.com^$doc
+||expertstudiopro.com^$doc
+||pcworlds.us^$doc
+||soft-searches.com^$all
+||mesoftwares.vip^$all
+||onetalkit.com^$doc
+||gopcworlds.net^$doc
+||extrasofts.org^$doc
+||link-ii.info^$all
+||all-softs.net^$doc
+||gramaindoor.com/hack/$all
+||expertprosoft.com^$all
+||thepcworld.net^$all
+||lead-soft.vip^$all
+||extrasofts.net^$doc
 ! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
 ||oceanofgame.net^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-803722231
@@ -1389,6 +1404,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://github.com/uBlockOrigin/uAssets/issues/15937
 ! https://www.virustotal.com/gui/url/a70d88ffc974f8d9cc5c3561938e95435d20a12a555e8c10d638d2bee5292165
 ||install1nstall1.com^
+||factor1right.com^$all
 ||kochava.com^
 ||neptunclicks.com^
 ||oolomos.com^$all
@@ -1408,6 +1424,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||kiknu.com^$all
 ||konmm.com^$all
 ||bibtu.com^$all
+||xiuty.com^$all
+||pejik.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136693
 /axad/?lpkey=$doc
@@ -1644,6 +1662,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||qhigh.com^$all
 ! https://twitter.com/harugasumi/status/1666436001953136641
 ||yoinst.com^$doc
+! https://twitter.com/yuusultultu/status/1668185343907237888
+||shindaan.com^$doc
+! https://twitter.com/AP_Zenmashi/status/1668604733882535936
+||smbc-kjgf.shop^$all
+! https://twitter.com/harugasumi/status/1669250368138776577
+||smbc.mbmistaz.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/141376
 ||7oc5b1i3v4iu.top^$all
@@ -2698,6 +2722,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||tendermeets.com^$doc
 ||tinql.com^$doc
 ||together.com^$doc
+||maturedating.com^$doc
 ||topg.jp^$doc
 ||tubakinohimitsu.amebaownd.com^$doc
 ||tugonoyoi.com^$doc
@@ -3134,6 +3159,31 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||the-style-free.info^$doc
 ||weekenddogkeep.com^$doc
 ||koundayori.com^$doc
+||second-love-love.jp^$doc
+||chuchu2.jp^$doc
+||deaiai55.com^$doc
+||kokocha.site^$doc
+||hjytu75fro0.jp^$doc
+||secssnetplan.jp^$doc
+||3-uh9cj.com^$doc
+||39cx-ft.biz^$doc
+||3x-c9ua.net^$doc
+||68a9i9w.com^$doc
+||988s82r.com^$doc
+||efzhm85.com^$doc
+||rhyprua.com^$doc
+||tui8s2e.com^$doc
+||emyqsvk7zw.com^$doc
+||evqhubkfh8.com^$doc
+||jinuja5zgm.com^$doc
+||ljqq93npbr.com^$doc
+||n9zxgxpdu6.com^$doc
+||pnw0kbzjtt.com^$doc
+||sdlbtwi3lr.com^$doc
+||tvngrq6yat.com^$doc
+||vjybuykaxz4.com^$doc
+||willgood-will.com^$doc
+||y2sysagetf.com^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3241,7 +3291,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! techsupport scam
 /?{BV_SRCID}&$doc
 /werrx01/^$doc
-/winXos/?$doc
 /merrx01/^$doc
 ||ondigitalocean.app/*^phone=+1-$doc
 ||flexedfitt.com^$all
@@ -3296,6 +3345,30 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||windwserror.com^$all
 ||comeon-date.online^$all
 ||popts.site^$all
+||hotel-samal.com^$all
+||cnctddot.com^$all
+||woocommerce-sagepayments.com^$all
+||mct-niger.com^$all
+||julitaczerwinska.pl^$all
+||klinikmrc.com^$all
+||govimpot.com^$all
+||premiumexpertclass87.xyz^$all
+||pressanddresses.com^$all
+||g1idyf0ml96b.azureedge.net^$all
+||hrmntrimagukeazctesto.shop^$all
+||stb-media.xyz^$all
+||compass-holding.com^$all
+||ojosclear.com^$all
+||tankien.land^$all
+||pguilford.com^$all
+||theweddingmahotsav.com^$all
+||d2o907u2tcfbck.cloudfront.net^$all
+||xac2gjx.autos^$all
+||detailsreceipts.com^$all
+||hodllane.com^$all
+||hiddenamonghearts.com^$all
+||stowesupperclub.com^$all
+||185.161.248.253^$all
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3322,12 +3395,15 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! Only official ReVanced site: revanced.app
 ! https://reddit.com/r/revancedapp
 ! https://old.reddit.com/r/revancedapp/comments/1327o38/list_of_fake_revanced_sites_download_sites/
+! https://old.reddit.com/r/AfterVanced/comments/wf4ov1/the_raftervanced_faq_frequently_asked_questions/
 ! https://github.com/revanced/revanced-discussions/discussions/854#discussioncomment-4565731
 ! https://safeweb.norton.com/report/show?url=revanced.io
 ! https://sitecheck.sucuri.net/results/revanced.io
 ! https://github.com/uBlockOrigin/uAssets/pull/17469
 ||revanced.*^$all,domain=~revanced.app
 ||revancedapk.*^$all,domain=~revanced.app
+||revancedapp.*^$all,domain=~revanced.app
+||youtubevanced.*^$all,domain=~revanced.app
 ||youtuberevanced.*^$all,domain=~revanced.app
 ||re-vanced.com^$all,domain=~revanced.app
 ||revancedio.com^$all,domain=~revanced.app
@@ -3340,6 +3416,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||tuberevanced.com^$all,domain=~revanced.app
 ||vanced-official.com^$all,domain=~revanced.app
 ||vanced.pro^$all,domain=~revanced.app
+||vancedmanager.com^$all,domain=~revanced.app
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12vi0jy/
 ! https://www.virustotal.com/gui/url/e705e6e86261849df50f80f32db2bb74abb1f69fd2681a370c5013be27c9daf0
@@ -3396,14 +3473,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||skyblockmaniacs.net^$all
 ||fragbots.net^$all
 
-! https://github.com/uBlockOrigin/uAssets/discussions/18179#discussioncomment-5966400
-||42.zip^$all
-
-! https://github.com/uBlockOrigin/uAssets/pull/17845#issuecomment-1556263873
-! https://www.virustotal.com/gui/domain/allmovies.gg
-! https://safeweb.norton.com/report/show?url=https://allmovies.gg
-||allmovies.gg^$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/18208
 ||hard-configurator.com^$all
 
@@ -3422,6 +3491,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||roundyearfun.org^$all
 ||anyplacehere.me^$all
 ||funaroundy.click^$all
+||anyplacehere.live^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/18380
 ||bestextensionegde.com^$all
+
+! https://github.com/DandelionSprout/adfilt/discussions/779#discussioncomment-6141190
+||sexus.ml^

@@ -373,7 +373,6 @@ ads.amigos.com
 ads.annabac.com
 ads.apn.co.nz
 ads.appsgeyser.com
-ads.apteka254.ru
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
@@ -838,6 +837,7 @@ adtng.com
 adtology.com
 adtoma.com
 adtrace.org
+adtrack.voicestar.com
 adtraction.com
 adtrade.net
 adtriplex.com
@@ -993,7 +993,6 @@ analytics.tiktok.com
 analytics.xelondigital.com
 analytics.yahoo.com
 analyticsapi.happypancake.net
-analytik.xyz
 ancientact.com
 aniview.com
 annonser.dagbladet.no
@@ -1314,7 +1313,9 @@ cdn.branch.io
 cdn.freshmarketer.com
 cdn.heapanalytics.com
 cdn.keywee.co
+cdn.mouseflow.com
 cdn.onesignal.com
+cdn.scarabresearch.com
 cdn.segment.com
 cdnondemand.org
 cedato.com
@@ -1374,6 +1375,7 @@ click.infoblox.com
 click.justwatch.com
 click.kmindex.ru
 click.mail.hotels.com
+click.mailing.ticketmaster.com
 click.mkt.grab.com
 click.news.vans.com
 click.nl.npr.org
@@ -1409,7 +1411,6 @@ clickthrutraffic.com
 clicktrack.ziyu.net
 clicktracks.com
 clicktrade.com
-clickwith.bid
 clickxchange.com
 clickyab.com
 clickz.com
@@ -1423,7 +1424,6 @@ clk1011.com
 clk1015.com
 clkrev.com
 clksite.com
-cloisteredcord.com
 cloisteredhydrant.com
 closedcows.com
 cloudcoins.biz
@@ -1467,7 +1467,6 @@ consensu.org
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
-content.ad
 content22.online.citi.com
 contextweb.com
 converge-digital.com
@@ -2413,7 +2412,6 @@ monsterpops.com
 mookie1.com
 mopub.com
 motionspots.com
-mouseflow.com
 mousestats.com
 movad.net
 movemeal.com
@@ -2451,6 +2449,7 @@ mystat.pl
 mysteriousmonth.com
 mytop-in.net
 myvisualiq.net
+n2.mouseflow.com
 n69.com
 naj.sk
 naj22.proasdf.com
@@ -2512,6 +2511,7 @@ ntvk1.ru
 nuseek.com
 nuttyorganization.com
 nzaza.com
+o2.mouseflow.com
 o333o.com
 oafishobservation.com
 oas.benchmark.fr
@@ -2831,6 +2831,7 @@ reachjunction.com
 reactx.com
 readgoldfish.com
 readingguilt.com
+readingopera.com
 readserver.net
 readymoon.com
 realcastmedia.com
@@ -2943,6 +2944,7 @@ sadloaf.com
 sail-horizon.com
 samsungacr.com
 samsungads.com
+sanalytics.disneyplus.com
 sanity-dataplane.rudderstack.com
 savoryorange.com
 saysidewalk.com
@@ -3602,6 +3604,7 @@ web.informer.com
 web2.deja.com
 webads.co.nz
 webads.nl
+webanalytics.zohodcm.com
 webcash.nl
 webcontentassessor.com
 webcounter.cz
@@ -3707,6 +3710,7 @@ ymetrica1.com
 yoggrt.com
 youradexchange.com
 ypu.samsungelectronics.com
+yrquuaxo.ajrimmobilier.fr
 zangocash.com
 zanox-affiliate.de
 zanox.com

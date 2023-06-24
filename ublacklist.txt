@@ -26,11 +26,13 @@
 *://*.365airsoft.com/*
 *://*.366service.com/*
 *://*.4beacademy.it/*
+*://*.4g63evo.net/*
 *://*.4meahc.com/*
 *://*.505tankist.ru/*
 *://*.52sbl.cn/*
 *://*.5ch-ranking.com/*
 *://*.5ch.pub/*
+*://*.5chmap.com/*
 *://*.7815671.ru/*
 *://*.796t.com/*
 *://*.888wenti.com/*
@@ -4039,6 +4041,7 @@
 *://*.codingdict.com/*
 *://*.cogestinformatica.it/*
 *://*.colegiobalmaceda.cl/*
+*://*.com.br/*
 *://*.comedydouga.com/*
 *://*.conceptfoam.ru/*
 *://*.console.sbs/*
@@ -4158,6 +4161,7 @@
 *://*.giveeme.ru/*
 *://*.gloves.ru/*
 *://*.google-yandex.info/*
+*://*.gov.br/*
 *://*.gtainspections.com/*
 *://*.gusi.ru/*
 *://*.ha-navi.com/*
@@ -9746,6 +9750,7 @@
 *://*.living-sun.com/*
 *://*.localcoder.org/*
 *://*.localwebsystems.com/*
+*://*.logpo.jp/*
 *://*.losangelesudec.cl/*
 *://*.loudoun-valley.com/*
 *://*.lucagisticiimpianti.it/*
@@ -9803,6 +9808,7 @@
 *://*.optioncapitalgroup.ru/*
 *://*.orcode.com/*
 *://*.ordenmasterov.ru/*
+*://*.org.br/*
 *://*.oseni.ru/*
 *://*.ospedaliprivatiforli.it/*
 *://*.ostack.cn/*
