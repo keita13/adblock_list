@@ -5195,6 +5195,7 @@
 *://*.efeegypt.org/*
 *://*.efremshop.pl/*
 *://*.eggtree.net/*
+*://*.eiragundian.com/*
 *://*.el-care.jp/*
 *://*.elastec.com/*
 *://*.elcarpincho.cl/*
@@ -5208,6 +5209,7 @@
 *://*.emc.med.sa/*
 *://*.enayacare.com/*
 *://*.encoreuntour.com/*
+*://*.engager.app/*
 *://*.enticontrol.com/*
 *://*.epilepsynetwork.com.au/*
 *://*.esbnyc.com/*
@@ -5232,6 +5234,7 @@
 *://*.faqcode4u.com/*
 *://*.farmaciazarla.it/*
 *://*.farmamedica.mx/*
+*://*.farmtotablearava.co.il/*
 *://*.fastestvpn.com/*
 *://*.fattoriaascaniocruciani.it/*
 *://*.favlst.com/*
@@ -5268,6 +5271,7 @@
 *://*.framar.gt/*
 *://*.francogaliano.it/*
 *://*.fsf-se.com.br/*
+*://*.ft.unsoed.ac.id/*
 *://*.fulltravel.it/*
 *://*.fundacionobligado.org.ar/*
 *://*.fundacionoulton.org.ar/*
@@ -5312,6 +5316,7 @@
 *://*.gizchina.it/*
 *://*.gizmobase.com/*
 *://*.glamping-hotel.com/*
+*://*.glantaffinn.com/*
 *://*.gloves.ru/*
 *://*.glsecretariat.fr/*
 *://*.gokdeniztesisatyapi.com/*
@@ -11586,6 +11591,7 @@
 *://*.kohli.blog/*
 *://*.konnectme.video/*
 *://*.konnichiwasekai.com/*
+*://*.konnitiwaseikyo.com/*
 *://*.koshibun.jp/*
 *://*.kotaeta.com/*
 *://*.kr.koreanhf.kyiv.ua/*
@@ -11598,6 +11604,7 @@
 *://*.laddertechnologies.com/*
 *://*.lahaciendarestaurante.cl/*
 *://*.lakesideretreats.uk/*
+*://*.land-make.jp/*
 *://*.lapress.org/*
 *://*.laptrinhx.com/*
 *://*.learnfk.com/*
@@ -11683,6 +11690,7 @@
 *://*.mspoweruser.com/*
 *://*.mtmx.jp/*
 *://*.musiscuola.it/*
+*://*.mvillacar.co/*
 *://*.mvwautotechniek.nl/*
 *://*.mycoolclass.com/*
 *://*.nacloset.com/*
@@ -12428,6 +12436,7 @@
 *://*.profimed74.ru/*
 *://*.progi.pro/*
 *://*.prograide.com/*
+*://*.programaintegra.org/*
 *://*.programbugs.com/*
 *://*.programmation-web-qr.com/*
 *://*.programmerstart.com/*
@@ -14464,6 +14473,7 @@
 *://*.siciliafse1420.it/*
 *://*.sidconsultores.com/*
 *://*.silencepatton.com/*
+*://*.silesiamedical.com.pl/*
 *://*.simpleglobal.com/*
 *://*.sisuvp.com/*
 *://*.siwib.org/*
@@ -14500,6 +14510,7 @@
 *://*.stackovernet.xyz/*
 *://*.stackoverrun.com/*
 *://*.stackscn.com/*
+*://*.stationbansko.com/*
 *://*.stayerbhp.pl/*
 *://*.steakrecords.com/*
 *://*.strana.ru/*
