@@ -4234,7 +4234,7 @@ myshrinker.com##.banner-inner
 
 ! https://github.com/uBlockOrigin/uAssets/issues/10533
 cricstream.*##.w-100.position-absolute.h-100
-watch.cricstream.*##button:has-text(/Watch|🎟|👉/)
+watch.cricstream.*##button:has-text(/Watch||痩/)
 
 ! wishanimes.com popup
 wishanimes.com##+js(acs, JSON.parse)
