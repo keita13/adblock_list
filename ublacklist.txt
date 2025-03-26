@@ -64,6 +64,7 @@
 *://*.agrohora.com.br/*
 *://*.agzulueta.cl/*
 *://*.ahamse.it/*
+*://*.airproxy.ca/*
 *://*.aisaika.info/*
 *://*.ajaxhispano.com/*
 *://*.akhbara24.news/*
@@ -81,6 +82,7 @@
 *://*.alphamareconstrutora.com.br/*
 *://*.altema.jp/*
 *://*.altia.com/*
+*://*.amfilm.nl/*
 *://*.amzpecty.com/*
 *://*.an-matome.com/*
 *://*.anatoliecantir.com/*
@@ -5168,6 +5170,7 @@
 *://*.debugcn.com/*
 *://*.debugko.com/*
 *://*.dedoes.com/*
+*://*.defunmaison.com/*
 *://*.delavaio.com/*
 *://*.deluxesport.cl/*
 *://*.deluxtrade.ru/*
@@ -5179,6 +5182,7 @@
 *://*.devadvisor.io/*
 *://*.develop-bugs.com/*
 *://*.developreference.com/*
+*://*.devices.ignition633.org/*
 *://*.dgtaz698.ecomedincanto.it/*
 *://*.dhaka12.com/*
 *://*.diariopatagon.cl/*
@@ -5240,6 +5244,7 @@
 *://*.eventi.it/*
 *://*.everand.com/*
 *://*.every-day-is-a-new-day.com/*
+*://*.ew-healthcare.itvibes.org/*
 *://*.exceptionshub.com/*
 *://*.exchangetuts.com/*
 *://*.exefiles.com/*
@@ -5288,6 +5293,7 @@
 *://*.fooobar.com/*
 *://*.formacionyestudios.com/*
 *://*.forumedia.ru/*
+*://*.fr.mituning.com/*
 *://*.framar.gt/*
 *://*.francogaliano.it/*
 *://*.fsf-se.com.br/*
@@ -5349,6 +5355,7 @@
 *://*.google-yandex.info/*
 *://*.goprospero.com/*
 *://*.gov.br/*
+*://*.gpt.wid.jp/*
 *://*.graficasmartinez.com/*
 *://*.granabip.org/*
 *://*.grayelectricllc.com/*
@@ -5382,6 +5389,7 @@
 *://*.hotstaff.co.jp/*
 *://*.houserossa.co.jp/*
 *://*.hpmi.org.in/*
+*://*.hrefgo.com/*
 *://*.hrtech-guide.co.jp/*
 *://*.hsc.unm.edu/*
 *://*.htofe.com/*
@@ -5411,6 +5419,7 @@
 *://*.ilmioprovino.it/*
 *://*.iloencyclopaedia.org/*
 *://*.imadmoghnieh.org/*
+*://*.immobilien-zypern.com/*
 *://*.imsdevelopments.com/*
 *://*.includestdio.com/*
 *://*.incpbrasil.com.br/*
@@ -11680,9 +11689,11 @@
 *://*.loudoun-valley.com/*
 *://*.lucagisticiimpianti.it/*
 *://*.luis-vives.es/*
+*://*.lulamaindustrial.co.za/*
 *://*.lvn.cl/*
 *://*.lycaeum.dev/*
 *://*.lynxinst.com/*
+*://*.m-asociados.es/*
 *://*.machiben.app/*
 *://*.madaraschool.org/*
 *://*.maderasconta.cl/*
@@ -12088,6 +12099,7 @@
 *://*.nobis.work/*
 *://*.nogomi.ru/*
 *://*.nomadoya.ne.jp/*
+*://*.north-plus.net/*
 *://*.northcoast500.com/*
 *://*.notary-index.co.il/*
 *://*.novachem.it/*
@@ -14533,10 +14545,12 @@
 *://*.siwib.org/*
 *://*.sjpl.org/*
 *://*.skiidre.se/*
+*://*.snow-plus.net/*
 *://*.sociedadteosofica.cl/*
 *://*.socratessculpturepark.org/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
+*://*.sogaku.jp/*
 *://*.soinside.com/*
 *://*.soivre.org/*
 *://*.sokoonacademy.com/*
