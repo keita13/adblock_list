@@ -11672,6 +11672,7 @@
 *://*.line.ru/*
 *://*.link/*
 *://*.linkfang.org/*
+*://*.linux-jp.org/*
 *://*.linuxadictos.com/*
 *://*.litigationtoday.com/*
 *://*.little-feet.org.uk/*
