@@ -76,7 +76,6 @@ support.ublock.org##div.hero-unit > div.search-box--hero-unit::before:style(cont
 ||clonezilla.fr^$doc
 ||clonezilla.it^$doc
 ||cyberduck.de^$doc
-||cyberduck.es^$doc
 ||cyberduck.fr^$doc
 ||cyberduck.it^$doc
 ||filezilla.es^$doc
@@ -122,7 +121,6 @@ support.ublock.org##div.hero-unit > div.search-box--hero-unit::before:style(cont
 ||stellarium.es^$doc
 ||stellarium.fr^$doc
 ||truecrypt.fr^$doc
-||truecrypt.it^$doc
 ||unetbootin.net^$doc
 ||unetbootin.org^$doc
 ||utorrent.it^$doc
@@ -192,7 +190,6 @@ majorgeeks.com##b:has(a[target^="reimage"])
 ||mr.media-bucket.com^
 
 ! https://github.com/NanoMeow/QuickReports/issues/965#issuecomment-485274387
-||pl.allsports4free.club^
 ||pl.allsports4u.club^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5409
@@ -263,9 +260,6 @@ howtoremove.guide###gray_de
 ! https://www.reddit.com/r/uBlockOrigin/comments/12nrzng/
 ||mybestclick.net^$3p
 
-! https://github.com/NanoMeow/QuickReports/issues/3205
-||verified-extensions.com^
-
 ! https://github.com/NanoMeow/QuickReports/issues/3299
 ! https://github.com/NanoMeow/QuickReports/issues/3300
 ||smsiak.pl^$doc
@@ -275,8 +269,6 @@ howtoremove.guide###gray_de
 ||video-adblock.com^$all
 ||vid-adblocker.com^$all
 ||multiadblock.com^$all
-||popsads.link^$all
-||adverdirect.com^$all
 ||traffic-go.com^$all
 ||streamssitesearch.com^$all
 ||trackertrak.com^$all
@@ -313,7 +305,6 @@ howtoremove.guide###gray_de
 ||ckre.net^$all
 ||gotohouse2.cc^$all
 ||letmessagenow.com^$all
-||x-soft.club^$all
 ||apilond.com^$all
 ||tracklyfast.com^$all
 ||pupok.link^$all
@@ -355,15 +346,12 @@ howtoremove.guide###gray_de
 ||privatesinglesmeet.com^$all
 ||readytosinglesmeet.com^$all
 ||theshoparound.com^$all
-||onlineplus.click^$all
 ||trafempire.com^$all
 ||iamnaughty.com^$all
 ||iwantu.com^$all
-||myhotdates.com^$all
 ||buddygays.com^$all
 ||localsnapsext.com^$all
 .php?key=*cost=$doc,popup
-||djin.site^$all
 ||antivirus.landerhd.com^$all
 /?clck=*&sid=$doc
 ||love7date.info^$all
@@ -385,10 +373,8 @@ howtoremove.guide###gray_de
 ||familysimulator.$all
 ||adblockfast.com^$all
 ||bookofsex.com^$all
-||mydirtytinders.com^$all
 ||fuckmore.com^$all
 ||greengoplatform.com^$all
-||transportgoline.com^$all
 ||onlyfreelesbianporn.com^$all
 ||family-simulators.com^$all
 ||your-dates-tonight.com^$all
@@ -402,7 +388,6 @@ howtoremove.guide###gray_de
 /?clickid=*&ptracker=$doc
 ||vehicle-insurance-quote.com^$all
 ^lpkey=*&uclickhash=$doc
-||d135aysof2oufc.cloudfront.net^$all
 /?banner=*&phone=$doc
 ||advidates.com^$all
 ||dvjqvdfujjvvkuyvhjqdvbjcmioljbhjmijq.s3.ap-northeast-1.amazonaws.com^$all
@@ -435,7 +420,6 @@ howtoremove.guide###gray_de
 /?cid=*&dom=$doc
 /?type=*&button=2&clickid=$doc
 ^device_model=*&p1=https$doc
-||5.61.55.143^
 .biz/sw/w1s.js|$script,3p
 /click.php?key=*&cpc=0&$doc
 ||37.1.213.100^
@@ -479,7 +463,6 @@ howtoremove.guide###gray_de
 ||dm09.biz^$all
 /click.php?key=*&dj_placement=$doc
 &srv_id=terra#$doc
-||ultimate-clean.club^$all
 ||pcconelove.xyz^$all
 ||video.redwap.cam^$all
 ||cractica.xyz^$doc
@@ -487,7 +470,6 @@ howtoremove.guide###gray_de
 ||bybygnom.com^$all
 ||paderrer.com^$all
 /jump/next.php?r=$doc
-||softronline.click^
 /?clickid=*&t2=$doc
 ||makenoads.com^$all
 ||family-simulators.io^$doc
@@ -512,16 +494,11 @@ howtoremove.guide###gray_de
 ||www3secure.com^$all
 ||midnighthookup.today^$all
 ||padsthai.com^$all
-||dirtyflirt9.com^$all
-||bestvideo.cloud^$all
 ||bmtracks.com^$all
 ||bustymeets.com^$all
 ||aht42trk.com^$all
-||jasnathvibes.com^$all
 /mc-test/*/index.php?cid=$doc
 ||attractivecutiewcx.com^$all
-||click-allow.top^
-||alone-here.online^$all
 ||newonlinedates.com^$all
 /?l=*&ymid=$doc
 .com/r2.php?e=$doc
@@ -554,11 +531,9 @@ howtoremove.guide###gray_de
 /vpn/adult/*/index.html?$doc
 ||dunabear.com^$all
 ||mialifestyle.com^$all
-||miafann.online^$all
 /utility/adult/*/index.html?$doc
 /1/index.html?c=$doc
 /2/index.html?c=$doc
-||binomasia.com^$all
 /protectme_new1/index.html?$doc
 ||remor.xyz^$all
 ||github.io/health-records-x-ray$doc
@@ -588,25 +563,18 @@ howtoremove.guide###gray_de
 ||date2night.b-cdn.net^
 ||ntfck.com^$all
 ||malenirt.site^$all
-||repostponing.cfd^$all
 /post/FileRotator_ID*/download.php?subid=$xhr
 /bonus/com-*.php?c=$doc
-||arousalx.com^$all
-||eroticher.com^$all
-||lovenestx.com^$all
 ||dekarise.site^$all
 ://click-v4.*.com/click?$doc
 ://xml-v4.*.online/click?$doc
 .monster/?t=$doc
 ?a=0&u=*&tracker=$doc
-||elovify.com^$doc
 .de/d8323ll?t=$doc
 .top/t99b45h?t=$doc
 .com/k082rwq?t=$doc
 .com/t6pp7e3?t=$doc
 ||derriar.site^$all
-||sektfeb.top^$all
-||b2base252.top^$all
 ||smartgethub.com^$all
 /?utm_source=*&j1=1^$doc
 /video_app/new/adult/*/index.html?$doc
@@ -618,7 +586,6 @@ howtoremove.guide###gray_de
 ||wild-match-network.com^$all
 ||meetandlovenow.com^$all
 ||meetfindlove.com^$all
-||connectifylink.com^$all
 /click.php?key=*&zoneid=$doc
 .co.in/01/?cid=$doc
 .co/?mlk=$doc
@@ -632,6 +599,11 @@ howtoremove.guide###gray_de
 .com/s/*?track=$doc
 ||cdnservice.ink^$all
 .co.in/a0x1/?cid=$doc
+&ntw=adsterra_int$doc
+/dc?pl=*&click_id=$doc
+! https://precheck.dcrtb-pixel.com/dc?pl= park domain redirect
+||dcrtb-pixel.com^$doc
+
 ! https://github.com/uBlockOrigin/uAssets/discussions/30392
 ! https://www.virustotal.com/gui/url/e9eb033732965eb6b091627cee5807a9b487e98c21dc70eede1ce8a57b0b2fc9
 ! https://www.virustotal.com/gui/url/2d84c47a1ddc0d0ed94f0a78b3ff9ea9ee3ed681a482b8ec129fa4a73197ae8a
@@ -688,12 +660,7 @@ howtoremove.guide###gray_de
 ||mfilecloud.com^$all
 ||xsharenode.com^$all
 ||basesfiles.com^$all
-||one-click.cc^$all
-||descarga.pw^$doc
 ||mediafire.com/folder/ofa1qju50ffaz/$doc
-||mediafire.com/folder/hm0b7x2593fh1/$doc
-||mediafire.com/folder/86rkvkl7eswi2/$doc
-||mediafire.com/folder/4fsmxnec5zkpl/$doc
 ||mediafire.com/folder/hh6g372sijmjr/$doc
 ||www.youtube.com/@pengwincheat/$doc
 ||www.youtube.com/@melonitysoft/$doc
@@ -714,19 +681,13 @@ howtoremove.guide###gray_de
 ||sites.google.com/view/robiccv|$doc
 ||sites.google.com/view/easylaunch|$doc
 ||gamefree.vip^$doc
-||gocrazy.gg^$doc
 ||upload.advgroup.ru/mvWwiE4h$all
 ||games-blacksoft.com^$doc
 ||freefiles-upload.com^$doc
 ||projecthygieia.com^$all
 ||fusionhacks.cc^$doc
-||phantomcorestudios.net^$doc
 ||mysoft.rest^$all
-||syntaxwave.lol^$doc
-||gitzdownloadkm.cyou^$doc
-||lunexmods.cc^$doc
-||cloud-deployments.org^$doc
-||tech-cloud.org^$doc
+||iridia.me^$doc
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69036
 .systems/signup?ad_domain=$doc,popup
@@ -816,9 +777,6 @@ howtoremove.guide###gray_de
 ! https://github.com/uBlockOrigin/uAssets/pull/10017
 ||flash.cn^$all
 
-! https://github.com/uBlockOrigin/uAssets/commit/5832dfebb4021c639b90c2973946ff7638c2290f#commitcomment-57642161
-||foxmods.xyz^$doc
-
 ! phishing /malicious
 ||gesas.it^$doc
 ||techinnsrl.com^$doc
@@ -848,9 +806,6 @@ howtoremove.guide###gray_de
 ||freediscordnitro.$all
 ||updatemobilee.com^$all
 ||allprizesforme.com^$all
-
-! https://github.com/DandelionSprout/adfilt/issues/267
-||tekhacks.net^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/10536
 ||tw-goldenwinner-57.com^$doc
@@ -913,7 +868,6 @@ cracksmid.com##div[style=""] > center > center
 ||serialsoft.org^$doc
 ||getprocrack.net^$doc
 ||crackdo.online^$doc
-||noxbits.com^$all
 ||upcommunity.click^$doc
 ||tech-softwares.com^$doc
 ! https://www.virustotal.com/gui/url/306f66e86e6036d8c7b3d0c6ab8af27385505c969af4f998f75ffe1eae2c19be
@@ -925,15 +879,9 @@ cracksmid.com##div[style=""] > center > center
 ! https://github.com/uBlockOrigin/uAssets/issues/15793
 ! https://github.com/blocklistproject/Lists/issues/933
 ||filexstorage.site^$all
-||34y26s47.cfd^$all
-||atof42ap.click^$all
-||kz3wnibp.cfd^$all
 ||worshippers.store^$all
-||decisionsem.live^$all
 ||deliberatelyot.space^$all
 ||ozycode.cfd^$all
-||best-experience-cool.com^$all
-||mdowny11.cfd^$all
 ||readyf1.click^$all
 ||gotmylink.xyz^$all
 ||clickmydown.xyz^$all
@@ -976,6 +924,7 @@ cracksmid.com##div[style=""] > center > center
 %3C?php%20echo%20substr(md5(microtime()),0,rand(10,30));?%3E&$doc
 /?*&gkss=$doc,to=cfd|click|pro|world|xyz
 ^click_id=*&s1=$doc
+.com/casino?registration=1&cid=$doc
 ! https://github.com/uBlockOrigin/uBlock-discussions/discussions/790#discussioncomment-10332718
 ||cfd/file?ajk=$doc,popup
 ||cfd/mnllcontent-$popup
@@ -1045,7 +994,6 @@ cracksmid.com##div[style=""] > center > center
 ||tiurll.com^$all
 ||urlca.com^$all
 ||psfmi.com^$all
-||gghut.com^$all
 ||mciun.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136693
@@ -1096,10 +1044,6 @@ cracksmid.com##div[style=""] > center > center
 ||fapello.xyz^$all
 ! https://twitter.com/masaomi346/status/1649260359763775488
 ||bavaria-cup.ru^$all
-! https://twitter.com/8614miyauchi/status/1654845878933557248
-||luckypapa.xyz^$doc
-! https://twitter.com/harugasumi/status/1655470724377907200
-||manage-fpw-my-sakura-fpw-jp-fpw.impulsion.mu^$all
 ! https://twitter.com/pingineer_jp/status/1646373106557267968
 ||honda-law-office.jp/wp-includes/70038/Earthcorejp/|$doc
 ! https://twitter.com/satontonton/status/1659183900059652098
@@ -1108,8 +1052,6 @@ cracksmid.com##div[style=""] > center > center
 ||qhigh.com^$all
 ! https://twitter.com/AP_Zenmashi/status/1674082742013755393
 ||almostmy.com^$all
-! https://twitter.com/masaomi346/status/1696821001785635127
-||tokyobag.shop^$all
 ! https://twitter.com/masaomi346/status/1716272554464473099
 ||erdfkhxrnanm.top^$all
 ! https://x.com/JCyberSec_/status/1809231223220236596
@@ -1128,17 +1070,11 @@ cracksmid.com##div[style=""] > center > center
 ||btemgb.com^$all
 ! https://x.com/harugasumi/status/1838519663145468074
 ||ec2-13-230-253-66.ap-northeast-1.compute.amazonaws.com^$all
-! https://x.com/masaomi346/status/1867012579492757739
-||my-bitbank.cc^$all
 ! https://x.com/masaomi346/status/1874257707567636729
 ! https://x.com/harugasumi/status/1874798942346760297
 ||lcskincarecenter.com^$all
-! https://x.com/masaomi346/status/1886438624067223795
-||clasm.live^$all
 ! https://x.com/harugasumi/status/1921004076243853818
 ||trustwallct.cc^$all
-! https://x.com/tobunken_nich/status/1939526807948066985
-||tnm-museum.world^$all
 ! https://x.com/harugasumi/status/1942617559880384742
 ||modii.xyz^$doc
 ! https://x.com/masaomi346/status/1954486421697536199
@@ -1163,15 +1099,26 @@ cracksmid.com##div[style=""] > center > center
 ||appvip-download.cc^$all
 ! https://x.com/masaomi346/status/1981339807889658367
 ||riseecore.site^$all
-! https://x.com/harugasumi/status/1987389485638893569
-||t-piaticketinte.jp^$all
 ! https://x.com/harugasumi/status/1988610400875897157
 ||hcstore.vip^$all
+! https://x.com/masaomi346/status/1990184039429599501
+||arzaeterna.com^$all
+! https://x.com/masaomi346/status/2005631436217630938
+||lixbngx.top^$all
+! https://x.com/KesaGataMe0/status/2016770059306488258
+||ublcz.cn^$all
+! https://x.com/Kdroidwin1/status/2016836856693084413
+||ads.twitter.center^$all
+! https://x.com/kantei/status/2018989364068704490
+||divibase.xyz^$all
+! https://x.com/KesaGataMe0/status/2024300912332984486
+||kensatsu.top^$all
+! https://x.com/_jade_kk/status/2042066546588315966
+||lincolnforestlakeproject.com^$all
 
 ! scam sites
 ||webuzz.me^$doc
 ||coup-ling.net^$all
-||coup-ling-dm.net^$all
 ||gokinjolove.jp^$all
 ||gokinjolove.net^$all
 ||hornygirlsinapp.com^$all
@@ -1179,13 +1126,11 @@ cracksmid.com##div[style=""] > center > center
 ||3tuhabe.info^$doc
 ||5dgja.com^$doc
 ||8senjya.jp^$doc
-||a-divination.com^$doc
 ||ad7mylo.com^$doc
 ||after-pop-abc.com^$doc
 ||aiai-talk.com^$doc
 ||aiaitalk.com^$doc
 ||alicekdsod.com^$doc
-||aqmessage.jp^$doc
 ||best-chat.net^$doc
 ||bestxchat.net^$doc
 ||car-na.jp^$doc
@@ -1206,7 +1151,6 @@ cracksmid.com##div[style=""] > center > center
 ||fortune-koun.jp^$doc
 ||fortune-luna.com^$doc
 ||friendxroom.com^$doc
-||fukumaneki2211.com^$doc
 ||g6-gonight.org^$doc
 ||gabfbnaqodnvfafnj.com^$doc
 ||girls.a-makeup.com^$doc
@@ -1227,7 +1171,6 @@ cracksmid.com##div[style=""] > center > center
 ||k-colorful.jp^$doc
 ||k1wa.jp^$doc
 ||kaiun-com.com^$doc
-||keep.secret-ace.com^$doc
 ||koiroom.net^$doc
 ||koiroomnotice.net^$doc
 ||koun-yogen.com^$doc
@@ -1261,18 +1204,15 @@ cracksmid.com##div[style=""] > center > center
 ||one-chan-love.love^$doc
 ||onega.jp^$doc
 ||onegaga.jp^$doc
-||otona-nona.biz^$doc
 ||otonanona.jp^$doc
 ||otonatime.net^$doc
 ||oyasu-mi.tokyo^$doc
-||pair-online.jp^$doc
 ||piasukai.xyz^$doc
 ||plati-num.com^$doc
 ||pr0m.site^$doc
 ||privatelife.jp^$doc
 ||r30address.com^$doc
 ||r30deai.com^$doc
-||reddishpurple.com^$doc
 ||reverita-t.jp^$doc
 ||ripiai.com^$doc
 ||romancetime.jp^$doc
@@ -1295,32 +1235,25 @@ cracksmid.com##div[style=""] > center > center
 ||tadaapo123.com^$doc
 ||tadaapomail.com^$doc
 ||tadamatch.com^$doc
-||tsumalabo.jp^$doc
 ||tumalabo.net^$doc
-||tyotyo.biz^$doc
 ||u3ig.com^$doc
 ||vanilla-japan.net^$doc
 ||verita-t.jp^$doc
-||yu0287tk.com^$doc
 ||jivo-ce.jp^$doc
 ||2226wurpatw.tokyo^$doc
 ||asiansgetnaughty.com^$doc
 ||blackstunners.com^$doc
 ||budhump.com^$doc
-||connect-wp.net^$doc
 ||eternal.mobius-loop.net^$doc
 ||fukuinnnokotoba.com^$doc
 ||humpbuds.com^$doc
 ||localsgowild.com^$doc
 ||naughtyfever.com^$doc
-||oo.opaall.com^$doc
 ||tenseikaiun.com^$doc
 ||secure-57v.pages.dev^$all
 ||slb3cr9dx9.jp^$doc
 ||sukui05.com^$doc
-||bambam-bi.com^$doc
 ||chocochipu-o.com^$doc
-||cosmos-metatrade.com^$doc
 ||facebooc.jp^$doc
 ||gtir5die6sutngr.jpn.com^$doc
 ||happiness-gate.com^$doc
@@ -1331,14 +1264,8 @@ cracksmid.com##div[style=""] > center > center
 ||okai.work^$doc
 ||pdss3a1r.jp^$doc
 ||pfunding-01.com^$doc
-||rainbow-fortune.biz^$doc
-||rainbow-fortune.com^$doc
-||rainbow-fortune.jp^$doc
-||sall.etchat.jp^$doc
-||star-fortune.com^$doc
 ||toki-no-irodori.com^$doc
 ||tomodachixoxo.wixsite.com^$doc
-||triangle123.com^$doc
 ||ukokjxfbdqwffmuvsd.jp^$doc
 ||vf5rkgirsir8ska.jpn.com^$doc
 ||vitop7eg5sqwgbk.jpn.com^$doc
@@ -1347,9 +1274,7 @@ cracksmid.com##div[style=""] > center > center
 ||xs5rur1she7eyry.jpn.com^$doc
 ||57zyazmk.jp^$doc
 ||a.tlineat.jp^$doc
-||b2ujcm.com^$doc
 ||be-loaded.com^$doc
-||coralnov.jp^$doc
 ||doorway-of-guidance.com^$doc
 ||ed-blissful.com^$doc
 ||eika-akie220202.com^$doc
@@ -1366,7 +1291,6 @@ cracksmid.com##div[style=""] > center > center
 ||heart-uranai.com^$doc
 ||iflirts.com^$doc
 ||im-excellent.com^$doc
-||iris-808.com^$doc
 ||kaaairoo549kai.com^$doc
 ||karinaroom.wixsite.com^$doc
 ||l-chat.jp^$doc
@@ -1381,7 +1305,6 @@ cracksmid.com##div[style=""] > center > center
 ||p-chi.info^$doc
 ||pairpure.jp^$doc
 ||pairpure.jp.net^$doc
-||photo-gallery-picture2398.com^$doc
 ||poke10ve.com^$doc
 ||relifemail555.com^$doc
 ||s-kiseki.jp^$doc
@@ -1395,20 +1318,15 @@ cracksmid.com##div[style=""] > center > center
 ||vroom24.com^$doc
 ||vroom24365.com^$doc
 ||wmw.matchin.jp^$doc
-||wn56y7ve57j12zuv7tyj.com^$doc
-||woman-good-job.work^$doc
 ||world.ex-advantage.jp^$doc
 ||xxa.uji8979erd77.jp^$doc
 ||y-tradie.com^$doc
 ||best-web2020.com^$doc
-||dosudosuo.com^$doc
 ||female-good.work^$doc
 ||foundate-core.net^$doc
 ||li-neeee.net^$doc
 ||make2022.com^$doc
-||salon.beauty202201.com^$doc
 ||sbfw.work^$doc
-||tim.time-time-zyunizi.com^$doc
 ||xxxmake.com^$doc
 ||1litteno.home-walil1.jp^$doc
 ||1st-mail.jp^$doc
@@ -1422,11 +1340,7 @@ cracksmid.com##div[style=""] > center > center
 ||ancient-guidance.jp^$doc
 ||atchm.net^$doc
 ||bontruth.com^$doc
-||c.onnect.jp^$doc
-||chat111room-09.com^$doc
 ||cosdate.jp^$doc
-||cxbvnmyeruw.com^$doc
-||d-hiyori.com^$doc
 ||daisukimatch.jp^$doc
 ||defendeerrpro.jp^$doc
 ||diamond-line.net^$doc
@@ -1437,8 +1351,6 @@ cracksmid.com##div[style=""] > center > center
 ||eromatchi.jp^$doc
 ||fanta-stic.net^$doc
 ||flirt.com^$doc
-||ggcake.tindersplus.net^$doc
-||gokuhuku.jp^$doc
 ||gyakusimei.com^$doc
 ||h-spe.net^$doc
 ||hapim.net^$doc
@@ -1447,7 +1359,6 @@ cracksmid.com##div[style=""] > center > center
 ||heartmatch.jp^$doc
 ||japanhotties.jp^$doc
 ||jdoasjfojuhod.com^$doc
-||kaiunmegami.jp^$doc
 ||koipara.jp^$doc
 ||lib-333-lib.com^$doc
 ||local-bang.com^$all
@@ -1463,20 +1374,17 @@ cracksmid.com##div[style=""] > center > center
 ||nakayama.chikarakosopower.com^$doc
 ||netsgram.com^$doc
 ||nextaex.com^$doc
-||one.thx-birthday.com^$doc
 ||otakuplay.jp^$doc
 ||otakurabu.jp^$doc
 ||p18d6.hp.peraichi.com^$doc
 ||pairnavipairnavi.com^$doc
 ||pakok.net^$doc
 ||paradise-angel.com^$doc
-||peaces-ign.com^$doc
 ||peachzone.site^$doc
 ||plaza-l1o0nni-p1aza.com^$doc
 ||ptron.net^$doc
 ||ranch-1and.com^$doc
 ||richheart.completelifetime.com^$doc
-||sdhjak.com^$doc
 ||sfsrch.com^$doc
 ||sokuh.net^$doc
 ||sonic-nicehands.com^$doc
@@ -1572,7 +1480,6 @@ cracksmid.com##div[style=""] > center > center
 ||mmnav.jp^$doc
 ||moecoco.com^$doc
 ||mymymy.net^$doc
-||natadecoco.net^$doc
 ||naughtydate.com^$doc
 ||newhoney.jp^$doc
 ||nuide.net^$doc
@@ -1625,8 +1532,6 @@ cracksmid.com##div[style=""] > center > center
 ||life-is-luminous.com^$doc
 ||00ebjdbagyqwt.club^$doc
 ||0didjsgheje.club^$doc
-||5050.fm^$doc
-||adoptmeantranslate.com^$doc
 ||after-7.net^$doc
 ||aikatuz.jp^$doc
 ||always-happy-fortune.com^$doc
@@ -1637,7 +1542,6 @@ cracksmid.com##div[style=""] > center > center
 ||charecttorr.jp^$doc
 ||charm-n.com^$doc
 ||chesscheckersvariation.com^$doc
-||circle7-bd.com^$doc
 ||club-house.link^$doc
 ||cocoro-liberty.com^$doc
 ||during-the-holiday.com^$doc
@@ -1647,7 +1551,6 @@ cracksmid.com##div[style=""] > center > center
 ||every-dark.com^$doc
 ||every-enjoy.com^$doc
 ||every-salmon.com^$doc
-||every-super.com^$doc
 ||experiencedlawsuit.com^$doc
 ||febdd.info^$doc
 ||fortune-yakata.com^$doc
@@ -1655,10 +1558,7 @@ cracksmid.com##div[style=""] > center > center
 ||gnchag.com^$doc
 ||gran-danker.jp^$doc
 ||gyakunan.net^$doc
-||higher-mainnd.jp^$doc
 ||igazre.com^$doc
-||kantei-oracle.com^$doc
-||lover-c.com^$doc
 ||mamagathering.org^$doc
 ||mc-aoyama.com^$doc
 ||miracle-door.com^$doc
@@ -1669,7 +1569,6 @@ cracksmid.com##div[style=""] > center > center
 ||peachcafe.net^$doc
 ||poison-idea.com^$doc
 ||polaris-775.com^$doc
-||pollutionsatisfyadopt.com^$doc
 ||rosaca-nina.net^$doc
 ||s-space.jp^$doc
 ||spiritual-leading.com^$doc
@@ -1685,12 +1584,9 @@ cracksmid.com##div[style=""] > center > center
 ||tomikuji.com^$doc
 ||ugfdwmausxfy.net^$doc
 ||uranai-hit.com^$doc
-||wastearguewasteill.com^$doc
 ||web.fe-vrier.com^$doc
 ||whpbrmdss.com^$doc
-||will-kantei.com^$doc
 ||wkdk.jp^$doc
-||6xy-zg.com^$doc
 ||dwoetbarcrooplsloiwh.com^$doc
 ||ytjon-d2s1ah.com^$doc
 ||lets-tip315.com^$doc
@@ -1713,22 +1609,16 @@ cracksmid.com##div[style=""] > center > center
 ||o-cean-fortune.com^$doc
 ||secondary-with.com^$doc
 ||fure-ai.com^$doc
-||fure-ai.site^$doc
 ||rea-love.net^$doc
 ||natu.natural-natural-pure.com^$doc
 ||btc8228.com^$all
 ||btc9339.com^$all
-||abacus-prefix.com^$doc
 ||celezma.net^$doc
-||dismay-sacred.com^$doc
 ||loveru.jp^$doc
-||morale-yellow.com^$doc
 ||t1amo.jp^$doc
-||fair.alivio-platform.com^$doc
 ||pair-seat.net^$doc
 ||pairseat.net^$doc
 ||sez.jp^$doc
-||matching-go.jp^$doc
 ||kira-kira.blue^$doc
 ||p-chi.tech^$doc
 ||vanilla-japan.love^$doc
@@ -1751,11 +1641,9 @@ cracksmid.com##div[style=""] > center > center
 ||after-noon.jp^$doc
 ||chatchu.jp^$doc
 ||cupid-chat.net^$doc
-||moonlight-ebbandflow.com^$doc
 ||nanroom.net^$doc
 ||nowtuma.net^$doc
 ||pastelism02.jpn.com^$doc
-||pineapplecake-yummy.com^$doc
 ||wifekai.net^$doc
 ||zerocha.jp^$doc
 ||chat-search.com^$doc
@@ -1801,7 +1689,6 @@ cracksmid.com##div[style=""] > center > center
 ||mirusiru.site^$doc
 ||mobileverify.net^$doc
 ||grabgiftcard.net^$doc
-||awapp.store^$doc
 ||appxfree.com^$doc
 ||kounnomichishirube.net^$doc
 ||lucksignpost0804.org^$doc
@@ -1809,7 +1696,6 @@ cracksmid.com##div[style=""] > center > center
 ||lightning0707.com^$doc
 ||silversex.com^$doc
 ||flirttime.com^$doc
-||scene7goal3.work^$doc
 ||ma-rry.net^$doc
 ||ma-rry.site^$doc
 ||altdorfer-niklaus.com^$doc
@@ -1820,10 +1706,7 @@ cracksmid.com##div[style=""] > center > center
 ||ctn-ctn.com^$doc
 ||holy-kantei.com^$doc
 ||unki-max.com^$doc
-||eir.tdhg7ppa.com^$doc
-||recklessdroughtburglar.com^$doc
 ||the-match.jp^$doc
-||evkakuri2308.click^$doc
 ||gtex3.com^$doc
 ||nice.par-even.com^$doc
 ||pr-0m.link^$doc
@@ -1832,8 +1715,6 @@ cracksmid.com##div[style=""] > center > center
 ||globalreward77.com^$doc
 ||jukukoi.jp^$doc
 ||jukukoi.me^$doc
-||buono2023-web.com^$doc
-||miemashita.jp^$doc
 ||lovely-lovely.com^$doc
 ||shareno1wish.net^$doc
 ||d-position.com^$doc
@@ -1843,7 +1724,6 @@ cracksmid.com##div[style=""] > center > center
 ||love2-mail.com^$doc
 ||gokinjoscreen.com^$doc
 ||koun-wa.com^$doc
-||one----talk.com^$doc
 ||mariage-inc.com^$doc
 ||tenmei-michibiki.com^$doc
 ||a-ro-ma.com^$doc
@@ -1878,7 +1758,6 @@ cracksmid.com##div[style=""] > center > center
 ||sez-pr.com^$doc
 ||soklove.net^$doc
 ||sugulove777.com^$doc
-||ta0dal0ve.com/^$doc
 ||ta1kcall.site^$doc
 ||tada-love.jp^$doc
 ||tokimekitaine.net^$doc
@@ -1888,15 +1767,11 @@ cracksmid.com##div[style=""] > center > center
 ||tsumatsuma.xyz^$doc
 ||olive-ft.jp^$doc
 ||az-l.com^$doc
-||luna-t.net^$doc
 ||sm-bt.net^$doc
 ||sm-heaven.com^$doc
 ||smdotcom.com^$doc
 ||seselagi.com^$doc
 ||recipe000.tokyo^$doc
-||y54wdrg.com^$doc
-||peach2023.net^$doc
-||gokinjo---hot.com^$doc
 ||www.academicsingles.jp^$doc
 ||ado.wish-best.com^$doc
 ||keiunkan.com^$doc
@@ -1905,7 +1780,6 @@ cracksmid.com##div[style=""] > center > center
 ||as25ap.com^$doc
 ||asap15.com^$doc
 ||sm8787.com^$doc
-||foretheure.jp^$doc
 ||keenchimairaanthem.com^$doc
 ||ccappu-ccinno.com^$doc
 ||ccappuccinno.com^$doc
@@ -1927,8 +1801,6 @@ cracksmid.com##div[style=""] > center > center
 ||matching364.com^$doc
 ||dr5rmdxa.com^$doc
 ||pktbuu.morau.top^$doc
-||qxb0v.com^$doc
-||w0o.eu^$doc
 ||iris-making.com^$doc
 ||lm-mousey-happy.com^$doc
 ||speeds5-mmiliked.com^$doc
@@ -1949,23 +1821,19 @@ cracksmid.com##div[style=""] > center > center
 ||line-special-information.com^$doc
 ||safety-line-message.com^$doc
 ||secure-line-network.com^$doc
-||tw-lucky.site^$doc
 ||side-joblp.com^$doc
 ||71l0b.com^$doc
-||f8dt6.com^$doc
 ||fc67x.com^$doc
 ||everydaykennsyou.com^$doc
 ||king-sweepstakes.com^$doc
 ||qaghoz.com^$doc
 ||resort-life7.com^$doc
 ||mmnn.jp^$doc
-||pxmmm23.net^$doc
 ||mamatech.pepper.jp^$doc
 ||manpuku-ja.com^$doc
 ||manpuku-ja.jp^$doc
 ||ms-lounge.net^$doc
 ||sm-sl.net^$doc
-||xanadu-du.com^$doc
 ||enchantedfruit.com^$doc
 ||meltsweetbite.com^$doc
 ||ce0oil1ibu.com^$doc
@@ -1978,7 +1846,6 @@ cracksmid.com##div[style=""] > center > center
 ||du0.jp^$doc
 ||hapinet.net^$doc
 ||kiseki.com^$doc
-||b.eeaach.com^$doc
 ||fukutoku-miyako.com^$doc
 ||ka73-urara.club^$doc
 ||uraaka.net^$doc
@@ -1990,14 +1857,11 @@ cracksmid.com##div[style=""] > center > center
 ||gsi3t.com^$doc
 ||n43vr.com^$doc
 ||qf6tm5ug.com^$doc
-||azbzcz.com^$doc
 ||candycandypop.com^$doc
 ||showa-klub.com^$doc
 ||xczzfvxknafgoawjtv.com^$doc
 ||lshyodrgehlnyswsjq.com^$doc
 ||yy4rhgzd.com^$doc
-||familymusicman.com^$doc
-||swe.sweet-sweet-sweets.com^$doc
 ||colorfulromance.com^$doc
 ||gmatch.jp^$doc
 ||blue-uranai.com^$doc
@@ -2031,14 +1895,7 @@ cracksmid.com##div[style=""] > center > center
 ||desk-dictionary.com^$doc
 ||event-experiment.com^$doc
 ||final-future.com^$doc
-||jap.cookingsboss.com^$doc
-||jap.cookinggenuine.com^$doc
 ||ai-referee.com^$doc
-||cryp-prel.com^$doc
-||cgcsarz0opg.jp^$doc
-||sakudon293ssp.jp^$doc
-||mithu02s.com^$doc
-||impoverishedordealscrutinize.com^$doc
 ||hfykmfd1.com^$doc
 ||lien-lienam.com^$doc
 ||rune-luna-moon.com^$doc
@@ -2055,8 +1912,6 @@ cracksmid.com##div[style=""] > center > center
 ||r2.dev/human-verify-system.html$doc
 ||yy8j.com^$doc
 ||reductioncarnival.com^$doc
-||ap-ple.biz^$doc
-||ap-ple.net^$doc
 ||bride1be.com^$doc
 ||cheri-sh.jp^$doc
 ||cheri-sh.net^$doc
@@ -2071,13 +1926,11 @@ cracksmid.com##div[style=""] > center > center
 ||jg5y2nkdg.com^$doc
 ||vip-salon.net^$doc
 ||voicehp.com^$doc
-||ic0828op.com^$doc
 ||j9q8dmk6.com^$doc
 ||kas6mjgmxhn5.com^$doc
 ||zjjgbuiy.com^$doc
 ||jkoi.jp^$doc
 ||light678o.fun^$doc
-||5ra-greaws.com^$doc
 ||bibian4k.com^$doc
 ||bacchuss.net^$doc
 ||sg1first-syspro.jp^$doc
@@ -2089,7 +1942,6 @@ cracksmid.com##div[style=""] > center > center
 ||herebyintentionally.com^$doc
 ||m-ateria.com^$doc
 ||hhll.app^$doc
-||lu-club-de-matching.com^$doc
 ||l-partner.jp^$doc
 ||lpartner.jp^$doc
 ||peace-77place.com^$doc
@@ -2104,23 +1956,9 @@ cracksmid.com##div[style=""] > center > center
 ||star789h.fun^$doc
 ||g5chat.com^$doc
 ||matchtap.site^$doc
-||buzz-gric.com^$doc
-||crowd-nrgt.com^$doc
-||drg-mcre.com^$doc
-||filter-zgzy.com^$doc
-||girl-ewun.com^$doc
-||heed-mvor.com^$doc
-||loudly-xipt.com^$doc
-||realm-foym.com^$doc
-||rice-iten.com^$doc
-||sodium-icft.com^$doc
-||memorial-mem0ria1.com^$doc
-||memory-storage.net^$doc
 ||call-chieftain.com^$doc
 ||deep-dealings.com^$doc
 ||easy-elation.com^$doc
-||o-ka-pilina.com^$doc
-||dr-sapuri.jp^$doc
 ||u-to--u.com^$doc
 ||u-to-u.com^$doc
 ||u--to-u.com^$doc
@@ -2131,8 +1969,6 @@ cracksmid.com##div[style=""] > center > center
 ||scrutinizeordealscrutinize.com^$doc
 ||story-story.life^$doc
 ||mcdonal.fujicandy-balibalione.net^$doc
-||penst-hap9p-chat.com^$doc
-||penst3-hap11o-chat.com^$doc
 ||soul-of-compass.com^$doc
 ||e-manager-kanri.com^$doc
 ||info-top-letter.com^$doc
@@ -2140,16 +1976,9 @@ cracksmid.com##div[style=""] > center > center
 ||thanksgift-special.com^$doc
 ||mailtherapyask.com^$doc
 ||xs525890.xsrv.jp^$doc
-||coupletalk2024.com^$doc
-||adult-ntrchanel.com^$all
 ||echi-echi-time.org^$all
-||track.chkr7.com^$all
-||ten-lp2025.com^$doc
-||signingn.com^$doc
-||lalien10.com^$doc
 ||f-fri.com^$doc
 ||f-fri.net^$doc
-||door-donation.jp^$doc
 ||active-achieve.com^$doc
 ||awesome-meeting.jp^$doc
 ||basic-bank.com^$doc
@@ -2177,38 +2006,19 @@ cracksmid.com##div[style=""] > center > center
 ||luvmee.com^$doc
 ||luvmlp.com^$doc
 ||luvmsite.com^$doc
-||placid-jaded.com^$doc
 ||matchxxx.jp^$doc
 ||getma.tech^$doc
 ||matchzzz.jp^$doc
-||gokujyou.jp^$doc
-||jobb2nd.com^$doc
 ||uly-sses8888.com^$doc
 ||another2020.net^$doc
-||at.colony-on.id^$doc
-||bg1tey0a6eoe.jp^$doc
 ||colorone.jp^$doc
-||ju6yid2e0tuq.com^$doc
-||ty5r6a0atu5r.com^$doc
-||xir6y7ey3ate.com^$doc
 ||elephant-904.com^$doc
-||mmsefdrkcdpsrkdr-meaha.com^$doc
-||nwberjyhruvqxswo-qxwne.com^$doc
-||pcnhdukovmhslmie-vgrbx.com^$doc
-||pdupmdatdenrfojs-wmzds.com^$doc
-||pyhrjedhlepcdkek-zyapg.com^$doc
 ||yoitoki.jp^$doc
 ||play.google.com/store/apps/details?id=com.ola.yoitoki^$doc
 ||tenkeifa.com^$doc
 ||tenkeiya.com^$doc
 ||tenkeiza.com^$doc
-||alienmanufacturerchairman.com^$doc
-||chairmanalienxanthopsia.com^$doc
-||xanthopsiamanufacturer.com^$doc
 ||datelove.cc^$doc
-||datelove.co^$doc
-||datelove.shop^$doc
-||datelove.top^$doc
 ||loto-4x.com^$doc
 ||epicpotec.com^$doc
 ||nxishctcjccry.com^$doc
@@ -2219,7 +2029,6 @@ cracksmid.com##div[style=""] > center > center
 ||reveur-voyance.jp^$doc
 ||aura-and-color.com^$doc
 ||destinyholy.net^$doc
-||try-fortune.com^$doc
 ||fortune-moon.net^$doc
 ||hoshinokouranai.com^$doc
 ||irene-fortuna.com^$doc
@@ -2231,9 +2040,7 @@ cracksmid.com##div[style=""] > center > center
 ||opportunityforeigntoward.com^$doc
 ||dressedunlessround.com^$doc
 ||roundopportunityunless.com^$doc
-||bomv.vision-opqnet.com^$doc
 ||coc-gov.com^$doc
-||wjptf.top^$doc
 ||michiakari.com^$doc
 ||michiakagi.com^$doc
 ||michiakaza.com^$doc
@@ -2247,10 +2054,8 @@ cracksmid.com##div[style=""] > center > center
 ||luminous-encounter.net^$doc
 ||luminous-encounter.org^$doc
 ||teninorashinban.com^$doc
-||good.toll.trave-talk.jp^$doc
 ||covert-messaging.com^$doc
 ||discreet-discussions.com^$doc
-||global-ttalk.jp^$doc
 ||silent-messaging.com^$doc
 ||undercover-chats.com^$doc
 ||sub.astroline.today^$doc
@@ -2261,10 +2066,8 @@ cracksmid.com##div[style=""] > center > center
 ||k0ikana.com^$doc
 ||b-withyou.com^$doc
 ||w1thy0u.com^$doc
-||xmx.nineb-ittalk.com^$doc
 ||yuriyuri-yurayura.com^$doc
 ||celestica-premium.com^$doc
-||aklg-iawv.com^$doc
 ||egwj-ossi.com^$doc
 ||fsis-karw.com^$doc
 ||gbg.ty2s-pqv7.com^$doc
@@ -2272,9 +2075,7 @@ cracksmid.com##div[style=""] > center > center
 ||pacr-fjhs.com^$doc
 ||pgk.te1p-a4ir.com^$doc
 ||qloi-jjcl.com^$doc
-||tcdc-cusa.com^$doc
 ||vsno-wdmg.com^$doc
-||wgoi-jwln.com^$doc
 ||uid.pmi4-g8sd.com^$doc
 ||akgi45sas.jp^$doc
 ||dfr.bubu88yjt.jp^$doc
@@ -2282,14 +2083,9 @@ cracksmid.com##div[style=""] > center > center
 ||sed.kjh69sa99.jp^$doc
 ||wse.yts248ds.jp^$doc
 ||abc.luxe5321.com^$doc
-||charm-diadem.com^$doc
-||fruit-nuzzle.com^$doc
-||merle-poised.com^$doc
 ||kaiun-blue.com^$doc
 ||mn-meiun.com^$doc
 ||kaiunraw.com^$doc
-||bws.bar-diningjaycowe.com^$doc
-||sbi.bar-diningjaycowe.com^$doc
 ||lss.site-lfss.com^$doc
 ||msx.hope-321d.com^$doc
 ||mantra-7-teach.net^$doc
@@ -2355,13 +2151,11 @@ cracksmid.com##div[style=""] > center > center
 ||tg525.com^$doc
 ||ins7ki.com^$doc
 ||linez7820.com^$doc
-||lgz7820.com^$doc
 ||jp84434.com^$doc
 ||ghtzqkwm.sbs^$doc
 ||gok.iumgs654s.com^$doc
 ||pfj.anbilip4.com^$doc
 ||plkssl-7.com^$doc
-||76ghe-5dsr-wr.com^$doc
 ||ap.appl-er.com^$doc
 ||hougen-talk.com^$doc
 ||honeytalkgroup.com^$doc
@@ -2391,10 +2185,8 @@ cracksmid.com##div[style=""] > center > center
 ||official.step-up-line.com^$doc
 ||smatch-love.app^$doc
 ||tr53vs.com^$doc
-||spankvideo.net^$doc
 ||mihayume.com^$doc
 ||lvrc.jp^$doc
-||dearmonalisa.com^$doc
 ||nogruptexn.com^$doc
 ||ralphclothing-jp.com^$doc
 ||abuse-faint.com^$doc
@@ -2405,7 +2197,6 @@ cracksmid.com##div[style=""] > center > center
 ||inspirationwillingviagiant.com^$doc
 ||8yy-ca-w-i9-z.com^$doc
 ||r-a3-jk-xyh-d.com^$doc
-||w-g-wn-hn.com^$doc
 ||zp-gzs2-yts-a.com^$doc
 ||net.redroses.top^$doc
 ||sdnlq.site^$doc
@@ -2446,6 +2237,78 @@ cracksmid.com##div[style=""] > center > center
 ||r9-2an.com^$doc
 ||coupletime2525.com^$doc
 ||aaxr.shop^$doc
+||rosarios.cloud^$doc
+||sefrail.com^$doc
+||tsukiyomian.com^$doc
+||jukuen-club.com^$doc
+||yoloo-jp.com^$doc
+||yoloo-official.zendesk.com^$doc
+||lottery37-fct.com^$doc
+||fortuneletter.com^$doc
+||fortuneqr-letter.com^$doc
+||lucky-letter.com^$doc
+||typicallydiscrimination.com^$doc
+||amoredate.com^$doc
+||friend-match.net^$doc
+||ainu-syaman.frenchkiss.jp^$doc
+||sanka.fun^$doc
+||www.black-magic.jp^$doc
+||www.onmyo.jp^$doc
+||www.spiritualheal.net^$doc
+||www.urami.net^$doc
+||www.whitemagic.jp^$doc
+||tadakyun.jp^$doc
+||tadakyun.net^$doc
+||tadaqyun.net^$doc
+||5187.jp^$doc
+||587.jp^$doc
+||app-aplell.com^$doc
+||u65erdf-gre.com^$doc
+||gentete.com^$doc
+||fine-days.net^$doc
+||abjp6579.tokyo^$doc
+||sukebeisu.com^$doc
+||can2025.click^$doc
+||do2512.com^$doc
+||ot2512.com^$doc
+||pc2512.com^$doc
+||w-chat25.com^$doc
+||wewe.web-chatgptt.com^$doc
+||cpa.8na4zpze.com^$doc
+||linelife.home-chat.jp^$doc
+||remote-jp.jp^$doc
+||pairs-jp.karakuri.ai^$doc
+||abxchzpgqdvoahrbzk.com^$doc
+||bkxdlsivyfsjapsokq.com^$doc
+||cszavakjlvtlhojrui.com^$doc
+||go2go.bkxdlsivyfsjapsokq.com^$doc
+||kyrmtjxzbdzszrrkgt.com^$doc
+||your.happy-strike.com^$doc
+||any864jagged53.com^$doc
+||attack-stance321.com^$doc
+||castle384before12.com^$doc
+||disk-redial.com^$doc
+||halt789-enraged1.com^$doc
+||nicely888wooden222.com^$doc
+||lancerjp.com^$doc
+||indeedlikewise-342.com^$doc
+||shredgadzooks-428.com^$doc
+||spacha2026.com^$doc
+||whetherprovided-485.com^$doc
+||whilegadzooks-242.com^$doc
+||7clover.net^$doc
+||7leaf-clover.net^$doc
+||clover-seven.com^$doc
+||dragomquesi.com^$doc
+||pairry.jp^$doc
+||qole-oracle.jp^$doc
+||aurorra-fortune.com^$doc
+||aurorra.net^$doc
+||beckoning-whitecat.com^$doc
+||juku-ai-club.com^$doc
+||juku-ai-club.fun^$doc
+||juku-ai-club.pics^$doc
+||jp24tv.live^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142492
 ||webogram.ru^$all
@@ -2563,7 +2426,7 @@ cracksmid.com##div[style=""] > center > center
 ||canadacentral-01.azurewebsites.net/index1.html$doc
 ||windows.net/?tk=$doc
 ||windows.net/*/index.html?clickid=$doc
-/index.html?Anph=1-$doc
+/index.html?Anph=$doc
 ||girlsmakeithard.monster^$all
 ||web.core.windows.net/?call=*&code=$doc
 .amazonaws.com/*.*.*.*.*.*.denied/$doc,domain=amazonaws.com|github.io
@@ -2572,6 +2435,12 @@ cracksmid.com##div[style=""] > center > center
 ||grootcam.shop^$all
 ||z13.web.core.windows.net/*/?clickid=$doc
 ||viruswarning*.web.core.windows.net^$all
+://message1*.z13.web.core.windows.net^$doc
+^Anph=(0101)-$doc
+/^https:\/\/[a-z]{5,20}-[0-9a-z]{16}\.z03\.azurefd\.net\/[0-9A-Za-z]+0[0-9A-Za-z]+\/index\.html/$doc,match-case,domain=z03.azurefd.net
+||azurefd.net/?bcda=$doc
+?Kuph=1-$doc
+!://main.d*.amplifyapp.com/?$doc
 !
 ! https://github.com/uBlockOrigin/uBlock-discussions/discussions/302#discussioncomment-10338866
 ||pages.dev/*/Fm7-alert.wav
@@ -2625,6 +2494,8 @@ cracksmid.com##div[style=""] > center > center
 .online/js/script6.js
 .online/js/script7.js
 .online/media/webs.mp4
+.xyz/js/esc.js
+.xyz/js/noir.js
 ||amplifyapp.com/*/js/esc.js
 ||amplifyapp.com/*/js/flscn.js
 ||core.windows.net/takashi.mp3
@@ -2646,6 +2517,7 @@ cracksmid.com##div[style=""] > center > center
 ||core.windows.net/js/script7.js
 ||core.windows.net/*/js/js5.js
 ||core.windows.net/*/js/js6.js
+||core.windows.net/crypto-js.min.js
 ||ipwho.is^$xhr,domain=web.core.windows.net
 ||web.core.windows.net/beep.mp3
 ||web.core.windows.net/eng.mp3
@@ -2669,9 +2541,23 @@ cracksmid.com##div[style=""] > center > center
 ||azurewebsites.net/alertmicrosoft.mp3
 ||azureedge.net/*/esc.js
 ||azureedge.net/*/flscn.js
-/text_tel.js$domain=app|dev|fit|page|github.io
+/text_tel.js$domain=app|dev|fit|me|page|site|github.io
+||github.io/my-new-app/text.js$1p
 /a0ler0tm0s.mp3$domain=dev|online|shop
 ||github.io/iossupport/$doc
+||web.core.windows.net/vault/stack-vendor.mp3
+||github.io/*/js/esc.js
+||github.io/*/js/flscn.js
+||github.io/*/media/beep.mp3
+||azurefd.net/media/beep.mp3
+||azurefd.net/fullscreen.js
+||azurefd.net/js/esc.js
+||azurefd.net/js/flscn.js
+||azurefd.net/js/customone.js
+||azurefd.net/js/customtwo.js
+||azurefd.net/media/msc.mp3
+||amazonaws.com/_Fm7-alert.mp3
+||on-forge.com/win*/alert-en.wav
 !
 ! https://github.com/uBlockOrigin/uAssets/issues/29718
 z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
@@ -2692,7 +2578,6 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 ! https://www.reddit.com/r/uBlockOrigin/comments/12ng4o8/
 ! https://www.virustotal.com/gui/url/fe6b4bc7a258a92a97ad3216c85d159857ccd581df9b31a50a308ca49f967e34
 ! https://www.virustotal.com/gui/url/0d491da362effc08d2b026f32242046d174165e7995abbde6917ef7864a7556c
-||crackedpc.org^$all
 ||cracksway.com^$all
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12r255v/gamingnewsanalystcom_badware/
@@ -2704,10 +2589,6 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 ! https://www.virustotal.com/gui/url/e705e6e86261849df50f80f32db2bb74abb1f69fd2681a370c5013be27c9daf0
 ! https://www.virustotal.com/gui/file/f1e859d99072e35f20e172d8458e3ea1baf8ba86c8c9e311a0debcd2acd5d0fc
 ||bonzi.link^$all
-
-! https://www.reddit.com/r/uBlockOrigin/comments/1314r3d/
-! https://www.virustotal.com/gui/url/23a6e05b5c2005b085b2cb41f35cddf2e689d72797448dd8c7399f7f929507e0
-||bestgames-2022.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/17947
 ! https://www.virustotal.com/gui/domain/pccdirect.site
@@ -2819,10 +2700,8 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 ||youtuberevanced.*^$all,domain=~revanced.app
 ||revancedmusic.com^$all,domain=~revanced.app
 ||revancedyoutube.org^$all,domain=~revanced.app
-||revancedextend.com^$all,domain=~revanced.app
 ||revancedextended.$all,domain=~revanced.app
 ||revanced-extended.com^$all,domain=~revanced.app
-||extendedrevanced.com^$all,domain=~revanced.app
 ||ytrevanced.$all,domain=~revanced.app
 ||vanced-official.com^$all,domain=~revanced.app
 ||vanced.pro^$all,domain=~revanced.app
@@ -2851,10 +2730,8 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 ||z-lib.io^$all
 ||z-lib.id^$all
 ||zlibrary.to^$all
-||z-lib.yt^$all
 ||zlibrary-global.com^$all
 ||zlib-official.com^$all
-||z-library.blog^$all
 ||z-library-proxy.com^$all
 ||go-to-zlibrary.com^$all
 ! ProtonGE - Official site: https://github.com/GloriousEggroll/proton-ge-custom
@@ -2871,7 +2748,6 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/20036
 ! https://tria.ge/231010-1rdl5sfg68/behavioral1
-||tiger.qnews.media^$3p
 ||s8bet.com^$doc
 ||imagebet.ph^$all
 ||googleeplay.com^$all
@@ -2888,7 +2764,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 
 ! https://tria.ge/231024-3lc5jace3w/behavioral1 & https://tria.ge/231024-3s7ygsbg39/behavioral1
 ! https://github.com/uBlockOrigin/uAssets/pull/20272
-||adblock1.com^$all
 ||newupdatesnow.com^$all
 ||thefinanceadvice.com^$all
 ||fralstamp-genglyric.icu^$all
@@ -2903,24 +2778,11 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://bbs.kafan.cn/thread-2258753-1-1.html
 ||chromegoogle.cn^$all
 
-! https://github.com/uBlockOrigin/uAssets/pull/21316
-! https://bbs.kafan.cn/thread-2262861-1-1.html
-||mk90.shop^$all
-
 ! Cryptocurrency Scams
 ||muskusa.com^$all
-||teslamaked.com^$all
-||cryptomusk.io^$all
 ||sunperp.icu^$doc
-! https://github.com/uBlockOrigin/uAssets/issues/25492
-||foundations-x2024.*^$doc,to=foundations-x2024.*
-||foundations-x2024.cloud^$all
-||foundations-x2024.sbs^$all
-! https://github.com/uBlockOrigin/uAssets/issues/25832
-||trump-drop.org^$all
-||youtube.com/@tesla.Iive.officiaI.24^$doc
-! https://gizmodo.com/elon-musk-fans-are-losing-so-much-money-to-crypto-scams-2000515413
-||elondonald.com^$all
+||aster-dex.run^$doc
+||optimism-lab.network^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/26056
 ||stage3-last.$doc,to=~edu|~gov
 ||stage2024.$doc,to=~edu|~gov
@@ -2932,13 +2794,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||black-sales.$doc,to=~edu|~gov
 
 ! xai scams
-! https://github.com/uBlockOrigin/uAssets/issues/25726#issuecomment-2483460915
-! https://www.reddit.com/r/CryptoScams/comments/1gv401z/xai_scam/
-||xaiofficial.com^$all
-! https://www.reddit.com/r/CryptoScams/comments/1h0ygoo/another_scam/
-||officialxai.com^$all
-! https://www.reddit.com/r/CryptoScams/comments/1h4mvx9/xai_scams_dont_trust_jesse_eckel_youtube_and/
-||youtube.com/@jesseeckel5^$doc
 ! https://www.reddit.com/r/CryptoScams/comments/1h9yrl7/xai62f_presale_scam/
 ||xaiofficial.ai^$all
 
@@ -2957,7 +2812,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://github.com/uBlockOrigin/uAssets/discussions/23094
 ! https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html
 ! https://www.virustotal.com/gui/url/2bf2e7500e2b15877f866b0a782436df8621b2c20f81e3d66f51e394f6ff6f30
-||hostpdf.co^$all
 /cachingjs/settings.js
 /cachingjs/turboturbo.js
 /config?key=6922a2c8-d1e9-43be-b201-749543d28fe1
@@ -2994,7 +2848,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||fast.quickcontentnetwork.com^$all
 ||ga.cdzanalytics.com^$all
 ||gll.metricaga.com^$all
-||host.cloudsonicwave.com^$all
 ||host.gsslcloud.com^$all
 ||metrics.gocloudmaps.com^$all
 ||secure.gdcstatic.com^$all
@@ -3012,9 +2865,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||vnote-*.myqcloud.com^$all
 
 ! phishing
-! https://infosec.exchange/@urldna/112143355675099806
-! https://www.virustotal.com/gui/url/38ad38ba67efdd42656b489e4df678ee065cad109cd1c9dbacf4632d356250d9
-/^https:\/\/vietg[a-z]v[0-9]*\.cc\//$doc,to=cc
 ||clickhereecraigslist.tripod.com^$all
 ||mymokki.ru^$all
 ||socgeneralist.firebaseapp.com^$all
@@ -3022,8 +2872,12 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||telus.signup.clik2pay.com^$all
 ||mercado-livre.produtos.usacomment.com^$all
 ||bitkub.onrender.com^$all
+||adguardvpnnew.biz^$all
 ||flow.page/foxhills.co.uk^$all
 ||jemi.so/correo-24-ar^$all
+! https://infosec.exchange/@urldna/112143355675099806
+! https://www.virustotal.com/gui/url/38ad38ba67efdd42656b489e4df678ee065cad109cd1c9dbacf4632d356250d9
+/^https:\/\/vietg[a-z]v[0-9]*\.cc\//$doc,to=cc
 ! https://infosec.exchange/@urldna/112471179848866488
 ||codeanyapp.com/neta/*/pay-method.php$doc
 ! https://infosec.exchange/@urldna/112467877238803859
@@ -3090,9 +2944,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/0b8c995ec706e68efcf33f1b7c567423285c29d0d3bc5b59f606da0735097e57
 ||fgt.ive.mybluehost.me^$doc
 ||mybluehost.me/*/Ameli/$doc
-! https://urldna.io/scan/6734c9b617aed83575751074
-! https://www.virustotal.com/gui/url/ac22c2340836b8dd3d611948cb1f0f370d55f9903faac7bfc5eea1ff71901a80
-||line.pm/*/SNF-GKFF.FR/$doc
 
 ! https://urldna.io/scan/6734b1f69ee995c0b18b4e17
 ! https://www.virustotal.com/gui/url/fec16443e3fdb3c4112230fd5271044f3eea542efa85be26b8c8c5f5ba7202c3
@@ -3117,7 +2968,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||multilocal-leboncoin.com^$all
 
 ! linkedin
-||faran.ac.ir/wp-content/$all
 ! https://www.virustotal.com/gui/url/0de3c62f4908d543d129c280ede7df7ad39cb8bdc69a7781aceab7bd9916cacf
 ||lnkdeka.standard.*.oortech.com^$doc
 ||oortech.com/loginfromSignIn.pdf-shtml^$doc
@@ -3136,8 +2986,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||benpsignin-portal.webflow.io^$all
 ||mail-cytanet.pages.dev^$all
 ||webmailupdating.wixsite.com^$all
-! https://www.virustotal.com/gui/url/dd060d260d7781f9610f40bdff4991144ed5b52be3a14dfcda6783987efc4b79
-||phoenixvilla.rw/wp-about/*.html^$doc
 ! https://www.virustotal.com/gui/url/fe60b5ca89346121b165aaaaf2b0305dee777a8aa90c87e3eb656c914ae04e59
 ||bequettehomes.com/ahost/$all
 ! https://www.virustotal.com/gui/url/61cc08602b6328ce07535da1068dfc0f3ddd667c0e77849eadcd8ae33edad516
@@ -3164,8 +3012,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||mybluehost.me/Versan/UPS/$doc
 ! https://www.virustotal.com/gui/url/491f01fc6219c7c86ab857fe64e7b1d1ae815a7f796cc03cdb2866784ea16022
 ||preprod.exclusifparis.com/modules/deleteordersfree/$all
-! https://www.virustotal.com/gui/url/3e53440f58e4d07872d2a5a7a6dbf845ec58b4c65301ef27c85bd61e3869587c
-||edu.academiait.ru/.css/$all
 
 ! ee.co.uk
 /^https:\/\/ee(?:-[a-z]{5,}){1,2}\.web\.app\//$doc,to=web.app|~ee.co.uk
@@ -3345,7 +3191,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 
 ! allegro
 ||allegro-reinigung.de^$all
-||chn-allegroshopac.one^$all
 ! https://www.virustotal.com/gui/url/543264167d2f97257f37e2cb9ae47e5e66fd8016b22bd0382163b4e589103eea
 ||allegrolokalnie.pl-$doc
 ||allegrolokalnie.*.shop^$doc
@@ -3371,7 +3216,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||dev-7614646544.pantheonsite.io^$all
 ||smsmmsernorepls.wixsite.com^$all
 ||orange234.wixsite.com^$all
-||mail.smartnetcom.ro^$all
 ||exbtengineers.com/o/$all
 ! https://infosec.exchange/@urldna/112456905938157006
 ||servicemailorange25.wixsite.com^$all
@@ -3395,7 +3239,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! amazon
 ||amazon-*.shop^$doc
 ||amazon8898.com^$all
-||signup-amazon.com^$all
 ||ecommrce-web-amazon.netlify.app^$all
 ||etisalat-amazonprime.com^$all
 ! https://infosec.exchange/@urldna/112483094476417201
@@ -3417,8 +3260,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||reviewstudio.com/-/en/gp/mas/your-account/$doc
 
 ! ebay
-||939l.xyz^$all
-||ebnays.xyz^$all
 ! https://www.reddit.com/r/Scams/comments/1cux08b/whatsapp_telegram_instagram_work_from_home_posts/
 ||51eabay.com^$all
 ! https://www.virustotal.com/gui/url/8b2c822dc9c9130367597b14aa848cfacdd6022ad474c0af8c244856e30ee6ae
@@ -3512,10 +3353,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||irstaxrefunds.$doc,to=~irs.gov
 ! https://www.virustotal.com/gui/url/50935c6862f65e5b788e0feb5e43a745b52f6f5c93b3b433bc37a711328eb99b
 ||gov.*.qpon^$all
-! gov.it
-! https://urldna.io/scan/6730eb2b26717399e42ee637
-! https://www.virustotal.com/gui/url/2c605dc7e821311c7148654b01c5d07dfc8e46eedd6b76c08e78204b7953258e
-||agenziaentrateriscossione.com^$all
 ! gov.gr
 ! https://urldna.io/scan/6729f08c603012bf64fdc18b
 ||aitimaforou.web.app^$all
@@ -3529,7 +3366,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||seeproc.com.br^$all
 
 ! gov.uk
-||liveflo.qxlva.io^$all
 ||student-finance-auth.firebaseapp.com^$all
 ||casadosvidrosmt.com.br/wp-admin/csii/$all
 ! https://www.virustotal.com/gui/url/ebc39394f30c18e781a2c98f035fa14897aba199d104977f4978e0af200df544
@@ -3631,7 +3467,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||nbtbank.architect-cert.fiservapps.com^$all
 ||douroweb.eu^$all
 ||gaoyinjiao.com^$all
-||nyfinance.ru^$all
 ||wester-union-u.vercel.app^$all
 ||vietcombank*.cfd^$all
 /^https:\/\/tpbank\.[-a-z0-9]{5,}\.[a-z]{3}(?:\.vn)?\//$doc,to=~edu|~gov|~gov.vn|~tpb.vn
@@ -3698,7 +3533,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||serv00.net/*/dkb/$doc
 
 ! sparkasse.de
-||sparkasse-safety.de^$all
 ! https://infosec.exchange/@urldna/112451361935970416
 ||sparkasse-oberhessen.info^$all
 
@@ -3854,12 +3688,11 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||ads-verification-for-pay.vercel.app^$all
 ||report.case-referency.com^$all
 ||certify-issues-details-case.netlify.app^$all
-||facebock-page-center.com^$all
 ||www-mfacebook.$doc
 ||www-facebooks.$doc
-||www-facebook-$doc
 ||www-facebook.$doc
 ||vww-facebook.$doc
+||www-facebook-$doc,to=~translate.goog
 ! https://urldna.io/scan/666037369f1ea64bf06cebf2
 ! https://www.virustotal.com/gui/url/668171c7e2792344e6f1258ad7c1ab14e94b6192dfa1a1e98fb798c938244caa
 ||vww-facebook.com.vn^$all
@@ -3896,7 +3729,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||help-for-work-*.pages.dev^$doc
 ! https://urldna.io/scan/6698e7c8b88a5a4f7f81c078
 ! https://www.virustotal.com/gui/url/0fb1eb85ae5a83bbbf012fc401f663011ee27042d4fc1fd43c3d6ec9bbed1dbe
-||http://marketplace-item-details-*.zya.me^$all
+||marketplace-item-details-*.zya.me^$all
 ! https://www.virustotal.com/gui/url/0e4de7ac483088234981cd80049c18f2102970271a741b004182aece70bff443
 ! https://www.virustotal.com/gui/url/087951f6e1cb4f192f3d756c6a8bdef38ff818e02fb2cb0387807eda74f0f518
 ||info-meta-noreply.com^$all
@@ -3934,7 +3767,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 /^https:\/\/(?:appeal|contact|page)\.[a-z]{15,}\.com\/appeal_case_id\b/$doc,to=com|~facebook.com
 ! https://urldna.io/scan/6730aa8ee473e50c56ba3f7e
 ! https://www.virustotal.com/gui/url/5fa27669e116daaa9aa118ffd4f11e797309bf8172129780699603d1d95046d2
-||suport-page-help.com^$all
 /\/contract\/support-case-id=\d{14,19}\b/$doc,match-case,to=~facebook.com
 ! https://urldna.io/scan/66f3c57b304b035a2881c2bd
 ! https://www.virustotal.com/gui/url/e1e065ad6355da6ec5c427cb7d991ce90430e275a0b80b2d69a46337b62d55fd
@@ -3970,15 +3802,10 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://urldna.io/scan/673aaa74607ec87001473ba4
 ! https://www.virustotal.com/gui/url/878182e6093b5987cf46060002e7d7dcda53024fa99885b5d573970f9d7ef535
 ||live-metasupport.com^$all
-! https://www.virustotal.com/gui/url/5816000c2c9efd6e3103e355e4db79833c78d3b472db28822508c36598195c0a
-! https://www.virustotal.com/gui/url/2ab2d00623a9c7a0a2be93714e2d870c4524a0c5721448f33ac60eac913b3c5e
-||businesscreatorportal.com^$all
 ! https://www.virustotal.com/gui/url/cc2450d1ea3d6a4d610b156eac3bbfc31eef82a9536e32875ae90f5374387f04
 ||fb-business.com^$all
 ! https://www.virustotal.com/gui/url/099177cb27bbed7b0484adf16d9481d2472720c64f8ef0dc274d4c12b99fbe94
 ||faecbook.vn^$all
-! https://www.virustotal.com/gui/url/1eb22b0b60fcb61de6eee104b561163ee316cb267625a786d3503da0bd63b359
-||counselschambers.co.uk^$doc
 ! https://www.virustotal.com/gui/url/7580331164d1c54a39003b3472cef1009537bcea87806aa7a1b67083aed0b133
 ||online-ops.mypasschange.com^$all
 ! https://urldna.io/scan/681caaf83b775000109ca6ac
@@ -3991,7 +3818,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/29a47ae1cc0da3ca9415cd7745b91af24d03ce3760374ff1dba8fa5498e026f6
 ||pages.dev/meta_for_business$doc
 
-||lazada.bbc6666.com^$all
 ! shopee
 /^https:\/\/sp\d{2,3}88(?:vn)?\.com\//$doc,to=com|~shopee.vn
 ! sendo
@@ -4005,7 +3831,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||steamcommunitylog.chez.com^$all
 ! https://github.com/uBlockOrigin/uBOL-home/issues/156
 ! https://github.com/uBlockOrigin/uAssets/issues/27941
-/^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.com\//$doc,to=com|~steamcommunity.com|~szentkoronaradio.com
+/^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.com\//$doc,to=com|~steamcommunity.com|~stauntonandhenry.com|~szentkoronaradio.com
 /^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.cc\//$doc,to=cc
 /^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.ru\//$doc,to=ru
 /^https:\/\/steam\.(?:community)?workshop-?[a-z]+\.com\//$doc,to=com|~steamcommunity.com
@@ -4031,9 +3857,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/8beafe6d3589893c780dc140b59a7bf70fa4a900381da96faafb8b5d0a508eff
 /volt/*?nox=$doc,to=ai|com
 
-! google
-||play-quartz-sanctuary.xyz^$doc
-
 ! microsoft
 ||microsoft*.dfautomotive.de^$doc
 ||microsoft-verify.glitch.me^$all
@@ -4045,7 +3868,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||exceklcmicrosftprotection.pages.dev^$all
 ||graettingerlaw.com^$all
 ||post.nationalrent.ru^$all
-||gocolonial.local-user.com^$all
 ||officesoftcn.com^$all
 ||athenasbaklava.com^$all
 ||e-outlook-online.com^$all
@@ -4053,8 +3875,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||nilousplaypen.com^$all
 ||alarisequity.cyou^$all
 ||cashum.unam.mx/wp-content/backups-dup-pro/imports/index.htm$all
-||od.atami.no/one_drive.html$all
-||thermovitraffic.com.mx/SharepointFileProject/$all
 ||cognitoforms.com/FiRe21/EmployeeTeammateQuarterNominationPeriodForMidyear^$all
 ||santangelo.eng.br/owasetup/$all
 ||maweresibanda.co.zw/portal.support/$all
@@ -4092,8 +3912,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||supplieradvisor.ciamlogin.com^$all
 ! https://www.virustotal.com/gui/url/6586411fdd055f472911a7507ed78ed2eabab30a79d2caf3402525f119dd8e66
 ||e-messsage.com^$all
-! https://www.virustotal.com/gui/url/8f1d11e2386cb995b30ec481a6b28acd4903283450f034a426927648956578a2
-||supp0rt.co.za^$all
 ! https://www.virustotal.com/gui/url/b1351123c5563546b0841861e21e71593f0eca917057ac3c9f497303160053e4
 ||vkcs.cloud/owa.html^$doc
 ! https://www.virustotal.com/gui/url/38b0cc10ec3ff351fb8688c6386834152abda6e018c63e8be60272b2ffb6c3b1
@@ -4168,9 +3986,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://urldna.io/scan/6746ab36d355f8dd0d56dae1
 ! https://www.virustotal.com/gui/url/6fd52a8f1ed5e9525b44d5c98c19ad9e9e89741153570855475ab19ea88095da
 ||msoftupdate.*.linodeobjects.com^$all
-! https://urldna.io/scan/67468dbb2ad516bb77c59bb5
-! https://www.virustotal.com/gui/url/11206caec45f8f731373a3c40f36725113e3f93945145892bb2895edb2ec0e59
-||slobeg.com^$all
 ! https://urldna.io/scan/67869939c6a9b4f17944c786
 ! https://www.virustotal.com/gui/url/2065cd67be3bf7ac6469c02d033f73c6debf710054d1a5156334dbfe87b527f8
 ||outloksupportbuzoningreso.glitch.me^$all
@@ -4188,14 +4003,11 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||telegramhcn.com^$all
 ||webtelegram.eu.org^$all
 ||zhongwen-telegram.com^$all
-||telergctm.vip^$all
 ||telegrambotsolution.pages.dev^$all
 ||1125telegram.vekira.top^$all
 /^https:\/\/www\.telegram[a-z][a-z]\.com\//$doc,to=com|~telegram.org
 ! https://www.virustotal.com/gui/url/2048958dffb9920086d04fe2b0b93fbe3c0ce180c9456d36b846600c15b1b1f5
 ||telegram-*.com/login/index.html^$all
-! https://www.virustotal.com/gui/url/1c006fc290430f49ae7b3f4915f744f261fdee4617973735b00ee00e8ee34ec2
-||d*wsapp.icu^$doc
 ! https://www.virustotal.com/gui/url/8f7738fd0cfff7c522802752d6fbdf015b19f8c7e483d01c6fb020854f42ef42
 ||telezelm-*.icu^$doc
 ! https://www.virustotal.com/gui/url/e7eea1fe6282dee603a27cc5d34c0c5eee90fd402de80989cf7a939e3e7e1352
@@ -4223,7 +4035,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 
 ! usps
 ||smartparcellockers.tech^$all
-||litebluelogin-gov.com^$all
 ! https://infosec.exchange/@urldna/112224043535026915
 ! https://infosec.exchange/@urldna/112244333356436954
 /^https:\/\/usps\.[-a-z]{6,}\.(?:com|top)\/(?:address\.html|information|verify)\b/$doc,to=com|top|~usps.com
@@ -4259,7 +4070,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.reddit.com/r/phishing/comments/1hc0qiy/is_this_a_scamfake_number/
 ! https://www.virustotal.com/gui/url/ce425295e72396f58f308fc806facb264bca671c58428ea9b1367fc6e62d2ec8
 ||usps.*.sbs^$doc
-||uspac.sbs^$all
 ! https://www.virustotal.com/gui/url/1dfeccb4f1210b4a962751e4e0ffc64a224d653e7bd14bda3b1a2e7c252091ae
 ||informed.delivery*.top^$all
 ! https://www.virustotal.com/gui/url/91d4560abcb8a03cc50d943bc4534c58935968a2b7c80f0c63cca78a84ce0ddc
@@ -4299,8 +4109,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://urldna.io/scan/67507c616f88e161d7e39ff9
 ! https://www.virustotal.com/gui/url/45fb09e403d0d5908fdc97144ba574cb72b2c909993402d7dd525faae65252bc
 ||freewebhostmost.com/*/spotify/$doc
-! https://github.com/uBlockOrigin/uAssets/issues/29980
-||spotify.custmcssser.com^$all
 
 ! swisspass
 ||divinedownload.com^$all
@@ -4396,20 +4204,11 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||wcomhost.com/ch/upc/$all
 
 ||crypto-idx.com^$all
-||tokenp0ckht.click^$all
-||mememoguls.vip^$doc
-||spendabit-payment.xyz^$doc
-||web-tonkeep.website^$doc
-||sparkflaretrustline.xyz^$doc
-||paidnetwork-migration.com^$doc
-||app-maplerpc.online^$doc
 ||base-dawgz.web.app^$doc
-||migration-z1labs.com^$doc
 ||whitelist-memefi.com^$doc
 ||gz-gmy.com^$all
 ||tpro-airdrop.pages.dev^$doc
 ||ledger-apparaat.com^$all
-||metamsklogix.godaddysites.com^$all
 ||tomarket-rewards.vercel.app^$doc
 ||tronlink-walletextension.webflow.io^$all
 ||itrustcapitaalloginn.webflow.io^$all
@@ -4442,13 +4241,12 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/6bebec722c703a448f14d1650315b534ee785959080537cebada1d6120883763
 ! https://www.virustotal.com/gui/url/4e1f0d563a121e484113dcf1582323732ce110451f33e939985911c248f19c31
 ||alienxchain*.pages.dev^$doc
-! https://www.virustotal.com/gui/url/e0f4f24fcaab6c1f540ac141d0c2088d3c5f5f6a2fad4bde212a00a676825ac3
-||xcoinspro.com^$doc
+! https://github.com/uBlockOrigin/uAssets/issues/32047
+||tariprotocol.com^$doc
 
 ! swan.com
 ! https://www.reddit.com/r/Scams/comments/1o1muxh/us_has_anyone_ever_heard_of_httpsswan9topassets/
 /^https?:\/\/(?:www\.)?swan[0-9]\.[ctv][cio]p?\//$doc,to=cc|top|vip
-||bullishapp.cc^$all
 ||cc^$doc,ipaddress=15.207.81.128
 ||top^$doc,ipaddress=15.207.81.128
 ||vip^$doc,ipaddress=15.207.81.128
@@ -4478,6 +4276,10 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://urldna.io/scan/67854752459acf9a4783a52c
 ! https://www.virustotal.com/gui/url/cee662e90d9fc49c35fbab24dab21abd84ccf517379594f35fd525f96ecd102e
 ||keychron.in/wp-includes/certificates/home^$all
+! https://www.facebook.com/VnRebates/posts/pfbid022K3zdFtG46K1Ww8RqRxVXiza83xstsLYz1tTFTwxJZpEKxCtnZH7kY1q4cLGzDH9l
+! https://www.virustotal.com/gui/url/2ae5fafa33742cf0501bff96b2c4465569dc5c19619552ec727d7eea69bd0518
+||metamask-support.io^$all
+||mertamask.com^$all
 
 ! bitvavo
 ! https://www.virustotal.com/gui/url/745c24c2aa94c7f7f499e025206ae5f6b4a924745cdfe5a236f1b2294d205988
@@ -4498,8 +4300,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! binance
 ||bnbc-onay-sayfasi-global.smtp-host.de^$all
 ||dendreonlawsuit.com^$all
-||binace-epa.com^$all
-||accounts.maxweb.academy^$all
 
 ! https://www.virustotal.com/gui/url/baaec2820a40db4dace37d5955dcb9f9db10ea16337b06b8a4a814bb67c27b13
 ||pub-*.r2.dev/ledge.html^$doc
@@ -4515,7 +4315,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||e-stata.ru/track/1/$all
 ! https://www.virustotal.com/gui/url/aad6cef484f8b6f4b186003ec4fe426cf01ea15cea8b668cff7315be7a8f937f
 /^https:\/\/(?:[^.]+\.)?\d{6}-coinbase\.com\//$doc,to=com|~coinbase.com
-||178368-coinbase.com^$all
 ! https://urldna.io/scan/673815d0415af7ad29e1843a
 ! https://www.virustotal.com/gui/url/e79f7ed84af220f6af9f63754c6802f2d5ba30b0c57199ad159b0626ec1734cb
 ||llq.rsq.mybluehost.me^$all
@@ -4531,11 +4330,9 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||bitenve.cc^$all
 
 ! imtoken
-||imtoken-bl.click^$all
 app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([class])
 
 ! pancakeswap
-||pancak-e-swap.com^$all
 ||pancakesswap.top^$all
 /^https:\/\/pancake(?:dro|swa)pclick\d+\.vercel\.app\//$doc,to=vercel.app|~pancakeswap.finance
 ||pancakeswap-*.vercel.app^$doc
@@ -4617,8 +4414,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||aolmaiillogin.blogspot.$doc
 ! https://www.virustotal.com/gui/url/93d0fd19d0ee6dec3c47f9cb2eea7aae77866dcefe75c4fae0f3a9e6d46a8be7
 ||afflatus.consulting/deutschepost/$all
-! https://www.virustotal.com/gui/url/abdf1f3f732db10decfd52dac12a827777744b05c6fdcfb5b9cf2beea87bb3b5
-||drcolomo.com^$doc
 ! https://www.virustotal.com/gui/url/0342f75ca1638cd23da5969237102207799c8b9d0f27935db9bec3c1e73603fc
 ||info-espanol-id-configes*.codeanyapp.com^$all
 ||codeanyapp.com/dgte/$doc
@@ -4628,10 +4423,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||freewebhostmost.com/consegna-pacchi/avviso/$doc
 ! https://www.virustotal.com/gui/url/d5d4656684e01ec70403cb9623c2045239f3ceccdfaa76d64370fd3ef442e9c5
 ||appinstallcheck.com^$all
-! https://www.virustotal.com/gui/url/29c19a57930bd821bfb1b584240745cedfbced9d18b09f84ae7215d112bf6957
-||copeescan.es^$all
-! https://www.virustotal.com/gui/url/8edceca45507386df4d12d9d3812f3847db87333c10cabe35f82ae84635924f0
-||gellyte.es^$all
 ! https://www.virustotal.com/gui/url/489f451f1e42d3bf60b3736cd04d836d6f798cd1adb3232f90fc752d04afd878
 ||allegro*/aukcja/$doc,to=buzz|icu|shop
 ! https://www.virustotal.com/gui/url/3ff7013630ec52ca97ead99e456af477f027dbb7fb75a529536c35714d91d8d7
@@ -4647,8 +4438,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||qufu.com.cn^$all
 ! https://www.virustotal.com/gui/url/7e93bd06882beb5983367612f676d7dddfa9b49211869d84a055205c432617bd
 ||glitch.me/public/NFCUAccess00.HTML^$doc
-! https://www.virustotal.com/gui/url/ca90c7b4fca15bc355558a97d9677c44085f52b7f677d3e1c844d6bd2609ac5b
-||event-redeem.com^$all
 ! https://www.virustotal.com/gui/url/587cfbef067cd9ca09bb143d90ee56ec56d87dc5bfe5448aaffcd33ce8a35cf7
 ||gz-plsl.web.app^$all
 ! https://www.virustotal.com/gui/url/135f1a5f8e135ab5b94d68d0daba31a5b79b8a229b1f4ff7712500c4e16adf2c
@@ -4685,9 +4474,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://www.virustotal.com/gui/url/70e33154f3804e18f2bdf6d6b1be28932f95c099e645249461ff47174c52bc10
 ||edgeone.app/gotadocsignnewdocsing.*.html$doc
 
-! https://khonggianmang.vn/uploads/2023_CBT_46_3d412a8a49.pdf
-||vieclamlazada.vn^$all
-
 ! https://khonggianmang.vn/uploads/2023_CBT_47_01103e7ccb.pdf
 ||didongvietstore.com^$all
 
@@ -4713,14 +4499,10 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||chamsocthekhachang-$doc
 ||nang-cap-$doc
 ||hdsaison-$doc,to=cc|vip|~hdsaison.com.vn
-||dichvucong.$doc,to=~gov.vn
+||dichvucong.$doc,to=~dcs.vn|~gov.vn
 ||tikimall.$doc,to=tikimall.*|~tiki.vn
 ||taikhoanvps.com.vn^$all
 ||motaikhoanchungkhoanvps.com^$all
-||zla963.top^$all
-
-! https://khonggianmang.vn/uploads/20240502_BCT_04_2024_V2_1_a0c95c1f96.pdf
-||clzl.pro^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_21_c7d8f95f66.pdf
 ||tpbankvn.workplace.com^$all
@@ -4750,16 +4532,10 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_31_7548fefc87.pdf
 ||baoviet*.vip^$doc
 
-! https://khonggianmang.vn/uploads/20240701_BCT_07_2024_bcab9d2e82.pdf
-||iazada.com^$all
-
 ! https://khonggianmang.vn/uploads/2024_CBT_32_7b55a3e3fc.pdf
 ||hotrokhachhang-$doc
 ||cham-soc-the-$doc
 ||vssid.*.cc^$doc
-
-! https://khonggianmang.vn/uploads/2024_CBT_33_e01257ffdd.pdf
-||tikivn84.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_35_86bfef4e1e.pdf
 ||hethongnoibo.bio.link^$all
@@ -4769,73 +4545,40 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_41_2e21dc3d54.pdf
 ||uudauthekhachhanh-$doc
 ||chamsocthe-$doc
-||amazoul.xyz^$all
-||soyte.cc^$all
-||dichvudienmay-xanh.online^$all
-||thuongmai-dientu.com^$all
-||tiki886.vip^$all
-||jetkingncsc.com^$all
-
-! https://khonggianmang.vn/uploads/2024_CBT_42_d70d7fd1fb.pdf
-||ccbcavn.cc^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_43_c3bec6c039.pdf
 /^https:\/\/amazon[a-z]\d\.com\//$doc,to=com
-||amazoul.site^$all
 ||dienlanhdienmayxanhvn.com^$all
-||sendo1.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_44_c16e3ef30d.pdf
 ||cskhtructuyen-$doc
-||shopamzselling.com^$all
 ||vnairlines.net^$all
-||giaohangtietkiem-cskh.com^$all
 ||tikione.vip^$all
 ||tikifreeship.$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_45_94e8b27e5a.pdf
 ||tiktok-svip*.com^$all
-||ocbcccreonline.com^$all
-||evnsp.com^$all
-||evnsspc.com^$all
-||vn-chinhphu.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_46_3a94e9ec2e.pdf
 ||khach-hang-$doc
 ||nhantienquocte*.vercel.app^$doc
-||applecenter.info.vn^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_47_e86306b303.pdf
 /^https:\/\/giaohangtietkiem\w+\.com\//$doc,to=com|~giaohangtietkiem.vn
 ||khuyenmaidacbiet-$doc
 ||uudaidacbiet-$doc
-||evnspccskh.com^$all
 
 ! https://khonggianmang.vn/uploads/20250602_BCT_01_2025_v1_5fb3de74c1.pdf
 /^https?:\/\/amazo[a-z]{2}\d\.com\//$doc,to=com|~amazon.com
-||amazouo9.com^$all
-||amzzcbe-cme.com^$all
-||amz-dropshipping.com^$all
-||vietchinhphux.com^$all
-||vnchinhphu.cc^$all
-||congthongtinanninhmang.com^$all
-||cucanninhmang24h.com^$all
-||cucantoanthongtin24h.com^$all
-||ctygiaohangtietkiemm1.com^$all
 ||dienlanhmayxanh.com^$all
-||dienmay-xanh24h.online^$all
 ||kythuatdmayxanh.com^$all
-||lazaoffices.com^$all
 ||khuyenmaithang-$doc
 ||han-muc-the-$doc
 ||hotrodacbiet-$doc
-||shopeesallers.com^$all
-||tkshopvn.vip^$all
 ||newmall*.cc^$doc
 ||chinhphu.*.org^$doc
 ||vienthongviettel.vn^$all
 ||vincomplaza.*.top^$doc
-||vingroupfund.com^$all
 ||westernunion*.wixsite.com^$doc
 
 ! https://social.immibis.com/notice/AkopNrn6iDJgMoTPH6
@@ -4843,7 +4586,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://social.immibis.com/notice/Akt1pxOHSkHXvMrTTk
 ||datumdellago.com^$all
-||lokuracristiana.com^$all
 ||clinicaimplantologica3d.com^$all
 ||gruposabar.com^$all
 ||xalatlaco.org^$all
@@ -4873,7 +4615,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 /^https:\/\/[a-z0-9]{50,}\.[a-z0-9]{4,11}\.ru\/[a-zA-Z0-9]{50,}$/$xhr,3p,method=get,to=ru,from=com|ru|su
 /^https:\/\/[a-z0-9]{50,}\.[a-z0-9]{4,11}\.su\/[a-zA-Z0-9]{50,}$/$xhr,3p,method=get,to=su,from=com|ru|su
 |https://*.favoripirlanta.com^$doc
-||amernamproa.com^$all
 
 ! https://www.reddit.com/r/Scams/comments/1bv6nyh/is_this_a_real_facebook_link/
 ! https://www.virustotal.com/gui/url/dec6d9d61fd01d20623f190e52acccf2bef004ec1cd11324efa93e70d417a1b5
@@ -4925,7 +4666,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||kmspico.io^$doc
 ||kms-tool.com^$doc
 ||kmsauto.tech^$doc
-||gpstracker.site^$all
 ||kmsauto.org^$doc
 ||furykms.com^$doc
 ||ativadorkmspico.com^$doc
@@ -4970,7 +4710,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://www.virustotal.com/gui/url/ff01e9e3d9b91835d34ba457e2714f407acca9bf14b486b55fd9e6d6c27286f0
 ! https://www.virustotal.com/gui/url/14cc314140e3441870cfc94908ca49175f70bd7eca6781cd8041b16889d21452
 ||blue-softs.com^$all
-||softs-download.com^$all
 ||pmequebeclic.com^$all
 ||sirokataldea.com^$all
 ||sites.google.com/view/blue-softs^$all
@@ -5044,7 +4783,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||mymercy.click^$doc
 ||direct2hr.click^$doc
 ||creditcardchase.click^$doc
-||alaskasworld.cfd^$doc
 
 ! https://bbs.kafan.cn/thread-2272310-1-1.html
 ! https://github.com/uBlockOrigin/uAssets/pull/25058
@@ -5062,7 +4800,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
 ||tracker.club-os.com^
-||onelink.me/*&af_web_dp=$doc
+!||onelink.me/*&af_web_dp=$doc
 ||guide-orientation.tn/go_page.php?$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/26798
 !#if env_mobile
@@ -5110,10 +4848,6 @@ energiasolare100.it,lundracing.com,red17.co.uk,workplace-products.co.uk##+js(tru
 ||lererikal.org^$all
 adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forqueen.cz,joinusonline.net,jollibee.com.vn,kitapsan.com.tr,mebelinovdom.com,ojworld.it,qualityrental.com,szaszmotorshop.hu,tvojstyl.sk,up-shop.org,yairalon.com.br##+js(acs, WebSocket, event.data)
 
-! https://github.com/uBlockOrigin/uAssets/issues/25583
-! https://www.virustotal.com/gui/url/da347b9b68b517c0a828f127ce9675ce47ed7277f16ace2673cdc835ded5a85c
-||avatrade-services.com^$all
-
 ! https://blog.sekoia.io/mamba-2fa-a-new-contender-in-the-aitm-phishing-ecosystem/
 ##html#html[sti][vic][lang] > body#allbody
 /\/m\/js(?:drive|nom|sp|v)\.js\b/$script,1p,strict1p
@@ -5133,7 +4867,6 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 ||game02-com.ru^$all
 ||gameportpc.ru^$all
 ||downloadstep.com^$all
-||streamingszone.com^$all
 ||runkit.com/wukong/black-myth-wukong-crack-pc^$all
 ||runkit.com/skylinespc/cities-skylines-ii-crack-pc-full-setup^$all
 ||runkit.com/masterposte/dying-light-2-crack-on-pc-denuvo-fix^$all
@@ -5161,10 +4894,8 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 ||verification-module-v*.b-cdn.net^$doc
 ||verifyyourself-*system.b-cdn.net^$doc
 ||weoidnet*.b-cdn.net^$doc
-||fiare-activity.com^$all
 ||chromeupdates.com^$all
 ||fingerboarding.com^$all
-||foodrailway.cfd^$all
 ||odyssey1.to^$all
 ||zofuk9jvv080425aq6.cfd^$all
 ||b-cdn.net/get-this-puzzle-solved.html^$doc
@@ -5186,6 +4917,8 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 /SYNCfuzzv*.html^$doc
 /verify-human-recaptcha.html^$doc
 /verify-me-first-v*.html^$doc
+##.fkrc-verifywin-window
+##.fkrc-checkbox-window
 ! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-11692494
 ##html[lang] > body:not([class]):not([id]):not([style]) > div.container > div.recaptcha-box
 /bot-verification-check-re*.html^$doc
@@ -5213,25 +4946,14 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 ||rustdesk.pl^$doc
 ||rustdesk.secure-box.de^$doc
 
-! https://github.com/uBlockOrigin/uAssets/issues/25800
-||caressesetboulesdepoils.fr^$doc
-
 ! https://www.netskope.com/blog/attackers-target-crypto-wallets-using-codeless-webflow-phishing-pages
 webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[class="w-inline-block"][href^="http"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25869
 ||coinomiwallet.cc^$all
 
-! https://github.com/uBlockOrigin/uAssets/issues/25870
-||infinityvvallet.io^$all
-
-! https://www.reddit.com/r/Scams/comments/1giz9gn/mslivepro_is_a_fake_website_also_so_is/
-||mslive.pro^$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/25913
 /^https:\/\/gov\.[^.]*gr\.[a-z]{2,6}/$doc,to=~gov|~edu|~gov.gr
-! https://github.com/uBlockOrigin/uAssets/issues/25986
-||gr93.sbs^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/27155
 ! https://freesoftwarecreative.com/pages/?f4107d2
@@ -5240,7 +4962,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://github.com/uBlockOrigin/uAssets/issues/28422
 /\.cloudfront\.net\/(?=[a-z]{0,6}\d)[a-f0-9]{7}\.js$/$script,3p,match-case,to=~d3dvi1l4i1go4x.cloudfront.net
 ||freesoftwarecreative.com^$doc
-||cloudtrks.com^$all
 ||macgsapptrck.com^$all
 ||debridleech.com^$doc
 ||trckkkk.com^$all
@@ -5248,14 +4969,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||hopgp.com^$all
 ||fast2cloud.com^$all
 ||safesendclub.com^$all
-
-! https://www.malwarebytes.com/blog/scams/2024/11/crooks-bank-on-microsofts-search-engine-to-phish-customers
-||ixxx-blognew.com^$all
-||info-blog-news.com^$all
-||new-bllog-i.com^$all
-||xv-bloging-info.com^$all
-||xxx-new-videos.com^$all
-||xxx-ii-news.$all,to=~ibx.key.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25927
 ! https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-phish-n-ships-fakes-online-shops-to-steal-money-and-credit-card-information
@@ -5270,8 +4983,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 /\.[a-z]{3,}\/products\.aspx\?cname=.+&cid=/$doc,match-case,to=~com|~net|~org|~gov|~edu
 /^https:\/\/online\.[a-z]{7,}\.top\//$doc,to=top
 
-! https://github.com/AdguardTeam/AdguardFilters/issues/191813
-||dareka4te.shop^$all
 ! Fake WordPress plugins loading ads/malware
 ! https://www.godaddy.com/resources/news/threat-actors-push-clickfix-fake-browser-updates-using-stolen-credentials
 ! https://github.com/AdguardTeam/AdguardFilters/issues/191813
@@ -5296,14 +5007,11 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://x.com/rootprivilege/status/1549799944835371008
 ||at^$script,xhr,3p,ipaddress=185.215.113.111
 
-! https://github.com/uBlockOrigin/uAssets/issues/25994
-! https://www.reddit.com/r/Scams/comments/1go6jwc/coinbase_scam_i_believe_this_is_a_scam/
-||pekanbaru.one^$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/25519
 ! https://github.com/uBlockOrigin/uAssets/issues/26052
 ! https://github.com/uBlockOrigin/uAssets/issues/27270
 ! https://github.com/uBlockOrigin/uAssets/issues/28259
+! https://github.com/uBlockOrigin/uAssets/issues/31689
 ||orcaslicer.$doc,to=~orcaslicer.com
 ||orca-slicer.$doc
 ||ocraslicer.$doc
@@ -5315,13 +5023,11 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||orcaslicerr.$doc
 ||orcaslicers.$doc
 ||theorcaslicer.$doc
+||orcasslicer.$doc
 
 ! https://www.techpowerup.com/download/techpowerup-nvcleanstall/
 ||nvcleanstall.$doc
 ||nvcleanstal.$doc
-
-! https://www.reddit.com/r/Scams/comments/1grbhas/marabasebi_website_scam/
-||marabase-bi.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26061
 /^https:\/\/www\.air-?up-?[a-z]{2,}\.com\//$doc,to=com|~air-up.com
@@ -5347,25 +5053,23 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||bteux.com^$doc
 ||childrenoftheclouds.com^$doc
 ||dating-express.com^$doc
-||doorsstormsy.shop^$doc
 ||emailservicesnetau.com^$doc
 ||euromaillinnk.com^$doc
 ||glaters.com^$doc
-||homtail.shop^$doc
 ||mybach.xyz^$doc
 ||threeneptuneboot.com^$doc
 /unsub/unsub^$doc
 /unsub_sent.php|$doc,method=post
-/^https?:\/\/www\.[a-z]{9,20}\.com\/o-[a-z]{4}-[a-z]\d6-[a-f0-9]{32}\b/$doc,match-case,to=com
+! https://github.com/uBlockOrigin/uAssets/discussions/32019
+/^https?:\/\/www\.[a-z]{9,20}\.com\/o-[a-z]{4}-[a-z]\d{2}-[a-f0-9]{32}\b/$doc,match-case,to=com
+!#if env_safari
+/^https?:\/\/www\.[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?[a-z]?\.com\/o-[a-z][a-z][a-z][a-z]-[a-z][0-9][0-9]-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]$/$doc,match-case,to=com
+!#endif
 /^https?:\/\/[a-z]+\.[a-z]{4,}\/oop\/\d+_md(?:\/\d+){5}\b/$doc,match-case
 ##html > body.hold-transition.theme-primary.bg-img[style^="background-image"][style*="wallpaperaccess.com"][style*="background-repeat"][style*="background-size"]
 ##html > body > div.container > form#unsubscribe-form[onsubmit="submitUnsubscribeForm(event)"]
 ##html > body > div.content > dl > dd.dd1 > div.min_sider > form#form1[action="unsubscribe.php"]
 ##html > body.body > div.container > div.content > form > table.optoutForm
-
-! Pretending to be a government service
-||detranrapido.co^$all
-||pagamentocnh.com^$all
 
 ! https://malwaretips.com/blogs/remove-flake-creditcable-info/
 ! https://www.virustotal.com/gui/url/9c04f6b29c12f7fe981be638719be31d9bcbd5bf504423c12b49d7ce445c9f6d
@@ -5374,40 +5078,11 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://github.com/uBlockOrigin/uAssets/issues/26164
 ||klingxai.com^$all
 
-! https://www.reddit.com/r/Scams/comments/1h13jv4/madgicx_job_offer_my_gf_clicked_on_through_an_add/
-||madgicxde.com^$all
-
-! https://www.cloudflare.com/es-la/threat-intelligence/research/report/sacked-or-hacked-unmasking-employment-termination-scams/
-||gxsearch.club^$all
-
-! https://blog.sucuri.net/2024/11/credit-card-skimmer-malware-targeting-magento-checkout-pages.html
-||staticfonts.com^$all
-||static-fonts.com^$all
-
-! https://www.reddit.com/r/Scams/comments/1h2b6vz/semrushshopcom_scam/
-! https://www.virustotal.com/gui/url/cf71745d1add3f6d61cf306282b04d7c2271c69c5d32de23cb0eec54a9b5611b
-||semrushshop.com^$all
-
-! https://www.malwarebytes.com/blog/scams/2024/11/printer-problems-beware-the-bogus-help
-||megadrive.solutions^$all
-||geeksprosoftwareprints.org^$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/26264
 ||editproai.$all,to=editproai.org|editproai.pro
 
-! https://github.com/uBlockOrigin/uAssets/issues/26255
-! https://web.archive.org/web/20241130205822/https://lesivs.com/
-||lesivs.com^$doc
-
 ! https://blog.checkpoint.com/research/navigating-the-evolving-threat-landscape-ahead-of-black-friday/
 ||longchampblackfriday.com^$all
-
-! https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers
-||dopeblackfriday.shop^$all
-||llbeanblackfridays.shop^$all
-||makitablackfriday.shop^$all
-||ikea-euonline.com^$all
-||gardena-eu.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26280
 ||igetintopc.com^$all
@@ -5415,10 +5090,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.reddit.com/r/Scams/comments/1h4yn23/is_this_a_usps_scam/
 ! https://www.reddit.com/r/phishing/comments/1h5nqhn/is_this_a_scam/
 ||usps-packages-*.com^$doc
-
-! https://www.reddit.com/r/Scams/comments/1h7aw12/another_usps_scam_text_message_with_my_delivery/
-! https://www.virustotal.com/gui/url/dcf0a9e31564ffdac83f5fe888d41f46b9c9d2c6fd41ae9e516c6d0f0bb58a12
-||info-trackingcas.cc^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26353
 ! https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/
@@ -5440,13 +5111,25 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.reddit.com/r/antivirus/comments/1o4qdsy/they_thought_they_can_trick_medont_go_to_the/
 ! https://www.virustotal.com/gui/url/a9ce943e3108ab00e2d2792c78d4cd5729c61e9fdb60bf39ec7d35ab46b6a4f2
 ! https://www.virustotal.com/gui/url/378dcbb81671d233b4654788ae7ebdbf409e7d0897e19e94292ca588661a0009
+! https://www.reddit.com/r/antivirus/comments/1q1ic4y/copy_paste_cloudflare_are_they_ever_real/
+rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
+##html[data-scrapbook-source][data-scrapbook-create][data-scrapbook-title] > body.no-js > div.main-wrapper[role="main"] > div.main-content
 ||getfix.win^$all
-/jsrepo?rnd=$script,3p
+||getalia.org^$all
+||goveanrs.org^$all
+||govearali.org^$all
+/jsrepo?rnd=$script,xhr,3p
+*$xhr,3p,method=get,to=org|shop|win,ipaddress=178.16.53.137
 ||cptchdm.icu^$all
 ||ncloud.icu^$all
 ||saocloud.icu^$all
+||cptoptious.com^$all
 ||icu^$doc,frame,ipaddress=94.154.35.152
 ||icu/captcha.html$doc,frame
+/captcha.html$doc,frame,ipaddress=94.154.35.152
+/?ref=$doc,frame,ipaddress=94.154.35.152
+! https://github.com/uBlockOrigin/uAssets/issues/31543
+/captcha-loader.js?
 
 ! fake dating
 /^https:\/\/[0-9a-z]{7}\.([0-9a-z]{7})\.top\/[0-9a-z]{7}\?t=\1&cid=[0-9a-z]+/$doc,to=top,match-case
@@ -5467,13 +5150,19 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||gtrewe.co.in^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/26708
 ||fiheos.co.in^$all
-! https://github.com/uBlockOrigin/uAssets/issues/26817
-||butsmism.co.in^$all
-!/^https?:\/\/[a-z0-9]{6,20}\.[a-z]{6,20}\.co\.in\//$all,to=co.in
-! https://github.com/uBlockOrigin/uAssets/issues/26919
-||glousism.co.in^$all
-! https://www.reddit.com/r/antivirus/comments/1imiwam/should_i_be_worried/
-||tryrichleads.top^$all
+! https://www.reddit.com/r/antivirus/comments/1rbascl/i_made_a_typo_in_a_government_html_address_now_i/
+||sentinelbotcore.co.in^$all
+! https://www.reddit.com/r/antivirus/comments/1re2ox3/im_kinda_dumb_with_technology_in_general_should_i/
+||kexornero.co.in^$all
+!#if !ext_ubol
+/^https?:\/\/[a-z0-9]{10,}\.[a-z]{9,}\.co\.in\//$all,to=co.in
+!#endif
+! https://www.reddit.com/r/antivirus/comments/1rg9tbc/wife_computer_suddenly/
+||vironexta.com^$all
+! https://www.youtube.com/watch?v=lyIlrDQs1YQ
+||fusionchainedge.com^$all
+! https://www.reddit.com/r/antivirus/comments/1siu5bd/jesus_fuck_what_do_i_do/
+||jartibbinght.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
 ||maxsecurityultimate.com^$all
@@ -5484,18 +5173,9 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||anydebrid.com^$doc
 ||okdebrid.com^$doc
 
-! https://www.reddit.com/r/Scams/comments/1hx4mxz/semrush_task_scam_httpswwwsemrushmallcom/
-||semrushmall.com^$all
-
 ! https://www.reddit.com/r/antivirus/comments/1hzae66/what_is_the_best_thing_to_do_after_clicking_a/
 ||grass-io.$all,to=cc|vip|~getgrass.io
 ||inmotionhosting.com/~myapp/grass_air/$doc
-
-! https://github.com/uBlockOrigin/uAssets/issues/26814
-||pubgrlxvote.top^$all
-
-! https://github.com/uBlockOrigin/uAssets/issues/26853
-||teleqpnm.cn^$all
 
 ! https://www.malwarebytes.com/blog/news/2025/01/the-great-google-ads-heist-criminals-ransack-advertiser-accounts-via-fake-google-ads
 ! https://github.com/uBlockOrigin/uAssets/issues/26878
@@ -5564,11 +5244,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.virustotal.com/gui/url/dd2c16c95013aa1a20b35b50301b1116d582be01d346dc048a894b480fbbee59
 ||paytoll*.top/ezdrivema^$all
 
-! https://www.reddit.com/r/Scams/comments/1iuso58/need_help_identifying_a_text/
-||hhcollect.co^$all
-||pay-hh.com^$all
-||harriscollect.net^$all
-
 ! https://www.reddit.com/r/Scams/comments/1itgp4n/unpaid_toll_booth_scam/
 ! https://www.reddit.com/r/Scams/comments/1ivvd8u/httpsminnesotaezpasscom_and/
 ! https://www.reddit.com/r/Scams/comments/1ivruom/my_grandma_sent_a_copy_of_her_bank_check_to_a/
@@ -5587,9 +5262,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.reddit.com/r/phishing/comments/1irz2ck/bro_really/
 ||e-navy*.weebly.com^$doc
 
-! https://github.com/uBlockOrigin/uAssets/issues/27298
-||informationpolicy.cloud^$all
-
 ! https://www.reddit.com/r/uBlockOrigin/comments/1j1hdul/please_add_httpsonlyfansuk_to_the_filter_list/
 ||only-fans.uk^$all
 
@@ -5598,8 +5270,10 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 
 ! https://github.com/AdguardTeam/CoreLibs/issues/1966 Can be removed if it's fixed
 !#if ext_ubol
-/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}|\d{8})\.html$/$doc,match-case,to=art|autos|baby|best|boats|buzz|cards|cfd|click|cyou|eu|fit|fun|guru|hair|homes|ink|lat|lol|mom|my|pics|quest|sale|sbs|skin|today|top|wiki|work|world|xyz
-/^https:\/\/[a-z]{4,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}|\d{8})\.html$/$doc,match-case,to=biz|blog|cc|cloud|club|info|life|live|me|one|online|shop|site|space|store
+/^https:\/\/(?:[a-z]{3,5}|[ej][ac])\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9A-Za-z]{10}|\d{8}|[0-9a-f]{32})\.html$/$doc,match-case,to=art|autos|baby|best|boats|buzz|cards|cfd|click|cyou|eu|fit|fun|guru|hair|homes|ink|lat|lol|mom|my|pics|qpon|quest|rest|sale|sbs|skin|today|top|wiki|work|world|xyz
+/^https:\/\/(?:[a-z]{4,5}|[ej][ac])\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9A-Za-z]{10}|\d{8}|[0-9a-f]{32})\.html$/$doc,match-case,to=biz|blog|cc|cloud|club|info|life|live|me|one|online|shop|site|space|store
+! https://github.com/AdguardTeam/AdguardFilters/commit/e1f80e3244eff4c1688c30947655ebc6f72b47cc
+/^https:\/\/([a-vx-z][a-z]{2,}\.)?[0-9a-z-]{3,}\.(com|net|org)\/index\.php\?main_page=product_info(&stl=\d)?&(cPath|products_id)=/$doc
 !#endif
 
 ! https://www.reddit.com/r/Scams/comments/1iyqpsn/new_digital_fearscam_unlocked_zoom_phishing/
@@ -5618,11 +5292,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eadd1ee0d88517c2badf766
 ! https://urlscan.io/result/0195d81c-3058-7ff5-b149-2cebebf1b331/
 /amvn_pops/?keyword=$doc
-
-! https://www.youtube.com/watch?v=NR1hnYbrMwE
-! https://www.reddit.com/r/losslessscaling/comments/1hzo40l/losslessscalingcom/
-! https://www.virustotal.com/gui/url/1932ec9ade57ef85981e6d9c78cdea859e312c58b3577ba0730a23f7950ca202
-||lossless-scaling.download-fast.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/27800
 ! https://www.youtube.com/watch?v=SBTH9n6lz9o
@@ -5677,11 +5346,8 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||kveesh6.il-$doc
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
-/^https:\/\/[a-z]{7,8}\.[a-z]{2,8}\/[!.+,=?@\[][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=agency|art|asia|auction|bar|beauty|beer|best|biz|business|cam|cards|casa|click|cloud|coupons|digital|diy|fashion|food|forum|gay|guru|hair|info|life|live|living|link|ltd|my|ooo|property|pw|rocks|run|sbs|shop|skin|store|studio|tattoo|tech|today|top|uno|work,match-case
+/^https:\/\/[0-9a-z]{6,8}\.[a-z]{2,10}\/[!.+,=?@\[][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=agency|art|asia|auction|bar|beauty|beer|best|biz|bond|business|cam|cards|casa|click|cloud|coupons|courses|cv|digital|diy|fashion|food|forum|gay|guru|hair|info|life|live|living|link|ltd|my|ooo|property|pw|qpon|republican|rocks|run|sale|sbs|services|shop|skin|store|studio|support|surf|tattoo|tech|today|top|uno|watch|work,match-case
 /door/?ad_campaign_id=$doc
-
-! https://github.com/uBlockOrigin/uAssets/issues/28101
-||hansonherbo.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28123
 ||en-trezor.io^$all
@@ -5691,21 +5357,13 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||swap-ether.site^$all
 ||raydiumx.org^$all
 ||v4-biswap.com^$all
-||kyberswap-v2.xyz^$all
-||soildly.xyz^$all
-||soildly.pro^$all
 ||io-swap.net^$all
-||thorswap-v2.xyz^$all
-||thor-swap.xyz^$all
-||v2-mdex.xyz^$all
-||rndex.xyz^$all
 ||finance-superchain.net^$all
 ||helplive-ledger.com^$all
 ||kodiak-finance.org^$all
 ||exc-v3.com^$all
 ||zeddexexchange.live^$all
 ||rabbltx.xyz^$all
-||alpaca-flnance.com^$all
 ||theuni-swap.com^$all
 ||us-ledger.io^$all
 ||en-bitcoin.org^$all
@@ -5722,9 +5380,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 
 ! https://app.any.run/tasks/5972a8c5-5b87-4579-9cc5-8bc268abd6c0
 ://booking.*.com/sign-in?op_token=$doc
-
-! https://urlscan.io/result/0196c759-fc83-741d-9af3-70ffd2d7b443/
-||drdosurvey.info^$all
 
 ! https://x.com/Sh1n0g1/status/1923598004390592625
 ||windows-line.com^$doc
@@ -5763,15 +5418,8 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 weightlossdiet.top##+js(acs, open, executeCode)
 .com/redirect-zone/$doc,popup
 
-! https://github.com/DandelionSprout/adfilt/discussions/779#discussioncomment-13435345
-||figa.beauty^$all
-||lonely.beauty^$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/28928
 ||havelbeenpwnd.com^$all
-
-! https://urlscan.io/search/#filename%3A%22click2131287361236.php%22
-/click2131287361236.php?$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/29163
 ||windirstat.org^$all
@@ -5802,41 +5450,6 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ||talent-applications.com^$all
 ||talents-application.com^$all
 ||com^$doc,ipaddress=38.114.120.167
-
-! https://dti.domaintools.com/dual-function-malware-chrome-extensions/
-||whale-alerts.org^$all
-||wobblefizz.top^$all
-||zingleflap.top^$all
-||floopdoodle.top^$all
-||wibblywob.top^$all
-||snickerdoodle.top^$all
-||wobbleguff.top^$all
-||sprocketwhirl.top^$all
-||jumblefizz.top^$all
-||quirkleblip.top^$all
-||twizzleflap.top^$all
-||fizzlepopcorn.top^$all
-||glimmerbloop.top^$all
-||noodlequack.top^$all
-||jibberjot.top^$all
-||blurflewhack.top^$all
-||snogglewomp.top^$all
-||flibberwump.top^$all
-||quizzlepuff.top^$all
-||digigtalneo.top^$all
-||digigtalwow.top^$all
-||spaceball.top^$all
-||iochange.top^$all
-||iospace.top^$all
-||ioapp.sbs^$all
-||iohub.sbs^$all
-||ioonline.top^$all
-||e-xt.top^$all
-||infonet.sbs^$all
-||datazen.sbs^$all
-||datavibe.sbs^$all
-||infosync.top^$all
-||zorpleflux.top^$all
 
 ! https://urlscan.io/search/#hash%3A2c1d6c6bc603efe83d443d7b4c076e37c656f152097717f5cecfcbcd10634508
 ! https://github.com/uBlockOrigin/uAssets/commit/34f63be2c047998654a6ec7e9556afc92245e9da
@@ -5875,7 +5488,6 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ! https://www.virustotal.com/gui/url/fc99f6b3ef99669275b4b798eb2bc46cdc4f5f7e09b84e57ba1a2238db3b4795
 ! https://www.virustotal.com/gui/url/b7860c134e76d01fdffdd560436243825a99938f227c62a43f9bf8d1861da9e4
 ||webnotif.online^$all
-||virusscanner.live^$all
 ||live/click.php?key=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/29530
@@ -5884,20 +5496,15 @@ weightlossdiet.top##+js(acs, open, executeCode)
 
 ! https://github.com/uBlockOrigin/uAssets/commit/d8cc5589e63faddede0749b6f8c04a89e30ec22f#commitcomment-163874379
 ! zlib
-||zlib.is^$doc
 ||z-lib.ai^$doc
 ||z-lib.club^$doc
 ||z-lib.dev^$doc
 ||z-lib.ink^$doc
 ||z-lib.li^$doc
 ||z-lib.nl^$doc
-||zlib.to^$doc
 ||zlibrary.to^$doc
-||zlibrary.is^$doc
 ||z-library.cc^$doc
 ||z-lib.io^$doc
-||z-lib.ee^$doc
-||z-lib.yt^$doc
 ||z-lib.id^$doc
 ||z-lib.ws^$doc
 ||z-lib.lol^$doc
@@ -5908,7 +5515,6 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ||zlibrary.lol^$doc
 ||z-library.live^$doc
 ||z-lib.wiki^$doc
-||z-library.blog^$doc
 ||z-library.help^$doc
 ||z-library-proxy.com^$doc
 ! windows activator
@@ -5933,11 +5539,9 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ||kmspico.io^$doc
 ||kmspico.micaesoft.com^$doc
 ||micaesoft.com^$doc
-||kmspico.space^$doc
 ||kmspico10.com^$doc
 ||kmspicoativador.org^$doc
 ||kmspicodownloads.com^$doc
-||kmspicofficial.com^$doc
 ||kmspicofficial.pages.dev^$doc
 ||kmspicoofficial.com^$doc
 ||massgrav.zapto.org^$doc
@@ -5946,14 +5550,8 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ||official-kmspico.com^$doc
 ||official-kmspico.org^$doc
 ||officialkmspico.com^$doc
-||officialkmspico.download^$doc
-||officialkmspico.info^$doc
-||officialkmspico.net^$doc
 ||officials-kmspico.com^$doc
 ||oficial-kmspico.com^$doc
-
-! https://www.reddit.com/r/Scams/comments/1mulfmh/fake_lazada_romance_scam_httpslazadahnjqpmcom/
-||lazada.hnjqpm.com^$all
 
 ! https://x.com/masaomi346/status/1957964751956504855
 .com/assets/index_1.html?theme=$frame,1p
@@ -5984,24 +5582,6 @@ $doc,ipaddress=185.216.143.121
 ||ledgerr.us^$all
 ||suite.tem3.io^$all
 
-! https://github.com/uBlockOrigin/uAssets/pull/18388
-! https://github.com/uBlockOrigin/uAssets/pull/23643
-! https://www.forbes.com/sites/jacksonweimer/2021/04/10/that-twitter-family-tree-trend-is-secretly-following-random-accounts--without-your-consent
-||roundyearfun.org^$all
-||roundyearfun.com^$all
-||twitter-circle.com^$all
-||funxgames.me^$all
-||infinitytweet.me^$all
-||infinitytweet.com^$all
-||infinityweet.me^$all
-||infinityweet.com^$all
-||kawaiilabs.org^$all
-||degenlabs.org^$all
-||anyplacehere.online^$all
-||infintytweet.me^$all
-||infintytweet.com^$all
-||anyplacehere.art^$all
-
 ! https://www.reddit.com/r/antivirus/comments/1n22mas/opened_a_website_and_got_this/
 ||annonumapp.com^$all
 
@@ -6021,11 +5601,8 @@ $doc,ipaddress=185.216.143.121
 ! https://urlscan.io/result/019950cd-edee-7578-9a4a-4647a972566f/
 /^https:\/\/pub-[0-9a-f]{32}\.r2\.dev\/(?=[-%0-9a-z]*[A-Z])[-%0-9A-Za-z]+-\d+\.html$/$doc,domain=r2.dev,match-case
 
-! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
 ! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_out_arent_they_americans_are_being/
-! https://www.virustotal.com/gui/url/1fe26e239d62ea4fc24fe85b39f589060df781fa07aa5d085c26bcf42a24f3f5
 ! https://www.virustotal.com/gui/url/53044a78745fc650f95c619a5557e240bb4386a6ec8301fcfebb2d69fa7d800b
-||florida.revenue-*.net^$all
 ||phila.revenue*.cc^$all
 
 ! https://www.youtube.com/watch?v=0fpihOP0qJ8
@@ -6053,7 +5630,6 @@ $doc,ipaddress=185.216.143.121
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30162
 -ledger.live^$doc
-||guarda.dev^$all
 ||guardan.io^$all
 ||en-ledger-install.com^$all
 
@@ -6078,6 +5654,9 @@ $doc,ipaddress=185.216.143.121
 ! https://github.com/uBlockOrigin/uAssets/issues/30222
 ||network-jpn.com^$all
 ||statswpmy.com^$all
+||2e-bureau.com^$all
+||trackingmyadsas.com^
+##.header-fix-tester-container
 
 ! https://www.riceluxe.com/, https://www.seraphyning.com/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
@@ -6090,19 +5669,12 @@ $doc,ipaddress=185.216.143.121
 ||htex-panel.at^$all
 ||simpleswap.ac^$all
 ||simpleswap.to^$all
-||simpleswap.at^$all
 ||simpleswap.ltd^$all
 ||simpleswap.online^$all
 ||pddeploy.com^$all
 
 ! https://www.reddit.com/r/antivirus/comments/1o0qpvg/ios_mcafee_and_other_random_scans_while_scrolling/
 ||killmalware.click^$all
-
-! https://x.com/masaomi346/status/1976194339962515575
-.com/SecurityPlugin.zip
-
-! https://www.reddit.com/r/Scams/comments/1o2493i/warning_i_believe_fake_site_impersonating/ - birkenstock.com
-||morganryan.shop^$all
 
 ! https://www.reddit.com/r/antivirus/comments/1o29d2k/computer_virus/
 ||tring-tring.com^$all
@@ -6127,32 +5699,28 @@ $doc,ipaddress=185.216.143.121
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215430
 ||stylexlab.ru^$doc
 
-! https://github.com/AdguardTeam/AdguardFilters/issues/215496
-||marktplaats.ch^$doc
-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/216011
 ||dogado.net/stadlholz/$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30533
 pages.dev##html[lang="ja"] > body > .main-container > #landing.auth-container
-/^https:\/\/[a-z0-9]{4,15}\.pages\.dev\/\d\/login\b/$doc,match-case,to=pages.dev
+pages.dev##html[lang="ja"] > body.flex.items-center.min-h-screen > div.w-full.max-w-md.mx-auto > form#login-form
+pages.dev##html:not([class]) > body.gradient-bg.min-h-screen.flex.items-center.justify-center > div.glass-card.max-w-md.w-full.text-center > form#loginForm.flex.flex-col
 /^https:\/\/blockchecker[0-9]\.pages\.dev\//$doc,to=pages.dev
-||blockcheck.pages.dev^$all
-||checkx.pages.dev^$all
+/^https:\/\/xblock[0-9]+\.pages\.dev\//$doc,to=pages.dev
 ||xcheckx.pages.dev^$all
-||blockchecker-8ka.pages.dev^$all
-||blck.pages.dev^$all
-||blockchecker5.pages.dev^$all
-||blockchecker6.pages.dev^$all
 ||gocheck.pages.dev^$all
-||xblocktest.pages.dev^$all
+||blocchecker*.pages.dev^$all
+||lookblock.pages.dev^$all
+||xblocklist*.pages.dev^$all
+||xsuki*.pages.dev^$all
+||bxchx.pages.dev^$all
+||xblockchecker*.pages.dev^$all
 
 ! https://blog.lastpass.com/posts/possible-cryptochameleon-social-engineering-campaign-targeting-lastpass-customers-and-more
 *$doc,ipaddress=82.27.2.198
 *$doc,ipaddress=31.59.58.163
 ||lastpassrecovery.com^$all
-||mypasskey.info^$all
-||passkeysetup.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30584
 ||kgms.top^$all
@@ -6176,6 +5744,11 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||voting-express-tl.$doc
 ||sportifymore.ct.ws^$all
 ||voting-express-tl.ct.ws^$all
+! https://www.reddit.com/r/cybersecurity_help/comments/1sa1udm/possible_hacker_please_help/
+! https://www.virustotal.com/gui/url/3537483454104b6ca3c17317a42640606ddd0ee69965fbdc04c9bbcd0e2ee39f
+||spotifyprimeszones-sl.ct.ws^$all
+||spotifyprimeszones-$doc
+||spotify*.ct.ws^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30713
 ! https://www.reddit.com/r/SteamScams/comments/1k911so/esl_pro_league_vote_scam/
@@ -6206,9 +5779,9 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||survey.dawn.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/217414
-/\.[a-z]{3}-adguard\.pro\//$all,to=pro
+/^https://d[0-9a-z]{19}\.[a-z]{3,4}-[a-z]{7,8}(?:\.[a-z]{2})?\.[a-z]{2,3}\/xm\/xm\d\/\?/$doc,to=co.in|pro|sbs
 !#if env_safari
-/\.[a-z][a-z][a-z]-adguard\.pro\//$all
+/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/$doc
 !#endif
 ||expleboted.com^$all
 ||hoplariumped.com^$all
@@ -6218,5 +5791,584 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||prizecloud.sa.com^$all
 ||myshielstore.xyz^$all
 
-! https://bsky.7743832.cfd/208170178992 phishing
-||7743832.cfd^$all
+! https://www.reddit.com/r/antivirus/comments/1ouridv/how_do_i_get_rid_of_these_notifications/
+||credzium.co.in^$all
+
+! https://imessagegreetins.de/gogtuin/accounts.google/ phishing
+||imessagegreetins.de^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30817
+||outertune.org^$doc,reason="Not the official site"
+
+! https://github.com/uBlockOrigin/uAssets/issues/30863
+||popcornpump.xyz^$all
+
+! https://www.reddit.com/r/firefox/comments/1p045q8/should_i_be_worried/
+||smartdefend.net^$all
+
+! https://anget-direct.info/Ej0yZ
+||anget-direct.info^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30947
+||ovr-toolkit.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31046
+||acrossprotocols.com^$all
+||dokopka.icu^$all
+||aftop10.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31045
+||simpleswap.fi^$doc
+||simpleswap-io.at^$doc
+||simple-swap.to^$doc
+||simpleswap.cyou^$doc
+||simplesvvap.lol^$doc
+||dualcoin.cfd^$doc
+||changelly.casa^$doc
+||changelly.cfd^$doc
+||changelly.cyou^$doc
+||xgram.my^$doc
+||swapgate.my^$doc
+||xgram.asia^$doc
+||simpleswap.casa^$doc
+||easybit.club^$doc
+||easybit.site^$doc
+||easybits.cc^$doc
+||ff-exchange.vip^$doc
+||ff-exchange.cloud^$doc
+||us-aliexpress.com^$doc
+||charigelly.com^$doc
+||ff-exchange.help^$doc
+||cnangelly.online^$doc
+||changely.at^$doc
+||changeenow.at^$doc
+||simpleswap.at^$doc
+||charigelly.org^$doc
+||ff-exchange.space^$doc
+||ff-exchange.me^$doc
+||paynote.my^$doc
+||fixedfloat.at^$doc
+||pancake-exchange.org^$doc
+||cosmochanger.club^$doc
+||cosmochanger.com^$doc
+||simplesvvvap.cyou^$doc
+||changeiiy.icu^$doc
+||nowchange.cyou^$doc
+||shapebtc.my^$doc
+||kryptoswap.my^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/31028
+||fixedfloat.ac^$doc
+||fixedfloat.ca^$doc
+||v2-camelot-ex.com^$doc
+||at0micwallets.com^$doc
+||v2-dexscreener.cc^$doc
+||trezor.la^$doc
+||kodiakfinance-kodiak-finance.org^$doc
+||app.uniswaq.org^$doc
+||kodiakfinance.net^$doc
+||changenow-io.us^$doc
+||kodiak-finance-kodiakfinance.com^$doc
+||kodiakfinance-kodiak-finance.com^$doc
+||exodus-wallets.io^$doc
+||sushiswap.to^$doc
+||legder.at^$doc
+||electrum-data.cc^$doc
+||chicavora.com^$doc
+||ff-info-online.com^$doc
+||ff-exchahge.cyou^$doc
+||jfureai.com^$doc
+||pi-tarina.com^$doc
+||pita-rina.com^$doc
+||pitarina.com^$doc
+||pitarina.net^$doc
+||brs.hg-story.blue^$doc
+||heisei-g.pink^$doc
+||lovecatcher2025.com^$doc
+||wakabairo.net^$doc
+||wakayoyo.tokyo^$doc
+||fuku-fuku.net^$doc
+||fuku-fukuu.com^$doc
+||mtes.jp^$doc
+||chiyouranai.base.shop^$doc
+||enisaflower.com^$doc
+||enisaflowersaku.com^$doc
+||fukunotsuru.com^$doc
+||sb-z-uzou-fukunoturu.discover-news.tokyo^$doc
+||cra-ttine.site^$doc
+||cra-ttine.tech^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/31063
+||webexodus.created.app^$doc
+||guidance.ghost.io^$doc
+||trezorsuite.wasmer.app^$doc
+||curve-flnance.com^$doc
+||curve.sbs^$doc
+||suite-trezor.click^$doc
+||washingtonpost-news.com^$doc
+||lido-elhereum.net^$doc
+||v3-yearn.org^$doc
+||v2-solavre.com^$doc
+||onchain-debank.com^$doc
+||app-defituna.github.io^$doc
+||yupoo-dhgate.ru^$doc
+||yupoo-husky.ru^$doc
+||perfume-yupoo.ru^$doc
+||yupooz.com^$doc
+||jersey-yupoo.com^$doc
+||soccer-jersey-yupoo.com^$doc
+||yupoo.site^$doc
+||app.zeiron.run^$doc
+||www.yupooz.com^$doc
+||www.jersey-yupoo.com^$doc
+||exodustrading-ai.com^$doc
+||yupoonetherlands.ru^$doc
+||yupoofrance.ru^$doc
+||yupoosunglasses.ru^$doc
+||bestyupoo.com^$doc
+||jerseyyupoo.com^$doc
+||yupooclothes.com^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/31071
+||yupoo.biz^$doc
+||ff-excharge.cyou^$doc
+||io-kly.com^$doc
+||legderhealth.com^$doc
+||ff-excharge.icu^$doc
+||kraken-exchange.com^$doc
+||phnto.com^$doc
+||yupooshoes.org^$doc
+||yupooclothing.com^$doc
+||insurebitbox.com^$doc
+||trezordevices.io^$doc
+||trezordevicesupport.com^$doc
+||helpwithledgerdevice.com^$doc
+||scanledgerapi.com^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/31058
+||grabtrust.icu^
+
+! https://github.com/uBlockOrigin/uAssets/issues/31086
+||uniswap.org.in^$all
+||kyberswap-kyber-swap.com^$all
+||nodegoai.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31099
+||app-trust.co.com^$all
+||trastwallet.co.com^$all
+||trustwallett.co.com^$all
+||en-trust.co.com^$all
+||trustwallet-app.io^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31121
+||go-trust.co.com^$all
+||simpleswapp.com^$all
+||rabby.fi-v2.to^$all
+||fusebox-elavon.org^$all
+||elevon-payment.com^$all
+||suitee-trezorrsuite.com^$all
+||trezorsafety.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31134
+||matexvotes.ct.ws^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31135
+||bitboxinsurance.com^$all
+||ff-io.cc^$all
+||fixfloat.vip^$all
+||v3simpleswap.com^$all
+||exoduwallet.io^$all
+||scanledgerwallet.com^$all
+||trezorwalletsupport.com^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31153
+||face-it.co.com^$all
+||buff163.co.com^$all
+||skinsmonkye.com^$all
+||skinsmnky.com^$all
+||skinsmonkey.co.com^$all
+||slash-on.co.com^$all
+||app-slash.co.com^$all
+||slash-ap.co.com^$all
+||www-slash.co.com^$all
+||www-mechanicsbank.co.com^$all
+||spendesk.co.com^$all
+||www-mechonics.top^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31163
+||coinomi.co.com^$all
+||trust-download.co.com^$all
+||app-phantom.co.com^$all
+||app-atomic.co.com^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31177
+||ray-dium.cyou^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31218
+||trezosuiteapp.vercel.app^$all
+||tfjg-rjgu-egji-zjgi-orjg-rngj.netlify.app^$all
+||ldgerlive.us^$all
+||trezorsuite.at^$all
+||get-treezr-suit-en.framer.media^$all
+||app-ledger-desktop.wasmer.app^$all
+||ledgerapp.created.app^$all
+||ledgersso.created.app^$all
+||ledger-wallet.gitlab.io^$all
+||sute-trezr.created.app^$all
+||tronssan.github.io^$all
+||aomicwallet.github.io^$all
+||tfjg-rjgu-eeti-zjti-ordg-rfgj.netlify.app^$all
+||c066b573.smrta.pages.dev^$all
+||webapp.ghost.io^$all
+||webassetsapp.ghost.io^$all
+||engsuites.ghost.io^$all
+||createwebsite.ghost.io^$all
+||guide-ledegr.framer.media^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31223
+||sushi-swap.org^$all
+||myprepaidcentre.net^$all
+||aterasig.com^$all
+||logatera.net^$all
+||logatera.work^$all
+||useraccount-connect-chainswap.cc^$all
+||amcombank.co.com^$all
+||galixwallet.co.com^$all
+||qroxlwallet.co.com^$all
+||ateradata.com^$all
+||logtoatera.com^$all
+||signalatera.com^$all
+||aterasigin.com^$all
+||aterapanel.com^$all
+||ateratera.com^$all
+||lognatera.com^$all
+||ateraslog.com^$all
+||welatera.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31243
+||paytrace-app.co.com^$all
+||scotanomect.cc^$all
+||scotlacomp.cc^$all
+||sparrowwallef.com^$all
+||u-tronscan.com^$all
+||amehuns.cc^$all
+||stinglebom.cc^$all
+||hyper-liquid.to^$all
+||orca-finance.org^$all
+||changenow-swap.org^$all
+||changenow-exchange.org^$all
+||simplswap.org^$all
+||official-ledgrlive.com^$all
+||jup-dex.org^$all
+||shop-bitboxswiss.de^$all
+||bifboxswiss.de^$all
+||srvclouds.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31280
+||gitcompiler.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31326
+||asliceza.org^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31351
+||designrigoroso.com^$all,reason=malicious
+
+! https://github.com/uBlockOrigin/uAssets/pull/18388
+! https://github.com/uBlockOrigin/uAssets/pull/23643
+! https://www.forbes.com/sites/jacksonweimer/2021/04/10/that-twitter-family-tree-trend-is-secretly-following-random-accounts--without-your-consent
+||roundyearfun.org^$all
+||roundyearfun.com^$all
+||twitter-circle.com^$all
+||funxgames.me^$all
+||infinitytweet.me^$all
+||infinitytweet.com^$all
+||infinityweet.me^$all
+||infinityweet.com^$all
+||kawaiilabs.org^$all
+||degenlabs.org^$all
+||anyplacehere.online^$all
+||infintytweet.me^$all
+||infintytweet.com^$all
+||anyplacehere.art^$all
+||infinitetweet.me^$all
+||infinitetweet.com^$all
+||redirecttoplace.online^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31381
+||crimsonmods.cc^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31383
+||playtorrio.com^$all
+
+! https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/
+||low-house.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31424
+||sites.google.com/view/newext$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/31430
+||cloudfenceai.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31473
+||iploits.com^$all
+
+! https://wizsafe.iij.ad.jp/2026/01/2075/
+||7zip.com^$all
+||7zip.cloud^$all
+! https://github.com/AdguardTeam/AdguardFilters/issues/225045
+||7-zip.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31596
+||wploits.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31697
+! https://info.eisys.co.jp/cien/de28df8064d7974d
+||paid-task.com^$all
+||invoice-guide.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31731
+! https://www.virustotal.com/gui/url/adb9235105a5f16ed33071d4afdb684b8fe21f69a6b623bca09b4210606b3da0
+||subscriptionprocess.im^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31733
+||acc-verification.world^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/224080
+! https://www.virustotal.com/gui/url/bfd319106c625dd4f1438c9750927e2fc0b26037f6cf748f73796f1f16bc7004
+||rblx-copier.vercel.app^$all
+||youtube.com/watch?v=ZsAUT2PmbZk$all
+||youtube.com/@rblxtoolz$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31828
+||pc-huorong.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31848
+||kervjrfjd.pro^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31867
+||vexwin.gl^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31877
+||gamesirs.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31922
+||payout-chatgpt.com^$all
+
+! https://youtube.com/watch?v=jnNwERQCQ3k
+||tesseract-ocr.com^$all
+||opsecdefcloud.com^$all
+||checkpointviewzen.com^$all
+
+! https://github.com/uBlockOrigin/uBlock-discussions/discussions/972
+ublockorigin.com##.title::before:style(content: 'This is not the official uBlock Origin site.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+ublockdns.com##main>section>div:first-child::before:style(content: 'Not related to uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+ublockorigin.app###main::before:style(content: 'This is not the official uBlock Origin site.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/32080
+||ryosweb.com^$all
+
+! https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets
+||cleanmymacos.org^$all
+
+! https://x.com/masaomi346/status/2030929145740558697
+||cdn-server.beer/api/css.js
+
+! https://pushsecurity.com/blog/installfix/
+||claude-code-$doc,to=edgeone.app|pages.dev|squarespace.com
+! https://www.remove.bg/
+||remover-bg.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32160
+||romsns.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/226913
+||aiclaude.jp^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32153
+##body > div[data-captcha-enable="true"] > div.cleanslate[id^="google-captcha-"] > div.captcha-box
+||rpcs4.com^$all
+||rpcs5.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32197
+||cyrexmods.cc^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32206
+||audiveris.com^$doc
+
+! phishing emails - https://storage.googleapis.com/hmdbox/hmd_v2.html
+||storage.googleapis.com/hmdbox/$doc
+||hmdv2.gogomailbali.eu.org^$doc
+||hybridglobalnet.com^$doc
+/^https?:\/\/[a-z]+\d\.gogomailbali(\.it)?\.eu\.org\/#\?act=/$doc,match-case,to=eu.org
+/^https:\/\/storage\.googleapis\.com\/[a-z]{5,}\/[a-z]+_v\d\.html#\?act=/$doc,match-case,to=storage.googleapis.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/32238
+||vtg.lol^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/227007
+! https://www.virustotal.com/gui/url/e668590b514e62f8af33200c3ef36e33bd7dcf9b4360bf5a7b99768bece566fd
+! https://www.virustotal.com/gui/file/c7bd726cbf743c593195ea0945907e9ee15d5c9ad7b7abbf69490fa34e7016dc
+||tranyasy.com.cn^$all
+
+! https://youtube.com/watch?v=I17MsVXACto
+! https://www.virustotal.com/gui/file/c734d74e40d436cadcc972e542d151d1dcbb44fc3f429ad2ada0ad8a8da4aa64
+! https://www.virustotal.com/gui/file/f5181886084854b0ea6eadcc3fc7194bb7245aa30a424f9ef5e5e74760417037
+||anysoft.click^$all
+
+! https://www.reddit.com/r/firefox/comments/1rumsyj/how_do_i_get_rid_of_these_popups/
+||zeof-defender.pro^$all
+
+! https://www.reddit.com/r/antivirus/comments/1rr7jx4/clicked_on_an_ad_download_button_that_forwarded/
+||laptopprivacyado.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/227466
+||dyiket.com^$doc
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1s2x6i3/ubo_on_firefox_vs_chrome/
+||ourdateideas.com/wp-logo.svg
+
+! https://github.com/uBlockOrigin/uAssets/issues/32334
+||plus.rustfacepunch.com^$all
+
+! https://www.virustotal.com/gui/url/8764b4533420b416e4718b0d5190cb7219b88da55814d0f6f746b20de63e0028
+||studio-blender.com^$all
+
+! https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka
+##div.card > div#cbRow.checkbox-row[onclick="startVerify()"]
+||update-check.com^$all
+
+! https://www.reddit.com/r/phishing/comments/1s5lp3i/warning_new_fake_website_offering_fake_keepassxc/
+||keepass-xc.com^$all
+
+! https://www.reddit.com/r/Scams/comments/1s74mr8/canada_canadamilksettlementcom_scam_phishing_site/
+! https://www.virustotal.com/gui/url/6eec894827df73a622a055d26ca80dcb0d5e6510531941759ff30bbb5b5ca756
+##body > div.captcha-container > div.captcha-card
+||canadamilksettlement.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228103
+||bp-sogou.com.cn^$all
+||win-sogou.com^$all
+||x-sogou.com^$all
+||qishmusic.com.cn^$all
+||apps-sougoupinyin.com^$all
+||ai-sogou.com.cn^$all
+||sogoushurf.com^$all
+-sogou.com.cn^$doc,to=com.cn
+-sogou.com^$doc,to=com
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228390
+-todesk.com.cn^$doc,to=com.cn
+-wegame.com^$doc,to=com
+-sogou.cn^$doc,to=cn
+||chrome-hl.hl.cn^$all
+||a-todesk.com.cn^$all
+||todeskk.com^$all
+||www-qishiu.com.cn^$all
+||qishui-zn.hl.cn^$all
+||pc-todesk.com.cn^$all
+||go-todesk.hl.cn^$all
+||todesk-zh.cn^$all
+||todesk-zh.hl.cn^$all
+||cn-idm.com^$all
+||bandizip.net^$all
+||bandizip.pro^$all
+||bandisoft.org^$all
+||qishuide.com.cn^$all
+||ww-sogou.cn^$all
+||dl-sogou.com^$all
+||shurufa-sogou.org.cn^$all
+||tech-sogou.com^$all
+||sogou2.com.cn^$all
+||f-sogou.com.cn^$all
+||q-sogou.com.cn^$all
+||q-sogou.com.cn^$all
+||sogou-sogou.cn^$all
+||sougoupy.com.cn^$all
+||qeeyou.cn^$all
+||googgle-chrrome.hl.cn^$all
+||app-wg.com^$all
+||team-wegame.com^$all
+||hub-wegame.com^$all
+||wegameesport.com^$all
+||app-wegame.com^$all
+||official-wegame.com^$all
+||go-wegame.com^$all
+||home-wegame.com^$all
+||top-wegame.com^$all
+||www-cn-google.org.cn^$all
+||bangyoul.cn^$all
+||laiwujiaoyu.com^$all
+||leigodnn.com^$all
+||nnraytheon.com^$all
+||leigod.net^$all
+||leigodco.com^$all
+||google-ch-chrome.com.cn^$all
+||of-tencent.com^$all
+||meeting-tencent.org^$all
+||zh-tenxun.com^$all
+||apps-tencent.com^$all
+||qishuiie.com^$all
+||qishuiit.com^$all
+||qishui-yinle.hl.cn^$all
+||ggooglle-chrrome.com.cn^$all
+||cnzh-google-apps.hl.cn^$all
+||google-zhcn-chrome.com.cn^$all
+||apps-chrome-zh.hl.cn^$all
+||zh-googlle-chrome.hl.cn^$all
+||todeskapp.com^$all
+||todesk.ac.cn^$all
+||todesk.im^$all
+||youku.earth^$all
+||youkuhonor.com^$all
+||youku.tv^$all
+||www-office-wps.com.cn^$all
+||offiio-wps.com.cn^$all
+||wps.ac.cn^$all
+||cn-wps-zh.com.cn^$all
+||tuba.toolg.cn^$all
+||m-i4.cn^$all
+||aisi-i4.com^$all
+||aisi.nx.cn^$all
+||zsi4.com^$all
+||aisipc.net^$all
+||as-i4.com.cn^$all
+||office-wps-hl.hl.cn^$all
+||todeskappa.com.cn^$all
+||apd-todesk.com.cn^$all
+||360cncn.com^$all
+||qishui.team^$all
+||wps-cnzh.com^$all
+||dlworker.top^$all
+||360edge.cn^$all
+||app-google-zh.hl.cn^$all
+||zhcn-googele.hl.cn^$all
+||qishuui.com.cn^$all
+||ms.kuugo.cc^$all
+||baiduwangpan.cc^$all
+||chrome-gooogle-zh.hl.cn^$all
+||apps-google-hl.hl.cn^$all
+||google-chrrome-zh.hl.cn^$all
+
+! https://urlscan.io/result/019d565b-bc34-701b-9e99-226c20300095/
+||testio.ecartdev.com^
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228470
+||applot-jp.com^$all
+
+! https://censys.com/blog/technique-based-approach-hunting-web-delivered-malware/
+||orcanmedikal.com.tr^$doc
+
+! https://dontusetelega.lol/analysis
+! https://habr.com/en/articles/1014144/
+! https://kod.ru/telega-fork-telegram
+||telega.info^$all
+||telega.me^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228943
+||life-certain.jp^$all
+||kyrelune.net^$all
+||roll-tooth.com^$all
+||vultenok.net^$all
+||zalenith.com^$all
+||prasquinor.jp^$all
+
+! https://www.reddit.com/r/antivirus/comments/1siyee3/what_the_hell_is_this_i_dont_even_go_on_adult/
+||cleanguard.tech^$all
+
+! https://www.youtube.com/watch?v=fwJKKrg1OJM
+||studio-obs.net^$all
+||loseyourip.com^$all
